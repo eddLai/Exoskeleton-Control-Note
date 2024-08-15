@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"f79c1ab23ff52b42","type":"text","text":"## Critic Neural Network\ngoal: for Optimization, to get $A_t$ in order to judge the performence of current policy\nloss function: $L_{Critic} = \\frac{1}{2}(r + \\gamma V(s') - V(s))^2$\n \nAdvanced Critic-actor\n$$A_{t} = r_t + V(s_{t+1})] - V(s_t)\n$$\nWe'll try other strategies below further.\n- Proximal Policy Optimization (PPO)\n- Deep Deterministic Policy Gradient (DDPG)\n- Twin Delayed DDPG (TD3)","x":240,"y":-120,"width":440,"height":120,"color":"2"},
+		{"id":"327992f0a917488e","type":"text","text":"## Env.\n- EMG\n- Degree of Joint \\* 4\n- (Force of Joint \\*4)\n- (Hip IMU \\* 3)\n","x":-10,"y":120,"width":250,"height":200,"color":"5"},
+		{"id":"f613abd7f3461d70","type":"text","text":"## Actor Neural Network\n**goal** : degree $\\theta$ to trajectory prediction\nloss function:\n$L_{Actor} = -\\log(\\pi(a|s)) \\cdot A(s, a)$\nStruc.：DMPs trajectory prediction ref. [[DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf]]\n\n\nsystem dynamic?\n$$M(q)\\ddot{q} + C(q,\\dot{q})\\dot{q} + G(q) = \\tau_{actuator} + \\tau_{human} + \\tau_{dist}\n$$\nDMPs?\nref. [[Reinforcement Learning Based Adaptive Walking.pdf]]\n","x":520,"y":120,"width":480,"height":160,"color":"4"}
+	],
+	"edges":[
+		{"id":"cdc076f316d081fc","fromNode":"327992f0a917488e","fromSide":"top","toNode":"f613abd7f3461d70","toSide":"left","label":"State, degrees"},
+		{"id":"0ee8f4fea8813ef6","fromNode":"f613abd7f3461d70","fromSide":"bottom","toNode":"327992f0a917488e","toSide":"bottom","label":"Action\n"},
+		{"id":"822e736a7b39c47f","fromNode":"f79c1ab23ff52b42","fromSide":"right","toNode":"f613abd7f3461d70","toSide":"top","label":"Advantage"},
+		{"id":"a27492db84d6d1cc","fromNode":"327992f0a917488e","fromSide":"top","toNode":"f79c1ab23ff52b42","toSide":"left","label":"State, EMG"}
+	]
+}

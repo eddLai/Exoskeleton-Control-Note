@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"221afb2e524a343f","type":"group","backgroundStyle":"ratio","x":-493,"y":-277,"width":987,"height":555,"label":"Slide 2","background":"報告背景.png"},
+		{"id":"c3a87247413536da","type":"text","text":"當務之急：建立資料集\n1. 作動偵測\n(簡化任務開始)\n確認分類動作是可行的\n2. 蒐集常用動作類型","x":-386,"y":-117,"width":255,"height":243,"color":"1"},
+		{"id":"f495496202c4ab03","type":"file","file":"Exoskeleton Control/作動偵測實驗.canvas","x":-31,"y":-106,"width":420,"height":221,"color":"3"}
+	],
+	"edges":[
+		{"id":"2e982d333d7b29ca","fromNode":"c3a87247413536da","fromSide":"right","toNode":"f495496202c4ab03","toSide":"left"}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"3d30e3a8ca3955a9","type":"group","backgroundStyle":"ratio","x":-1000,"y":-320,"width":1724,"height":970,"label":"Slide 1","background":"報告背景.png"},
+		{"id":"0fe60203c6283a16","type":"file","file":"Exoskeleton Control/Plan/Plan：常用動作分析.md","x":-580,"y":-207,"width":440,"height":161},
+		{"id":"5c8c6e583184af3d","type":"file","file":"Exoskeleton Control/Plan/Plan：動作元素.md","x":-550,"y":22,"width":380,"height":163},
+		{"id":"0f1496dd15a46f06","type":"file","file":"Exoskeleton Control/Plan/Plan：動作記錄清單.md","x":-560,"y":252,"width":400,"height":231},
+		{"id":"eb71b153e4212f00","type":"file","file":"Exoskeleton Control/Plan/Plan：名單.md","x":-960,"y":22,"width":360,"height":400},
+		{"id":"bc7388cdefa88dd8","type":"text","text":"Program Start","x":-35,"y":-202,"width":175,"height":60,"color":"5"},
+		{"id":"86027f693d9099f0","type":"text","text":"1. 進行動作分類\n2. 拆解成基本動作\n(==待數據結果討論==)\n3. 啟動條件：\n\t- 加速度變化超過?\n\t- Hip傾角?\n4. 輔助多久(協調狀態消失)\n\t- \n","x":140,"y":317,"width":290,"height":268,"color":"5"},
+		{"id":"58e3efb7dfc3925d","type":"text","text":"初始化(定義原點)\n：站立狀態","x":250,"y":-207,"width":190,"height":69,"color":"5"},
+		{"id":"d399306c837c67f9","type":"text","text":"待辦：整合差異\n- Detection\n\t- $\\alpha_{Hip}$：需要current反推(同時偵測)\n\t- $\\tau_{knee}$：上限5kg\n- Assistance\n\t- $\\alpha_{knee}, \\tau_{knee}$：精度只達uint_16","x":260,"y":-14,"width":360,"height":220,"color":"3"},
+		{"id":"0b7c07a20f775002","type":"text","text":"偵測\n- 馬達角度\n- 馬達加速度變化\n(Hip要偵測電流)\n- 三軸變化\n- ~~身體重心~~(需要全身Model)\n","x":-40,"y":-45,"width":230,"height":281,"color":"5"}
+	],
+	"edges":[
+		{"id":"44fded4fcc535a46","fromNode":"58e3efb7dfc3925d","fromSide":"bottom","toNode":"0b7c07a20f775002","toSide":"top"},
+		{"id":"dab64b0053e8fe21","fromNode":"d399306c837c67f9","fromSide":"left","toNode":"0b7c07a20f775002","toSide":"right"},
+		{"id":"f109f2bf888df0dc","fromNode":"0b7c07a20f775002","fromSide":"bottom","toNode":"86027f693d9099f0","toSide":"top"},
+		{"id":"fcea81647f10224b","fromNode":"eb71b153e4212f00","fromSide":"right","toNode":"0f1496dd15a46f06","toSide":"left"},
+		{"id":"708a1d4c394486e3","fromNode":"0f1496dd15a46f06","fromSide":"right","toNode":"86027f693d9099f0","toSide":"left"},
+		{"id":"5a8a1d4ed5eb3f94","fromNode":"bc7388cdefa88dd8","fromSide":"right","toNode":"58e3efb7dfc3925d","toSide":"left"},
+		{"id":"ae91894acc024ff3","fromNode":"0fe60203c6283a16","fromSide":"bottom","toNode":"5c8c6e583184af3d","toSide":"top"},
+		{"id":"ce67a74b7803c5df","fromNode":"5c8c6e583184af3d","fromSide":"bottom","toNode":"0f1496dd15a46f06","toSide":"top"}
+	]
+}

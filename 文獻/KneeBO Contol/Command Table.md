@@ -1,0 +1,45 @@
+### Command Table
+- 0x4A: Start
+- 0x44: End
+- 0x01; Device number
+- 0x21 Mode
+	- 0, 0 Stop selected mode == Disable the device
+	- 1, 0 Start selected mode == Enable the device
+	- 3, 0 Display Prepared, disconnect
+- 0x2D Set moving parameter
+	- 0 (fix point), dir value
+		- 1:flex
+		- 2:ext
+		- 3:both
+	- 1 (upper_boundary), value
+	- 2 (lower_boundary), value
+	- 3 (upper_range), value
+	- 4 (lower_range), value
+	- 5 (speed_level), value(1~10)
+	- 6 (force_level), value(1~10)
+	- 8 (min), value
+	- 9 (gravity compensate), value(0 or 1)
+- 0x40 High class mode
+	[[Rehibitation mode]]
+	- 40, 0 isokinetic
+	- 41, 0 isotonic
+	- 42, 0 isometric
+	manufacturer defined mode
+	- 43, 0 ROM mode
+	- 80, 0 Free mode
+	- 81, 0 Normal mode
+- 0x49 時間相關
+- 0x51 Set Motor
+	- 0 (Gain), value (0 - 10)
+	- 1 (Flex Velocity Level), value (1 - 6)
+	- 2 (Extend Velocity Level), value (1 - 6)
+	- 3 (IMU Level), value (0 - 8, unit: 10 degrees/second)
+	- 4 (Lock Time), value (unit: 1 second)
+	- 5 (Limit Angle), value (unit: degrees, minimum: 20)
+	- 6 (Initial Angle), value (num-4= real_degree)
+	- 7 (Select Side), value (0: Right, 1: Left)
+	- 8 (Unlock Angle Level), value (0 - 10)
+- 0x52 ??
+- 0x54 角度相關
+- 0x55 角加速度相關
+- 0x59 角速度相關
