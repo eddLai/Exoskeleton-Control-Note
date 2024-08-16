@@ -30,9 +30,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8ac6eb3abb4adab2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a07dd1873745d95",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
+                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
+                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md"
+                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf"
               }
             }
           }
@@ -160,15 +178,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "98340c86c9017c5e",
+  "active": "7a07dd1873745d95",
   "lastOpenFiles": [
+    "Reward and Ouput Algorithm Design.md",
     "計劃/第二階段.md",
     "計劃/開發時間軸規畫.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "test.md",
     "Presentation slide.md",
-    "Reward and Ouput Algorithm Design.md",
     "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
     "文獻/ML app/Papers/Lower Limb Exoskeleton LSTM.pdf",
     "文獻/s41586-024-07382-4 (1).pdf",
