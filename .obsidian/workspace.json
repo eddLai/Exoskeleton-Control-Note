@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
+                "file": "Reward and Ouput Algorithm Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
+                "file": "Reward and Ouput Algorithm Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf"
+                "file": "Reward and Ouput Algorithm Design.md"
               }
             }
           }
@@ -170,10 +170,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7a07dd1873745d95",
+  "active": "98340c86c9017c5e",
   "lastOpenFiles": [
-    "Reward and Ouput Algorithm Design.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
+    "Reward and Ouput Algorithm Design.md",
     "計劃/第二階段.md",
     "計劃/開發時間軸規畫.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
