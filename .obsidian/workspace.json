@@ -23,9 +23,11 @@
             "id": "98340c86c9017c5e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf"
+                "file": "Reward and Ouput Algorithm Design.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
+                "file": "Reward and Ouput Algorithm Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
+                "file": "Reward and Ouput Algorithm Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf"
+                "file": "Reward and Ouput Algorithm Design.md"
               }
             }
           }
@@ -160,22 +162,21 @@
   },
   "active": "98340c86c9017c5e",
   "lastOpenFiles": [
-    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
+    "計劃/第二階段.md",
+    "計劃/開發時間軸規畫.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
+    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "test.md",
     "Presentation slide.md",
     "Reward and Ouput Algorithm Design.md",
     "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
     "文獻/ML app/Papers/Lower Limb Exoskeleton LSTM.pdf",
-    "計劃/第二階段.md",
     "文獻/s41586-024-07382-4 (1).pdf",
     "賴宏達SS_final_report/計劃書exoskeleton組v1.1.pdf",
-    "計劃/開發時間軸規畫.md",
     "賴宏達SS_final_report/SS_期末專題slide.pdf",
     "文獻/conference/~WRL0381.tmp",
     "文獻/conference/~WRD4059.tmp",
     "文獻/conference/~WRD4048.tmp",
-    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.docx",
     "計劃/第一階段實際開會紀錄.md",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "Cygnus src解析.md",
