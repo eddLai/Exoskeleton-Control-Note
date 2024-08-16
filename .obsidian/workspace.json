@@ -32,14 +32,6 @@
             }
           },
           {
-            "id": "8ac6eb3abb4adab2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "7a07dd1873745d95",
             "type": "leaf",
             "state": {
@@ -50,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
