@@ -144,4 +144,4 @@ first classify different locomotion activities and then discretize the gait cycl
 
  Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation[23] [24]
  
- 
+ three-layer fully connected network
