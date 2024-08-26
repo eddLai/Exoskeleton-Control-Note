@@ -146,4 +146,4 @@ first classify different locomotion activities and then discretize the gait cycl
  
  three-layer fully connected network
  (IMU) sensor (LPMS-B2, LP-Research) on each thigh
- 
+
