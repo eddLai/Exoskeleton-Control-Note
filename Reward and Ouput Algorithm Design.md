@@ -137,4 +137,4 @@ motion assistance when fatigue and lifting
 
 handcrafted
 substantial labour and time required 
-Human-in- the-loop optimization 8 and myoelectric control 9 optimized assistive torque to minimize metabolic rate,
+Human-in- the-loop optimization [8] and myoelectric control [9] optimized assistive torque to minimize metabolic rate,
