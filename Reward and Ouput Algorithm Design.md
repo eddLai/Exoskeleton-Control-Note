@@ -153,6 +153,6 @@ three-layer fully connected network
 North Carolina State University, 
 Embry-Riddle Aeronautical University,
 
-
+Goal of NN is decouple the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) 
 
 系統頻率
