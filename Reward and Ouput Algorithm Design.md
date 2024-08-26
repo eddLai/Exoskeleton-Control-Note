@@ -155,6 +155,8 @@ Embry-Riddle Aeronautical University,
 
 Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) 
 
-All in simulation, "three neural networks in our framework are trained simultaneously in the simulation"
+All in simulation
+- "three neural networks in our framework are trained simultaneously in the simulation"
+- ""
 
 系統頻率
