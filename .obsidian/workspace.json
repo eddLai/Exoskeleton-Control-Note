@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
+                "file": "文獻/s41586-024-07382-4 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
+                "file": "文獻/s41586-024-07382-4 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md"
+                "file": "文獻/s41586-024-07382-4 (1).pdf"
               }
             }
           }
@@ -179,22 +179,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-<<<<<<< HEAD
   "active": "7a07dd1873745d95",
   "lastOpenFiles": [
+    "Reward and Ouput Algorithm Design.md",
     "Presentation slide.md",
-    "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
-=======
-  "active": "98340c86c9017c5e",
-  "lastOpenFiles": [
-    "Presentation slide.md",
->>>>>>> 93da117 (vault backup: 2024-08-26 11:36:39)
     "文獻/s41586-024-07382-4 (1) - 複製.pdf",
     "文獻/s41586-024-07382-4 (1).pdf",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "Cygnus src解析.md",
     "Pasted image 20240512100407.png",
-    "Reward and Ouput Algorithm Design.md",
     "計劃/第二階段.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
     "計劃/開發時間軸規畫.md",
@@ -205,10 +198,7 @@
     "賴宏達SS_final_report/計劃書exoskeleton組v1.1.pdf",
     "賴宏達SS_final_report/SS_期末專題slide.pdf",
     "文獻/conference/~WRL0381.tmp",
-<<<<<<< HEAD
-=======
     "文獻/conference/~WRD4059.tmp",
->>>>>>> 93da117 (vault backup: 2024-08-26 11:36:39)
     "計劃/第一階段實際開會紀錄.md",
     "Pasted image 20240723160705.png",
     "文獻/ML app/Pasted image 20240107180700.png",
