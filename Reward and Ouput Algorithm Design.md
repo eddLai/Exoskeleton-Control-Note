@@ -141,4 +141,6 @@ Human-in- the-loop optimization [8] and myoelectric control [9] optimized assist
 first classify different locomotion activities and then discretize the gait cycle into several phases
 - segmented gait phase -> manual tuning
  - transitions
- - 
+
+ Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation[23][24]
+ 
