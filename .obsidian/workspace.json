@@ -37,7 +37,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "文獻/s41586-024-07382-4 (1) - 複製.pdf"
+                "file": "文獻/s41586-024-07382-4 (1).pdf"
               }
             }
           }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/s41586-024-07382-4 (1) - 複製.pdf",
+                "file": "文獻/s41586-024-07382-4 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/s41586-024-07382-4 (1) - 複製.pdf",
+                "file": "文獻/s41586-024-07382-4 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文獻/s41586-024-07382-4 (1) - 複製.pdf"
+                "file": "文獻/s41586-024-07382-4 (1).pdf"
               }
             }
           }
@@ -170,8 +171,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7a07dd1873745d95",
+  "active": "ce267d8792708e43",
   "lastOpenFiles": [
+    "文獻/s41586-024-07382-4 (1) - 複製.pdf",
     "文獻/s41586-024-07382-4 (1).pdf",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "Cygnus src解析.md",
