@@ -35,11 +35,9 @@
             "id": "7a07dd1873745d95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Overview of 旺宏競賽：外骨骼力增強系統.md",
-                "mode": "source",
-                "source": false
+                "file": "文獻/s41586-024-07382-4 (1) - 複製.pdf"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview of 旺宏競賽：外骨骼力增強系統.md",
+                "file": "文獻/s41586-024-07382-4 (1) - 複製.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview of 旺宏競賽：外骨骼力增強系統.md",
+                "file": "文獻/s41586-024-07382-4 (1) - 複製.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview of 旺宏競賽：外骨骼力增強系統.md"
+                "file": "文獻/s41586-024-07382-4 (1) - 複製.pdf"
               }
             }
           }
@@ -174,6 +172,8 @@
   },
   "active": "7a07dd1873745d95",
   "lastOpenFiles": [
+    "文獻/s41586-024-07382-4 (1).pdf",
+    "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "Cygnus src解析.md",
     "Pasted image 20240512100407.png",
     "Reward and Ouput Algorithm Design.md",
@@ -185,14 +185,12 @@
     "Presentation slide.md",
     "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
     "文獻/ML app/Papers/Lower Limb Exoskeleton LSTM.pdf",
-    "文獻/s41586-024-07382-4 (1).pdf",
     "賴宏達SS_final_report/計劃書exoskeleton組v1.1.pdf",
     "賴宏達SS_final_report/SS_期末專題slide.pdf",
     "文獻/conference/~WRL0381.tmp",
     "文獻/conference/~WRD4059.tmp",
     "文獻/conference/~WRD4048.tmp",
     "計劃/第一階段實際開會紀錄.md",
-    "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "Pasted image 20240723160705.png",
     "文獻/ML app/Pasted image 20240107180700.png",
     "Slide pics/Pasted image 20240522175455.png",
