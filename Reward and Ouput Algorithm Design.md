@@ -135,4 +135,4 @@ motion assistance when fatigue and lifting
 
 [[s41586-024-07382-4 (1).pdf]]，了解肌肉那部份的建模，RL可以問博維
 
-
+handcrafted
