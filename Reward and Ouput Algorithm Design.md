@@ -147,6 +147,8 @@ Our previous work imposed predefined kinematic trajectories to drive the steady-
 three-layer fully connected network
 (IMU) sensor (LPMS-B2, LP-Research) on each thigh
 
+100 Hz, namely, 0.01 s) using the current thigh angle and thigh angular velocity plus the history data from the past 0.03 s (corresponding to three time steps).
+
 問題是怎麼做到人體端的模擬
 North Carolina State University, 
 Embry-Riddle Aeronautical University,
