@@ -136,4 +136,5 @@ motion assistance when fatigue and lifting
 [[s41586-024-07382-4 (1).pdf]]，了解肌肉那部份的建模，RL可以問博維
 
 handcrafted
-substan- tial labour and time required 
+substantial labour and time required 
+Human-in- the-loop optimization 8 and myoelectric control 9 optimized assistive torque to minimize metabolic rate,
