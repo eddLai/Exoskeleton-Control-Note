@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
+                "file": "Overview of 旺宏競賽：外骨骼力增強系統.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
+                "file": "Overview of 旺宏競賽：外骨骼力增強系統.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
+                "file": "Overview of 旺宏競賽：外骨骼力增強系統.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md"
+                "file": "Overview of 旺宏競賽：外骨骼力增強系統.md"
               }
             }
           }
@@ -174,9 +175,11 @@
   },
   "active": "7a07dd1873745d95",
   "lastOpenFiles": [
+    "Cygnus src解析.md",
+    "Pasted image 20240512100407.png",
+    "Reward and Ouput Algorithm Design.md",
     "計劃/第二階段.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
-    "Reward and Ouput Algorithm Design.md",
     "計劃/開發時間軸規畫.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "test.md",
@@ -191,7 +194,6 @@
     "文獻/conference/~WRD4048.tmp",
     "計劃/第一階段實際開會紀錄.md",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
-    "Cygnus src解析.md",
     "Pasted image 20240723160705.png",
     "文獻/ML app/Pasted image 20240107180700.png",
     "Slide pics/Pasted image 20240522175455.png",
@@ -201,7 +203,6 @@
     "Slide pics/Pasted image 20240525150434.png",
     "Slide pics/Pasted image 20240524133018.png",
     "Slide pics/Pasted image 20240522182850.png",
-    "Slide pics/Pasted image 20240522182525.png",
     "文獻/KneeBO Contol/Command Table.md",
     "文獻/KneeBO Contol/KneeBO_CMD.md",
     "文獻/KneeBO Contol/KneeBO command list.md",
