@@ -157,6 +157,6 @@ Goal of NN is decoupling the measurable states (that is, wearable sensor inputs)
 
 All in simulation
 - "three neural networks in our framework are trained simultaneously in the simulation"
-- ""
+- "This level of individualization is achieved purely through computer simulation without any online tuning process or human subject training with the device."
 
 系統頻率
