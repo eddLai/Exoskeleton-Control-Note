@@ -148,3 +148,5 @@ three-layer fully connected network
 (IMU) sensor (LPMS-B2, LP-Research) on each thigh
 
 問題是怎麼做到人體端的模擬
+North Carolina State University, 
+Embry-Riddle Aeronautical University,
