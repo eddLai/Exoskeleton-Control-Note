@@ -147,4 +147,4 @@ Our previous work imposed predefined kinematic trajectories to drive the steady-
 three-layer fully connected network
 (IMU) sensor (LPMS-B2, LP-Research) on each thigh
 
-問題是怎麼做到ㄓㄣ
+問題是怎麼做到人體端的模擬
