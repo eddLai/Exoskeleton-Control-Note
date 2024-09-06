@@ -160,3 +160,6 @@ All in simulation
 - "This level of individualization is achieved purely through computer simulation without any online tuning process or human subject training with the device."
 
 系統頻率
+
+![[外骨骼兩張.png]]
+![[Pasted image 20240831150349.png]]

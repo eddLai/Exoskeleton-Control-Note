@@ -4,53 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e48967b63f22519a",
+        "id": "8fe0457cc466e0f5",
         "type": "tabs",
-        "dimension": 27.947295423023576,
         "children": [
           {
-            "id": "98340c86c9017c5e",
+            "id": "75eef649e67ce406",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "14e5669fd925ec56",
-        "type": "tabs",
-        "dimension": 72.05270457697642,
-        "children": [
-          {
-            "id": "4c307bc9028ff55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation slide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a07dd1873745d95",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文獻/s41586-024-07382-4 (1).pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -117,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reward and Ouput Algorithm Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reward and Ouput Algorithm Design.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -179,36 +139,39 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "98340c86c9017c5e",
+  "active": "75eef649e67ce406",
   "lastOpenFiles": [
-    "文獻/s41586-024-07382-4 (1).pdf",
+    "文獻/RL network/books/Deep Reinforcement Learning Hands-On Apply modern RL.pdf",
+    "文獻/ML app/Papers/Reinforcement Learning and Control\nof a Lower Extremity Exoskeleton for\nSquat Assistance.pdf",
+    "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
+    "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
+    "文獻/Reinforcement Learning and Control\nof a Lower Extremity Exoskeleton for\nSquat Assistance.pdf",
+    "文獻/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
+    "文獻/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
+    "文獻/ML app/Reinforcement Learning and Control\nof a Lower Extremity Exoskeleton for\nSquat Assistance.pdf",
+    "文獻/ML app/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
+    "文獻/ML app/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
+    "文獻/scirobotics.adi8852.pdf",
     "Reward and Ouput Algorithm Design.md",
+    "計劃/第二階段.md",
+    "計劃/開發時間軸規畫.md",
     "Presentation slide.md",
-    "文獻/s41586-024-07382-4 (1) - 複製.pdf",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
+    "外骨骼穿戴全身.png",
+    "Pasted image 20240831150349.png",
+    "Pasted image 20240831150332.png",
+    "外骨骼兩張.png",
+    "Pasted image 20240831150144.png",
+    "外骨骼，兩張.png",
+    "外骨骼.md",
+    "Pasted image 20240831145925.png.md",
+    "Pasted image 20240831145925.png",
     "Cygnus src解析.md",
     "Pasted image 20240512100407.png",
-    "計劃/第二階段.md",
-    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
-    "計劃/開發時間軸規畫.md",
-    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "test.md",
-    "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
-    "文獻/ML app/Papers/Lower Limb Exoskeleton LSTM.pdf",
-    "賴宏達SS_final_report/計劃書exoskeleton組v1.1.pdf",
-    "賴宏達SS_final_report/SS_期末專題slide.pdf",
-    "文獻/conference/~WRL0381.tmp",
-    "文獻/conference/~WRD4059.tmp",
     "計劃/第一階段實際開會紀錄.md",
     "Pasted image 20240723160705.png",
     "文獻/ML app/Pasted image 20240107180700.png",
-    "Slide pics/Pasted image 20240522175455.png",
-    "Slide pics/Pasted image 20240522182005.png",
-    "Slide pics/Pasted image 20240522182438.png",
-    "Slide pics/Pasted image 20240525151103.png",
-    "Slide pics/Pasted image 20240525150434.png",
-    "Slide pics/Pasted image 20240524133018.png",
-    "Slide pics/Pasted image 20240522182850.png",
     "文獻/KneeBO Contol/Command Table.md",
     "文獻/KneeBO Contol/KneeBO_CMD.md",
     "文獻/KneeBO Contol/KneeBO command list.md",
@@ -224,8 +187,6 @@
     "文獻/AR/AR開發.md",
     "文獻/RL network/log_softmax與softmax的差異.md",
     "文獻/RL network/distr_projection的詳細內容.md",
-    "文獻/RL network/建置python環境.md",
-    "文獻/計劃書/計劃書修改紀錄.md",
     "文獻/Plan Graphs/控制規劃.canvas",
     "文獻/ML app/RL overview of training.canvas",
     "文獻/Plan Graphs/Hip實驗.canvas",
