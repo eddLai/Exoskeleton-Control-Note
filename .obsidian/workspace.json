@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c307bc9028ff55c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Presentation slide.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "98340c86c9017c5e",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c0ab69457a4b8d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bottles套Cygnus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EMG",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +147,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "98340c86c9017c5e",
+  "active": "ce267d8792708e43",
   "lastOpenFiles": [
     "Presentation slide.md",
     "Cygnus src解析.md",
