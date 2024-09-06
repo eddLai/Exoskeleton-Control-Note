@@ -1,8 +1,9 @@
 ApiCmd -> stream.py
-需要靠軟體濾波，最大ㄐㄧ+/- 375mV, DC-131Hz
+需要靠軟體濾波，最大極值+/- 375mV, DC-131Hz
 
 正常windows版本輸出畫面
 
+使用B
 如果exe檔案被移除會一直顯示以下
 ```
   File "C:\ProgramData\anaconda3\Lib\site-packages\websocket\_app.py", line 388, in _callback
