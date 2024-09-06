@@ -1,4 +1,5 @@
 ApiCmd -> stream.py
+需要靠軟體律波
 
 正常windows版本輸出畫面
 
