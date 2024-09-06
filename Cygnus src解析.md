@@ -3,7 +3,7 @@ ApiCmd -> stream.py
 
 正常windows版本輸出畫面
 
-使用B
+使用Bottles套Cy
 如果exe檔案被移除會一直顯示以下
 ```
   File "C:\ProgramData\anaconda3\Lib\site-packages\websocket\_app.py", line 388, in _callback
