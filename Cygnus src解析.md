@@ -1,5 +1,5 @@
 ApiCmd -> stream.py
-需要靠軟體律波
+需要靠軟體濾波，+/- 375
 
 正常windows版本輸出畫面
 
