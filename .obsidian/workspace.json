@@ -34,9 +34,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "3df0d224a77b1cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "規劃/第二階段.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "規劃/第二階段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "規劃/第二階段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "規劃/第二階段.md"
+              }
             }
           }
         ]
@@ -160,7 +176,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c0ea4eb23c494af1",
+  "active": "3df0d224a77b1cfb",
   "lastOpenFiles": [
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
