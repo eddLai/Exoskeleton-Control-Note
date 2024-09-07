@@ -21,12 +21,22 @@
             "id": "cd402c132c7469e4",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf"
+              }
+            }
+          },
+          {
+            "id": "c0ea4eb23c494af1",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +160,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cd402c132c7469e4",
+  "active": "c0ea4eb23c494af1",
   "lastOpenFiles": [
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
