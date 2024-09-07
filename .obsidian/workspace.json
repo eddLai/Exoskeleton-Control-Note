@@ -28,14 +28,6 @@
             }
           },
           {
-            "id": "c0ea4eb23c494af1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "3df0d224a77b1cfb",
             "type": "leaf",
             "state": {
@@ -48,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,17 +168,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ce267d8792708e43",
+  "active": "3df0d224a77b1cfb",
   "lastOpenFiles": [
-    "規劃/第二階段.md",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
+    "規劃/Reward and Ouput Algorithm Design.md",
+    "規劃/第二階段.md",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/ML app/Papers/DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf",
     "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
     "Cygnus src解析.md",
     "Presentation slide.md",
     "Bottles套Cygnus.md",
-    "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/s41586-024-07382-4 (1).pdf",
     "文獻/ML app/Papers/Reinforcement Learning and Control\nof a Lower Extremity Exoskeleton for\nSquat Assistance.pdf",
     "外骨骼穿戴全身.png",
@@ -223,7 +215,6 @@
     "文獻/RL network/unpack_batch_ddpg code.md",
     "文獻/ML app/python tips.md",
     "文獻/AR/AR開發.md",
-    "文獻/RL network/log_softmax與softmax的差異.md",
     "文獻/Plan Graphs/控制規劃.canvas",
     "文獻/ML app/RL overview of training.canvas",
     "文獻/Plan Graphs/Hip實驗.canvas",
