@@ -28,8 +28,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a387b418202aca7f",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md",
+                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md",
+                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md"
+                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf"
               }
             }
           }
@@ -177,10 +176,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3df0d224a77b1cfb",
+  "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
-    "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "規劃/Reward and Ouput Algorithm Design.md",
+    "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "規劃/第二階段.md",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/ML app/Papers/DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf",
