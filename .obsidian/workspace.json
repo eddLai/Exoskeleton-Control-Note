@@ -6,6 +6,7 @@
       {
         "id": "14e5669fd925ec56",
         "type": "tabs",
+        "dimension": 70.87378640776699,
         "children": [
           {
             "id": "93ca5081949c2ff4",
@@ -26,7 +27,15 @@
                 "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a387b418202aca7f",
+        "type": "tabs",
+        "dimension": 29.126213592233007,
+        "children": [
           {
             "id": "3df0d224a77b1cfb",
             "type": "leaf",
@@ -39,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4718cc23948e3b59",
