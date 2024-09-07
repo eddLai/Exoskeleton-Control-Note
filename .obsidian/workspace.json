@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "規劃/第二階段.md",
+                "file": "規劃/Reward and Ouput Algorithm Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "規劃/第二階段.md",
+                "file": "規劃/Reward and Ouput Algorithm Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "規劃/第二階段.md",
+                "file": "規劃/Reward and Ouput Algorithm Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "規劃/第二階段.md"
+                "file": "規劃/Reward and Ouput Algorithm Design.md"
               }
             }
           }
@@ -176,8 +176,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3df0d224a77b1cfb",
+  "active": "ce267d8792708e43",
   "lastOpenFiles": [
+    "規劃/第二階段.md",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/ML app/Papers/DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf",
@@ -185,7 +186,7 @@
     "Cygnus src解析.md",
     "Presentation slide.md",
     "Bottles套Cygnus.md",
-    "Reward and Ouput Algorithm Design.md",
+    "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/s41586-024-07382-4 (1).pdf",
     "文獻/ML app/Papers/Reinforcement Learning and Control\nof a Lower Extremity Exoskeleton for\nSquat Assistance.pdf",
     "外骨骼穿戴全身.png",
@@ -201,7 +202,6 @@
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "test.md",
     "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
-    "文獻/ML app/Papers/Lower Limb Exoskeleton LSTM.pdf",
     "計劃/第一階段實際開會紀錄.md",
     "Pasted image 20240723160705.png",
     "文獻/ML app/Pasted image 20240107180700.png",
