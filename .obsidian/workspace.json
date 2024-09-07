@@ -27,19 +27,9 @@
                 "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
               }
             }
-          },
-          {
-            "id": "a8becdcf9dcb8801",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a387b418202aca7f",
@@ -124,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf"
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
               }
             }
           }
@@ -186,8 +176,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ce267d8792708e43",
+  "active": "cd402c132c7469e4",
   "lastOpenFiles": [
+    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.docx",
@@ -210,7 +201,6 @@
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "Pasted image 20240512100407.png",
     "計劃/第二階段.md",
-    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
     "計劃/開發時間軸規畫.md",
     "test.md",
     "計劃/第一階段實際開會紀錄.md",
