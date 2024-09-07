@@ -8,22 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98340c86c9017c5e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf"
-              }
-            }
-          },
-          {
             "id": "93ca5081949c2ff4",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf"
+              }
+            }
+          },
+          {
+            "id": "cd402c132c7469e4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf"
               }
             }
           }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf"
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf"
               }
             }
           }
@@ -156,8 +157,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "93ca5081949c2ff4",
+  "active": "cd402c132c7469e4",
   "lastOpenFiles": [
+    "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
     "文獻/ML app/Papers/DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf",
     "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
@@ -171,7 +173,6 @@
     "外骨骼兩張.png",
     "外骨骼.md",
     "Pasted image 20240831145925.png.md",
-    "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/s41586-024-07382-4 (1) - 複製.pdf",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "Pasted image 20240512100407.png",
