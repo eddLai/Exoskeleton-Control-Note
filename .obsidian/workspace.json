@@ -21,10 +21,8 @@
             "id": "cd402c132c7469e4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,8 +152,8 @@
   },
   "active": "cd402c132c7469e4",
   "lastOpenFiles": [
-    "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via\nlearning in simulation.pdf",
+    "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/ML app/Papers/DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf",
     "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
     "Cygnus src解析.md",
