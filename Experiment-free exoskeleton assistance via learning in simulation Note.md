@@ -12,7 +12,7 @@ first classify different locomotion activities and then discretize the gait cycl
 - segmented gait phase -> manual tuning
  - transitions
 
-Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation[23] [24]
+Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation [23] [24]
 
 three-layer fully connected network
 (IMU) sensor (LPMS-B2, LP-Research) on each thigh
