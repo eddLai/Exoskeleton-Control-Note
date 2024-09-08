@@ -11,11 +11,15 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 - Human-in-the-loop optimization [8]
 
 *"Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) "*
+
+---
 - 虛擬
 	- 10s的個人mocap kinematic trajectory data
 	- dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
 	- 使用模擬的機器物理模型"mechanical model of a custom hip exoskeleton used in this study"
 	- linear elastic model: 
+- 資料預處理
+- 
 - 模型優化
 	- 人體 and exoskeleton model 同步訓練為了high-fidelity高保真
 - 硬體細節
