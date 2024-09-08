@@ -173,4 +173,6 @@ linear elastic model:
 大腿上的IMU, (IMU) sensor (LPMS-B2, LP-Research)
 疑問：
 怎麼將mocap導入到虛擬？
+
+---
 [[Human–exoskeleton interaction portrait.pdf]]
