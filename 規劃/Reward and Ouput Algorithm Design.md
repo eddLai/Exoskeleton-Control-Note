@@ -84,10 +84,11 @@ Input:()
 - [x] 分出前或後的推力
 - [x] 流程圖要有minimize muscle effort
 - [x] 確保圖中元素都有提到
-- [ ] D4PG能夠更好的去控制複雜意圖的判斷(需要驗證)
+- [x] D4PG能夠更好的去控制複雜意圖的判斷(需要驗證)
 $$T=K_t \cdot I$$
 $$T_{required}=T_{original}-T{ext}$$
 $$I_{new}=\frac {T_{required}}{K_t}$$
+### Rew
 可以判斷抬升方向
 - 外力順時針
 	- 馬達往前移動(從角速度)(順時針)，正電流減少 (對抗)
