@@ -164,5 +164,5 @@ All in simulation
 ![[外骨骼兩張.png]]
 
 [[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
-
+10s的個人mocap
 [[Human–exoskeleton interaction portrait.pdf]]
