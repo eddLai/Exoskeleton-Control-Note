@@ -9,11 +9,6 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 - tethered
 - substantial labour and time required 
 - Human-in-the-loop optimization [8]
-first classify different locomotion activities and then discretize the gait cycle into several phases
-- segmented gait phase -> manual tuning
- - transitions
-
-Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation [23]  [24]
 
 Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) 
 - 虛擬
