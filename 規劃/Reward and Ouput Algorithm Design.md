@@ -170,5 +170,6 @@ dynamics-aware components of our approach incorporate a 50 d.f.full-body musculo
 linear elastic model: 
 人體 and exoskeleton model 同步訓練為了high-fidelity高保真
 大腿上的IMU, (IMU) sensor (LPMS-B2, LP-Research)
-
+疑問：
+怎麼將mocap導入到虛擬
 [[Human–exoskeleton interaction portrait.pdf]]
