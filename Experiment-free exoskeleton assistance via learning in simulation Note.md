@@ -19,7 +19,10 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 	- 使用模擬的機器物理模型"mechanical model of a custom hip exoskeleton used in this study"
 	- linear elastic model: 
 - 資料預處理
-- 
+- first classify different locomotion activities and then discretize the gait cycle into several phases
+- segmented gait phase -> manual tuning
+ - transitions
+	 - Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation [23]  [24]
 - 模型優化
 	- 人體 and exoskeleton model 同步訓練為了high-fidelity高保真
 - 硬體細節
