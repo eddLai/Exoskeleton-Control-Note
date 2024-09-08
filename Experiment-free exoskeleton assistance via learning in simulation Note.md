@@ -1,5 +1,4 @@
 [[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
-論文==#Muslce fatigue is one of the harmful outcome of prolong physical activities.If it gets less concentration on it, the safety and healthy risk not only be the potential problem. Consequently, it inspire me to develop the  project , which is a system aims to reduce the  intensity of specific muscle usage and extend the duration of strenous acticities.#==
 
 了解肌肉那部份的建模，RL可以問博維
 
