@@ -10,7 +10,7 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 - substantial labour and time required 
 - Human-in-the-loop optimization [8]
 
-Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) 
+*"Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) "*
 - 虛擬
 	- 10s的個人mocap kinematic trajectory data
 	- dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
