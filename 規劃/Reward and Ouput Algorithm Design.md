@@ -168,5 +168,5 @@ All in simulation
 dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
 使用模擬的機器物理模型"mechanical model of a custom hip exoskeleton used in this study"
 linear elastic model: 
-
+同步
 [[Human–exoskeleton interaction portrait.pdf]]
