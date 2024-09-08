@@ -1,3 +1,4 @@
+[[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
 論文==#Muslce fatigue is one of the harmful outcome of prolong physical activities.If it gets less concentration on it, the safety and healthy risk not only be the potential problem. Consequently, it inspire me to develop the  project , which is a system aims to reduce the  intensity of specific muscle usage and extend the duration of strenous acticities.#==
 
 了解肌肉那部份的建模，RL可以問博維
@@ -28,7 +29,6 @@ All in simulation
 
 系統頻率
 
-[[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
 10s的個人mocap kinematic trajectory data, 
 dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
 使用模擬的機器物理模型"mechanical model of a custom hip exoskeleton used in this study"
