@@ -35,7 +35,7 @@ linear elastic model:
 大腿上的IMU, (IMU) sensor (LPMS-B2, LP-Research)
 模型細節
 - NN透過Simulink Real-time實現
-- 100 Hz, namely, 0.01 s) using the current thigh angle and thigh angular velocity plus the history data from the past 0.03 s (corresponding to three time steps).
+- 100 Hz, namely, 0.01 s using the current thigh angle and thigh angular velocity plus the history data from the past 0.03 s (corresponding to three time steps).
 
 ---
 ### 疑問：
