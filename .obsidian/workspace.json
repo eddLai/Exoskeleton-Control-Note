@@ -6,7 +6,6 @@
       {
         "id": "14e5669fd925ec56",
         "type": "tabs",
-        "dimension": 70.87378640776699,
         "children": [
           {
             "id": "93ca5081949c2ff4",
@@ -19,24 +18,6 @@
             }
           },
           {
-            "id": "cd402c132c7469e4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a387b418202aca7f",
-        "type": "tabs",
-        "dimension": 29.126213592233007,
-        "children": [
-          {
             "id": "3df0d224a77b1cfb",
             "type": "leaf",
             "state": {
@@ -48,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -114,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
+                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
+                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
+                "file": "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf"
               }
             }
           }
@@ -176,10 +159,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cd402c132c7469e4",
+  "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
-    "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
+    "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
