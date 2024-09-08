@@ -34,7 +34,7 @@ dynamics-aware components of our approach incorporate a 50 d.f.full-body musculo
 linear elastic model: 
 人體 and exoskeleton model 同步訓練為了high-fidelity高保真
 大腿上的IMU, (IMU) sensor (LPMS-B2, LP-Research)
-NNSimulink Real-time
+NN透過Simulink Real-time實現
 
 ---
 ### 疑問：
