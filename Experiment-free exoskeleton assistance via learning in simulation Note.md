@@ -35,7 +35,7 @@ Goal of NN is decoupling the measurable states (that is, wearable sensor inputs)
 	- NN透過Simulink Real-time實現
 	- 系統頻率: 100 Hz, namely, 0.01 s using the current thigh angle and thigh angular velocity plus the history data from the past 0.03 s (corresponding to three time steps).
 - 驗證方法
-	- Human-in-the-loop optimization [8] and myoelectric control [9] optimized assistive torque to minimize metabolic rate,
+	- myoelectric control [9] optimized assistive torque to minimize metabolic rate,
 
 ---
 ### 疑問：
