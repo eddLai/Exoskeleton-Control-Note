@@ -88,7 +88,7 @@ Input:()
 $$T=K_t \cdot I$$
 $$T_{required}=T_{original}-T{ext}$$
 $$I_{new}=\frac {T_{required}}{K_t}$$
-### Rew
+### Reward設計
 可以判斷抬升方向
 - 外力順時針
 	- 馬達往前移動(從角速度)(順時針)，正電流減少 (對抗)
@@ -107,6 +107,7 @@ $$I_{new}=\frac {T_{required}}{K_t}$$
 |     | 0   | 1   |     |
 |     | 1   | 0   |     |
 
+---
 
 論文==#Muslce fatigue is one of the harmful outcome of prolong physical activities.If it gets less concentration on it, the safety and healthy risk not only be the potential problem. Consequently, it inspire me to develop the  project , which is a system aims to reduce the  intensity of specific muscle usage and extend the duration of strenous acticities.#==
 
