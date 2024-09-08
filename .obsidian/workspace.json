@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "文獻/conference/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "文獻/conference/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "文獻/conference/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "文獻/conference/Untitled.md"
               }
             }
           }
@@ -170,10 +170,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "eab0d892a0934cf9",
+  "active": "ce267d8792708e43",
   "lastOpenFiles": [
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
-    "Untitled.md",
+    "文獻/conference/Untitled.md",
     "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
