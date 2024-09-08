@@ -36,13 +36,13 @@
               "type": "markdown",
               "state": {
                 "file": "規劃/第二階段.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "規劃/第二階段.md",
+                "file": "文獻/conference/backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "規劃/第二階段.md",
+                "file": "文獻/conference/backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "規劃/第二階段.md"
+                "file": "文獻/conference/backup.md"
               }
             }
           }
@@ -170,11 +170,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3df0d224a77b1cfb",
+  "active": "eab0d892a0934cf9",
   "lastOpenFiles": [
+    "規劃/第二階段.md",
     "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/conference/backup.md",
-    "規劃/第二階段.md",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
