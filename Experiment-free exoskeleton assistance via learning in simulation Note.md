@@ -7,6 +7,7 @@
 - handcrafted
 - tethered
 - substantial labour and time required 
+- Human-in-the-loop optimization [8]
 first classify different locomotion activities and then discretize the gait cycle into several phases
 - segmented gait phase -> manual tuning
  - transitions
