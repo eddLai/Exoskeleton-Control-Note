@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md",
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md",
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md"
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
               }
             }
           }
@@ -173,18 +173,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "3df0d224a77b1cfb",
+  "active": "cd402c132c7469e4",
   "lastOpenFiles": [
+    "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.docx",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
-    "規劃/Reward and Ouput Algorithm Design.md",
     "規劃/第二階段.md",
     "文獻/ML app/Papers/DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf",
     "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
@@ -197,7 +198,6 @@
     "外骨骼兩張.png",
     "外骨骼.md",
     "Pasted image 20240831145925.png.md",
-    "文獻/s41586-024-07382-4 (1) - 複製.pdf",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "Pasted image 20240512100407.png",
     "計劃/第二階段.md",
