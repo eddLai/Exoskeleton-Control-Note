@@ -169,5 +169,6 @@ dynamics-aware components of our approach incorporate a 50 d.f.full-body musculo
 使用模擬的機器物理模型"mechanical model of a custom hip exoskeleton used in this study"
 linear elastic model: 
 人體 and exoskeleton model 同步訓練為了high-fidelity高保真
-大腿上的IMU, (IMU) sensor (LPMS-B2,LP-Research)
+大腿上的IMU, (IMU) sensor (LPMS-B2, LP-Research)
+
 [[Human–exoskeleton interaction portrait.pdf]]
