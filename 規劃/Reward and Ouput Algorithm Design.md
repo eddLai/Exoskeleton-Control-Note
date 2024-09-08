@@ -67,7 +67,8 @@ Input:()
 'Gastrocnemius_left'        # 通道8: 左腿腓腸肌
 ```
 
-待討論:
+---
+## 討論:
 - [x] 不要Gait pattern(都已經用NN架構了?)，把Env減小
 - [x] Reward負責確保人機互動，減少人機阻力
 - [x] Agent負責動作意圖，Motor架構
