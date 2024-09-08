@@ -1,4 +1,5 @@
 [[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
+North Carolina State University, Embry-Riddle Aeronautical University,
 已有資源
 - 翰林：了解肌肉那部份的建模
 - 博維：RL可以問
@@ -13,12 +14,6 @@ first classify different locomotion activities and then discretize the gait cycl
  - transitions
 
 Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation [23] [24]
-
-
-
-問題是怎麼做到人體端的模擬
-North Carolina State University, 
-Embry-Riddle Aeronautical University,
 
 Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) 
 - 虛擬
