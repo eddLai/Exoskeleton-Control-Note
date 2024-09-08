@@ -20,11 +20,6 @@ North Carolina State University,
 Embry-Riddle Aeronautical University,
 
 Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) 
-
-==All in simulation==
-- "three neural networks in our framework are trained simultaneously in the simulation"
-- "This level of individualization is achieved purely through computer simulation without any online tuning process or human subject training with the device."
-
 - 虛擬
 	- 10s的個人mocap kinematic trajectory data
 	- dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
@@ -41,3 +36,6 @@ Goal of NN is decoupling the measurable states (that is, wearable sensor inputs)
 ---
 ### 疑問：
 - 怎麼將mocap導入到虛擬？
+- ==All in simulation==
+	- "three neural networks in our framework are trained simultaneously in the simulation"
+	- "This level of individualization is achieved purely through computer simulation without any online tuning process or human subject training with the device."
