@@ -68,7 +68,7 @@ Input:()
 ```
 
 ---
-## 討論:
+## 討論與結論:
 - [x] 不要Gait pattern(都已經用NN架構了?)，把Env減小
 - [x] Reward負責確保人機互動，減少人機阻力
 - [x] Agent負責動作意圖，Motor架構
