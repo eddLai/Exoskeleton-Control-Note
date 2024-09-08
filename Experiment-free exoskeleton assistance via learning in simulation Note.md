@@ -28,17 +28,17 @@ All in simulation
 系統頻率
 
 10s的個人mocap kinematic trajectory data, 
-dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
 - 虛擬
+	- dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
 	- 使用模擬的機器物理模型"mechanical model of a custom hip exoskeleton used in this study"
 	- linear elastic model: 
 - 模型優化
 	- 人體 and exoskeleton model 同步訓練為了high-fidelity高保真
 - 硬體細節
 	- 大腿上的IMU, (IMU) sensor (LPMS-B2, LP-Research)
-模型細節
-- NN透過Simulink Real-time實現
-- 100 Hz, namely, 0.01 s using the current thigh angle and thigh angular velocity plus the history data from the past 0.03 s (corresponding to three time steps).
+- 模型細節
+	- NN透過Simulink Real-time實現
+	- 100 Hz, namely, 0.01 s using the current thigh angle and thigh angular velocity plus the history data from the past 0.03 s (corresponding to three time steps).
 
 ---
 ### 疑問：
