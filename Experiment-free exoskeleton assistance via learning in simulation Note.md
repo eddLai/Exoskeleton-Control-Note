@@ -13,7 +13,7 @@ first classify different locomotion activities and then discretize the gait cycl
 - segmented gait phase -> manual tuning
  - transitions
 
-Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation [23] [24]
+Our previous work imposed predefined kinematic trajectories to drive the steady-state walking of a human in simulation [23]  [24]
 
 Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) 
 - 虛擬
