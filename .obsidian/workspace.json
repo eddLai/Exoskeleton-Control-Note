@@ -33,12 +33,16 @@
             "id": "bcaae6f311a82496",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文獻/conference/backup.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "規劃/Reward and Ouput Algorithm Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "規劃/Reward and Ouput Algorithm Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "規劃/Reward and Ouput Algorithm Design.md"
+              }
             }
           }
         ]
@@ -162,12 +170,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "bcaae6f311a82496",
+  "active": "3df0d224a77b1cfb",
   "lastOpenFiles": [
+    "文獻/conference/backup.md",
     "規劃/Reward and Ouput Algorithm Design.md",
     "規劃/第二階段.md",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
-    "文獻/conference/backup.md",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",

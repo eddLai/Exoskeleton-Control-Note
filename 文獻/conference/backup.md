@@ -1,3 +1,9 @@
+- [x] 段落全不不勾，最小行距
+- [ ] [1] 要找有外骨骼以及疲乏的論文，討論為什麼要用RL，introduction，background review，RL配合review有一個清楚的為什麼要用這個架構，優勢?的說明
+- [ ] 改成新的methods
+- [x] AR要拿掉
+- [x] Figure2 腳的圖
+
 ![[外骨骼兩張.png]]
 
 
