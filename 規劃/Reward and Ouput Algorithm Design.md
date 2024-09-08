@@ -161,8 +161,6 @@ All in simulation
 
 系統頻率
 
-![[外骨骼兩張.png]]
-
 ---
 ### 文獻探討
 [[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
