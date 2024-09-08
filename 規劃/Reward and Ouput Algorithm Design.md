@@ -164,6 +164,7 @@ All in simulation
 ![[外骨骼兩張.png]]
 
 ---
+### 文獻探討
 [[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
 10s的個人mocap kinematic trajectory data, 
 dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
