@@ -4,8 +4,9 @@
 - 博維：RL可以問
 
 用詞
-handcrafted,  tethered
-substantial labour and time required 
+- handcrafted
+- tethered
+- substantial labour and time required 
 Human-in- the-loop optimization [8] and myoelectric control [9] optimized assistive torque to minimize metabolic rate,
 first classify different locomotion activities and then discretize the gait cycle into several phases
 - segmented gait phase -> manual tuning
