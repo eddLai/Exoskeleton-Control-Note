@@ -1,6 +1,6 @@
 [[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
-
-了解肌肉那部份的建模翰林，RL可以問博維
+已有資源
+- 翰林：了解肌肉那部份的建模，RL可以問博維
 
 handcrafted,  tethered
 substantial labour and time required 
