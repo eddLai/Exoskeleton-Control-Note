@@ -9,6 +9,8 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 - tethered
 - substantial labour and time required 
 - Human-in-the-loop optimization [8]
+- locomotion
+- 
 
 *"Goal of NN is decoupling the measurable states (that is, wearable sensor inputs) and unmeasurable states (for example, human joint moments and muscle activations) "*
 
