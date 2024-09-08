@@ -3,7 +3,6 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 已有資源
 - 翰林：了解肌肉那部份的建模
 - 博維：RL可以問
-
 用詞
 - handcrafted
 - tethered
