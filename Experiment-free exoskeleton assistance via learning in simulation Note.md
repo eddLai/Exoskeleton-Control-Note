@@ -25,8 +25,6 @@ All in simulation
 - "three neural networks in our framework are trained simultaneously in the simulation"
 - "This level of individualization is achieved purely through computer simulation without any online tuning process or human subject training with the device."
 
-系統頻率
-
 - 虛擬
 	- 10s的個人mocap kinematic trajectory data
 	- dynamics-aware components of our approach incorporate a 50 d.f.full-body musculoskeletal model with 208 skeletal muscles of lower and upper limbs
@@ -38,7 +36,7 @@ All in simulation
 	- 大腿上的IMU, (IMU) sensor (LPMS-B2, LP-Research)
 - 模型細節
 	- NN透過Simulink Real-time實現
-	- 100 Hz, namely, 0.01 s using the current thigh angle and thigh angular velocity plus the history data from the past 0.03 s (corresponding to three time steps).
+	- 系統頻率: 100 Hz, namely, 0.01 s using the current thigh angle and thigh angular velocity plus the history data from the past 0.03 s (corresponding to three time steps).
 
 ---
 ### 疑問：
