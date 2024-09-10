@@ -4,6 +4,7 @@
 Words:
 - Proposed herein
 - exoskeleton compensates for user dynamics
+- **VO2水平**（氧氣攝取量）
 
 Input: 2D-random variable
 - muscle activity
