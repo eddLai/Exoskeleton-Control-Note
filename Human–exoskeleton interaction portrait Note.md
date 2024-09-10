@@ -21,6 +21,8 @@ interaction portrait(IP) -> hybrid torque controller(HTC)
 
 > Online learning
 
+maximize their engagement in motion
+
 ---
 time-based controller (TBC)\
 
