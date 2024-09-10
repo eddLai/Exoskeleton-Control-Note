@@ -59,4 +59,5 @@ https://www.mropengate.com/2019/06/t-sne.html
 實際人體機制：先有電訊號再有動作
 
 opensim training DL model可行嗎
+opensim API
 還是一定要simulink
