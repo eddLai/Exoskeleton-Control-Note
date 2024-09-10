@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "1ac14adb4da27f30",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
-              }
-            }
-          },
-          {
             "id": "34578e5236011419",
             "type": "leaf",
             "state": {
@@ -183,8 +173,8 @@
   "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
-    "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+    "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "Human–exoskeleton interaction portrait Note.md",
     "文獻/ML app/Papers/Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf",
     "規劃/第二階段.md",
