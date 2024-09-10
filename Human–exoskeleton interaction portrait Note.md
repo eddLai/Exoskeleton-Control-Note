@@ -2,6 +2,7 @@
 
 Words:
 - Proposed herein
+- exoskeleton compensates for user dynamics
 
 Input: 2D-random variable
 - muscle activity
