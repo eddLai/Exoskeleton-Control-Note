@@ -62,5 +62,5 @@ opensim training DL model可行嗎
 - opensim API 
 - simulink 環境
 
-本質
+本質上是用肌肉
 八條肌肉
