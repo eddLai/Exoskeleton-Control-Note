@@ -66,6 +66,8 @@ opensim training DL model可行嗎
 八條肌肉，電腦運算量
 確定虛擬的EMG是可行的
 
+考量機械
+
 
 1. mocap
 2. motion imitation model -> muscle coordination
