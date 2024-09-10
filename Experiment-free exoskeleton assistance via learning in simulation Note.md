@@ -62,5 +62,5 @@ opensim training DL model可行嗎
 - opensim API 
 - simulink 環境
 
-本質上是用肌肉
+本質上是從肌肉到外骨骼，nature是外
 八條肌肉
