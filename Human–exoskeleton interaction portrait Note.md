@@ -3,6 +3,7 @@
 面向
 - "rehabilitation robotics"
 - quantify human–exoskeleton interaction
+- power augmentation
 
 Words:
 - Proposed herein
