@@ -52,5 +52,5 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 用跑步機，
 可以一併解決KV260暫時沒辦法攜帶的問題
 
-產生
+用t-SNE產生視覺化工具
 https://www.mropengate.com/2019/06/t-sne.html
