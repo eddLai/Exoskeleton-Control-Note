@@ -26,5 +26,6 @@ time-based controller (TBC)\
 Validation
 - normalized oxygen uptake
 - compared to running in normal shoes [10]
+- Questionnaires [] 
 
 an analysis of the power flow
