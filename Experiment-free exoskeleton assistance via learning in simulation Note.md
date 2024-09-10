@@ -46,7 +46,7 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 	- "This level of individualization is achieved purely through computer simulation without any online tuning process or human subject training with the device."
 
 實做重點
-- 外骨骼跟人的連接方式（現有工具，不然要自製物理引ㄑㄧㄥ）
+- 外骨骼跟人的連接方式（現有工具，不然要==自製物理引擎==）
 - 人與外骨骼的交互作用力（自己建構算式 or 現有工具）
 
 用跑步機，
