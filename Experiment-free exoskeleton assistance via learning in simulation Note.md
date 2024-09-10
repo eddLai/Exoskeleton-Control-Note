@@ -71,4 +71,4 @@ opensim training DL model可行嗎
 4. EMG -> EXO
 
 
-BT 問題，UART
+本週任務：BT 問題，UART
