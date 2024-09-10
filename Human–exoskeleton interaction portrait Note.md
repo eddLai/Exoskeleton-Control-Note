@@ -1,5 +1,6 @@
 [[Human–exoskeleton interaction portrait.pdf]]
 
+面向rehabilitation robotics
 Words:
 - Proposed herein
 - exoskeleton compensates for user dynamics
