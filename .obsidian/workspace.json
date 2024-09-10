@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -149,7 +147,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "73d33862d7e1ec27",
+  "active": "ce267d8792708e43",
   "lastOpenFiles": [
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "規劃/第二階段.md",
