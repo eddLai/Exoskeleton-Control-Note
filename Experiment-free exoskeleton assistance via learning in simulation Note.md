@@ -66,4 +66,5 @@ opensim training DL model可行嗎
 八條肌肉，電腦運算量
 
 1. mocap
-2. motion imitation model -> muscle coordinatio
+2. motion imitation model -> muscle coordination
+3. muscle cor
