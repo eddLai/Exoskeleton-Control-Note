@@ -67,7 +67,8 @@ opensim training DL model可行嗎
 確定虛擬的EMG是可行的
 
 考量機械建模,
-人體, EMG, 多交互 simulink
+人體, EMG模
+多交互 simulink
 足底感測？
 
 
@@ -78,4 +79,3 @@ opensim training DL model可行嗎
 
 
 本週任務：BT 問題，UART
-
