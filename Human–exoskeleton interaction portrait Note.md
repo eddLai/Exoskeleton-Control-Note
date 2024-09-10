@@ -1,5 +1,6 @@
 [[Human–exoskeleton interaction portrait.pdf]]
 
-Input: 
+Input: two 
 - muscle activity
-- 
+- interaction torque
+
