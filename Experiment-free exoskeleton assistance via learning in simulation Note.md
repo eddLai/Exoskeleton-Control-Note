@@ -48,3 +48,5 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 實做重點
 - 外骨骼跟人的連接方式（現有工具）
 - 人與外骨骼的交互作用力（自己建構算式 or 現有工具）
+
+跑步機
