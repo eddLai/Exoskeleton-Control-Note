@@ -66,9 +66,9 @@ opensim training DL model可行嗎
 八條肌肉，電腦運算量
 確定虛擬的EMG是可行的
 
-考量機械建模,
-人體, EMG模
 多交互 simulink
+- 考量機械建模, 人體, 多交互 simulink
+- EMG模你的文獻
 足底感測？
 
 
