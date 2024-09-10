@@ -62,4 +62,5 @@ opensim training DL model可行嗎
 - opensim API 
 - simulink 環境
 
-八條
+本質
+八條肌肉
