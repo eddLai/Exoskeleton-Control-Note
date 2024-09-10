@@ -4,6 +4,6 @@ Input: 2D-random variable
 - muscle activity
 - interaction torque
 
-interaction portrait(IP)
+interaction portrait(IP)->hybrid torque controller(HTC)
 - kinematic state feedback
-hybrid torque controller(HTC)
+- novel adaptive model-based torque controller (AMTC)
