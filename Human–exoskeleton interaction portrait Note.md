@@ -5,4 +5,5 @@ Input: 2D-random variable
 - interaction torque
 
 interaction portrait(IP)
+- kinematic state feedback
 hybrid torque controller(HTC)
