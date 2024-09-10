@@ -7,3 +7,6 @@ Input: 2D-random variable
 interaction portrait(IP) -> hybrid torque controller(HTC)
 - kinematic state feedback
 - novel adaptive model-based torque controller (AMTC)
+
+> Online learning
+
