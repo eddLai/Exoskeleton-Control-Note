@@ -64,3 +64,6 @@ opensim training DL model可行嗎
 
 本質上是從肌肉到外骨骼，nature是外骨骼物理量要反推肌肉
 八條肌肉，電腦運算量
+
+1. mocap
+2. 
