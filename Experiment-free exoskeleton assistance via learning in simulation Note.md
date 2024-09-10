@@ -49,4 +49,5 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 - 外骨骼跟人的連接方式（現有工具）
 - 人與外骨骼的交互作用力（自己建構算式 or 現有工具）
 
-用跑步機，可以一併解決KV260暫時沒辦法攜帶的問題
+用跑步機，
+可以一併解決KV260暫時沒辦法攜帶的問題
