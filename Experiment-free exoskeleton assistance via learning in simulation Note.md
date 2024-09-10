@@ -58,4 +58,5 @@ https://www.mropengate.com/2019/06/t-sne.html
 模擬：先有動作再有電訊號
 實際人體機制：先有電訊號再有動作
 
-opensim training DL model可行嗎還是一定要simulink
+opensim training DL model可行嗎
+還是一定要simulink
