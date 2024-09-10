@@ -14,4 +14,7 @@ interaction portrait(IP) -> hybrid torque controller(HTC)
 > Online learning
 
 ---
-time-based controller (TBC)
+time-based controller (TBC)\
+
+Validation
+- normalized oxygen uptake
