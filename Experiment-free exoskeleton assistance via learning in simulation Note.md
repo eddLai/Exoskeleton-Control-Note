@@ -71,4 +71,4 @@ opensim training DL model可行嗎
 4. EMG -> EXO
 
 
-BT 
+BT ，
