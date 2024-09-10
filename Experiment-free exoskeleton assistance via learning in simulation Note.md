@@ -55,4 +55,4 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 用t-SNE產生視覺化工具
 https://www.mropengate.com/2019/06/t-sne.html
 
-先有動作再有電訊號，先有電訊號再有動作
+模擬：先有動作再有電訊號，先有電訊號再有動作
