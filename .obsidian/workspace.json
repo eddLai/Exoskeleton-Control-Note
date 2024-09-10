@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md"
+                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
               }
             }
           }
@@ -180,12 +181,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "93ca5081949c2ff4",
+  "active": "1ac14adb4da27f30",
   "lastOpenFiles": [
-    "文獻/ML app/Papers/Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf",
-    "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "Human–exoskeleton interaction portrait Note.md",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+    "文獻/ML app/Papers/Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf",
+    "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "規劃/第二階段.md",
     "規劃/Reward and Ouput Algorithm Design.md",
@@ -200,7 +201,6 @@
     "Presentation slide.md",
     "Bottles套Cygnus.md",
     "文獻/s41586-024-07382-4 (1).pdf",
-    "文獻/ML app/Papers/Reinforcement Learning and Control\nof a Lower Extremity Exoskeleton for\nSquat Assistance.pdf",
     "外骨骼穿戴全身.png",
     "外骨骼兩張.png",
     "外骨骼.md",
