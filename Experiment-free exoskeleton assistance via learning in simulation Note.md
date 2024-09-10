@@ -47,4 +47,4 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 
 實做重點
 - 外骨骼跟人的連接方式
-- 人與外骨骼的作用力
+- 人與外骨骼的交互作用力（算式）
