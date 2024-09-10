@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34578e5236011419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Human–exoskeleton interaction portrait Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+                "file": "Human–exoskeleton interaction portrait Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+                "file": "Human–exoskeleton interaction portrait Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md"
+                "file": "Human–exoskeleton interaction portrait Note.md"
               }
             }
           }
@@ -148,10 +161,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "93ca5081949c2ff4",
+  "active": "34578e5236011419",
   "lastOpenFiles": [
-    "Human–exoskeleton interaction portrait Note.md",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+    "Human–exoskeleton interaction portrait Note.md",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "規劃/第二階段.md",
     "規劃/Reward and Ouput Algorithm Design.md",
