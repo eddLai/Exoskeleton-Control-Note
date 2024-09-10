@@ -44,5 +44,7 @@ North Carolina State University, Embry-Riddle Aeronautical University,
 - ==All in simulation==
 	- "three neural networks in our framework are trained simultaneously in the simulation"
 	- "This level of individualization is achieved purely through computer simulation without any online tuning process or human subject training with the device."
-	- 外骨骼跟人的連接方式
-	- 
+
+實做重點
+- 外骨骼跟人的連接方式
+- 
