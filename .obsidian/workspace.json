@@ -11,11 +11,9 @@
             "id": "93ca5081949c2ff4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
-                "mode": "source",
-                "source": false
+                "file": "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf"
               }
             }
           },
@@ -91,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+                "file": "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+                "file": "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md"
+                "file": "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf"
               }
             }
           }
@@ -172,8 +169,8 @@
   },
   "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
-    "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+    "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "Human–exoskeleton interaction portrait Note.md",
     "文獻/ML app/Papers/Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf",
