@@ -1,5 +1,8 @@
 [[Human–exoskeleton interaction portrait.pdf]]
 
+Words:
+- Proposed herein
+
 Input: 2D-random variable
 - muscle activity
 - interaction torque
