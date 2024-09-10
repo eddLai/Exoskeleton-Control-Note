@@ -1,6 +1,7 @@
 [[Human–exoskeleton interaction portrait.pdf]]
 
-面向"rehabilitation robotics"
+面向"rehabilitation robotics"，quantify human–exoskel-
+eton interaction
 Words:
 - Proposed herein
 - exoskeleton compensates for user dynamics
