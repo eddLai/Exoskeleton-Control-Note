@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "EMG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       }
     ]
   },
-  "active": "93ca5081949c2ff4",
+  "active": "73d33862d7e1ec27",
   "lastOpenFiles": [
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "規劃/Reward and Ouput Algorithm Design.md",
