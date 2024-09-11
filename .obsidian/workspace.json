@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "5f5938551a98a8a0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
-              }
-            }
-          },
-          {
             "id": "b2652d2ac457d098",
             "type": "leaf",
             "state": {
@@ -134,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+                "file": "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+                "file": "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md"
+                "file": "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
               }
             }
           }
@@ -196,12 +186,47 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "93ca5081949c2ff4",
+  "floating": {
+    "id": "7c4ad2509b6bad6f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e6c28e3d4728b39e",
+        "type": "window",
+        "children": [
+          {
+            "id": "d064a5ae65552094",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f5938551a98a8a0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 679,
+        "y": 106,
+        "width": 603,
+        "height": 602,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5f5938551a98a8a0",
   "lastOpenFiles": [
+    "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "Human–exoskeleton interaction portrait Note.md",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "Presentation slide.md",
-    "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "文獻/ML app/Papers/Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf",
