@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,12 +208,13 @@
   },
   "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
+    "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
+    "規劃/第二階段.md",
     "規劃/第一階段實際開會紀錄.md",
     "規劃/Reward and Ouput Algorithm Design.md",
     "Presentation slide.md",
     "文獻/EMG/EMG彙整.md",
     "文獻/ML app/RL overview of training.canvas",
-    "規劃/第二階段.md",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "Human–exoskeleton interaction portrait Note.md",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
@@ -255,7 +255,6 @@
     "推薦系統.md",
     "GET API.md",
     "文件清單.md",
-    "文獻/Papers List.md",
     "文獻/Plan Graphs/控制規劃.canvas",
     "文獻/Plan Graphs/Hip實驗.canvas",
     "文獻/Plan Graphs/作動偵測實驗.canvas",
