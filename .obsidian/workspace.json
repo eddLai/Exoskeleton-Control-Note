@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md",
+                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md",
+                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "規劃/Reward and Ouput Algorithm Design.md"
+                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md"
               }
             }
           }
@@ -220,11 +219,11 @@
       }
     ]
   },
-  "active": "1e34752c6151ecc5",
+  "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
     "Presentation slide.md",
-    "Human–exoskeleton interaction portrait Note.md",
     "規劃/Reward and Ouput Algorithm Design.md",
+    "Human–exoskeleton interaction portrait Note.md",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
