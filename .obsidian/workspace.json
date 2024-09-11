@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Human–exoskeleton interaction portrait Note.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e07882ad332340bd",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation slide.md",
+                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation slide.md",
+                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation slide.md"
+                "file": "Experiment-free exoskeleton assistance via learning in simulation Note.md"
               }
             }
           }
@@ -197,13 +196,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b2652d2ac457d098",
+  "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
+    "Human–exoskeleton interaction portrait Note.md",
+    "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
+    "Presentation slide.md",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
-    "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
-    "Human–exoskeleton interaction portrait Note.md",
     "文獻/ML app/Papers/Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf",
     "規劃/第二階段.md",
     "規劃/Reward and Ouput Algorithm Design.md",
@@ -214,7 +214,6 @@
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.docx",
     "文獻/ML app/Papers/DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf",
     "Cygnus src解析.md",
-    "Presentation slide.md",
     "Bottles套Cygnus.md",
     "文獻/s41586-024-07382-4 (1).pdf",
     "外骨骼穿戴全身.png",
