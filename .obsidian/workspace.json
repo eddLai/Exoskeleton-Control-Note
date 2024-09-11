@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文獻/EMG/EMG彙整.md",
+                "file": "Presentation slide.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/EMG/EMG彙整.md",
+                "file": "Presentation slide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/EMG/EMG彙整.md",
+                "file": "Presentation slide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文獻/EMG/EMG彙整.md"
+                "file": "Presentation slide.md"
               }
             }
           }
@@ -207,8 +207,9 @@
       }
     ]
   },
-  "active": "73d33862d7e1ec27",
+  "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
+    "文獻/EMG/EMG彙整.md",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "規劃/Reward and Ouput Algorithm Design.md",
     "Presentation slide.md",
@@ -251,7 +252,6 @@
     "WSL GUI.md",
     "推薦系統.md",
     "GET API.md",
-    "文獻/EMG/EMG彙整.md",
     "文件清單.md",
     "文獻/Papers List.md",
     "文獻/Plan Graphs/控制規劃.canvas",
