@@ -172,45 +172,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "floating": {
-    "id": "7c4ad2509b6bad6f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e6c28e3d4728b39e",
-        "type": "window",
-        "children": [
-          {
-            "id": "d064a5ae65552094",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5f5938551a98a8a0",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 679,
-        "y": 106,
-        "width": 603,
-        "height": 602,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "93ca5081949c2ff4",
   "lastOpenFiles": [
-    "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
+    "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "規劃/第二階段.md",
+    "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
     "規劃/第一階段實際開會紀錄.md",
     "規劃/Reward and Ouput Algorithm Design.md",
     "Presentation slide.md",
@@ -218,7 +184,6 @@
     "文獻/ML app/RL overview of training.canvas",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "Human–exoskeleton interaction portrait Note.md",
-    "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "文獻/ML app/Papers/Estimating human joint moments unifies exoskeleton\ncontrol, reducing user effort.pdf",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "文獻/ML app/Papers/Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf",
@@ -230,7 +195,6 @@
     "文獻/ML app/Papers/DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf",
     "Cygnus src解析.md",
     "Bottles套Cygnus.md",
-    "文獻/s41586-024-07382-4 (1).pdf",
     "外骨骼穿戴全身.png",
     "外骨骼兩張.png",
     "外骨骼.md",
