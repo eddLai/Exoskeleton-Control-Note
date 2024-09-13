@@ -7,3 +7,4 @@ ApiCmd -> stream.py
 正常windows版本輸出畫面
 
 [[Consistent Overhead Byte Stuffing(COBS) encoding]]
+
