@@ -28,5 +28,5 @@ offline
 - [ ] 11/16 1 week D4PG cma-es 進 scone
 - [ ] 12/6 3 week HMI, 4 indexs
 - [ ] 12/13 1 week deployment KV260, par進python, NPU acc.
-- [ ] 12/ 2 week fine-tuning 繼續跑跑步機
+- [ ] 12/ 27 2 week fine-tuning 繼續跑跑步機
 - [ ] application
