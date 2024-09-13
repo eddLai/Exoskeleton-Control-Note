@@ -9,3 +9,4 @@ ApiCmd -> stream.py
 [[Consistent Overhead Byte Stuffing(COBS) encoding]]
 
 整段commnad排列組合
+錄EMG
