@@ -23,8 +23,8 @@ offline
 
 - [ ] 10/13 1 month mocap+emg sim standing, walking
 - [ ] 10/20 1 week running and climbing
-- [ ] 10/2 week trasistion
-- [ ] 1 week exoskeleton 考慮opensim 建模
+- [ ] 11//2 2 week trasistion
+- [ ] 11/9 1 week exoskeleton 考慮opensim 建模
 - [ ] 1 week D4PG cma-es 進 scone
 - [ ] 3 week HMI, 4 indexs
 - [ ] 1 week deployment KV260, par進python, NPU acc.
