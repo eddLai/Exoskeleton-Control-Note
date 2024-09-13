@@ -27,6 +27,6 @@ offline
 - [ ] 11/9 1 week exoskeleton 考慮opensim 建模
 - [ ] 11/16 1 week D4PG cma-es 進 scone
 - [ ] 12/6 3 week HMI, 4 indexs
-- [ ] 1 week deployment KV260, par進python, NPU acc.
+- [ ] 12/1 week deployment KV260, par進python, NPU acc.
 - [ ] 2 week fine-tuning 繼續跑跑步機
 - [ ] application
