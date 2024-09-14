@@ -281,7 +281,7 @@ Real-time是最困難的<!-- element class="with-border"-->
 
 ---
 [[旺宏作品計劃書exoskeleton組v1.1.pdf]]
-<br>[[附件1_外骨骼系統源代碼v2.pdf]]
+<br>[[documents/計劃書/附件1_外骨骼系統源代碼v2.pdf]]
 <br>[[附件2_示範影片.pdf]]
 <br>(論文引用、以及產品規格)
 
