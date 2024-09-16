@@ -11,22 +11,16 @@
             "id": "93ca5081949c2ff4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "規劃/第二階段.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "21295fbd3f5a9b80",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -121,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -199,10 +189,8 @@
                 "id": "734bc0cdb6ea1097",
                 "type": "leaf",
                 "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
