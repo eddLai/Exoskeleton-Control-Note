@@ -11,11 +11,9 @@
             "id": "21295fbd3f5a9b80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Plan/第二階段.md",
-                "mode": "source",
-                "source": false
+                "file": "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf"
               }
             }
           },
@@ -32,6 +30,16 @@
             }
           },
           {
+            "id": "b4d1da95e5cabf2a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
+              }
+            }
+          },
+          {
             "id": "b2652d2ac457d098",
             "type": "leaf",
             "state": {
@@ -43,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -109,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
               }
             }
           }
@@ -171,13 +181,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21295fbd3f5a9b80",
+  "active": "b4d1da95e5cabf2a",
   "lastOpenFiles": [
+    "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+    "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
+    "Plan/第二階段.md",
     "documents/大茂-運動型外骨骼-SBIR計畫書_20230630_final.pdf",
     "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "Human–exoskeleton interaction portrait Note.md",
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
-    "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "Presentation slide.md",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "規劃/第二階段.md",
@@ -191,8 +203,6 @@
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/conference/backup.md",
     "文獻/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
-    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
-    "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.docx",
     "Cygnus src解析.md",
     "Bottles套Cygnus.md",
     "外骨骼穿戴全身.png",
@@ -219,7 +229,6 @@
     "WSL GUI.md",
     "推薦系統.md",
     "GET API.md",
-    "文件清單.md",
     "文獻/Plan Graphs/控制規劃.canvas",
     "文獻/Plan Graphs/Hip實驗.canvas",
     "文獻/Plan Graphs/作動偵測實驗.canvas",
