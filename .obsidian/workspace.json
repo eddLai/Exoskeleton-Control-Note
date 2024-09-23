@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf"
               }
             }
           }
@@ -158,11 +159,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21295fbd3f5a9b80",
+  "active": "b4d1da95e5cabf2a",
   "lastOpenFiles": [
+    "Plan/第二階段.md",
     "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf",
     "Presentation slide.md",
-    "Plan/第二階段.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "Cygnus from windows to Linux.md",
     "Plan/Reward and Ouput Algorithm Design.md",
