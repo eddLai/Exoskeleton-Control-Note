@@ -1,3 +1,4 @@
+
 為了解決穩定性問題
 為了在FPGA上運行Cygnus
 - 不管內容，把exe檔案在Linux上面跑起來，使用wine

@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "Cygnus from windows to Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "Cygnus from windows to Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "Cygnus from windows to Linux.md"
               }
             }
           }
@@ -194,10 +195,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21295fbd3f5a9b80",
+  "active": "646bea509d0ab438",
   "lastOpenFiles": [
-    "Cygnus from windows to Linux.md",
     "Plan/第二階段.md",
+    "Cygnus from windows to Linux.md",
     "Plan/Reward and Ouput Algorithm Design.md",
     "human exo simulation environment development schedule.md",
     "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
