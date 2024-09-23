@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "cc017307f7d934aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Muscle-Reflex Model that Encodes Principles of Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b4d1da95e5cabf2a",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "A Muscle-Reflex Model that Encodes Principles of Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "A Muscle-Reflex Model that Encodes Principles of Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "A Muscle-Reflex Model that Encodes Principles of Note.md"
               }
             }
           }
@@ -157,10 +170,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21295fbd3f5a9b80",
+  "active": "cc017307f7d934aa",
   "lastOpenFiles": [
-    "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
     "Plan/第二階段.md",
+    "A Muscle-Reflex Model that Encodes Principles of Note.md",
+    "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
     "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
     "Presentation slide.md",
     "human and exoskeleton environment of simulation development schedule.md",
@@ -205,7 +219,6 @@
     "文獻/KneeBO Contol/Command Table.md",
     "文獻/KneeBO Contol/KneeBO_CMD.md",
     "文獻/KneeBO Contol/KneeBO command list.md",
-    "trouble shooting.md",
     "文獻/Plan Graphs/控制規劃.canvas",
     "文獻/Plan Graphs/Hip實驗.canvas",
     "文獻/Plan Graphs/作動偵測實驗.canvas",
