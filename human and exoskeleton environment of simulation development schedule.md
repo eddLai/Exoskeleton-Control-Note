@@ -1,7 +1,7 @@
 
 | Date  | Duration length | task                                | check |
 | ----- | --------------- | ----------------------------------- | ----- |
-| 10/13 | 1 month         | [[mocap+emg sim standing, walking]] |       |
+| 10/13 | 1 month         | [[mocap+emg standing, walking sim]] |       |
 | 10/20 | 1 week          | running and climbing                |       |
 | 11/2  | 2 weeks         | trasistion                          |       |
 | 11/9  | 1 week          | Exoskeleton 模型考慮 OpenSim 建模         |       |
