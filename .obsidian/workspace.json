@@ -18,18 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "64df62f4c80e36f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Motor Control Programs and walking Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -161,11 +149,11 @@
   },
   "active": "21295fbd3f5a9b80",
   "lastOpenFiles": [
+    "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
+    "Plan/第二階段.md",
     "Motor Control Programs and walking Note.md",
     "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
-    "Plan/第二階段.md",
     "A Muscle-Reflex Model that Encodes Principles of Note.md",
-    "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
     "Presentation slide.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "Cygnus from windows to Linux.md",
