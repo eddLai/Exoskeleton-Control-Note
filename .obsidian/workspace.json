@@ -35,7 +35,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
+                "file": "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
+                "file": "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
+                "file": "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf"
+                "file": "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf"
               }
             }
           }
@@ -182,6 +182,8 @@
   },
   "active": "b4d1da95e5cabf2a",
   "lastOpenFiles": [
+    "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
+    "documents/Simulation/A neuromuscular model of human\nlocomotion combines spinal reflex\ncircuits with voluntary movements.pdf",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
     "Plan/第二階段.md",
@@ -201,7 +203,6 @@
     "文獻/ML app/Papers/Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf",
     "文獻/ML app/Papers/Human–exoskeleton interaction portrait.pdf",
     "文獻/conference/backup.md",
-    "文獻/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "Cygnus src解析.md",
     "Bottles套Cygnus.md",
     "外骨骼穿戴全身.png",
