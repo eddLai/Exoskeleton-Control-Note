@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "b4d1da95e5cabf2a",
+            "id": "64df62f4c80e36f1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf"
+                "file": "Motor Control Programs and walking Note.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -159,10 +161,11 @@
   },
   "active": "21295fbd3f5a9b80",
   "lastOpenFiles": [
-    "A Muscle-Reflex Model that Encodes Principles of Note.md",
-    "Plan/第二階段.md",
-    "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
+    "Motor Control Programs and walking Note.md",
     "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
+    "Plan/第二階段.md",
+    "A Muscle-Reflex Model that Encodes Principles of Note.md",
+    "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
     "Presentation slide.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "Cygnus from windows to Linux.md",
@@ -204,8 +207,6 @@
     "Slide pics/Pasted image 20240525151103.png",
     "Slide pics/Pasted image 20240525150434.png",
     "文獻/KneeBO Contol/Command Table.md",
-    "文獻/KneeBO Contol/KneeBO_CMD.md",
-    "文獻/KneeBO Contol/KneeBO command list.md",
     "文獻/Plan Graphs/控制規劃.canvas",
     "文獻/Plan Graphs/Hip實驗.canvas",
     "文獻/Plan Graphs/作動偵測實驗.canvas",
