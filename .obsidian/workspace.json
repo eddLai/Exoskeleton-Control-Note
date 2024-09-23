@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4d928eb16c8777d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b4d1da95e5cabf2a",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md"
               }
             }
           }
@@ -158,10 +171,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21295fbd3f5a9b80",
+  "active": "4d928eb16c8777d1",
   "lastOpenFiles": [
-    "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
     "Plan/第二階段.md",
+    "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements note.md",
+    "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
     "Presentation slide.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "Cygnus from windows to Linux.md",
