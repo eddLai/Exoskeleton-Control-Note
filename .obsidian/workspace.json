@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human exo simulation environment development schedule.md",
+                "file": "human and exoskeleton simulation environment development schedule.md",
                 "mode": "preview",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human exo simulation environment development schedule.md",
+                "file": "human and exoskeleton simulation environment development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human exo simulation environment development schedule.md",
+                "file": "human and exoskeleton simulation environment development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human exo simulation environment development schedule.md"
+                "file": "human and exoskeleton simulation environment development schedule.md"
               }
             }
           }
@@ -185,7 +185,7 @@
   "active": "68ba6d4c4a140e0a",
   "lastOpenFiles": [
     "Plan/第二階段.md",
-    "human exo simulation environment development schedule.md",
+    "human and exoskeleton simulation environment development schedule.md",
     "Cygnus from windows to Linux.md",
     "Plan/Reward and Ouput Algorithm Design.md",
     "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
