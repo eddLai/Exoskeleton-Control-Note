@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocap+emg standing and walking sim.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocap+emg standing and walking sim.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocap+emg standing and walking sim.md"
+                "file": "human and exoskeleton environment of simulation development schedule.md"
               }
             }
           }
@@ -161,10 +159,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "5e635c2f16a692a2",
+  "active": "21295fbd3f5a9b80",
   "lastOpenFiles": [
-    "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
+    "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
     "Motor Control Programs and walking Note.md",
