@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "human exo simulation environment development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "human exo simulation environment development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "human exo simulation environment development schedule.md"
               }
             }
           }
@@ -182,10 +182,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21295fbd3f5a9b80",
+  "active": "68ba6d4c4a140e0a",
   "lastOpenFiles": [
-    "Cygnus from windows to Linux.md",
     "Plan/第二階段.md",
+    "Cygnus from windows to Linux.md",
     "Plan/Reward and Ouput Algorithm Design.md",
     "human exo simulation environment development schedule.md",
     "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
