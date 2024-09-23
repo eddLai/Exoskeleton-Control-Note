@@ -1,8 +1,8 @@
 | Date  | Duration length | task                            | check |
 | ----- | --------------- | ------------------------------- | ----- |
 | 10/13 | 1 month         | mocap+emg sim standing, walking |       |
-| 10/20 | 1 week          | 跑步與爬梯模擬                         |       |
-| 11/2  | 2 weeks         | 模擬過渡階段                          |       |
+| 10/20 | 1 week          | running and climbing            |       |
+| 11/2  | 2 weeks         | trasistion                      |       |
 | 11/9  | 1 week          | Exoskeleton 模型考慮 OpenSim 建模     |       |
 | 11/16 | 1 week          | D4PG + CMA-ES 整合進 Scone         |       |
 | 12/6  | 3 weeks         | HMI 模擬，4 個指標                    |       |
