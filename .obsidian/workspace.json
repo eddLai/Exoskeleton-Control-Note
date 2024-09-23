@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "646bea509d0ab438",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cygnus from windows to Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "68ba6d4c4a140e0a",
             "type": "leaf",
             "state": {
@@ -184,8 +196,9 @@
   },
   "active": "21295fbd3f5a9b80",
   "lastOpenFiles": [
-    "Plan/Reward and Ouput Algorithm Design.md",
+    "Cygnus from windows to Linux.md",
     "Plan/第二階段.md",
+    "Plan/Reward and Ouput Algorithm Design.md",
     "human exo simulation environment development schedule.md",
     "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
     "Windows defender.png",
@@ -230,7 +243,6 @@
     "文獻/KneeBO Contol/KneeBO command list.md",
     "trouble shooting.md",
     "WSL GUI.md",
-    "推薦系統.md",
     "文獻/Plan Graphs/控制規劃.canvas",
     "文獻/Plan Graphs/Hip實驗.canvas",
     "文獻/Plan Graphs/作動偵測實驗.canvas",
