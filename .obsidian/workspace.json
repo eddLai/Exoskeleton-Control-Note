@@ -23,7 +23,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20240723160705.png"
+                "file": "Pasted image 20240512100407.png"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240723160705.png",
+                "file": "Pasted image 20240512100407.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240723160705.png",
+                "file": "Pasted image 20240512100407.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240723160705.png"
+                "file": "Pasted image 20240512100407.png"
               }
             }
           }
@@ -178,10 +178,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ce267d8792708e43",
+  "active": "34578e5236011419",
   "lastOpenFiles": [
+    "RL iteration flow.png",
     "Pasted image 20240831145925.png.md",
-    "Pasted image 20240723160705.png",
     "Pasted image 20240512100407.png",
     "Experiment-free exoskeleton assistance via learning in simulation Note.md",
     "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",

@@ -38,7 +38,7 @@ AUC
 - PID and RL 控制理論，輸出人的表現:肌肉、步頻步伐，角度是不可知道的
 
 關馬達，收Data，把物理量與EMG交叉比對(correlation)
-![[Pasted image 20240723160705.png|400]]
+![[RL iteration flow.png|400]]
 1. 找安妤要資料 -> reward函數設計，力量少不代表力竭，==EMG訊號可以判斷出力竭==
 2. train data 要固定、跑步機，測試KV260正不正常 (週五前)
 
