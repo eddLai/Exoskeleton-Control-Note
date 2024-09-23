@@ -88,6 +88,8 @@ Input:()
 $$T=K_t \cdot I$$
 $$T_{required}=T_{original}-T{ext}$$
 $$I_{new}=\frac {T_{required}}{K_t}$$
+
+---
 ### Reward設計
 可以判斷抬升方向
 - 外力順時針
