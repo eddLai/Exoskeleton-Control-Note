@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5e635c2f16a692a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocap+emg standing and walking sim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md"
+                "file": "mocap+emg standing and walking sim.md"
               }
             }
           }
@@ -148,15 +161,16 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21295fbd3f5a9b80",
+  "active": "5e635c2f16a692a2",
   "lastOpenFiles": [
+    "human and exoskeleton environment of simulation development schedule.md",
+    "mocap+emg standing and walking sim.md",
     "Plan/第二階段.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
     "Motor Control Programs and walking Note.md",
     "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
     "A Muscle-Reflex Model that Encodes Principles of Note.md",
     "Presentation slide.md",
-    "human and exoskeleton environment of simulation development schedule.md",
     "Cygnus from windows to Linux.md",
     "Plan/Reward and Ouput Algorithm Design.md",
     "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
