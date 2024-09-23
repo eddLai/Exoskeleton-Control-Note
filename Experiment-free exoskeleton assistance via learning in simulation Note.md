@@ -76,6 +76,3 @@ opensim training DL model可行嗎
 2. motion imitation model -> muscle coordination
 3. muscle coordination -> EMG
 4. EMG -> EXO
-
-
-本週任務：BT 問題，UART
