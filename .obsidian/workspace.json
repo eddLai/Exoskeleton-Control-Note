@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "human exo simulation environment development schedule.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -53,8 +53,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human exo simulation environment development schedule.md",
+                "file": "Plan/第二階段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human exo simulation environment development schedule.md",
+                "file": "Plan/第二階段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human exo simulation environment development schedule.md"
+                "file": "Plan/第二階段.md"
               }
             }
           }
@@ -182,12 +181,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "68ba6d4c4a140e0a",
+  "active": "21295fbd3f5a9b80",
   "lastOpenFiles": [
+    "human exo simulation environment development schedule.md",
     "Plan/第二階段.md",
     "Cygnus from windows to Linux.md",
     "Plan/Reward and Ouput Algorithm Design.md",
-    "human exo simulation environment development schedule.md",
     "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
     "Windows defender.png",
     "RL iteration flow.png",
