@@ -10,3 +10,5 @@
 Predictive simulations
 
 Keywords in SCONE are **case sensitive**.
+
+Actuator
