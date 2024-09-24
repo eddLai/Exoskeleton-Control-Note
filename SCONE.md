@@ -123,9 +123,4 @@ sudo adduser username
 
 希望这些步骤能帮助您成功配置 XRDP 与 GNOME 桌面环境，实现多用户同时通过 RDP 连接到您的 Ubuntu 电脑。如果您有任何疑问或需要进一步的帮助，请随时提问！
 
-
-ChatGPT can make mistakes. Check important info.
 ```
-=======
-yylab123
->>>>>>> origin/main
