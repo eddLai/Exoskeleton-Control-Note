@@ -8,3 +8,5 @@
 
 `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
 Predictive simulations
+
+Keywords in SCONE are **case sensitive**.

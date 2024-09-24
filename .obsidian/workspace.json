@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "SCONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "SCONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md"
+                "file": "SCONE.md"
               }
             }
           }
@@ -197,10 +197,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0e721d04910d6259",
+  "active": "8fae6f021b668b74",
   "lastOpenFiles": [
-    "SCONE.md",
     "human and exoskeleton environment of simulation development schedule.md",
+    "SCONE.md",
     "Plan/第二階段.md",
     "conflict-files-obsidian-git.md",
     "mocap+emg standing and walking sim.md",
