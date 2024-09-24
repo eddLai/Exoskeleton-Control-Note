@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCONE.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCONE.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCONE.md"
+                "file": "human and exoskeleton environment of simulation development schedule.md"
               }
             }
           }
@@ -197,11 +197,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fae6f021b668b74",
+  "active": "0e721d04910d6259",
   "lastOpenFiles": [
+    "SCONE.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
-    "SCONE.md",
     "conflict-files-obsidian-git.md",
     "mocap+emg standing and walking sim.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
