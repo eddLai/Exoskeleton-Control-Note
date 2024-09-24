@@ -6,6 +6,7 @@
 - Goad task(Objective), Combination of Measures
 - Optimizer
 
+<<<<<<< HEAD
 
 
 
@@ -129,3 +130,6 @@ sudo adduser username
 
 ChatGPT can make mistakes. Check important info.
 ```
+=======
+yylab123
+>>>>>>> origin/main

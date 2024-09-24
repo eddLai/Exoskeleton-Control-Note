@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "6d03f0b5a888ad72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e721d04910d6259",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCONE.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCONE.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCONE.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -196,10 +208,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fae6f021b668b74",
+  "active": "6d03f0b5a888ad72",
   "lastOpenFiles": [
-    "Plan/第二階段.md",
     "SCONE.md",
+    "conflict-files-obsidian-git.md",
+    "Plan/第二階段.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
@@ -238,7 +251,6 @@
     "計劃/第二階段.md",
     "計劃/開發時間軸規畫.md",
     "test.md",
-    "計劃/第一階段實際開會紀錄.md",
     "文獻/ML app/Pasted image 20240107180700.png",
     "Slide pics/Pasted image 20240522175455.png",
     "Slide pics/Pasted image 20240522182005.png",
