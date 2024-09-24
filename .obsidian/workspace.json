@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "8fae6f021b668b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCONE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e721d04910d6259",
             "type": "leaf",
             "state": {
@@ -187,8 +199,9 @@
   },
   "active": "9c2f516a4a55d752",
   "lastOpenFiles": [
-    "human and exoskeleton environment of simulation development schedule.md",
+    "SCONE.md",
     "Plan/第二階段.md",
+    "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
     "Motor Control Programs and walking Note.md",
@@ -233,7 +246,6 @@
     "Slide pics/Pasted image 20240522182438.png",
     "Slide pics/Pasted image 20240525151103.png",
     "Slide pics/Pasted image 20240525150434.png",
-    "文獻/KneeBO Contol/Command Table.md",
     "文獻/Plan Graphs/控制規劃.canvas",
     "文獻/Plan Graphs/Hip實驗.canvas",
     "文獻/Plan Graphs/作動偵測實驗.canvas",
