@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -196,11 +197,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ce267d8792708e43",
+  "active": "8fae6f021b668b74",
   "lastOpenFiles": [
+    "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
     "SCONE.md",
-    "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
     "Motor Control Programs and walking Note.md",
