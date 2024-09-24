@@ -6,10 +6,6 @@
 - Goad task(Objective), Combination of Measures
 - Optimizer
 
-t <<<<<<< HEAD
-
-
-
 ```
 更新系统并安装 XRDP
 
