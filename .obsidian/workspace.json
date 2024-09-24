@@ -54,19 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c4d20be910b37448",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf"
+                "file": "human and exoskeleton environment of simulation development schedule.md"
               }
             }
           }
@@ -194,8 +184,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c4d20be910b37448",
+  "active": "0e721d04910d6259",
   "lastOpenFiles": [
+    "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
     "Plan/第二階段.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
@@ -236,7 +227,6 @@
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "計劃/第二階段.md",
     "計劃/開發時間軸規畫.md",
-    "test.md",
     "文獻/ML app/Pasted image 20240107180700.png",
     "Slide pics/Pasted image 20240522175455.png",
     "Slide pics/Pasted image 20240522182005.png",
