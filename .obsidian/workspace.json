@@ -54,9 +54,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c4d20be910b37448",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf"
               }
             }
           }
@@ -184,11 +194,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9c2f516a4a55d752",
+  "active": "c4d20be910b37448",
   "lastOpenFiles": [
+    "Plan/第二階段.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
-    "Plan/第二階段.md",
     "SCONE.md",
     "conflict-files-obsidian-git.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
