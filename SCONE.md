@@ -3,4 +3,4 @@
 - Contorller
 	- open-loop
 	- closed-loop
-- Goad task(Ob)
+- Goad task(Objective)
