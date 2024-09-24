@@ -6,7 +6,7 @@
 - Goad task(Objective), Combination of Measures
 - Optimizer
 
-<<<<<<< HEAD
+t <<<<<<< HEAD
 
 
 
