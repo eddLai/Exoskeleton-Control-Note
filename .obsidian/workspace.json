@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5e635c2f16a692a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocap+emg standing and walking sim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9c2f516a4a55d752",
             "type": "leaf",
             "state": {
@@ -67,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4718cc23948e3b59",
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "Plan/第二階段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "Plan/第二階段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md"
+                "file": "Plan/第二階段.md"
               }
             }
           }
@@ -196,13 +184,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21295fbd3f5a9b80",
+  "active": "9c2f516a4a55d752",
   "lastOpenFiles": [
+    "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
     "Plan/第二階段.md",
     "SCONE.md",
     "conflict-files-obsidian-git.md",
-    "human and exoskeleton environment of simulation development schedule.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
     "Motor Control Programs and walking Note.md",
     "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
