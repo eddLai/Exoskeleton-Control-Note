@@ -1,3 +1,6 @@
 - Model
 - Controller
-- Contorle
+- Contorller
+	- open-loop
+	- closed-loop
+- 
