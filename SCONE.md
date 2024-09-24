@@ -4,4 +4,4 @@
 	- open-loop
 	- closed-loop
 - Goad task(Objective), Combination of Measures
-- Optimizer
+- Optimizer  
