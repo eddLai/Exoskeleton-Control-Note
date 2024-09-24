@@ -3,4 +3,5 @@
 - Contorller
 	- open-loop
 	- closed-loop
-- Goad task(Objective), Combination 
+- Goad task(Objective), Combination of Measures
+- Optimize
