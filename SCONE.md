@@ -7,3 +7,4 @@
 - Optimizer
 
 `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
+Predictive simulations
