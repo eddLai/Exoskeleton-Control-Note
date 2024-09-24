@@ -18,4 +18,15 @@ Contror:
 
 code example:
 ```
+# Controller for the Model
+FeedForwardController {
+	symmetric = 1
+ 
+	# Function for feed-forward pattern
+	PieceWiseConstant {
+		control_points = 2
+		control_point_y = 0.3~0.01<0,1> # Initial y value of control points
+		control_point_dt = 0.2~0.01<0,1> # initial delta time between control points
+	}
+}
 ```
