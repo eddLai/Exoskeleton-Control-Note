@@ -11,4 +11,4 @@ Predictive simulations
 
 Keywords in SCONE are **case sensitive**.
 
-Controller:c Actuator, 
+ControActuator, 
