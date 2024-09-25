@@ -43,3 +43,4 @@ feed-forward pattern?
 - `PieceWiseLinearFunction`
 - `Polynomial`
 
+backwards during the jump
