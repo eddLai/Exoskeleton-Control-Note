@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "overview",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4718cc23948e3b59",
