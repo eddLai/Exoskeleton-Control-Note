@@ -47,7 +47,7 @@ feed-forward pattern?
 
 backwards during the jump
 
-Object defined by
+Object defined by 
 - Objective
 - Measure: _fitness function_ of the objective.
 
