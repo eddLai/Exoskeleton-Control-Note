@@ -27,6 +27,6 @@
 | 12/24 | 2 weeks         | week fine-tuning 繼續跑跑步機                                  |       |
 | 12/25 | -               | application and EMG filter                               |       |
 
-1. model fit 
+1. make model fit an object
 	1. opensism IK (API調用)
 	2. 
