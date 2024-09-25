@@ -39,6 +39,7 @@ feed-forward pattern?
 - time delta
 
 肌肉激勵信號：
-- PieceWiseConstantFunction
-- PieceWiseLinearFunction
-- Polynomial
+- `PieceWiseConstantFunction`
+- `PieceWiseLinearFunction`
+- `Polynomial`
+
