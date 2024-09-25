@@ -32,9 +32,9 @@ FeedForwardController {
 ```
 feed-forward pattern? 
 
-
+按鍵區域
 - `Windows → Parameters`
-`Analysis tool`
+- `Analysis tool`
 
 參數格式：`mean~standard deviation<minimum, maximum>`
 - setpoints
