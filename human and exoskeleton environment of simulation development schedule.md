@@ -26,7 +26,6 @@
 把成果提前到11月前
 病理的目標：平衡的很好
 
-
 7 Days
 1. make model fit an object
 	1. difference between our EMG data and Gold standard
