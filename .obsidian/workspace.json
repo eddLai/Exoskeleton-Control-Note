@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCONE.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCONE.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCONE.md"
+                "file": "human and exoskeleton environment of simulation development schedule.md"
               }
             }
           }
@@ -159,14 +160,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fae6f021b668b74",
+  "active": "0e721d04910d6259",
   "lastOpenFiles": [
+    "SCONE.md",
     "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
     "human and exoskeleton environment of simulation development schedule.md",
-    "SCONE.md",
     "Plan/第二階段.md",
     "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
     "mocap+emg standing and walking sim.md",
@@ -186,7 +187,6 @@
     "documents/Simulation/A Muscle-Reflex Model that Encodes Principles of.pdf",
     "documents/Simulation/Motor Control Programs and walking.pdf",
     "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
-    "documents/大茂-運動型外骨骼-SBIR計畫書_20230630_final.pdf",
     "Human–exoskeleton interaction portrait Note.md",
     "規劃/第二階段.md",
     "規劃/第一階段實際開會紀錄.md",
