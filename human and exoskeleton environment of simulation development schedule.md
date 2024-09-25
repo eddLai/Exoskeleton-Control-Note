@@ -30,5 +30,5 @@
 1. make model fit an object
 	1. mocap trc -> opensism IK 
 		1. 全身肌肉model (考慮用opensim creator)
-		2. (API調用)
+		2. 
 	2. `_q.sto` Scone mimic measure
