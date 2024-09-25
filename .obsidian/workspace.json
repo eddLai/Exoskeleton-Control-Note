@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md"
+                "file": "mocap+emg standing and walking sim.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "8fae6f021b668b74",
   "lastOpenFiles": [
-    "mocap+emg standing and walking sim.md",
     "human and exoskeleton environment of simulation development schedule.md",
+    "mocap+emg standing and walking sim.md",
     "Plan/第二階段.md",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "documents/Plan Graphs/Overview of exoskeleton.md",
