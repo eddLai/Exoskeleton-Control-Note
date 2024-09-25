@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCONE.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCONE.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCONE.md"
+                "file": "mocap+emg standing and walking sim.md"
               }
             }
           }
@@ -174,14 +173,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4dced49d56546967",
+  "active": "8fae6f021b668b74",
   "lastOpenFiles": [
+    "SCONE.md",
     "mocap+emg standing and walking sim.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "documents/Plan Graphs/Overview of exoskeleton.md",
-    "SCONE.md",
     "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
