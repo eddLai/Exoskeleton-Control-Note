@@ -66,9 +66,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0872c6009848a94",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCONE.md",
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCONE.md",
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCONE.md"
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf"
               }
             }
           }
@@ -196,10 +206,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fae6f021b668b74",
+  "active": "ce267d8792708e43",
   "lastOpenFiles": [
-    "human and exoskeleton environment of simulation development schedule.md",
     "SCONE.md",
+    "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
     "conflict-files-obsidian-git.md",
     "mocap+emg standing and walking sim.md",
