@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documents/Plan Graphs/Overview of exoskeleton.md",
+                "file": "Plan/第二階段.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/Plan Graphs/Overview of exoskeleton.md",
+                "file": "Plan/第二階段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/Plan Graphs/Overview of exoskeleton.md",
+                "file": "Plan/第二階段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/Plan Graphs/Overview of exoskeleton.md"
+                "file": "Plan/第二階段.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "8fae6f021b668b74",
   "lastOpenFiles": [
-    "SCONE.md",
+    "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "documents/Plan Graphs/Overview of exoskeleton.md",
+    "SCONE.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
@@ -200,7 +201,6 @@
     "外骨骼穿戴全身.png",
     "外骨骼兩張.png",
     "外骨骼.md",
-    "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "計劃/第二階段.md",
     "計劃/開發時間軸規畫.md",
     "文獻/ML app/Pasted image 20240107180700.png",
