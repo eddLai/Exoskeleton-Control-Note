@@ -28,9 +28,10 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 1. make model fit an object
-	1. mocap trc -> opensism IK 
+	1. our EMG data 
+	2. mocap trc -> opensism IK 
 		1. API調用
 		2. 全身肌肉model (考慮用opensim creator)
-	2. `_q.sto` Scone mimic measure
+	3. `_q.sto` Scone mimic measure
 		1. training is Scone
 2. Validation by collect a new data
