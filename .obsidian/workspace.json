@@ -20,24 +20,12 @@
             }
           },
           {
-            "id": "5e635c2f16a692a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mocap+emg standing and walking sim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9c2f516a4a55d752",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "Plan/第二階段.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,19 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f0872c6009848a94",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -145,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
+                "file": "human and exoskeleton environment of simulation development schedule.md"
               }
             }
           }
@@ -207,15 +185,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f0872c6009848a94",
+  "active": "0e721d04910d6259",
   "lastOpenFiles": [
-    "documents/計劃書/旺宏作品計劃書exoskeleton組v1.0.pdf",
     "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
-    "SCONE.md",
-    "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
-    "conflict-files-obsidian-git.md",
+    "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
+    "SCONE.md",
+    "conflict-files-obsidian-git.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
     "Motor Control Programs and walking Note.md",
     "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
@@ -237,6 +214,7 @@
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "規劃/第二階段.md",
+    "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
     "規劃/第一階段實際開會紀錄.md",
     "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/EMG/EMG彙整.md",
