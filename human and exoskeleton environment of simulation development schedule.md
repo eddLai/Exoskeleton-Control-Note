@@ -31,6 +31,7 @@
 	1. mocap trc -> opensism IK 
 		1. API調用
 		2. 全身肌肉model (考慮用opensim creator)
+		3. 
 	2. `_q.sto` Scone mimic measure
 		1. training is Scone
 2. Validation by collect a new data
