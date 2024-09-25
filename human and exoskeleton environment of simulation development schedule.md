@@ -29,6 +29,6 @@
 
 1. make model fit an object
 	1. mocap ttrc -> opensism IK 
-		1. 全身肌肉model
+		1. 全身肌肉model (考慮用opensim creat)
 		2. (API調用)
 	2. 
