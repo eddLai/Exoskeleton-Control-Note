@@ -34,5 +34,5 @@
 		2. 全身肌肉model (考慮用opensim creator)
 	3. `_q.sto` Scone mimic measure
 		1. training is Scone
-		2. meaning of the muscle .activation
+		2. Meaning of the muscle .activation in scone
 2. Validation by collect a new data
