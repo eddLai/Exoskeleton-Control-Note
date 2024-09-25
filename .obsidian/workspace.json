@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "human and exoskeleton environment of simulation development schedule.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "8fae6f021b668b74",
   "lastOpenFiles": [
+    "Plan/第二階段.md",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "documents/Plan Graphs/Overview of exoskeleton.md",
     "SCONE.md",
@@ -170,7 +171,6 @@
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
-    "Plan/第二階段.md",
     "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
     "mocap+emg standing and walking sim.md",
     "conflict-files-obsidian-git.md",
