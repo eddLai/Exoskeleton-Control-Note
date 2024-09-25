@@ -30,5 +30,5 @@
 1. make model fit an object
 	1. mocap ttrc -> opensism IK 
 		1. 全身肌肉model
-		2. (API調用
+		2. (API調用)
 	2. 
