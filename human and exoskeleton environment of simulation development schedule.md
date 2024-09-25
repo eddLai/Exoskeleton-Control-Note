@@ -28,7 +28,7 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 1. make model fit an object
-	1. mocap ttrc -> opensism IK 
+	1. mocap trc -> opensism IK 
 		1. 全身肌肉model (考慮用opensim creator)
 		2. (API調用)
 	2. 
