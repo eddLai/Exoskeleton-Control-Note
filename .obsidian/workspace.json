@@ -73,7 +73,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf"
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.0.pdf"
               }
             }
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.0.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf"
+                "file": "documents/計劃書/旺宏作品計劃書exoskeleton組v1.0.pdf"
               }
             }
           }
@@ -206,8 +206,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ce267d8792708e43",
+  "active": "f0872c6009848a94",
   "lastOpenFiles": [
+    "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
     "SCONE.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
@@ -248,7 +249,6 @@
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "計劃/第二階段.md",
     "計劃/開發時間軸規畫.md",
-    "test.md",
     "文獻/ML app/Pasted image 20240107180700.png",
     "Slide pics/Pasted image 20240522175455.png",
     "Slide pics/Pasted image 20240522182005.png",
