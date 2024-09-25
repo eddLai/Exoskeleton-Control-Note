@@ -28,5 +28,5 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 1. make model fit an object
-	1. opensism IK (API調用)
+	1. mocap tlc ->opensism IK (API調用)
 	2. 
