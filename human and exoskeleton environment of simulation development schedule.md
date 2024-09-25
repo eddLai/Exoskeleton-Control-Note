@@ -31,7 +31,7 @@
 	1. difference between our EMG data and Gold standard
 	2. mocap trc -> opensism IK 
 		1. API調用
-		2. full body muscle skeleton model (考慮用opensim creator)
+		2. Full body muscle skeleton model (考慮用opensim creator)
 	3. `_q.sto` Scone mimic measure
 		1. Training is Scone
 		2. Meaning of the muscle .activation in scone
