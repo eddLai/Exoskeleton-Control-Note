@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan/第二階段.md",
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan/第二階段.md"
+                "file": "human and exoskeleton environment of simulation development schedule.md"
               }
             }
           }
@@ -185,13 +185,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "9c2f516a4a55d752",
+  "active": "0e721d04910d6259",
   "lastOpenFiles": [
+    "SCONE.md",
+    "Plan/第二階段.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
-    "Plan/第二階段.md",
     "mocap+emg standing and walking sim.md",
-    "SCONE.md",
     "conflict-files-obsidian-git.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
     "Motor Control Programs and walking Note.md",
