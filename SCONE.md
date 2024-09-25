@@ -38,3 +38,7 @@ feed-forward pattern?
 - setpoints
 - time delta
 
+肌肉激勵信號：
+- PieceWiseConstantFunction
+- 
+
