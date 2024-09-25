@@ -32,4 +32,4 @@ FeedForwardController {
 ```
 feed-forward pattern? 
 
-參數格式：mean~standard deviation<minimum, maximum>
+參數格式：`mean~standard deviation<minimum, maximum>`
