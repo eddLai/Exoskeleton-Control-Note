@@ -48,5 +48,5 @@ backwards during the jump
 Object defined by
 - Objective
 - Measure
-- 
+
 [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
