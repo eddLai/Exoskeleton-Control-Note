@@ -28,8 +28,7 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 7 Days
-1. 
-2. make model fit an object
+ make model fit an object
 	1. difference between our EMG data and Gold standard
 	2. mocap trc -> opensism IK 
 		1. API調用
