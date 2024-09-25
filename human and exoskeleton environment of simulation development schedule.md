@@ -16,9 +16,9 @@
 
 | Date  | Duration length | task                                                     | check |
 | ----- | --------------- | -------------------------------------------------------- | ----- |
-| 10/   | 1 month         | [[mocap+emg standing and walking sim]]                   |       |
-| 10/20 | 1 week          | 導入Exoskeleton 的model                                     |       |
-|       |                 | D4PG + CMA-ES 整合進 Scone                                  |       |
+| 10/2  | 1 month         | [[mocap+emg standing and walking sim]]                   |       |
+| 10/10 | 1 week          | 導入Exoskeleton 的model                                     |       |
+| 10/20 |                 | D4PG + CMA-ES 整合進 Scone                                  |       |
 | 11/2  | 2 weeks         | HMI, 4 indexs to evalution                               |       |
 | 11/9  | 1 week          | trasistion                                               |       |
 | 11/16 | 1 week          |                                                          |       |
