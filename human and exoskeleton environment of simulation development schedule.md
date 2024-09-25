@@ -34,4 +34,5 @@
 		2. 全身肌肉model (考慮用opensim creator)
 	3. `_q.sto` Scone mimic measure
 		1. training is Scone
+		2. 
 2. Validation by collect a new data
