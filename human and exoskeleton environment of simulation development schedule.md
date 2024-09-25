@@ -13,3 +13,4 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 把成果提前到
+病理的目標：平ㄏㄥ
