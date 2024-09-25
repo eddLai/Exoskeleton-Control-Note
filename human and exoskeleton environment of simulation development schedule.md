@@ -5,7 +5,6 @@
 | 10/20 | 1 week          | D4PG + CMA-ES 整合進 Scone                                  |       |
 | 11/2  | 1 weeks         | HMI, 4 indexs to evalution                               |       |
 
-
 | Date  | Duration length | task                                                     | check |
 | ----- | --------------- | -------------------------------------------------------- | ----- |
 | 10/13 | 1 month         | [[mocap+emg standing and walking sim]]                   |       |
