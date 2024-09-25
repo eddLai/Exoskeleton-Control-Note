@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "Plan/第二階段.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "Plan/第二階段.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md"
+                "file": "Plan/第二階段.md"
               }
             }
           }
@@ -185,11 +185,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0e721d04910d6259",
+  "active": "9c2f516a4a55d752",
   "lastOpenFiles": [
+    "human and exoskeleton environment of simulation development schedule.md",
     "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
     "Plan/第二階段.md",
-    "human and exoskeleton environment of simulation development schedule.md",
     "mocap+emg standing and walking sim.md",
     "SCONE.md",
     "conflict-files-obsidian-git.md",
@@ -214,7 +214,6 @@
     "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "文獻/ML app/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "規劃/第二階段.md",
-    "文獻/ML app/Papers/AutoEncoder-based_Safe_Reinforcement_Learning_for_Power_Augmentation_in_a_Lower-limb_Exoskeleton.pdf",
     "規劃/第一階段實際開會紀錄.md",
     "規劃/Reward and Ouput Algorithm Design.md",
     "文獻/EMG/EMG彙整.md",
