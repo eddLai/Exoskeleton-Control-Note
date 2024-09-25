@@ -33,5 +33,6 @@ FeedForwardController {
 feed-forward pattern? 
 
 參數格式：`mean~standard deviation<minimum, maximum>`
-setpoints
-time delta
+- setpoints
+- time delta
+
