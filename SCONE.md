@@ -33,7 +33,9 @@ FeedForwardController {
 feed-forward pattern? 
 
 
-`Windows → Parameters`
+- `Windows → Parameters`
+`Analysis tool`
+
 參數格式：`mean~standard deviation<minimum, maximum>`
 - setpoints
 - time delta
