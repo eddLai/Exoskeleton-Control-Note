@@ -28,5 +28,7 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 1. make model fit an object
-	1. mocap ttrc -> opensism IK (全身肌肉model) (API調用)
+	1. mocap ttrc -> opensism IK 
+		1. 全身肌肉model
+		2. (API調用
 	2. 
