@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf"
+                "file": "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
+                "file": "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
+                "file": "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf"
+                "file": "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf"
               }
             }
           }
@@ -171,8 +171,10 @@
   },
   "active": "9c2f516a4a55d752",
   "lastOpenFiles": [
-    "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
+    "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
+    "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
+    "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "human and exoskeleton environment of simulation development schedule.md",
     "SCONE.md",
     "Plan/第二階段.md",
@@ -195,9 +197,7 @@
     "documents/Simulation/Motor Control Programs and walking.pdf",
     "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
     "documents/大茂-運動型外骨骼-SBIR計畫書_20230630_final.pdf",
-    "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "Human–exoskeleton interaction portrait Note.md",
-    "文獻/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "規劃/第二階段.md",
     "規劃/第一階段實際開會紀錄.md",
     "規劃/Reward and Ouput Algorithm Design.md",
