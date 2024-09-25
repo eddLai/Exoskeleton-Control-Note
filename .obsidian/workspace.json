@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mocap+emg standing and walking sim.md",
+                "file": "SCONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mocap+emg standing and walking sim.md",
+                "file": "SCONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mocap+emg standing and walking sim.md"
+                "file": "SCONE.md"
               }
             }
           }
@@ -173,10 +174,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fae6f021b668b74",
+  "active": "4dced49d56546967",
   "lastOpenFiles": [
-    "SCONE.md",
     "mocap+emg standing and walking sim.md",
+    "SCONE.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
