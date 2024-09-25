@@ -17,7 +17,7 @@ Contror:
 - signature
 
 code example:
-```
+```C
 # Controller for the Model
 FeedForwardController {
 	symmetric = 1
