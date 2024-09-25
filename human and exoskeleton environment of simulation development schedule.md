@@ -18,10 +18,10 @@
 | Date  | Duration length | task                                                     | check |
 | ----- | --------------- | -------------------------------------------------------- | ----- |
 | 10/13 | 1 month         | [[mocap+emg standing and walking sim]]                   |       |
-| 10/20 | 1 week          |                                                          |       |
+| 10/20 | 1 week          | 導入Exoskeleton 的model                                     |       |
 |       |                 |                                                          |       |
 | 11/2  | 2 weeks         | trasistion                                               |       |
-| 11/9  | 1 week          | 導入Exoskeleton 的model                                     |       |
+| 11/9  | 1 week          |                                                          |       |
 | 11/16 | 1 week          | D4PG + CMA-ES 整合進 Scone                                  |       |
 | 12/6  | 3 weeks         | HMI, 4 indexs to evalution                               |       |
 | 12/13 | 1 week          | KV260, model par進python, NPU acc., EMG轉muscle activation |       |
