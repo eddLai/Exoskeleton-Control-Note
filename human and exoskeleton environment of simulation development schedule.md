@@ -28,4 +28,4 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 1. model fit loss function
-2. 
+	1. opensism IK
