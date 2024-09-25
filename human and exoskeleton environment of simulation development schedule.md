@@ -28,4 +28,5 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 1. model fit loss function
-	1. opensism IK
+	1. opensism IK (API)
+	2. 
