@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCONE.md",
+                "file": "documents/Plan Graphs/Overview of exoskeleton.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EMG",
+                "query": "overview",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCONE.md",
+                "file": "documents/Plan Graphs/Overview of exoskeleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCONE.md",
+                "file": "documents/Plan Graphs/Overview of exoskeleton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCONE.md"
+                "file": "documents/Plan Graphs/Overview of exoskeleton.md"
               }
             }
           }
@@ -161,9 +162,9 @@
   },
   "active": "8fae6f021b668b74",
   "lastOpenFiles": [
+    "SCONE.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
-    "SCONE.md",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
