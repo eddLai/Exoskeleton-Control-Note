@@ -27,4 +27,5 @@
 | 12/24 | 2 weeks         | week fine-tuning 繼續跑跑步機                                  |       |
 | 12/25 | -               | application and EMG filter                               |       |
 
-mocap 導入 scone 
+1. mocap 導入 scone
+2. 
