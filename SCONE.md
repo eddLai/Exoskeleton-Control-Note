@@ -47,6 +47,6 @@ backwards during the jump
 
 Object defined by
 - Objective
-- Measure
+- Measure: _fitness function_ of the objective.
 
 [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
