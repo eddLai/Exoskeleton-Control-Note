@@ -28,7 +28,7 @@
 | 12/25 | -               | application and EMG filter                               |       |
 
 1. make model fit an object
-	1. difference between our EMG data and Goldstandar
+	1. difference between our EMG data and Goldstandard
 	2. mocap trc -> opensism IK 
 		1. API調用
 		2. 全身肌肉model (考慮用opensim creator)
