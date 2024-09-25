@@ -32,4 +32,4 @@
 		1. API調用
 		2. 全身肌肉model (考慮用opensim creator)
 	2. `_q.sto` Scone mimic measure
-2. Validation 
+2. Validation by collect a new data
