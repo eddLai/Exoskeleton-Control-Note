@@ -12,4 +12,4 @@
 | 12/24 | 2 weeks         | week fine-tuning 繼續跑跑步機                                  |       |
 | 12/25 | -               | application and EMG filter                               |       |
 
-
+把成果提前到
