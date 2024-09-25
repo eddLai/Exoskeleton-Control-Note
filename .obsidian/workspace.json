@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a75555ef66ef05a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md"
+                "file": "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf"
               }
             }
           }
@@ -160,14 +170,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0e721d04910d6259",
+  "active": "4a75555ef66ef05a",
   "lastOpenFiles": [
+    "human and exoskeleton environment of simulation development schedule.md",
     "SCONE.md",
     "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
-    "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
     "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
     "mocap+emg standing and walking sim.md",
