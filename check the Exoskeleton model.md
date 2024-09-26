@@ -1,1 +1,1 @@
-1. if assistive or obsta
+1. if assistive or obstacle
