@@ -3,9 +3,10 @@
 - 本體感覺反射（proprioceptive reflexes）
 - 前庭反射（vestibular reflexes）
 
-muscle length reflex gains and offsets
+
 MuscleReflex
-- 
+- muscle length reflex gains: KL
+- and offsets
 
 ---
 
