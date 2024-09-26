@@ -18,8 +18,8 @@ BodyPointReflex
 - name
 - symmentric
 - Reflex
-	- Muscle length
-	- Body point
+	- Muscle length: proprioceptive
+	- Body point:
 	- 
 
 ```
