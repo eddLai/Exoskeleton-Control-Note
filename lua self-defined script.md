@@ -1,4 +1,4 @@
-`functionm `
+`function`, `end`
 `local`
 
 ###
