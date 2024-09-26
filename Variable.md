@@ -9,3 +9,7 @@ MuscleReflex
 BodyPointReflex
 - muscle length reflex gains: KP
 - offsets KD
+
+form：`mean~standard deviation<minimum, maximum>`
+- setpoints
+- time delta
