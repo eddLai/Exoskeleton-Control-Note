@@ -1,5 +1,5 @@
 ModelOpenSim3
-### Override model properties
+# Override model properties
 			Properties {
 				gastroc_l { max_isometric_force.factor = 0.2 }
 				gastroc_r { max_isometric_force.factor = 0.2 }
