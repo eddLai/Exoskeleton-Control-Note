@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "37829261148cd4ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0e721d04910d6259",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Contorller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Contorller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Contorller.md"
               }
             }
           }
@@ -184,10 +172,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "37829261148cd4ed",
+  "active": "4dced49d56546967",
   "lastOpenFiles": [
-    "Contorller.md",
     "conflict-files-obsidian-git.md",
+    "Contorller.md",
     "Variable.md",
     "SCONE.md",
     "mocap+emg standing and walking sim.md",
