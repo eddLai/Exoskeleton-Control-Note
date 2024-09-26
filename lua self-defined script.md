@@ -5,4 +5,5 @@
 - init
 	- target body
 	- compute average
-- 
+- update
+	- 
