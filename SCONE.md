@@ -5,7 +5,7 @@
 ---
 ### Structure
 - Model
-- [[variable]]
+- [[Variable]]
 - [[Contorller]]
 	- open-loop
 	- closed-loop

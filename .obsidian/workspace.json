@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "5a1f1172a99d8ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Variable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2e492e7d2e5a813b",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCONE.md",
+                "file": "Contorller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCONE.md",
+                "file": "Contorller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCONE.md"
+                "file": "Contorller.md"
               }
             }
           }
@@ -185,10 +197,11 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4dced49d56546967",
+  "active": "2e492e7d2e5a813b",
   "lastOpenFiles": [
-    "Contorller.md",
     "SCONE.md",
+    "Variable.md",
+    "Contorller.md",
     "human and exoskeleton environment of simulation development schedule.md",
     "check the Exoskeleton model.md",
     "mocap+emg standing and walking sim.md",
@@ -227,7 +240,6 @@
     "Bottles套Cygnus.md",
     "外骨骼穿戴全身.png",
     "外骨骼兩張.png",
-    "外骨骼.md",
     "文獻/ML app/Pasted image 20240107180700.png",
     "Slide pics/Pasted image 20240522175455.png",
     "Slide pics/Pasted image 20240522182005.png",

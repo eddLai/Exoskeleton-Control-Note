@@ -2,18 +2,6 @@
 **Reflex Balance Controller**
 - 本體感覺反射（proprioceptive reflexes）
 - 前庭反射（vestibular reflexes）
-
-### Define variable
-```
-$KP = 0~0.1
-$OFS = [ 0 0.5 0 ]
-```
-MuscleReflex
-- muscle length reflex gains: KL
-- offsets L0
-BodyPointReflex
-- muscle length reflex gains: KP
-- offsets KD
 ### Controller
 - name
 - symmentric
