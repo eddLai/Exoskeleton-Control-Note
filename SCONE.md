@@ -2,7 +2,7 @@
 - 
 
 ---
-### O
+### Ob
 - Model
 - Contorller
 	- open-loop
