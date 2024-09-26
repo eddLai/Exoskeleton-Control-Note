@@ -4,7 +4,7 @@
 ---
 ### Structure
 - Model
-- Contorller
+- [[Contorller]]
 	- open-loop
 	- closed-loop
 - Goad task(Objective), Combination of Measures
