@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e721d04910d6259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "SCONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "SCONE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md"
+                "file": "SCONE.md"
               }
             }
           }
@@ -160,8 +173,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fae6f021b668b74",
+  "active": "ce267d8792708e43",
   "lastOpenFiles": [
+    "check the Exoskeleton model.md",
     "mocap+emg standing and walking sim.md",
     "SCONE.md",
     "human and exoskeleton environment of simulation development schedule.md",
@@ -202,7 +216,6 @@
     "外骨骼兩張.png",
     "外骨骼.md",
     "計劃/第二階段.md",
-    "計劃/開發時間軸規畫.md",
     "文獻/ML app/Pasted image 20240107180700.png",
     "Slide pics/Pasted image 20240522175455.png",
     "Slide pics/Pasted image 20240522182005.png",
