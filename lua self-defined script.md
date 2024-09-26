@@ -3,7 +3,7 @@ grammar:
 - `frame:set_value`
 - `function`, `end`
 - `local`
-- 
+- `model:actuator_count()`
 
 ###
 
