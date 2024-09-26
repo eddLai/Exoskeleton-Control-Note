@@ -11,7 +11,7 @@ BodyPointReflex
 - muscle length reflex gains: KP
 - offsets KD
 
-```python
+```
 ReflexController {
 	name = Balance  # 控制器名稱：平衡
 	symmetric = 1   # 控制是否對稱
