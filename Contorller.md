@@ -65,3 +65,4 @@ FeedForwardController {
 - `PieceWiseLinearFunction`
 - `Polynomial`
 
+- NoiseController
