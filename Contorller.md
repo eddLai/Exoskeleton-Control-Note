@@ -33,3 +33,13 @@ backwards during the jump
 Object defined by 高度, 角度
 - Objective
 - Measure: _fitness function_ of the objective.
+
+---
+Reflex entries:reflex arc
+- with a specific gains, 
+- offsets
+- delay.
+
+E.G.
+- [MuscleReflex](https://scone.software/doku.php?id=ref:muscle_reflex "ref:muscle_reflex"): proprioceptive reflexes
+- [BodyPointReflex](https://scone.software/doku.php?id=ref:body_point_reflex "ref:body_point_reflex"): vestibular
