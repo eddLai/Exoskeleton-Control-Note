@@ -9,4 +9,5 @@
 	- target body
 	- compute average
 - update
-	- 
+- result
+
