@@ -1,7 +1,7 @@
 ###
 
 ### Measure
-example
+lua meaexample
 ```
 -- SCONE script for a high-jump measure.
 -- See Tutorial 6a - Script - High Jump
