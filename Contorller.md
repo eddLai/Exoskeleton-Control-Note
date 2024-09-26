@@ -19,7 +19,7 @@ BodyPointReflex
 - symmentric
 - Reflex
 	- Muscle length: proprioceptive
-	- Body point:
+	- Body point: vestibular
 	- 
 
 ```
