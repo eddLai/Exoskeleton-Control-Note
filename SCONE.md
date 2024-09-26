@@ -16,7 +16,7 @@ feed-forward or back-forward
 
 File name:
 - `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
-- `.osim`rules of the forces such as Slippery Slope
+- `.osim`contains the rules of the forces such as Slippery Slope
 
 ---
 ### Keywords in SCONE 
