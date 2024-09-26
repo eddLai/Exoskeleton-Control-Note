@@ -11,6 +11,21 @@ BodyPointReflex
 - muscle length reflex gains: KP
 - offsets KD
 
+```python
+ReflexController {
+	name = Balance  # 控制器名稱：平衡
+	symmetric = 1   # 控制是否對稱
+
+	# 肌肉長度反射 (proprioceptive reflexes)
+	MuscleReflex { target = iliopsoas L0 = $L0 KL = $KL delay = 0.010 }
+	MuscleReflex { target = glut_max L0 = $L0 KL = $KL delay = 0.010 }
+	...
+	# 前庭反射 (vestibular reflexes)
+	BodyPointReflex { target = iliopsoas source = torso KP = $KP KV = $KV delay = $VDELAY offset = $OFS direction = $DIR }
+	...
+}
+```
+
 ---
 
 - include or exclude Actuator, 
