@@ -12,5 +12,3 @@
 		2. Meaning of the muscle .activation in scone
 		3. Transform the Real EMG to muscle activation
 2. Validation by collect a new data
-
-==EMG訊號可以判斷出力竭==
