@@ -3,6 +3,7 @@
 
 Command:
 - `model:com_pos()`
+- `frame:set_value`
 ###
 
 ### Measure
