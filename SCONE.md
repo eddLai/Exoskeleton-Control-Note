@@ -9,7 +9,7 @@
 - [[Contorller]]
 	- open-loop
 	- closed-loop
-- Goad task(Objective), Combination of Measures
+- Objective(Goad task)or, Combination of Measures
 - Optimizer
 
 `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
