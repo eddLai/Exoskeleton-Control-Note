@@ -1,6 +1,8 @@
 `function`, `end`
 `local`
 
+Command:
+model:com_pos()
 ###
 
 ### Measure
