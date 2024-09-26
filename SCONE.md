@@ -2,7 +2,7 @@
 - 
 
 ---
-### Ob
+### Structure
 - Model
 - Contorller
 	- open-loop
