@@ -14,7 +14,10 @@ MuscleReflex
 BodyPointReflex
 - muscle length reflex gains: KP
 - offsets KD
-### Contr
+### Controller
+- name
+- symmentric
+- 
 ```
 ReflexController {
 	name = Balance  # 控制器名稱：平衡
