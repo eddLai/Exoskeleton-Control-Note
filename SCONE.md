@@ -4,7 +4,7 @@
 
 ---
 ### Structure
-feed-
+feed-forward or bas
 - Model
 - [[Variable]]
 - [[Contorller]]
