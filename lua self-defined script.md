@@ -5,7 +5,7 @@ grammar:
 - `local` variable in scope, like fumction
 - `model:actuator_count()`
 
-### 
+### Controller
 
 ### Measure
 [[lua measure example]]
