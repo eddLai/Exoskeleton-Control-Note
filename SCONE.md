@@ -10,7 +10,7 @@ feed-forward or back-forward
 - [[Contorller]]
 	- open-loop
 	- closed-loop
-	- includev ScriptController
+	- includev `ScriptController`
 - [[Objective(Goad task)]]
 	- Combination of Measures
 - Optimizer
