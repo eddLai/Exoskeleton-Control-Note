@@ -3,6 +3,11 @@
 - 本體感覺反射（proprioceptive reflexes）
 - 前庭反射（vestibular reflexes）
 
+Reflex entries:reflex arc
+- with a specific gains, 
+- offsets
+- delay.
+
 ---
 ### Structure
 - name
@@ -71,10 +76,6 @@ Object defined by 高度, 角度
 - Measure: _fitness function_ of the objective.
 
 ---
-Reflex entries:reflex arc
-- with a specific gains, 
-- offsets
-- delay.
 
 E.G.
 - [MuscleReflex](https://scone.software/doku.php?id=ref:muscle_reflex "ref:muscle_reflex"): proprioceptive reflexes
