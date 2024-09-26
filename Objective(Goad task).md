@@ -7,6 +7,8 @@ Object defined by 高度, 角度
 	- measure_type
 	- position
 
+- NoiseController
+
 ---
 E.G.
 - [CompositeMeasure](https://scone.software/doku.php?id=ref:composite_measure "ref:composite_measure")
