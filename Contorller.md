@@ -19,7 +19,8 @@ BodyPointReflex
 - symmentric
 - Reflex
 	- Muscle length
-	- Body pi
+	- Body point
+	- 
 
 ```
 ReflexController {
