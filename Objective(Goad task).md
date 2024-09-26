@@ -9,4 +9,5 @@ Object defined by 高度, 角度
 
 E.G.
 - [CompositeMeasure](https://scone.software/doku.php?id=ref:composite_measure "ref:composite_measure")
+- [BalanceMeasure](https://scone.software/doku.php?id=ref:balance_measure "ref:balance_measure")
 - 
