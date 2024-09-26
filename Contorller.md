@@ -20,12 +20,11 @@ BodyPointReflex
 - Reflex
 	- Muscle length: proprioceptive
 	- Body point: vestibular
-		- - target 
-- source
-- KP
-- KV
-- delay
-- 
+		- target 
+		- source
+		- KP
+		- KV
+		- delay
 
 ```
 ReflexController {
@@ -42,6 +41,8 @@ ReflexController {
 }
 ```
 
+---
+### 
 ---
 
 - include or exclude Actuator, 
