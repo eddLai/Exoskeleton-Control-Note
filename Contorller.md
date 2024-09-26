@@ -20,7 +20,7 @@ BodyPointReflex
 - Reflex
 	- Muscle length: proprioceptive
 	- Body point: vestibular
-	- 
+- 
 
 ```
 ReflexController {
