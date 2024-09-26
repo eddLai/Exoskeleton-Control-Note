@@ -5,7 +5,7 @@
 ---
 ### Structure
 feed-forward or back-forward
-- Model
+- [[Model]]
 - [[Variable]]
 - [[Contorller]]
 	- open-loop
