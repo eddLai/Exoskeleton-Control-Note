@@ -3,10 +3,9 @@ grammar:
 - `frame:set_value`
 - `function`, `end`
 - `local` variable in scope, like fumction
-- `model:actuator_count()`
 
 ### Controller
-
+- `model:actuator_count()`
 
 ### Measure
 [[lua measure example]]
