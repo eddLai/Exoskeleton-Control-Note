@@ -4,6 +4,10 @@
 - 前庭反射（vestibular reflexes）
 
 ### Define variable
+```
+$KP = 0~0.1
+$OFS = [ 0 0.5 0 ]
+```
 MuscleReflex
 - muscle length reflex gains: KL
 - offsets L0
