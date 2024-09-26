@@ -1,3 +1,4 @@
+
 ### Example
 **Reflex Balance Controller**
 - 本體感覺反射（proprioceptive reflexes）
@@ -40,8 +41,6 @@ ReflexController {
 }
 ```
 
-
-code example:
 ```C
 # Controller for the Model
 FeedForwardController {
