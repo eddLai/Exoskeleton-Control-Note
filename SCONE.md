@@ -59,4 +59,7 @@ Object defined by 高度, 角度
 `^f5`：開始訓練
 
 Reflex entries:reflex arc
-- with a specific gains, offsets and delay.
+- with a specific gains, 
+- offsets
+- delay.
+
