@@ -3,6 +3,7 @@ Object defined by 高度, 角度
 - Measure: _fitness function_ of the objective.
 	- termination_height
 	- weight
+	- dof
 
 E.G.
 - [CompositeMeasure](https://scone.software/doku.php?id=ref:composite_measure "ref:composite_measure")
