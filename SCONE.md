@@ -4,7 +4,7 @@
 
 ---
 ### Structure
-feed-forward or bas
+feed-forward or back-forward
 - Model
 - [[Variable]]
 - [[Contorller]]
