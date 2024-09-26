@@ -14,8 +14,9 @@ feed-forward or back-forward
 	- Combination of Measures
 - Optimizer
 
-`.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
-`.osim`rules of the forces such as Slippery Slope
+File name:
+- `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
+- `.osim`rules of the forces such as Slippery Slope
 
 ---
 ### Keywords in SCONE 
