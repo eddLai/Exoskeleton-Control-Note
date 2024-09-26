@@ -8,7 +8,7 @@ grammar:
 
 ### Measure
 [[lua measure example]]
-- init
+- init `init( model, par, side )`
 	- target body
 	- compute average
 - update
