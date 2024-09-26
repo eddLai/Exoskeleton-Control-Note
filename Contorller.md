@@ -41,12 +41,6 @@ ReflexController {
 ```
 
 
----
-
-- include or exclude Actuator, 
-- time 
-- signature
-
 code example:
 ```C
 # Controller for the Model
