@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "78f18c827fa26258",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e5669fd925ec56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fae6f021b668b74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mocap+emg standing and walking sim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dced49d56546967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Contorller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37829261148cd4ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e721d04910d6259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a10b91e1981c24ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1950ed6eb740880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce267d8792708e43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73d33862d7e1ec27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12add584f408357f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4718cc23948e3b59",
+    "type": "split",
+    "children": [
+      {
+        "id": "a30e1e47857e6d1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96e3cb2374baef89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "398339d00a4f2181",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "752aa0121b12419b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90bb42b3b0ed7c3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "37829261148cd4ed",
+  "lastOpenFiles": [
+    "Contorller.md",
+    "conflict-files-obsidian-git.md",
+    "Variable.md",
+    "SCONE.md",
+    "mocap+emg standing and walking sim.md",
+    "check the Exoskeleton model.md",
+    "human and exoskeleton environment of simulation development schedule.md",
+    "Plan/第二階段.md",
+    "Overview of 旺宏競賽：外骨骼力增強系統.md",
+    "documents/Plan Graphs/Overview of exoskeleton.md",
+    "documents/conference/GCBME 2024 Abstract_Exoskeleton_final.pdf",
+    "documents/conference/ICMST 2024 Abstract_Exoskeleton_v4.pdf",
+    "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
+    "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
+    "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
+    "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
+    "Motor Control Programs and walking Note.md",
+    "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
+    "A Muscle-Reflex Model that Encodes Principles of Note.md",
+    "Presentation slide.md",
+    "Cygnus from windows to Linux.md",
+    "Plan/Reward and Ouput Algorithm Design.md",
+    "documents/Exoskeleton examples/Papers/Human–exoskeleton interaction portrait.pdf",
+    "Windows defender.png",
+    "RL iteration flow.png",
+    "Pasted image 20240831145925.png.md",
+    "Experiment-free exoskeleton assistance via learning in simulation Note.md",
+    "documents/Simulation/A Muscle-Reflex Model that Encodes Principles of.pdf",
+    "documents/Simulation/Motor Control Programs and walking.pdf",
+    "documents/Exoskeleton examples/Papers/Experiment-free exoskeleton assistance via learning in simulation.pdf",
+    "Human–exoskeleton interaction portrait Note.md",
+    "規劃/第二階段.md",
+    "規劃/第一階段實際開會紀錄.md",
+    "規劃/Reward and Ouput Algorithm Design.md",
+    "文獻/EMG/EMG彙整.md",
+    "文獻/ML app/RL overview of training.canvas",
+    "文獻/conference/backup.md",
+    "Cygnus src解析.md",
+    "Bottles套Cygnus.md",
+    "外骨骼穿戴全身.png",
+    "外骨骼兩張.png",
+    "文獻/ML app/Pasted image 20240107180700.png",
+    "Slide pics/Pasted image 20240522175455.png",
+    "Slide pics/Pasted image 20240522182005.png",
+    "Slide pics/Pasted image 20240522182438.png",
+    "Slide pics/Pasted image 20240525151103.png",
+    "Slide pics/Pasted image 20240525150434.png",
+    "文獻/Plan Graphs/控制規劃.canvas",
+    "文獻/Plan Graphs/Hip實驗.canvas",
+    "文獻/Plan Graphs/作動偵測實驗.canvas",
+    "文獻/Plan Graphs/當前任務.canvas",
+    "Plan Graphs/Hip實驗.canvas",
+    "Plan Graphs/控制規劃.canvas",
+    "Plan Graphs/作動偵測實驗.canvas",
+    "Plan Graphs/當前任務.canvas",
+    "ML app/RL overview of training.canvas"
+  ]
+}

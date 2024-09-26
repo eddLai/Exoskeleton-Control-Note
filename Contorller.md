@@ -4,7 +4,7 @@
 - 前庭反射（vestibular reflexes）
 
 ---
-### S
+### Structure
 - name
 - symmentric
 - Reflex
@@ -31,8 +31,6 @@ ReflexController {
 }
 ```
 
----
-### Objective
 
 ---
 
