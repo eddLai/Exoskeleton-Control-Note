@@ -63,11 +63,6 @@ FeedForwardController {
 ```
 feed-forward pattern? 
 
-
-參數格式：`mean~standard deviation<minimum, maximum>`
-- setpoints
-- time delta
-
 肌肉激勵信號：
 - `PieceWiseConstantFunction`
 - `PieceWiseLinearFunction`
