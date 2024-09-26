@@ -2,10 +2,10 @@ grammar:
 - `model:com_pos()`
 - `frame:set_value`
 - `function`, `end`
-- `local` variable in scope, like 
+- `local` variable in scope, like fumction
 - `model:actuator_count()`
 
-###
+### 
 
 ### Measure
 [[lua measure example]]
