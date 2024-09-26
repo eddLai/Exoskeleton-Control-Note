@@ -12,4 +12,3 @@ E.G.
 - [BalanceMeasure](https://scone.software/doku.php?id=ref:balance_measure "ref:balance_measure")
 - [EffortMeasure](https://scone.software/doku.php?id=ref:effort_measure "ref:effort_measure")
 - [DofMeasure](https://scone.software/doku.php?id=ref:dof_measure "ref:dof_measure")
-- 
