@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4435743224fd3fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "check the Exoskeleton model.md",
+                "file": "mocap+emg standing and walking sim.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,38 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCONE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a1f1172a99d8ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e492e7d2e5a813b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Contorller.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e721d04910d6259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "human and exoskeleton environment of simulation development schedule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,14 +173,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "2e492e7d2e5a813b",
+  "active": "4dced49d56546967",
   "lastOpenFiles": [
-    "SCONE.md",
     "Variable.md",
-    "Contorller.md",
-    "human and exoskeleton environment of simulation development schedule.md",
-    "check the Exoskeleton model.md",
+    "SCONE.md",
     "mocap+emg standing and walking sim.md",
+    "Contorller.md",
+    "conflict-files-obsidian-git.md",
+    "check the Exoskeleton model.md",
+    "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "documents/Plan Graphs/Overview of exoskeleton.md",
@@ -213,7 +190,6 @@
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf",
     "documents/conference/ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf",
     "documents/計劃書/旺宏作品計劃書exoskeleton組v1.1.pdf",
-    "conflict-files-obsidian-git.md",
     "A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements Note.md",
     "Motor Control Programs and walking Note.md",
     "documents/Simulation/A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf",
