@@ -2,7 +2,7 @@
 `local`
 
 Command:
-model:com_pos()
+- `model:com_pos()`
 ###
 
 ### Measure
