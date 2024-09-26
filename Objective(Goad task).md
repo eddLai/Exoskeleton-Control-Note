@@ -4,6 +4,7 @@ Object defined by 高度, 角度
 	- termination_height
 	- weight
 	- dof
+	- measure_type
 
 E.G.
 - [CompositeMeasure](https://scone.software/doku.php?id=ref:composite_measure "ref:composite_measure")
