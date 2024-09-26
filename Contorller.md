@@ -17,7 +17,7 @@ BodyPointReflex
 ### Controller
 - name
 - symmentric
-- 
+- MuscleReflex
 ```
 ReflexController {
 	name = Balance  # 控制器名稱：平衡
