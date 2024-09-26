@@ -1,4 +1,7 @@
-
+Idea:
+- include or exclude Actuator, 
+- time 
+- signature
 ### Example
 **Reflex Balance Controller**
 - 本體感覺反射（proprioceptive reflexes）
