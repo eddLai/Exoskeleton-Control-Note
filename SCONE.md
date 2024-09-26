@@ -12,10 +12,10 @@ feed-forward or back-forward
 	- closed-loop
 - [[Objective(Goad task)]]
 	- Combination of Measures
-- Slippery Slope
 - Optimizer
 
 `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
+
 
 ---
 ### Keywords in SCONE 
