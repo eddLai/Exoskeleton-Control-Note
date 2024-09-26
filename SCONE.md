@@ -1,5 +1,7 @@
-- Duration
+- Movement Duration
+- 
 
+---
 - Model
 - Controller
 - Contorller
