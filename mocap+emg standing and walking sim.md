@@ -3,7 +3,7 @@
 7 Days
 1. make model fit an object
 	1. difference between our EMG data and Gold standard
-		1. quanlitize 
+		1. quantize the level of 
 	2. mocap trc -> opensism IK 
 		1. API
 		2. Full body muscle skeleton model (考慮用opensim creator)
