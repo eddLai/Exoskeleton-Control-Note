@@ -61,12 +61,9 @@ FeedForwardController {
 	}
 }
 ```
-feed-forward pattern? 
 
 肌肉激勵信號：
 - `PieceWiseConstantFunction`
 - `PieceWiseLinearFunction`
 - `Polynomial`
-
-backwards during the jump
 
