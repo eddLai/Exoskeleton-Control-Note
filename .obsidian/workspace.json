@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,7 +172,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4dced49d56546967",
+  "active": "ce267d8792708e43",
   "lastOpenFiles": [
     "mocap+emg standing and walking sim.md",
     "SCONE.md",
