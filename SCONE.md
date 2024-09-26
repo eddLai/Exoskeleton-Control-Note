@@ -15,7 +15,7 @@ feed-forward or back-forward
 - Optimizer
 
 `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
-rules of the forces such as Slippery Slope
+`.osim`rules of the forces such as Slippery Slope
 
 ---
 ### Keywords in SCONE 
