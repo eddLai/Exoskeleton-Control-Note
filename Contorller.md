@@ -1,4 +1,7 @@
+### Example
+**Reflex Balance Controller**
 
+---
 
 - include or exclude Actuator, 
 - time 
