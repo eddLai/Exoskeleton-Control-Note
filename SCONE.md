@@ -2,8 +2,8 @@
 - 
 
 ---
+### O
 - Model
-- Controller
 - Contorller
 	- open-loop
 	- closed-loop
