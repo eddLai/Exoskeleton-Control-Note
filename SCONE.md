@@ -17,8 +17,6 @@
 **case sensitive**.
 Predictive simulations
 
-Contror:
-
 [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
 [JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")
 
