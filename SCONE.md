@@ -57,3 +57,6 @@ Object defined by 高度, 角度
 
 `^E`：查看這別權重
 `^f5`：開始訓練
+
+Reflex entries
+reflex arc, with a specific gains, offsets and delay.
