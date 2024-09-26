@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4435743224fd3fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "check the Exoskeleton model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4dced49d56546967",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "check the Exoskeleton model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md",
+                "file": "check the Exoskeleton model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human and exoskeleton environment of simulation development schedule.md"
+                "file": "check the Exoskeleton model.md"
               }
             }
           }
@@ -160,11 +173,12 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8fae6f021b668b74",
+  "active": "4435743224fd3fd3",
   "lastOpenFiles": [
+    "human and exoskeleton environment of simulation development schedule.md",
+    "check the Exoskeleton model.md",
     "mocap+emg standing and walking sim.md",
     "SCONE.md",
-    "human and exoskeleton environment of simulation development schedule.md",
     "Plan/第二階段.md",
     "Overview of 旺宏競賽：外骨骼力增強系統.md",
     "documents/Plan Graphs/Overview of exoskeleton.md",
@@ -202,7 +216,6 @@
     "外骨骼兩張.png",
     "外骨骼.md",
     "計劃/第二階段.md",
-    "計劃/開發時間軸規畫.md",
     "文獻/ML app/Pasted image 20240107180700.png",
     "Slide pics/Pasted image 20240522175455.png",
     "Slide pics/Pasted image 20240522182005.png",
