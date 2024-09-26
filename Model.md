@@ -1,4 +1,4 @@
-```
+```zml
 ModelOpenSim3{
 # Override model properties
 			Properties {
