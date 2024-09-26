@@ -10,6 +10,7 @@ feed-forward or back-forward
 - [[Contorller]]
 	- open-loop
 	- closed-loop
+	- includev scri[t]
 - [[Objective(Goad task)]]
 	- Combination of Measures
 - Optimizer
