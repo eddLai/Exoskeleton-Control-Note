@@ -6,7 +6,8 @@
 
 MuscleReflex
 - muscle length reflex gains: KL
-- and offsets
+- offsets L0
+
 
 ---
 
