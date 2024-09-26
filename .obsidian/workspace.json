@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCONE.md",
+                "file": "Contorller.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCONE.md",
+                "file": "Contorller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCONE.md",
+                "file": "Contorller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCONE.md"
+                "file": "Contorller.md"
               }
             }
           }
@@ -175,8 +175,8 @@
   },
   "active": "4dced49d56546967",
   "lastOpenFiles": [
-    "mocap+emg standing and walking sim.md",
     "SCONE.md",
+    "mocap+emg standing and walking sim.md",
     "Contorller.md",
     "conflict-files-obsidian-git.md",
     "check the Exoskeleton model.md",
