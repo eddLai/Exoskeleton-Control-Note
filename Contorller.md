@@ -21,6 +21,10 @@ Reflex entries:reflex arc
 		- KV
 		- delay
 
+E.G.
+- [MuscleReflex](https://scone.software/doku.php?id=ref:muscle_reflex "ref:muscle_reflex"): proprioceptive reflexes
+- [BodyPointReflex](https://scone.software/doku.php?id=ref:body_point_reflex "ref:body_point_reflex"): vestibular
+
 ```
 ReflexController {
 	name = Balance  # 控制器名稱：平衡
@@ -74,9 +78,3 @@ backwards during the jump
 Object defined by 高度, 角度
 - Objective
 - Measure: _fitness function_ of the objective.
-
----
-
-E.G.
-- [MuscleReflex](https://scone.software/doku.php?id=ref:muscle_reflex "ref:muscle_reflex"): proprioceptive reflexes
-- [BodyPointReflex](https://scone.software/doku.php?id=ref:body_point_reflex "ref:body_point_reflex"): vestibular
