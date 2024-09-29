@@ -21,6 +21,6 @@
 			3. [ ] meaning of muscle activation in opensim and scone [CEINMS](https://pubmed.ncbi.nlm.nih.gov/26522621/) ***eddlai, sean***, 
 				1. [ ] read the papers
 		3. [ ] into Scone controller parameters like tension and length, possible? ***sean***
-2. Validation by collect a new data
+2. ==Validation by collect a new data==
 
 Full body, 11初過後再說
