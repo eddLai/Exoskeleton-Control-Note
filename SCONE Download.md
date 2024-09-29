@@ -1,3 +1,3 @@
 OpenSim v3.3 and OpenSceneGraph v3.2.
 
-在
+有一些依賴項目需要ubuntu2
