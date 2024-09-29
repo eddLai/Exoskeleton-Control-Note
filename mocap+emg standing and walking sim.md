@@ -3,7 +3,7 @@
 7 Days
 1. make model fit an object
 	2. mocap data input: 
-		1. [ ] API automatically do: 
+		1. [ ] API automatically do: eddlai
 			1. [ ] `.trc` -> opensism IK 
 			2. [ ] opensism IK -> `.mot`
 			3. [ ] `.mot`-> `_q.sto`
