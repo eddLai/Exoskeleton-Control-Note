@@ -8,4 +8,4 @@ e.g. [freeglut3_2.8.1-3_amd64.deb](https://ubuntu.pkgs.org/20.04/ubuntu-universe
 	3. 從源文件編譯舊的工具，但可能會出現相依問題
 
 2. 源文件編譯：depends on OpenSim v3.3 and OpenSceneGraph v3.2.需要gun-8
-3. 建立虛擬環境
+3. 建立Docker環境
