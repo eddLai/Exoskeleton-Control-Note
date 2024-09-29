@@ -13,3 +13,8 @@ docker run -it \
     ntklab/spinal_controller \
     /bin/bash
 ```
+
+從20.04
+```
+docker run -it ubuntu:20.04 /bin/bash
+```
