@@ -37,8 +37,10 @@ optimal gait for birds on two perspectives,
 - paradox
 - avian: relating to birds
 - anatomical: 解剖學上
+
 energy expenditure (2–6)
 center of mass (COM) movements (7, 8)
 neuromuscular factors (9–11),
-gross morphology (12, 13), injury prevention (14), and musculo-
-skeletal stresses (15–18)
+gross morphology (12, 13)
+injury prevention (14),
+musculoskeletal stresses (15–18)
