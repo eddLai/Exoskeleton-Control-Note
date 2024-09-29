@@ -1,4 +1,4 @@
-Old 
+Old dockerfile:
 ```Docker
 docker pull ntklab/spinal_controller
 
