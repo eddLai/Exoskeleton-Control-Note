@@ -10,6 +10,7 @@ optimal gait for birds on two perspectives,
 - paradox
 - avian: relating to birds
 - anatomical: 解剖學上
+- MCOT; in joules per kilogram per meter
 
 gait selection
 - energy expenditure (2–6)
