@@ -25,4 +25,5 @@ tools: [[SCONE]]
 
 Full body, 11初過後再說
 
-[[Mus]]
+[[Muscle-controlled physics simulations of bird
+locomotion resolve the grounded running paradox.pdf]]
