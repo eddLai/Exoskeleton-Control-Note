@@ -1,1 +1,1 @@
-[[Muscle-controlled physics simulations of bird locomotion resolve the grounded running paradox.pdf]]
+[[Muscle-controlled physics simulations of bird locomotion resolve the grounded running paradox Note]]
