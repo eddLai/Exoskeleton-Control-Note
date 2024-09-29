@@ -10,7 +10,8 @@
 			2. [ ] opensism IK -> `.mot`
 			3. [ ] `.mot`-> `_q.sto`
 			4. [ ] optimizing
-			5. [ ] optimizing -> parameters
+			5. [ ] optimizing -> trained weights
+			6. [ ] 
 		2. [ ] Full body muscle skeleton model (opensim creator)
 	3. EMG data input
 		1. - [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
