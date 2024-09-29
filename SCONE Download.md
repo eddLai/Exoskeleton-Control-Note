@@ -6,3 +6,4 @@ depends on OpenSim v3.3 and OpenSceneGraph v3.2.
 1. equivs
 2. 修改SCONE的 .deb 包
 3. 從源文件編譯舊的工具，但可能會出現相依問題
+
