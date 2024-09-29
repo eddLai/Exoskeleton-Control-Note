@@ -8,9 +8,9 @@
 		1. [ ] API automatically do: `.trc` -> opensism IK -> `.mot` -> `_q.sto`
 		2. [ ] Full body muscle skeleton model (opensim creator)
 	3. EMG data input
-		- [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
-		- [ ] into Scone controller parameters like tension and length, possible?
-	5. `_q.sto` Scone mimic measure
+		1. - [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
+		2. - [ ] into Scone controller parameters like tension and length, possible?
+	4. `_q.sto` Scone mimic measure
 		1. Training is Scone
 		2. Meaning of the muscle .activation in scone
 		3. Transform the Real EMG to muscle activation
