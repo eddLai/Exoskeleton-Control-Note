@@ -22,5 +22,4 @@
 		3. Transform the Real EMG to muscle activation
 2. Validation by collect a new data
 
-6. 動作捕捉影片掉點的預處理，問牧華
 7. 人體模型建置?(目前看到的沒有同時包含全身肌肉的
