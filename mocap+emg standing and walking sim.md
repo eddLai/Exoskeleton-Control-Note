@@ -8,7 +8,7 @@
 		1. API
 		2. Full body muscle skeleton model (考慮用opensim creator))
 	3. EMG data input
-		- [ ] [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control 
+		- [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control )
 		- [ ] 
 	1. `_q.sto` Scone mimic measure
 		1. Training is Scone
@@ -18,7 +18,6 @@
 
 
 1. 理解mot資料意含
-2. opensim 中
 4. SCONE中activation的單位是甚麼，需不需要轉肌肉參數tension, length之類的
 5. 影片長度不夠，不用特別去拼接，把用上一段影片訓練好的參數，丟給要用下一個影片訓練的，要寫出API調用腳本
 6. 動作捕捉影片掉點的預處理，問牧華
