@@ -23,4 +23,6 @@ gait selection
 walk-­to-­run transition
 - abrupt drop in duty factor (DF; fraction of the stride period that a foot is in contact with the ground) (Fig. 1B) (28, 29)
 - grounded running gait; that is, a gait with no aerial phase (DF > 0.5) but with in-­phase COM oscillations (5, 13, 28, 30–32)
-- 
+
+特ㄧㄢ
+Grounded running has higher energy costs than aerial running
