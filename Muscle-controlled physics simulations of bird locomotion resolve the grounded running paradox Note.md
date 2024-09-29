@@ -19,3 +19,5 @@ gait selection
 - gross morphology (12, 13)
 - injury prevention (14),
 - musculoskeletal stresses (15–18)
+
+walk-­to-­run transition
