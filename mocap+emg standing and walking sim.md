@@ -4,8 +4,8 @@
 1. make model fit an object
 	1. difference between our EMG data and Gold standard
 		1. quantize the level of fatique from EMG
-	2. mocap data input: `.trc` -> opensism IK ->
-		1. API
+	2. mocap data input: 
+		1. API automatically 
 		2. Full body muscle skeleton model (opensim creator)
 	3. EMG data input
 		- [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
