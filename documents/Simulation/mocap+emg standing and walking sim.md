@@ -1,4 +1,4 @@
-[[SCONE]]
+tools: [[SCONE]]
 
 7 Days 
 1. make model fit an object
