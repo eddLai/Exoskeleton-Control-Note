@@ -3,6 +3,7 @@
 - [[SCONE Download]]
 
 ---
+https://github.com/tgeijten/scone-studio
 ### Structure
 feed-forward or back-forward
 - [[Model]]
