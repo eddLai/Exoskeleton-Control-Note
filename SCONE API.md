@@ -1,2 +1,3 @@
 SCONE py
-biomechanical sensors and actuators via NumPy arrays
+- Data format
+	- biomechanical sensors and actuators via NumPy arrays
