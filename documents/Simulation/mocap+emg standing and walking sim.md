@@ -30,5 +30,5 @@ Full body, 11初過後再說
 ground contact
 minimize locomotor energy expenditure
 emu (Dromaius novaehollandiae)
-### Terms and Good
+### Terms and Good words
 - paradox
