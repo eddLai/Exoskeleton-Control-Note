@@ -18,7 +18,7 @@
 		2. Transform the Real EMG to muscle activation
 			1. [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
 			2. [ ] meaning of muscle activation in opensim and scone 
-				1. [ ] 
+				1. [ ] read the papers
 		3. [ ] into Scone controller parameters like tension and length, possible?
 	4. `_q.sto` Scone mimic measure
 		1. Training is Scone
