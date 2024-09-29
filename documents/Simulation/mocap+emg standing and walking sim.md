@@ -35,4 +35,4 @@ optimal gait for birds on two perspectives,
 - muscle excitations
 ### Terms and Good words
 - paradox
-- avian
+- avian: relating to birds
