@@ -1,4 +1,4 @@
-## Concept
+## Idea
 **美軍早在20年前就做到全身外骨骼的順應性力增強。**
 History of exoskeleton:[Exoskeletons for Human Performance Augmentation | SpringerLink](https://link.springer.com/referenceworkentry/10.1007/978-3-540-30301-5_34)
 相似的產品：[Hypershell](https://www.hypershell.cc/)
