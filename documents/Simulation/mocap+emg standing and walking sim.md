@@ -29,3 +29,5 @@ Full body, 11初過後再說
 ***"Humans and birds use very different running styles"***
 ground contact
 minimize locomotor energy expenditure
+emu (Dromaius novaehollandiae)
+paradox
