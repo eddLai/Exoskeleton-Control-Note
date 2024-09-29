@@ -31,7 +31,6 @@ ground contact
 minimize locomotor energy expenditure
 emu (Dromaius novaehollandiae)
 optimal gait for birds
-both ener-
 - energetics
 - muscle excitations perspectives
 ### Terms and Good words
