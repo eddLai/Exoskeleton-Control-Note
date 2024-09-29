@@ -7,7 +7,7 @@
 			1. [ ] `.trc` -> opensism IK 
 			2. [ ] opensism IK -> `.mot`
 			3. [ ] `.mot`-> `_q.sto`
-			4. [ ] optimizing
+			4. [ ] optimizing: mimic measure
 			5. [ ] optimizing -> trained weights
 			6. [ ] go back to 1. with trained weights
 		2. [ ] Full body muscle skeleton model (opensim creator)
@@ -20,6 +20,4 @@
 			2. [ ] meaning of muscle activation in opensim and scone 
 				1. [ ] read the papers
 		3. [ ] into Scone controller parameters like tension and length, possible?
-	4. `_q.sto` Scone mimic measure
-		1. Training is Scone
 2. Validation by collect a new data
