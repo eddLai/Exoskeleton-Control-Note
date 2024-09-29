@@ -22,5 +22,3 @@
 		2. Meaning of the muscle .activation in scone
 		3. Transform the Real EMG to muscle activation
 2. Validation by collect a new data
-
-7. 人體模型建置?(目前看到的沒有同時包含全身肌肉的
