@@ -6,7 +6,7 @@
 		1. quantize the level of fatique from EMG
 	2. mocap data input: `.trc` -> opensism IK 
 		1. API
-		2. Full body muscle skeleton model (考慮用opensim creator))
+		2. Full body muscle skeleton model (opensim creator)
 	3. EMG data input
 		- [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
 		- [ ] into Scone controller parameters like tension and length, possible?
