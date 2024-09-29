@@ -26,3 +26,4 @@ walk-­to-­run transition
 
 怪異點
 Grounded running has higher energy costs than aerial running
+But increase stability
