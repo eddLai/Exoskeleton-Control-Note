@@ -36,3 +36,4 @@ optimal gait for birds on two perspectives,
 ### Terms and Good words
 - paradox
 - avian: relating to birds
+- anatomical: 解剖學上
