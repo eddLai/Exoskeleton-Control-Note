@@ -17,7 +17,7 @@
 		1. [ ] difference between our EMG data and Gold standard: 安於data, standard, mcoap
 			1. [ ] quantize the level of fatique from EMG?
 		2. Transform the Real EMG to muscle activation
-			1. [ ] mocap opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
+			1. [ ] mocap opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ), https://pubmed.ncbi.nlm.nih.gov/26522621/ -> muscle activation
 			3. [ ] meaning of muscle activation in opensim and scone 
 				1. [ ] read the papers
 		3. [ ] into Scone controller parameters like tension and length, possible?
