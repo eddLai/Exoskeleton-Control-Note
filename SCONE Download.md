@@ -5,4 +5,4 @@
 	3. 從源文件編譯舊的工具，但可能會出現相依問題
 
 2. 源文件編譯：depends on OpenSim v3.3 and OpenSceneGraph v3.2.
-3. 
+3. 建立虛擬環境
