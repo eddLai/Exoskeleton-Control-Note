@@ -15,8 +15,9 @@
 
 
 1. 理解mot資料意含
-2. [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control)背後的算法能不能拿來重現，處理EMG
-3. SCONE中activation的單位是甚麼，需不需要轉肌肉參數tension, length之類的
-4. 影片長度不夠，不用特別去拼接，把用上一段影片訓練好的參數，丟給要用下一個影片訓練的，要寫出API調用腳本
-5. 動作捕捉影片掉點的預處理，問牧華
-6. 人體模型建置?(目前看到的沒有同時包含全身肌肉的
+2. opensim 中
+3. [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control)背後的算法能不能拿來重現，處理EMG
+4. SCONE中activation的單位是甚麼，需不需要轉肌肉參數tension, length之類的
+5. 影片長度不夠，不用特別去拼接，把用上一段影片訓練好的參數，丟給要用下一個影片訓練的，要寫出API調用腳本
+6. 動作捕捉影片掉點的預處理，問牧華
+7. 人體模型建置?(目前看到的沒有同時包含全身肌肉的
