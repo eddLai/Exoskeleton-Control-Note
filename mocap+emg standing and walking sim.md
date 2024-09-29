@@ -11,7 +11,7 @@
 			5. [ ] optimizing -> trained weights
 			6. [ ] go back to 1. with trained weights
 		2. [ ] Full body muscle skeleton model (opensim creator) sean
-		3. [ ] points lost issue, interpolation?
+		3. [ ] points lost issue, interpolation? sean
 	3. EMG data input
 		1. [ ] difference between our EMG data and Gold standard
 			1. [ ] quantize the level of fatique from EMG?
