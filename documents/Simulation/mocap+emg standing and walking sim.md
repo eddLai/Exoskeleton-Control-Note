@@ -30,8 +30,8 @@ Full body, 11初過後再說
 ground contact
 minimize locomotor energy expenditure
 emu (Dromaius novaehollandiae)
-optimal gait for birds
+optimal gait for birds on two perspectives, 
 - energetics
-- muscle excitations perspectives
+- muscle excitations
 ### Terms and Good words
 - paradox
