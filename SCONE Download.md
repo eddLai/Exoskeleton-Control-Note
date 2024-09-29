@@ -3,7 +3,7 @@ e.g. [freeglut3_2.8.1-3_amd64.deb](https://ubuntu.pkgs.org/20.04/ubuntu-universe
 
 ### 方法
 1. 解決依賴項目的問題
-	1. equivs
+	1. equivs工具
 	2. 修改SCONE的 .deb 包
 	3. 從源文件編譯舊的工具，但可能會出現相依問題
 
