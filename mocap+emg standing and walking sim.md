@@ -9,7 +9,7 @@
 		2. Full body muscle skeleton model (考慮用opensim creator))
 	3. EMG data input
 		- [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
-		- [ ] Controller parameters like tension and length
+		- [ ] into Controller parameters like tension and length
 	5. `_q.sto` Scone mimic measure
 		1. Training is Scone
 		2. Meaning of the muscle .activation in scone
