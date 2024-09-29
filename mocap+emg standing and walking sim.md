@@ -13,7 +13,7 @@
 			5. [ ] optimizing -> trained weights
 			6. [ ] go back to 1. with trained weights
 		2. [ ] Full body muscle skeleton model (opensim creator)
-		3. [ ] point lost iss
+		3. [ ] points lost issue, interp
 	3. EMG data input
 		1. - [ ] opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation
 		2. - [ ] into Scone controller parameters like tension and length, possible?
