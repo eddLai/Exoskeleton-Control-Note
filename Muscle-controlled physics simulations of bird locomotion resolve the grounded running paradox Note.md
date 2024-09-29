@@ -21,5 +21,4 @@ gait selection
 - musculoskeletal stresses (15–18)
 
 walk-­to-­run transition
-- abrupt drop in duty factor (DF; fraction of the stride period that a
-foot is in contact with the ground)
+- abrupt drop in duty factor (DF; fraction of the stride period that a foot is in contact with the ground)
