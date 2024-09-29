@@ -26,4 +26,4 @@ tools: [[SCONE]]
 Full body, 11初過後再說
 
 [[Muscle-controlled physics simulations of bird locomotion resolve the grounded running paradox.pdf]]
-"Humans and birds use very different running styles"
+***"Humans and birds use very different running styles"***
