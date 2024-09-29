@@ -2,7 +2,7 @@
 
 7 Days
 1. make model fit an object
-	2. mocap data input: 
+	1. mocap data input: 
 		1. [ ] API automatically do: ***eddlai***
 			1. [ ] `.trc` -> opensism IK 
 			2. [ ] opensism IK -> `.mot`
@@ -13,7 +13,7 @@
 		2. [ ] Long Head Biceps femoris muscle model ***sean***
 		3. [ ] (Full body muscle skeleton model (opensim creator) ***sean***)
 		4. [ ] (points lost issue, interpolation? ***sean***)
-	3. EMG data input
+	2. EMG data input
 		1. [ ] difference between our EMG data and Gold standard: 安於data, standard: sean
 			1. [ ] quantize the level of fatique from EMG? ***sean, eddlai, YY***
 		2. Transform the Real EMG to muscle activation
