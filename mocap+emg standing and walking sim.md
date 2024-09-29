@@ -21,3 +21,5 @@
 				1. [ ] read the papers
 		3. [ ] into Scone controller parameters like tension and length, possible?
 2. Validation by collect a new data
+
+Full body
