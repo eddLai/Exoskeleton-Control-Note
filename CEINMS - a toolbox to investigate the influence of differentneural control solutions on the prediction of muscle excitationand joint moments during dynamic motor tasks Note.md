@@ -5,9 +5,9 @@ CEMINMS: Calibrated EMG-Informed NMS Modelling Toolbox
 2015: ***"restricted to static and dynamic optimisation methods, or limited to isometric tasks only"***
 
 EMG-driven and EMG-informed algorithms
-EMG-driven
-EMG-assisted
-static optimisation neural control solutions 
+- EMG-driven
+- EMG-assisted
+- static optimisation neural control solutions 
 
 affect the estimated joint moments, muscle forces, and
 muscle excitations, including muscle co-contraction.
