@@ -12,7 +12,7 @@ optimal gait for birds on two perspectives,
 - anatomical: 解剖學上
 - metabolic cost of transport(MCOT); in joules per kilogram per meter
 - midstance
-- duty factor
+- duty factor: 腳接觸地面的時間
 
 gait selection
 - energy expenditure (2–6)
