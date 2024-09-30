@@ -32,3 +32,13 @@ iterate `model.`
 - `status()`
 
 `model.reset`, `.set_store_data`: 歸零，儲存資料，
+
+
+---
+
+```python
+	rng = np.random.default_rng(random_seed)
+
+	# Initialize muscle activations to random values
+	muscle_activations = 0.1 + 0.4 * rng.random((len(model.muscles())))
+```
