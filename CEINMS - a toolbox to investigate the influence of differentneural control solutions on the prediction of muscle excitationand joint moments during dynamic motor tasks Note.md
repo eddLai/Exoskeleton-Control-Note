@@ -14,4 +14,4 @@ effection
 - muscle forces
 - muscle excitations, including muscle co-contraction.
 
-optimisation methods cannot predict the muscle co-contraction evident in the electromyography
+optimisation methods cannot predict the muscle co-contraction evident in EMG
