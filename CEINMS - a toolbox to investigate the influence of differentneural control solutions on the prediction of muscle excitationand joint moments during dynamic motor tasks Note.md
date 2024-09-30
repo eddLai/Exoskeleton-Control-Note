@@ -11,5 +11,5 @@ EMG-driven and EMG-informed algorithms
 
 effection
 - estimated joint moments
-- muscle forces, and
-muscle excitations, including muscle co-contraction.
+- muscle forces
+- muscle excitations, including muscle co-contraction.
