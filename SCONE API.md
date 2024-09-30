@@ -1,4 +1,4 @@
-### API
+### API characteristic
 SCONE py
 - Data format
 	- biomechanical sensors and actuators via NumPy arrays
