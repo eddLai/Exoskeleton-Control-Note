@@ -33,4 +33,4 @@ Grounded running has higher energy costs than aerial running
 
 ### Idea
 ratites可以跑很快，那外骨骼可以幫助人類做到嗎？
-discontinuity in DF，用來判斷人類跑步
+discontinuity in DF，用來判斷人類走到跑步的階段
