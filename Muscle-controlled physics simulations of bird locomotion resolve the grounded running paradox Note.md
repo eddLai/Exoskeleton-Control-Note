@@ -30,4 +30,4 @@ Grounded running has higher energy costs than aerial running
 - COM不同
 
 
-ratites可以跑ㄏㄣ
+ratites可以跑很快，那外骨骼可以幫助人類做到嗎？
