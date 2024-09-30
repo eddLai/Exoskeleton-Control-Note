@@ -23,6 +23,8 @@ iterate `model.`
 	- `mass`
 	- `inertia_diag`
 - `muscles()`
+	- `name`
+	- 
 - `dofs()`
 - `actuators()`
 - `status()`
