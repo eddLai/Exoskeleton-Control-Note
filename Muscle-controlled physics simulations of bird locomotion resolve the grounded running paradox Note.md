@@ -29,5 +29,5 @@ Grounded running has higher energy costs than aerial running
 - But increase stability
 - COM不同
 
-### IDEA
+### Idea
 ratites可以跑很快，那外骨骼可以幫助人類做到嗎？
