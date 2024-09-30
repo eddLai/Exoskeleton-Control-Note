@@ -11,6 +11,7 @@ optimal gait for birds on two perspectives,
 - avian: relating to birds
 - anatomical: 解剖學上
 - metabolic cost of transport(MCOT); in joules per kilogram per meter
+- midstance
 
 gait selection
 - energy expenditure (2–6)
