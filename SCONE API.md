@@ -4,6 +4,8 @@ SCONE py
 	- **neural delays** to sensors and actuators ?
 	- **reward shaping** is possible
 
+---
+### ENV
 真的要用python3.9才行
 ```bash
 (exo) eddlai@eddlai-ROG-Flow-X13-GV301RE-GV301RE:~/SCONE/SconePy$ /home/eddlai/miniconda3/envs/exo/bin/python /home/eddlai/SCONE/SconePy/sconetools.py                                                                                                  
