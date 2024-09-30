@@ -41,5 +41,5 @@ The method of randomizing used in Example
 
 	# Initialize muscle activations to random values
 	muscle_activations = 0.1 + 0.4 * rng.random((len(model.muscles())))
-	產生一ㄍㄜ
+	# 產生一個陣列，為美
 ```
