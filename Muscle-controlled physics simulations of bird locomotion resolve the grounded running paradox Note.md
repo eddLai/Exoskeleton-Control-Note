@@ -30,3 +30,4 @@ Grounded running has higher energy costs than aerial running
 - COM不同
 
 
+ratites可以跑ㄏㄣ
