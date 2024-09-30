@@ -1,4 +1,4 @@
-- 可以用來控制外骨骼的力量？有Control
+- 可以用來控制外骨骼的力量？有Controller就可以吧，需要研究外股ㄍㄜ
 ### API characteristic
 SCONE py
 - Data format
