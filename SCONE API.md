@@ -20,7 +20,8 @@ ref. https://scone.software/doku.php?id=doc:sconepy
 iterate `model.`
 - `bodies()`
 	- `name`
-	- 
+	- `mass`
+	- `inertia_diag`
 - `muscles()`
 - `dofs()`
 - `actuators()`
