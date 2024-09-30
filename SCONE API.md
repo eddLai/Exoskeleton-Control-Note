@@ -1,4 +1,4 @@
-- 可以用來ㄎㄨㄥ
+- 可以用來控制外骨骼的力量？有Control
 ### API characteristic
 SCONE py
 - Data format
