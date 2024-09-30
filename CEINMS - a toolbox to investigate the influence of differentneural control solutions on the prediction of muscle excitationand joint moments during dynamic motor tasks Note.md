@@ -16,3 +16,4 @@ effection
 
 optimisation methods cannot predict the muscle co-contraction evident in EMG
 
+***"software developed for research is often tuned to a particular project"***
