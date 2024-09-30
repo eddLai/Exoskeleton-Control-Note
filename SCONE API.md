@@ -24,6 +24,7 @@ iterate `model.`
 	- `inertia_diag`
 - `muscles()`
 	- `name`
+	- `fiber_length_norm`
 	- 
 - `dofs()`
 - `actuators()`
