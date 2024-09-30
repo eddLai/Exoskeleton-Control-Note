@@ -35,7 +35,7 @@ iterate `model.`
 
 
 ---
-The method Example
+The method of randomiExample
 ```python
 	rng = np.random.default_rng(random_seed)
 
