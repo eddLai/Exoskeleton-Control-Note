@@ -1,6 +1,6 @@
 tools: [[SCONE]]
 
-7 Days ~ 10/3(T)
+7 Days ~ 10/3 (Thursday)
 1. make model fit an object
 	1. mocap data input: 
 		1. [ ] API automatically do: ***eddlai***
