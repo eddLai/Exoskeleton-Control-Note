@@ -18,6 +18,6 @@ sconepy found at /opt/scone/lib
 ---
 iterate `model.`
 - bodies
-- muscles
-- dofs
-- ac
+- muscles()
+- dofs()
+- actuators()
