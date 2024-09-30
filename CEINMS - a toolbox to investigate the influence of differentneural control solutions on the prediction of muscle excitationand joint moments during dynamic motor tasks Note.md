@@ -5,7 +5,7 @@
 2015: ***"restricted to static and dynamic optimisation methods, or limited to isometric tasks only"***
 
 EMG-driven and EMG-informed algorithms
-- EMG-driven
+- EMG-driven: EMG signals and three-dimensional (3D) joint angles
 - EMG-assisted
 - static optimisation neural control solutions 
 
@@ -15,5 +15,3 @@ effection
 - muscle excitations, including muscle co-contraction.
 
 optimisation methods cannot predict the muscle co-contraction evident in EMG
-
-EMG signals and three-dimensional (3D) joint angles
