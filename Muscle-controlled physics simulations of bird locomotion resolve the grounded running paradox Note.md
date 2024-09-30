@@ -34,3 +34,4 @@ Grounded running has higher energy costs than aerial running
 ### Idea
 ratites可以跑很快，那外骨骼可以幫助人類做到嗎？
 discontinuity in DF，用來判斷人類走到跑步的階段
+kinetic (EK) and potential energies (EP) of the COM are out of phase 能量交替
