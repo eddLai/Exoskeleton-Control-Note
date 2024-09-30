@@ -26,7 +26,7 @@ iterate `model.`
 	- `name`
 	- `fiber_length_norm`
 	- `fiber_velocity_norm`
-	- 
+	- `force_norm`
 - `dofs()`
 - `actuators()`
 - `status()`
