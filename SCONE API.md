@@ -16,5 +16,8 @@ sconepy found at /opt/scone/lib
 ```
 
 ---
-iterate ~
-- 
+iterate `model.`
+- bodies
+- muscles
+- dofs
+- ac
