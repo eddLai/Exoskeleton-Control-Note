@@ -15,7 +15,7 @@ tools: [[SCONE]]
 		4. [ ] (points lost issue, interpolation? ***sean***)
 	2. EMG data input
 		1. [ ] difference between our EMG data and Gold standard: 安於data, standard: sean
-			1. [ ] quantize the [[level of fatique from EMG]]? ***sean, eddlai, YY***
+			1. [ ] quantize the [[level of fatique from EMG]]? ***sean, eddlai***
 		2. Transform the Real EMG to muscle activation
 			1. [ ] mocap opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
 			3. [ ] meaning of muscle activation in opensim and scone [CEINMS](https://pubmed.ncbi.nlm.nih.gov/26522621/) [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]] ***eddlai, sean***, 
