@@ -25,6 +25,7 @@ iterate `model.`
 - `muscles()`
 	- `name`
 	- `fiber_length_norm`
+	- `fiber_velocity_norm`
 	- 
 - `dofs()`
 - `actuators()`
