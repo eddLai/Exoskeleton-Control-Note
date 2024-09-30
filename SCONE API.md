@@ -30,3 +30,5 @@ iterate `model.`
 - `dofs()`
 - `actuators()`
 - `status()`
+
+`reset`
