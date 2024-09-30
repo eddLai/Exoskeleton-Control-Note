@@ -16,6 +16,7 @@ sconepy found at /opt/scone/lib
 ```
 
 ---
+ref. https://scone.software/doku.php?id=doc:sconepy
 iterate `model.`
 - `bodies()`
 - `muscles()`
