@@ -31,4 +31,4 @@ iterate `model.`
 - `actuators()`
 - `status()`
 
-`model.reset`, `.set_store_data`: 
+`model.reset`, `.set_store_data`: 歸零，儲存資料，
