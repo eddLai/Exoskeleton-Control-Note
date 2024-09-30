@@ -17,7 +17,8 @@ sconepy found at /opt/scone/lib
 
 ---
 iterate `model.`
-- bodies
-- muscles()
-- dofs()
-- actuators()
+- `bodies()`
+- `muscles()`
+- `dofs()`
+- `actuators()`
+- `status()`
