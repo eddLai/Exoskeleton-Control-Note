@@ -15,3 +15,4 @@ effection
 - muscle excitations, including muscle co-contraction.
 
 optimisation methods cannot predict the muscle co-contraction evident in EMG
+
