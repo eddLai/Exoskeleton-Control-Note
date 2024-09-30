@@ -31,4 +31,4 @@ iterate `model.`
 - `actuators()`
 - `status()`
 
-`model.reset`, `.set_store_daya`
+`model.reset`, `.set_store_data`: 
