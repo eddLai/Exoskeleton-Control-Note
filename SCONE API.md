@@ -1,4 +1,4 @@
-- 可以用來控制外骨骼的力量？有Controller就可以吧，需要研究外骨骼物件，我需要command 跟 py
+- 可以用來控制外骨骼的力量？有Controller就可以吧，需要研究外骨骼物件，我需要command 跟 python作用在同個空間才行。
 ### API characteristic
 SCONE py
 - Data format
