@@ -9,5 +9,7 @@ EMG-driven and EMG-informed algorithms
 - EMG-assisted
 - static optimisation neural control solutions 
 
-affect the estimated joint moments, muscle forces, and
+effection
+- estimated joint moments
+- muscle forces, and
 muscle excitations, including muscle co-contraction.
