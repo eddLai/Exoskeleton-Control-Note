@@ -23,4 +23,13 @@ tools: [[SCONE]]
 		3. [ ] into Scone controller parameters like tension and length, possible? ***sean***
 2. ==Validation by collect a new data==
 
+
+
+
+
+
+
+
+
+
 Full body, 11初過後再說
