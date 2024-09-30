@@ -13,6 +13,7 @@ optimal gait for birds on two perspectives,
 - metabolic cost of transport(MCOT); in joules per kilogram per meter
 - midstance
 - duty factor: 腳接觸地面的時間
+- GRF: 地面反作用力
 
 gait selection
 - energy expenditure (2–6)
