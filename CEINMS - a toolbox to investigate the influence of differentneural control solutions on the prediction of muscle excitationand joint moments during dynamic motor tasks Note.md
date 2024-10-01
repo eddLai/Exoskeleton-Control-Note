@@ -92,6 +92,6 @@ $A [-3, 0]$, $C_1$ ,$C_2$ $[-1,1]$ globally
 activation dynamics: equation 3
 MTUs: 11 groups based, posteriorly or anteriorly, lower limb segment
 strength coefficient $[0.5, 2.5]$: for scaling peak isometric force of the different muscle groups.
-
-- EMG-assisted mode: $\alpha$, $\beta$, $\gamma$, lowest tracking errors
--  
+### Training and Validation
+EMG-assisted mode: $\alpha$, $\beta$, $\gamma$, lowest tracking errors
+examine the effect of different neural control solution
