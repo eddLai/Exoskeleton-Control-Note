@@ -88,3 +88,4 @@ https://simtk.org/projects/motonms:
 
 Neural mapping: 16 channels of EMG data were mapped to 32 MTUs
 musculotendon dynamics: equilibrium elastic tendon
+activation dynamics: equation 3
