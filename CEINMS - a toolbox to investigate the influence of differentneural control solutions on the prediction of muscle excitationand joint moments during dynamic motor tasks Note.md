@@ -84,6 +84,7 @@ https://simtk.org/projects/motonms:
 34 MTUs and 3 DOF
 - hip
 - knee flexion-extension
-- ankle plantar-dorsi
-flexion (FE)
+- ankle plantar-dorsi flexion (FE)
+
+Neural mapping:
 16 channels of EMG data were mapped to 32 MTUs
