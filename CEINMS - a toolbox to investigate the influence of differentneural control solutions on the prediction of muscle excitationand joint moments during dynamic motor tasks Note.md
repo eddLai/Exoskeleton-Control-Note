@@ -81,4 +81,5 @@ https://simtk.org/projects/motonms:
 
 ---
 ## Example
+34 MTUs and 3 DOFs
 16 channels of EMG data were mapped to 32 MTUs
