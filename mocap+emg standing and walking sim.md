@@ -30,7 +30,7 @@ tools: [[SCONE]]
 
 
 opensim下載：
-https://blog.csdn.net/lingzhou0909/article/details/139708197
+libgconf-2-4下載, https://blog.csdn.net/lingzhou0909/article/details/139708197
 
 
 Full body, 11初過後再說
