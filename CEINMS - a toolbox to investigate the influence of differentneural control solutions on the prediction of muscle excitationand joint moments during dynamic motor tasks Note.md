@@ -93,3 +93,5 @@ activation dynamics: equation 3
 MTUs: 11 groups based, posteriorly or anteriorly, lower limb segment
 strength coefficient $[0.5, 2.5]$: for scaling peak isometric force of the different muscle groups.
 
+- EMG-assisted mode: $\alpha,$
+-  
