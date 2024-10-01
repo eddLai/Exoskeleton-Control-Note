@@ -45,10 +45,6 @@ Validation:
 https://simtk.org/projects/motonms: 
 ## In: C3D file
 
-
-	- MTU lengths
-	- moment arms
-	- external joint moments.
 - Muscle inputs
 	- raw EMG data (zero-lag fourth-order recursive Butterworth filter)
 		- Pre-processing
@@ -62,7 +58,11 @@ https://simtk.org/projects/motonms:
 			- inearly combining any number of time varying input signals.
 - marker trajectories inputs  (zero-lag fourth-order recursive Butterworth filter)
 	- cutoff frequency of 8 Hz
+- Drivation
 - ground reaction forces(GRF) 
+	- MTU lengths
+	- moment arms
+	- external joint moments.
 - Intergration to correct each other
 	- Neural control solution algorithms: improve the tracking of experimental joint moments
 		- EMG-driven
