@@ -81,5 +81,6 @@ https://simtk.org/projects/motonms:
 
 ---
 ## Example
-34 MTUs and 3 DOFs
+34 MTUs and 3 DOFship and knee flexion-extension and ankle plantar-dorsi
+flexion (FE)
 16 channels of EMG data were mapped to 32 MTUs
