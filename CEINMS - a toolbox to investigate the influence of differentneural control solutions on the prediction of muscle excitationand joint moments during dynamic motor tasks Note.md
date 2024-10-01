@@ -58,11 +58,10 @@ https://simtk.org/projects/motonms:
 			- inearly combining any number of time varying input signals.
 - marker trajectories inputs  (zero-lag fourth-order recursive Butterworth filter)
 	- cutoff frequency of 8 Hz
-- Drivation
-- ground reaction forces(GRF) 
-	- MTU lengths
-	- moment arms
-	- external joint moments.
+- Derivation the information from mocap and EMG
+	- external joint moments.: ground reaction forces(GRF) 
+	- MTU lengths: 
+	- moment arms: musculoskeletal
 - Intergration to correct each other
 	- Neural control solution algorithms: improve the tracking of experimental joint moments
 		- EMG-driven
