@@ -44,10 +44,12 @@ Validation:
 
 https://simtk.org/projects/motonms: 
 ## In: C3D file
-- Muscle inputs
+
+
 	- MTU lengths
 	- moment arms
 	- external joint moments.
+- Muscle inputs
 	- raw EMG data (zero-lag fourth-order recursive Butterworth filter)
 		- Pre-processing
 			- high-pass filtered(30Hz)
