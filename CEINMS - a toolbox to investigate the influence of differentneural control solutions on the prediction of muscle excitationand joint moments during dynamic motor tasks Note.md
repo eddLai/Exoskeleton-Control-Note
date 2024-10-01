@@ -86,5 +86,5 @@ https://simtk.org/projects/motonms:
 - knee flexion-extension
 - ankle plantar-dorsi flexion (FE)
 
-Neural mapping:
-16 channels of EMG data were mapped to 32 MTUs
+Neural mapping: 16 channels of EMG data were mapped to 32 MTUs
+musculotendon dynamics: equilibrium elastic tendon
