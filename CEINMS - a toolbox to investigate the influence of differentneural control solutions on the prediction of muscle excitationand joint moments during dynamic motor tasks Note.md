@@ -87,5 +87,5 @@ https://simtk.org/projects/motonms:
 - ankle plantar-dorsi flexion (FE)
 
 Neural mapping: 16 channels of EMG data were mapped to 32 MTUs
-musculotendon dynamics: equilibrium elastic tendon
+musculotendon dynamics: equilibrium elastic tendon, $l_o^m$, $l_s^t$
 activation dynamics: equation 3
