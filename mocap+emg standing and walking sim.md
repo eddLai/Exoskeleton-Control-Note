@@ -30,6 +30,7 @@ tools: [[SCONE]]
 
 
 opensim下載：
+https://github.com/sk413025/sci-competition/issues/59
 libgconf-2-4下載, https://blog.csdn.net/lingzhou0909/article/details/139708197
 
 
