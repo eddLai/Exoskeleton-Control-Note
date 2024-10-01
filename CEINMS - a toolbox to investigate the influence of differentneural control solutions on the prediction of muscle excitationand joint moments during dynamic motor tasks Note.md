@@ -99,6 +99,12 @@ strength coefficient $[0.5, 2.5]$: for scaling peak isometric force of the diffe
 $\alpha$, $\beta$, $\gamma$, lowest tracking errors
 ### examination:
 goal: the effect of different neural control solution
-
-muscle co-contraction
+##### muscle co-contraction
 co-contraction ratios (CCR) of FE moments (Mf and Me respectively)
+$$CCR = 
+\begin{cases} 
+1 - \frac{M_e}{M_f}, & \text{if } M_f > M_e \\
+\frac{M_f}{M_e} - 1, & \text{otherwise}
+\end{cases}
+\tag{6}
+$$
