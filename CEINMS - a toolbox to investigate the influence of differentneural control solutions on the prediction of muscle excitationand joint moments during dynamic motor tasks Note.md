@@ -60,7 +60,7 @@ https://simtk.org/projects/motonms:
 	- cutoff frequency of 8 Hz
 - Derivation the information from mocap and EMG
 	- external joint moments.: ground reaction forces(GRF) 
-	- MTU lengths: 
+	- MTU lengths: musculotendon dynamics
 	- moment arms: musculoskeletal
 - Intergration to correct each other
 	- Neural control solution algorithms: improve the tracking of experimental joint moments
