@@ -1,0 +1,410 @@
+      [jar] Building jar: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster/modules/locale/org-netbeans-core-windows_opensim.jar
+      [jar] Building jar: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster/core/locale/core_opensim.jar
+
+-release.dir:
+
+-release.files:
+
+files-init:
+
+release:
+
+-hide-excluded-modules:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster/config/Modules
+
+build:
+
+taskdefs:
+
+-build-dir-init:
+
+-convert-old-project:
+
+common-init:
+
+-jdk-pre-preinit:
+
+-jdk-preinit:
+
+-jdk-warn:
+
+-jdk-presetdef-basic:
+
+-jdk-default:
+
+-jdk-init:
+
+projectized-common.basic-init:
+
+basic-init:
+
+-release.dir:
+
+-release.files:
+
+files-init:
+
+nbm-license-init:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/xmlgraphics-commons-1.2svn/build
+
+build-init:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/public-package-jars
+Scanning for modules in /home/eddlai/netbeans-12.3/netbeans/ide
+Scanning for modules in /home/eddlai/netbeans-12.3/netbeans/platform
+Scanning for modules in suite /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim
+
+-javac-init-nbjdk:
+
+-javac-init-bootclasspath-prepend:
+
+-javac-init-no-bootclasspath-prepend:
+
+-javac-init:
+
+init:
+
+up-to-date:
+
+-pre-compile:
+
+-do-compile:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/xmlgraphics-commons-1.2svn/build/classes
+     [copy] Copying 1 file to /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/xmlgraphics-commons-1.2svn/build/classes
+
+-post-compile:
+
+compile:
+
+jar-prep:
+
+-pre-jar:
+
+-do-jar:
+[jarwithmoduleattributes] Building jar: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster/modules/org-apache-xmlgraphics-ps.jar
+
+-post-jar:
+
+jar:
+
+netbeans-extra:
+
+javahelp:
+
+module-auto-deps:
+
+-pre-release:
+
+-do-release:
+     [copy] Copying 1 file to /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster
+
+-post-release:
+
+release:
+
+-init-startlevel:
+
+module-xml-regular:
+
+module-xml-autoload:
+
+module-xml-eager:
+
+-init-executables:
+
+chmod-executables:
+
+verify-class-linkage:
+
+-validate-layers:
+[xmlvalidate] 0 file(s) have been successfully validated.
+
+-verify-apichanges:
+
+-netbeans:
+
+netbeans:
+  [genlist] Generating Auto Update information for org.apache.xmlgraphics.ps
+
+taskdefs:
+
+-build-dir-init:
+
+-convert-old-project:
+
+common-init:
+
+-jdk-pre-preinit:
+
+-jdk-preinit:
+
+-jdk-warn:
+
+-jdk-presetdef-basic:
+
+-jdk-default:
+
+-jdk-init:
+
+projectized-common.basic-init:
+
+basic-init:
+
+-release.dir:
+
+-release.files:
+
+files-init:
+
+nbm-license-init:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/swing-layout-lib/build
+
+build-init:
+
+-javac-init-nbjdk:
+
+-javac-init-bootclasspath-prepend:
+
+-javac-init-no-bootclasspath-prepend:
+
+-javac-init:
+
+init:
+
+up-to-date:
+
+-pre-compile:
+
+-do-compile:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/swing-layout-lib/build/classes
+     [copy] Copying 1 file to /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/swing-layout-lib/build/classes
+
+-post-compile:
+
+compile:
+
+jar-prep:
+
+-pre-jar:
+
+-do-jar:
+[jarwithmoduleattributes] Building jar: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster/modules/org-jdesktop-layout.jar
+
+-post-jar:
+
+jar:
+
+netbeans-extra:
+
+javahelp:
+
+module-auto-deps:
+
+-pre-release:
+
+-do-release:
+     [copy] Copying 1 file to /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster
+
+-post-release:
+
+release:
+
+-init-startlevel:
+
+module-xml-regular:
+
+module-xml-autoload:
+
+module-xml-eager:
+
+-init-executables:
+
+chmod-executables:
+
+verify-class-linkage:
+
+-validate-layers:
+[xmlvalidate] 0 file(s) have been successfully validated.
+
+-verify-apichanges:
+
+-netbeans:
+
+netbeans:
+  [genlist] Generating Auto Update information for org.jdesktop.layout
+
+taskdefs:
+
+-build-dir-init:
+
+-convert-old-project:
+
+common-init:
+
+-jdk-pre-preinit:
+
+-jdk-preinit:
+
+-jdk-warn:
+
+-jdk-presetdef-basic:
+
+-jdk-default:
+
+-jdk-init:
+
+projectized-common.basic-init:
+
+basic-init:
+
+-release.dir:
+
+-release.files:
+
+files-init:
+
+nbm-license-init:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/jcommon/build
+
+build-init:
+
+-javac-init-nbjdk:
+
+-javac-init-bootclasspath-prepend:
+
+-javac-init-no-bootclasspath-prepend:
+
+-javac-init:
+
+init:
+
+up-to-date:
+
+-pre-compile:
+
+-do-compile:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/jcommon/build/classes
+     [copy] Copying 1 file to /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/jcommon/build/classes
+
+-post-compile:
+
+compile:
+
+jar-prep:
+
+-pre-jar:
+
+-do-jar:
+[jarwithmoduleattributes] Building jar: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster/modules/org-jfree.jar
+
+-post-jar:
+
+jar:
+
+netbeans-extra:
+
+javahelp:
+
+module-auto-deps:
+
+-pre-release:
+
+-do-release:
+     [copy] Copying 1 file to /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster
+
+-post-release:
+
+release:
+
+-init-startlevel:
+
+module-xml-regular:
+
+module-xml-autoload:
+
+module-xml-eager:
+
+-init-executables:
+
+chmod-executables:
+
+verify-class-linkage:
+
+-validate-layers:
+[xmlvalidate] 0 file(s) have been successfully validated.
+
+-verify-apichanges:
+
+-netbeans:
+
+netbeans:
+  [genlist] Generating Auto Update information for org.jfree
+
+taskdefs:
+
+-build-dir-init:
+
+-convert-old-project:
+
+common-init:
+
+-jdk-pre-preinit:
+
+-jdk-preinit:
+
+-jdk-warn:
+
+-jdk-presetdef-basic:
+
+-jdk-default:
+
+-jdk-init:
+
+projectized-common.basic-init:
+
+basic-init:
+
+-release.dir:
+
+-release.files:
+
+files-init:
+
+nbm-license-init:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/jfreechart/build
+
+build-init:
+[parseprojectxml] Distilling /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/public-package-jars/org-apache-xmlgraphics-ps.jar from [/home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster/modules/org-apache-xmlgraphics-ps.jar, /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/xmlgraphics-commons-1.2svn/release/modules/ext/xmlgraphics-commons-1.2svn.jar]
+[parseprojectxml] Distilling /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/public-package-jars/org-jfree.jar from [/home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/build/cluster/modules/org-jfree.jar, /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/jcommon/release/modules/ext/jcommon-1.0.8.jar]
+
+-javac-init-nbjdk:
+
+-javac-init-bootclasspath-prepend:
+
+-javac-init-no-bootclasspath-prepend:
+
+-javac-init:
+
+init:
+
+up-to-date:
+
+-pre-compile:
+
+-do-compile:
+    [mkdir] Created dir: /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/jfreechart/build/classes
+ [nb-javac] Compiling 497 source files to /home/eddlai/opensim-workspace/opensim-gui-source/Gui/opensim/jfreechart/build/classes
+ [nb-javac] warning: [options] bootstrap class path not set in conjunction with -source 6
+ [nb-javac] error: Source option 6 is no longer supported. Use 8 or later.
+ [nb-javac] error: Target option 6 is no longer supported. Use 8 or later.
+
+BUILD FAILED
+/home/eddlai/netbeans-12.3/netbeans/harness/suite.xml:163: The following error occurred while executing this line:
+/home/eddlai/netbeans-12.3/netbeans/harness/common.xml:206: Compile failed; see the compiler error output for details.
+
+Total time: 1 second
+make[3]: *** [Gui/opensim/CMakeFiles/PrepareInstaller.dir/build.make:71: Gui/opensim/CMakeFiles/PrepareInstaller] Error 1
+make[2]: *** [CMakeFiles/Makefile2:210: Gui/opensim/CMakeFiles/PrepareInstaller.dir/all] Error 2
+make[1]: *** [CMakeFiles/Makefile2:217: Gui/opensim/CMakeFiles/PrepareInstaller.dir/rule] Error 2
+make: *** [Makefile:176: PrepareInstaller] Error 2
+(base) eddlai@eddlai-ROG-Flow-X13-GV301RE-GV301RE:~/Downloads$ 
+
