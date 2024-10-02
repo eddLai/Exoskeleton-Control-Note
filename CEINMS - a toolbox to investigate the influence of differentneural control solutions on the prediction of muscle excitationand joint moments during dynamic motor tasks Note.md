@@ -127,3 +127,6 @@ amplitude-normalised EMG
 ##### Muscle selection
 CSA，Cross-Sectional Area
 each neuro-anatomical group
+
+EMG-assisted mode
+
