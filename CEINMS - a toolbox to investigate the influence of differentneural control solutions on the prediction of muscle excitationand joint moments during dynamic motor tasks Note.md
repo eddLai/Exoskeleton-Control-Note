@@ -129,7 +129,8 @@ CSA，Cross-Sectional Area
 each neuro-anatomical group
 
 EMG-assisted mode
-- **縫匠肌（gracilis）**
-- **裁缝肌（sartorius）**
+- 縫匠肌（gracilis）
+- **裁缝肌（sartorius）
 - **股內側肌（vastus medialis）**
-- **腓腸肌內側頭（gastrocnemius medialis）** 和 **腓骨肌群（peroneus group）**
+- **腓腸肌內側頭（gastrocnemius medialis）** 
+- **腓骨肌群（peroneus group）**
