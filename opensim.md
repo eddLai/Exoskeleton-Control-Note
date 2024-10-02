@@ -43,7 +43,7 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
 Filter Coordinates box??
 **_subject01_walk_grf.xml_** as the **External Loads**, [more settings](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090053/How+to+Use+the+Inverse+Dynamics+Tool)
 **setup file**: `.xml`
-`Optimizer Failed`
+`Optimizer Failed`可能是模
 
 ---
 ## CMC
