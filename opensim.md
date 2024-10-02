@@ -45,7 +45,7 @@ Filter Coordinates box??
 **setup file**: `.xml`
 `Optimizer Failed`可能是模型資料做不到
 
-如
+如果關注的是特定肌肉，那就模擬就好
 
 ---
 ## CMC
