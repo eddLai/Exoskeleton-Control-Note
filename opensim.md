@@ -57,7 +57,9 @@ Filter Coordinates box??
 如果關注的是特定肌肉，那就模擬就好
 - filtering the input kinematics
 - [Residual Reduction Algorithm](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089669/Residual+Reduction+Algorithm) (RRA) to smooth the kinematics. 會產生`_q.sto`
-- 
+
+優化
+
 
 ---
 ## CMC
