@@ -5,7 +5,7 @@ muscle activations and muscle forces that satisfy
 - accelerations
 - external forces
 
-***"static" means without integrating the equations of motion between time steps***
+>***"static" means without integrating the equations of motion between time steps***
 
 ---
 ## CMC
