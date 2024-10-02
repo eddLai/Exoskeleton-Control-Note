@@ -128,7 +128,7 @@ amplitude-normalised EMG
 CSA，Cross-Sectional Area
 each neuro-anatomical group
 
-EMG-assisted mode
+EMG-assisted mode as Sartori et al.
 - 縫匠肌（gracilis）
 - 裁缝肌（sartorius）
 - 股內側肌（vastus medialis）
