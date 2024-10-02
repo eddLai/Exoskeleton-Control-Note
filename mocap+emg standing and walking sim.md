@@ -26,7 +26,7 @@ tools: [[SCONE]]
 
 
 
-[[Python C]]
+[[Python and C integration]]
 
 
 opensim下載：
