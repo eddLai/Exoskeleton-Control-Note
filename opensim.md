@@ -46,20 +46,6 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
     ├── subject01_walk_grf.xml : 作為external loads
     ├── subject01_walk_IK.mot : 已經mocap轉成IK的檔案
     └── subject_adjusted_Kinematics_q.sto
-
-.
-├── __MACOSX
-│   └── WorkingWithStaticOptimization
-└── WorkingWithStaticOptimization
-    ├── addAnkleSpring.py
-    ├── gait10dof18musc_Strong_actuators.xml
-    ├── opensim.log
-    ├── readme.txt
-    ├── subject01.osim
-    ├── subject01_walk_grf.mot
-    ├── subject01_walk_grf.xml 
-    ├── subject01_walk_IK.mot
-    └── subject_adjusted_Kinematics_q.sto : 
 ```
 
 2. OPEN static optimization tools:
