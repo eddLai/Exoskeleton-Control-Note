@@ -137,4 +137,4 @@ each neuro-anatomical group
 - The EMG-assisted mode
 	- 對深度肌肉有EMG
 	- 交叉干擾（cross-talk）和雜訊
-- 
+- multiple-DOF EMG-driven mode
