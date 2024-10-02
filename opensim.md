@@ -29,7 +29,7 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
 │   └── WorkingWithStaticOptimization
 └── WorkingWithStaticOptimization
     ├── addAnkleSpring.py
-    ├── gait10dof18musc_Strong_actuators.xml
+    ├── gait10dof18musc_Strong_actuators.xml : Actuators and External Loads
     ├── opensim.log
     ├── readme.txt
     ├── ResultsSO
