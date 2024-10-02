@@ -42,7 +42,8 @@ Validation:
 1. calibration
 2. neural mapping
 3. execution
-https://simtk.org/projects/motonms
+
+https://simtk.org/projects/motonms: 
 ## In: C3D file
 
 - Muscle inputs
@@ -147,7 +148,6 @@ CAUTION:
 - 肌肉招募策略的簡化
 	- **多次迭代校準和激發預測**
 	- **同時校準和預測激發**
-
 MOtoNMS 用來做預處理
 https://myaidrive.com/eDwLLFLted2mjpbMuMw4uW/CEINMS_-a-to.pdf
 
