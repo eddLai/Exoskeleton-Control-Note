@@ -13,7 +13,8 @@ muscle activations and muscle forces that satisfy
 
 ignore activation dynamics and tendon compliance
 
-#### 
+#### Requirements
+
 
 ---
 ## CMC
