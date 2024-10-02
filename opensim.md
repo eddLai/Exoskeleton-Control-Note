@@ -21,5 +21,8 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
 - realistic accelerations
 - all external forces
 
+Filter Coordinates box??
+
+
 ---
 ## CMC
