@@ -34,7 +34,7 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
     ├── readme.txt
     ├── subject01.osim
     ├── subject01_walk_grf.mot
-    ├── subject01_walk_grf.xml : 給
+    ├── subject01_walk_grf.xml : 作為external 
     ├── subject01_walk_IK.mot
     └── subject_adjusted_Kinematics_q.sto
 ```
