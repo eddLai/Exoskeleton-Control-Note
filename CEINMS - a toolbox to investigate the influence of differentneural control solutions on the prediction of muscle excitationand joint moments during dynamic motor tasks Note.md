@@ -145,3 +145,4 @@ each neuro-anatomical group
 
 ANS: EMG-assisted mode
 
+https://myaidrive.com/eDwLLFLted2mjpbMuMw4uW/CEINMS_-a-to.pdf
