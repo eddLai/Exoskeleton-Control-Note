@@ -116,7 +116,7 @@ Problem: 因為 iliopsoas 肌肉的激發信號, 髖關節的屈曲力矩沒有�
 
 ---
 ## Idea
-CCR
+##### CCR
 loading phase: 髖關節和膝關節, CCR較高
 late stance phase: 單方向動作（屈曲或伸展）
 
