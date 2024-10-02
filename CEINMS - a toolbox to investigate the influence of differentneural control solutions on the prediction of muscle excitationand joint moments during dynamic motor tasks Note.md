@@ -52,6 +52,7 @@ https://simtk.org/projects/motonms:
 			- high-pass filtered(30Hz)
 			- full-wave-rectified
 			- low-pass filtered (6Hz)
+			- Maximum Voluntary Contraction, MVC
 			- normalised using data from multiple maximum voluntary contraction trials
 		- extract muscle synergies and weighting factors
 			- factorisation algorithms
