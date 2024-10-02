@@ -42,8 +42,11 @@ Validation:
 1. calibration
 2. neural mapping
 3. execution
-$E_i(t) = \sum_{j=1}^{m} w_{ij} P_j(t)$
 
+
+
+$E_i(t) = \sum_{j=1}^{m} w_{ij} P_j(t)$
+$E \approx W \times P$
 
 
 https://simtk.org/projects/motonms: 
