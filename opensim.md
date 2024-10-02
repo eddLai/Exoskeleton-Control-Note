@@ -14,7 +14,9 @@ muscle activations and muscle forces that satisfy
 ignore activation dynamics and tendon compliance
 
 #### Requirements
-smooth, realistic accelerations and all external forces
+- smooth
+- realistic accelerations
+- all external forces
 
 ---
 ## CMC
