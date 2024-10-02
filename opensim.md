@@ -38,9 +38,8 @@ U got:
     ├── subject01_walk_IK.mot
     └── subject_adjusted_Kinematics_q.sto
 ```
-
+OPEN stata
 Filter Coordinates box??
-
 **_subject01_walk_grf.xml_** as the **External Loads**
 
 ---
