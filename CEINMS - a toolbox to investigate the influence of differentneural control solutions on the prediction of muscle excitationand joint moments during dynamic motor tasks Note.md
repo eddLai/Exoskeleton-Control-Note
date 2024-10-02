@@ -43,8 +43,7 @@ Validation:
 2. neural mapping
 3. execution
 
-
-
+雙向轉換
 $E_i(t) = \sum_{j=1}^{m} w_{ij} P_j(t)$
 $E \approx W \times P$
 
