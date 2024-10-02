@@ -141,3 +141,4 @@ each neuro-anatomical group
 	- knee and ankle joints,
 - EMG-informed modes
 	- static optimisation
+	- individual’s neural solution to generate movement: pr
