@@ -41,7 +41,8 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
 
 2. OPEN static optimization tools:
 Filter Coordinates box??
-**_subject01_walk_grf.xml_** as the **External Loads**, [more settings]https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090053/How+to+Use+the+Inverse+Dynamics+Tool
+**_subject01_walk_grf.xml_** as the **External Loads**, [more settings](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090053/How+to+Use+the+Inverse+Dynamics+Tool)
+
 
 ---
 ## CMC
