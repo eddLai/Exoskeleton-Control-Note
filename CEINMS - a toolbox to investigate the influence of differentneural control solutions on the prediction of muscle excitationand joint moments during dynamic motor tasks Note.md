@@ -136,5 +136,5 @@ each neuro-anatomical group
 	- 腓骨肌群（peroneus group）
 - The EMG-assisted mode
 	- 對深度肌肉有EMG
-	- 
+	- 交叉干擾（cross-talk）和雜訊
 
