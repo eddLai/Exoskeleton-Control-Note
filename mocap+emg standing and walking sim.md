@@ -1,4 +1,4 @@
-tools: [[SCONE]]
+tools: [[SCONE]], [[]]
 
 7 Days ~ 10/3 (Thursday)
 1. make model fit an object
@@ -17,7 +17,7 @@ tools: [[SCONE]]
 		1. [ ] difference between our EMG data and Gold standard: 安於data, standard: sean 檢查前幾筆
 			1. [ ] quantize the [[level of fatique from EMG]]? ***sean, eddlai***
 		2. Transform the Real EMG to muscle activation
-			1. [ ] mocap opensim [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
+			1. [ ] mocap [[opensim]] [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
 			3. [ ] meaning of muscle activation in [[opensim]] and scone [CEINMS](https://pubmed.ncbi.nlm.nih.gov/26522621/) [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]] ***eddlai, sean***, 
 				1. [ ] read the papers
 		3. [ ] into Scone controller parameters like tension and length, possible? ***sean***
