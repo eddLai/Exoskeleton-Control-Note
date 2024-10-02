@@ -153,4 +153,4 @@ https://myaidrive.com/eDwLLFLted2mjpbMuMw4uW/CEINMS_-a-to.pdf
 
 Adjusted muscle excitations in conjunction with MTU lengths and moment arms from OpenSim are used as inputs to estimate MTU forces and joint moments from a single experimental trial.
 ![[Adjusted muscle excitations in conjunction with opensim output.png]]
-![[Pasted image 20241002114442.png]]
+![[CEINMS data preparation pipeline in MATLAB.png]]
