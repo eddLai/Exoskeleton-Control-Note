@@ -4,7 +4,7 @@ Our Tssk is dynamic model
 - Personalized neuromusculoskeletal (NMS) models
 - CEMINMS: Calibrated EMG-Informed NMS Modelling Toolbox
 - **模擬退火（simulated annealing）**:一種優化算法，隨機優化算法，逐步減少搜索範圍和隨機擾動的「溫度」，以更大概率找到全局最優解
-- Co-contraction Ratio(CCR): 兩肌肉同時激活，提高關節穩定性，患者數值較高（骨關節炎或前十字韌帶重建術後）
+- Co-contraction Ratio(CCR): 兩肌肉同時激活，提高關節穩定性，患者數值較高（骨關節炎Osteoarthritis或前十字韌帶重建術後Anterior cruciate ligament (ACL) reconstruction）
 
 2015: ***"restricted to static and dynamic optimisation methods, or limited to isometric tasks only"***
 
