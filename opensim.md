@@ -22,6 +22,21 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
 - all external forces
 
 #### Example
+U got:
+.
+├── __MACOSX
+│   └── WorkingWithStaticOptimization
+└── WorkingWithStaticOptimization
+    ├── addAnkleSpring.py
+    ├── gait10dof18musc_Strong_actuators.xml
+    ├── opensim.log
+    ├── readme.txt
+    ├── subject01.osim
+    ├── subject01_walk_grf.mot
+    ├── subject01_walk_grf.xml
+    ├── subject01_walk_IK.mot
+    └── subject_adjusted_Kinematics_q.sto
+
 Filter Coordinates box??
 
 **_subject01_walk_grf.xml_** as the **External Loads**
