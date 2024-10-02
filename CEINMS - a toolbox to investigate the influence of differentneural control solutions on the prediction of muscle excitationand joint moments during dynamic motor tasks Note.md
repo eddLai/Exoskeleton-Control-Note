@@ -43,7 +43,7 @@ Validation:
 2. neural mapping
 3. execution
 
-https://simtk.org/projects/motonms: 
+https://simtk.org/projects/motonms
 ## In: C3D file
 
 - Muscle inputs
