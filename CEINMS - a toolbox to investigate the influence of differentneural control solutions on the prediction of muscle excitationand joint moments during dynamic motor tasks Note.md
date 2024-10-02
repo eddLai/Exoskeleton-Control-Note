@@ -114,3 +114,4 @@ $$
 RMSE 0.18 Nm/kg and 0.24 Nm/kg
 Problem: 因為 iliopsoas 肌肉的激發信號, 髖關節的屈曲力矩沒有被準確預測
 
+loading phase: 
