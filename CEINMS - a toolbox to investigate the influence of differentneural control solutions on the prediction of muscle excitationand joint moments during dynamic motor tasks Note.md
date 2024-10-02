@@ -146,3 +146,15 @@ each neuro-anatomical group
 ANS: EMG-assisted mode
 
 https://myaidrive.com/eDwLLFLted2mjpbMuMw4uW/CEINMS_-a-to.pdf
+
+When using CEINMS a number of factors must be considered. The neural mapping (Lloyd
+and Besier, 2003; Sartori et al., 2012a) is a simplification of muscle recruitment strategies and may result in suboptimal model calibration and inaccurate force predictions. This is
+exemplified by larger discrepancies in measured and predicted excitations in the muscles
+surrounding the hip compared to the knee and ankle (Table 2). This may be caused by the
+iliacus and psoas excitations not being included in the calibration, resulting in the other hip
+muscles’ parameters being less-than ideally calibrated in their absence. Thus, the prediction
+of hip muscles excitations using EMG-assisted mode may have contained some errors.
+Possible solutions include multiple iteration between calibration and prediction of
+excitations (Walter et al., 2014) or the simultaneous calibration of muscle parameters and
+prediction of excitations, for all trails from an individual, using dynamic optimization.
+However, further research is required to develop these processes.整理以下
