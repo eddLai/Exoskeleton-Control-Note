@@ -124,4 +124,5 @@ late stance phase: 單方向動作（屈曲或伸展）
 amplitude-normalised EMG 
 - normalizing to maximum EMGs recorded from a variety of maximum exertion isometric and dynamic tasks.
 
+##### Muscle selection
 CSA，Cross-Sectional Area
