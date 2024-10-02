@@ -47,7 +47,6 @@ Validation:
 $E_i(t) = \sum_{j=1}^{m} w_{ij} P_j(t)$
 $E \approx W \times P$
 
-
 https://simtk.org/projects/motonms: 
 ## In: C3D file
 
