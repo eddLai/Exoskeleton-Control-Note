@@ -7,5 +7,7 @@ muscle activations and muscle forces that satisfy
 
 >***"static" means without integrating the equations of motion between time steps***
 
+ignore activation dynamics and tendon compliance
+
 ---
 ## CMC
