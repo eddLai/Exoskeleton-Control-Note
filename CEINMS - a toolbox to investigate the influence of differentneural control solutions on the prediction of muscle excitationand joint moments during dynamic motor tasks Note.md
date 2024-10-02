@@ -138,3 +138,4 @@ each neuro-anatomical group
 	- 對深度肌肉有EMG
 	- 交叉干擾（cross-talk）和雜訊
 - multiple-DOF EMG-driven mode
+	- knee and ankle joints,
