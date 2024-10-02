@@ -42,7 +42,6 @@ Validation:
 1. calibration
 2. neural mapping
 3. execution
-
 https://simtk.org/projects/motonms
 ## In: C3D file
 
