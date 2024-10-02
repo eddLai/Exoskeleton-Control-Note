@@ -15,7 +15,7 @@ ignore activation dynamics and tendon compliance
 
 ---
 #### Core Method
-reduce actuation from reserve and residual actuators: 
+reduce actuation from reserve and residual actuators: 引入虛擬ac
 #### Requirements
 - smooth
 - realistic accelerations
