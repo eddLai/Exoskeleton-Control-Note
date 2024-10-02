@@ -1,3 +1,4 @@
-## SO
+## Static Optimization(SO)
+
 
 ## CMC
