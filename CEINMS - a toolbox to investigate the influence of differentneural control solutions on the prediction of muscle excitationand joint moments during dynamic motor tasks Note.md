@@ -148,5 +148,5 @@ CAUTION:
 - 肌肉招募策略的簡化
 	- **多次迭代校準和激發預測**
 	- **同時校準和預測激發**
-MOtoNMS
+MOtoNMS 用來做預處理
 https://myaidrive.com/eDwLLFLted2mjpbMuMw4uW/CEINMS_-a-to.pdf
