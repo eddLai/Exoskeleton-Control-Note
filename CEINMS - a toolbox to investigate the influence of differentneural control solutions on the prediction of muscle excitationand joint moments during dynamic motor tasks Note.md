@@ -142,3 +142,5 @@ each neuro-anatomical group
 - EMG-informed modes
 	- static optimisation
 	- individual’s neural solution to generate movement: predict knee joint contact forces(tibiofemoral joint best)
+
+A
