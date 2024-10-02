@@ -43,7 +43,7 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
     ├── StaticOptimization_Setup.xml
     ├── subject01.osim
     ├── subject01_walk_grf.mot
-    ├── subject01_walk_grf.xml
+    ├── subject01_walk_grf.xml : 作為external loads
     ├── subject01_walk_IK.mot
     └── subject_adjusted_Kinematics_q.sto
 
@@ -57,7 +57,7 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
     ├── readme.txt
     ├── subject01.osim
     ├── subject01_walk_grf.mot
-    ├── subject01_walk_grf.xml : 作為external loads
+    ├── subject01_walk_grf.xml 
     ├── subject01_walk_IK.mot : 已經mocap轉成IK的檔案
     └── subject_adjusted_Kinematics_q.sto : 
 ```
