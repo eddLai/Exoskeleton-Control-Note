@@ -135,5 +135,6 @@ each neuro-anatomical group
 	- 腓腸肌內側頭（gastrocnemius medialis）
 	- 腓骨肌群（peroneus group）
 - The EMG-assisted mode
-	- 對深度機糅ㄧ
+	- 對深度肌肉有EMG
+	- 
 
