@@ -140,4 +140,4 @@ each neuro-anatomical group
 - multiple-DOF EMG-driven mode
 	- knee and ankle joints,
 - EMG-informed modes
-	- 
+	- static optimisation
