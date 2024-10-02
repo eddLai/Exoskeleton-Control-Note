@@ -32,6 +32,29 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
     ├── gait10dof18musc_Strong_actuators.xml
     ├── opensim.log
     ├── readme.txt
+    ├── ResultsSO
+    │   ├── Scaled_Model_StaticOptimization_activation.sto
+    │   ├── Scaled_Model_StaticOptimization_controls.xml
+    │   └── Scaled_Model_StaticOptimization_force.sto
+    ├── ResultsSO_StrongActuators
+    │   ├── Scaled_Model_StaticOptimization_activation.sto
+    │   ├── Scaled_Model_StaticOptimization_controls.xml
+    │   └── Scaled_Model_StaticOptimization_force.sto
+    ├── StaticOptimization_Setup.xml
+    ├── subject01.osim
+    ├── subject01_walk_grf.mot
+    ├── subject01_walk_grf.xml
+    ├── subject01_walk_IK.mot
+    └── subject_adjusted_Kinematics_q.sto
+
+.
+├── __MACOSX
+│   └── WorkingWithStaticOptimization
+└── WorkingWithStaticOptimization
+    ├── addAnkleSpring.py
+    ├── gait10dof18musc_Strong_actuators.xml
+    ├── opensim.log
+    ├── readme.txt
     ├── subject01.osim
     ├── subject01_walk_grf.mot
     ├── subject01_walk_grf.xml : 作為external loads
