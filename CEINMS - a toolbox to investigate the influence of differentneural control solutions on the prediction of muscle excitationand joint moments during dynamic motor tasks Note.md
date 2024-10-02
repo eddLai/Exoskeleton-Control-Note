@@ -144,7 +144,9 @@ each neuro-anatomical group
 	- individual’s neural solution to generate movement: predict knee joint contact forces(tibiofemoral joint best)
 
 ANS: EMG-assisted mode
-
+CAUTION:
+- 肌肉招募策略的簡化
+- 
 https://myaidrive.com/eDwLLFLted2mjpbMuMw4uW/CEINMS_-a-to.pdf
 
 When using CEINMS a number of factors must be considered. The neural mapping (Lloyd
