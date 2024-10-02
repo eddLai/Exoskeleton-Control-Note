@@ -139,3 +139,5 @@ each neuro-anatomical group
 	- 交叉干擾（cross-talk）和雜訊
 - multiple-DOF EMG-driven mode
 	- knee and ankle joints,
+- EMG-informed modes
+	- 
