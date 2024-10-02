@@ -46,6 +46,8 @@ Filter Coordinates box??
 `Optimizer Failed`可能是模型資料做不到
 
 如果關注的是特定肌肉，那就模擬就好
+- filtering the input kinematics
+- 
 
 ---
 ## CMC
