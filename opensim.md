@@ -1,4 +1,6 @@
-### Temrs
+### Terms
+- anthropometry:人體測量學
+- 
 
 ## Static Optimization(SO)
 muscle activations and muscle forces that satisfy 
