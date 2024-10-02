@@ -22,7 +22,7 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
 - all external forces
 
 #### Example
-U got:
+1. U got:
 ```
 .
 ├── __MACOSX
@@ -39,7 +39,7 @@ U got:
     └── subject_adjusted_Kinematics_q.sto
 ```
 
-OPEN static optimization tools:
+2. OPEN static optimization tools:
 Filter Coordinates box??
 **_subject01_walk_grf.xml_** as the **External Loads**
 
