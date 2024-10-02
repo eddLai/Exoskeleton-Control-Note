@@ -59,7 +59,7 @@ Filter Coordinates box??
 - [Residual Reduction Algorithm](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089669/Residual+Reduction+Algorithm) (RRA) to smooth the kinematics. 會產生`_q.sto`
 
 優化器代價提高，可以使得優先使用肌肉
-
+<optimal_force> $\times$ 
 
 
 ---
