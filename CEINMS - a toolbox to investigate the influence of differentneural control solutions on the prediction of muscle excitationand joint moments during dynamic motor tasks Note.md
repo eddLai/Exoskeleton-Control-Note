@@ -150,3 +150,5 @@ CAUTION:
 	- **同時校準和預測激發**
 MOtoNMS 用來做預處理
 https://myaidrive.com/eDwLLFLted2mjpbMuMw4uW/CEINMS_-a-to.pdf
+
+![[Pasted image 20241002114311.png]]
