@@ -120,5 +120,6 @@ Problem: 因為 iliopsoas 肌肉的激發信號, 髖關節的屈曲力矩沒有�
 loading phase: 髖關節和膝關節, CCR較高
 late stance phase: 單方向動作（屈曲或伸展）
 ##### Preprocessing
-amplitude-normalised EMG it is recommended normalizing to maximum EMGs recorded from a variety of maximum exertion isometric and dynamic tasks.
+amplitude-normalised EMG 
+- normalizing to maximum EMGs recorded from a variety of maximum exertion isometric and dynamic tasks.
 
