@@ -1,4 +1,4 @@
-tools: [[SCONE]], [[]]
+tools: [[SCONE]], [[opensim]]
 
 7 Days ~ 10/3 (Thursday)
 1. make model fit an object
