@@ -11,7 +11,7 @@ tools: [[SCONE]]用來RL training, [[opensim]]用來進行IK推測
 			5. [ ] optimizing -> trained weights
 			6. [ ] go back to 1. with trained weights
 		2. [ ] Long Head Biceps femoris muscle model ***sean***
-		3. [ ] (Full body muscle skeleton model (opensim creator) ***sean***)
+		3. [x] (Full body muscle skeleton model (opensim creator) ***sean***)
 		4. [ ] (points lost issue, interpolation? ***sean***)
 	2. EMG data input
 		1. [x] difference between our EMG data and Gold standard: 安於data, standard: sean 檢查前幾筆，已經同步，對照[Full body mobile brain-body imaging data during unconstrained locomotion on stairs, ramps, and level ground](https://www.nature.com/articles/sdata2018133)這篇的內容
