@@ -15,7 +15,8 @@ tools: [[SCONE]]用來RL training, [[opensim]]用來進行IK推測
 		4. [x] (points lost issue, interpolation? ***sean***) (暫時已經使用mocap team的優化)
 	2. EMG data input
 		1. [x] difference between our EMG data and Gold standard: 安於data, standard: sean 檢查前幾筆，已經同步，對照[Full body mobile brain-body imaging data during unconstrained locomotion on stairs, ramps, and level ground](https://www.nature.com/articles/sdata2018133)這篇的內容
-			1. [ ] quantize the [[level of fatique from EMG]]? ***sean, eddlai***
+			1. [ ] sync
+			2. [ ] quantize the [[level of fatique from EMG]]? ***sean, eddlai***
 		2. Transform the Real EMG to muscle activation
 			1. [x] mocap [[opensim]] [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
 			3. [x] meaning of muscle activation in [[opensim]] and scone [CEINMS](https://pubmed.ncbi.nlm.nih.gov/26522621/) [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]] ***eddlai, sean***, 
