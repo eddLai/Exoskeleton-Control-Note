@@ -48,12 +48,13 @@ reduce actuation from reserve and residual actuators: 引入虛擬actuators來so
     └── subject_adjusted_Kinematics_q.sto
 ```
 
-2. OPEN static optimization tools:
+#### OPEN static optimization tools:
 Filter Coordinates box??
 **_subject01_walk_grf.xml_** as the **External Loads**, [more settings](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090053/How+to+Use+the+Inverse+Dynamics+Tool)
 **setup file**: `.xml`
 `Optimizer Failed`可能是模型資料做不到
 
+#### Actuactors
 如果關注的是特定肌肉，那就模擬就好
 - filtering the input kinematics
 - [Residual Reduction Algorithm](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089669/Residual+Reduction+Algorithm) (RRA) to smooth the kinematics. 會產生`_q.sto`
