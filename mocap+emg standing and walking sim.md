@@ -40,6 +40,8 @@ libgconf-2-4下載, https://blog.csdn.net/lingzhou0909/article/details/139708197
 
 Full body, 11初過後再說，須一傲
 
+EMG 
+
 130紅燈亮，131紅燈暗，140綠燈亮, 141綠燈暗
 02 右腳
 其他 左腳起步
