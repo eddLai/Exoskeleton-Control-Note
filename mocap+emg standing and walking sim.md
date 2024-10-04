@@ -17,7 +17,8 @@ tools: [[SCONE]]用來RL training, [[opensim]]用來進行IK推測
 		1. [x] difference between our EMG data and Gold standard: 安於data, standard: sean 檢查前幾筆，已經同步，對照[Full body mobile brain-body imaging data during unconstrained locomotion on stairs, ramps, and level ground](https://www.nature.com/articles/sdata2018133)這篇的內容
 			1. [x] sync, 沒辦法用16Hz去處理吧？因為相機的殘留
 				1. [x] 因為會有人移動，所以不能開啟鏡頭移動的code
-				2. [ ] 需要手動校準燈泡位址
+				2. [x] 需要手動校準燈泡位址
+				3. [ ] 檢查各個鏡頭
 			2. [ ] quantize the [[level of fatique from EMG]]? ***sean, eddlai***
 		2. Transform the Real EMG to muscle activation
 			1. [x] mocap [[opensim]] [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
