@@ -38,7 +38,7 @@ https://github.com/sk413025/sci-competition/issues/59
 libgconf-2-4下載, https://blog.csdn.net/lingzhou0909/article/details/139708197
 
 
-Full body, 11初過後再說，須一傲
+Full body, 11初過後再說
 
 opensim裡頭都有各種組合的code不知道為什麼
 
@@ -46,5 +46,5 @@ opensim裡頭都有各種組合的code不知道為什麼
 02 右腳
 其他 左腳起步
 
-detrend
+detrend?
 ![[RAW EMG data.png]]
