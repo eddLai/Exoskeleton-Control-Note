@@ -1,6 +1,9 @@
 ### Terms
 - anthropometry:人體測量學
 
+- CMC 是基於追蹤已知運動的「控制」
+- Forward Dynamics 是從已知的力量推導運動。
+- 靜態優化則是一種優化方式，根據特定目標計算每個時間點的最佳肌肉力分佈，但不一定符合生理真實的肌肉激活模式
 ## Static Optimization(SO)
 #### Goal
 muscle activations and muscle forces that satisfy 
