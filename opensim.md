@@ -64,4 +64,4 @@ Filter Coordinates box??
 
 ---
 ## CMC
-透過`.mot`gfjf jb
+透過`.mot`輸入，以得到
