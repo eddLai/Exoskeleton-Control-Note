@@ -45,3 +45,4 @@ Full body, 11初過後再說，須一傲
 其他 左腳起步
 
 detrend
+![[RAW EMG data.png]]
