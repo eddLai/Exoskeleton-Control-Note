@@ -63,7 +63,7 @@ Filter Coordinates box??
  $optimal\_force \times activation = force$ 
 
 ---
-## CMC
+## Computed Muscle Control
 透過`.mot`輸入，以得到
 過濾輸入（Desire Kinematics）
 和追蹤任務（Tracking Tasks）
