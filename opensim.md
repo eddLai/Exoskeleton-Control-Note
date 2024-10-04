@@ -64,7 +64,8 @@ Filter Coordinates box??
 
 ---
 ## Computed Muscle Control
-輸入
+用於還原動作
+Input
 - Desire Kinematics`.mot`
 - Tracking Tasks`.xml`
 - Actuator Constraints`.xml`
