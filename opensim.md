@@ -65,5 +65,5 @@ Filter Coordinates box??
 ---
 ## Computed Muscle Control
 透過`.mot`輸入，以得到
-過濾輸入（Desire Kinematics）
+Desire Kinematics）
 和追蹤任務（Tracking Tasks）
