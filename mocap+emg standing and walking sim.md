@@ -47,3 +47,6 @@ opensim裡頭都有各種組合的code不知道為什麼
 其他 左腳起步
 
 detrend?
+
+![[Raw EMG data.png]]
+![[Pasted image 20241005133139.png]]
