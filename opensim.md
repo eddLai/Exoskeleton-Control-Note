@@ -1,6 +1,12 @@
 ### Terms
 - anthropometry:人體測量學
 
+1. Load model`.osim`
+2. Load motion `.mot`
+
+Coordinate controller
+
+
 主要功能：用於模擬肌肉
 - CMC 是基於追蹤已知運動的「控制」
 - Forward Dynamics 是從已知的力量推導運動。
