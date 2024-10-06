@@ -1,7 +1,7 @@
 | Date  | Duration length | task                                   | check |
 | ----- | --------------- | -------------------------------------- | ----- |
 | 10/10 | 1 week          | [[mocap+emg standing and walking sim]] |       |
-| 10/15 | 1 week          | [[check the Exoskeleton model]]        |       |
+| 10/15 | 1 week          | [[check the Exoskeleton model and Sciprt control]]        |       |
 | 10/20 | 1 week          | D4PG + CMA-ES 整合進 Scone                |       |
 | 11/2  | 1 weeks         | HMI, 4 indexs to evalution             |       |
 
