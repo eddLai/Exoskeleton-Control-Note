@@ -48,7 +48,4 @@ opensim裡頭都有各種組合的code不知道為什麼
 
 detrend?
 
-![[Raw EMG data.png]]
-![[EMG sliced vs TRC.png]]
-
 下次收案一起把Cygnus TTL完成
