@@ -49,3 +49,10 @@ opensim裡頭都有各種組合的code不知道為什麼
 detrend?
 
 下次收案一起把Cygnus TTL完成
+
+資料同步
+- [x] 用光學對齊檢查，應該要差不多綠光開始走動??
+	- [x] EMG event_marker開始，跟video紅燈frame對齊
+	- [x] (gait_analysis)沒時間->時間點附近最靠近的heel，(水平校正trc, x, y ,z成有意義的資料)看analysis，但丟進去opensim可能不需要
+	- [x] 透過肌肉，heel座標關係去對齊(可以double check)
+- [x] 下次收案一起把Cygnus TTL完成, `sync_marker.npz`（等測試）
