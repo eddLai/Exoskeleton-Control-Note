@@ -19,12 +19,12 @@ tools: [[SCONE]]用來RL training, [[opensim]]用來進行IK推測
 				1. [x] 因為會有人移動，所以不能開啟鏡頭移動的code
 				2. [x] 需要手動校準燈泡位址
 				3. [ ] 檢查各個鏡頭
-			2. [ ] quantize the [[level of fatique from EMG]]? ***sean, eddlai***
+			2. [ ] (quantize the [[level of fatique from EMG]]? ***sean, eddlai***)
 		2. Transform the Real EMG to muscle activation
 			1. [x] mocap [[opensim]] [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
 			3. [x] meaning of muscle activation in [[opensim]] and scone [CEINMS](https://pubmed.ncbi.nlm.nih.gov/26522621/) [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]] ***eddlai, sean***, 
 				1. [ ] 使用者角度***sean***
-				2. [ ] 
+				2. [ ] 把API串接起來
 				3. [x] read the papers
 		3. [ ] into Scone controller parameters like tension and length, possible? ***sean***
 2. ==Validation by collect a new data==
