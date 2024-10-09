@@ -1,4 +1,4 @@
-```
+```bash
 Number of objective function evaluations             = 397
 Number of objective gradient evaluations             = 334
 Number of equality constraint evaluations            = 397
