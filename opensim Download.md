@@ -2,7 +2,7 @@
 [opensim-core-linux-build-script.sh](https://github.com/opensim-org/opensim-core/blob/main/scripts/build/opensim-core-linux-build-script.sh) 編譯core會產生：
 - **`opensim-workspace/`**：
 - **`swig/`**：
-    - 這個目錄是在腳本下載並編譯 SWIG（Simplified Wrapper and Interface Generator）時創建的。SWIG 是用來生成 OpenSim 的 Python 綁定的重要工具。
+    - 這個目錄是在腳本下載並編譯 [[SWIG（Simplified Wrapper and Interface Generator）]]時創建的。SWIG 是用來生成 OpenSim 的 Python 綁定的重要工具。
 - **`.cmake/`**：
 ```bash
 Number of objective function evaluations             = 397
