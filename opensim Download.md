@@ -106,3 +106,9 @@ Errors while running CTest
 make -j8 install
 切換swig的版本
 看錯誤說明，關掉conda
+
+嘗試使用
+```
+export PATH=~/opensim-workspace/Python-3.6.9-source/Python-3.6.9:$PATH
+export LD_LIBRARY_PATH=~/opensim-workspace/opensim-core-dependencies-install/simbody/lib:$LD_LIBRARY_PATH
+```
