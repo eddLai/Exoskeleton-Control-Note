@@ -102,4 +102,5 @@ Errors while running CTest
 
 嘗試
 [# Compilation and ctest on Linux](https://github.com/opensim-org/opensim-core/issues/2664)
-
+~/opensim-workspace/opensim-core-build
+make -j8 install
