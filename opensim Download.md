@@ -148,3 +148,6 @@ conda install -c conda-forge gcc=12
 ```
 沒有解決==但應該有下載阿==
 4. 關閉conda bash自動開啟，`~/.bashrc`
+
+conda 降級
+並且conda install libgcc-ng=9.3.0
