@@ -5,6 +5,7 @@
     - 這個目錄是在腳本下載並編譯 [[SWIG（Simplified Wrapper and Interface Generator）]]時創建的。SWIG 是用來生成 OpenSim 的 Python 綁定的重要工具。
 - **`.cmake/`**：
 
+運行以下：
 ```
 # Test opensim-core.
 echo "LOG: TESTING OPENSIM-CORE..."
