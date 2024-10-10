@@ -126,12 +126,23 @@ Traceback (most recent call last):
 ImportError: /home/eddlai/miniconda3/lib/libstdc++.so.6: version `GLIBCXX_3.4.32' not found (required by /home/eddlai/opensim-workspace/opensim-core-build/Bindings/Python/RelWithDebInfo/opensim/_simbody.so)
 
 ```
-1. 嘗試在終端中使用
+1. 嘗試在終端中使用(failed)
 ```
 export PATH=~/opensim-workspace/Python-3.6.9-source/Python-3.6.9:$PATH
 export LD_LIBRARY_PATH=~/opensim-workspace/opensim-core-dependencies-install/simbody/lib:$LD_LIBRARY_PATH
 ```
 
-2. 嘗試在.sh中加入
+2. 嘗試在.sh中加入(failed)
+```
+# 強制使用腳本下載的 Python 和 Simbody
+export PATH=~/opensim-workspace/Python-3.6.9-source/Python-3.6.9/bin:$PATH
+export LD_LIBRARY_PATH=~/opensim-workspace/opensim-core-dependencies-install/simbody/lib:$LD_LIBRARY_PATH
 
-1. 
+# 確保不使用 Conda 的 Python
+unset PYTHONHOME
+unset PYTHONPATH
+```
+3. 嘗試繼續使用conda，並修正問題
+```
+conda install -c conda-forge gcc=12 
+```
