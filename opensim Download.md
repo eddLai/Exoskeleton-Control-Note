@@ -151,3 +151,4 @@ conda install -c conda-forge gcc=12
 
 conda 降級
 並且conda install libgcc-ng=9.3.0
+需要GLIBCXX_3.4.**32**
