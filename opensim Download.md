@@ -104,3 +104,5 @@ Errors while running CTest
 [# Compilation and ctest on Linux](https://github.com/opensim-org/opensim-core/issues/2664)
 ~/opensim-workspace/opensim-core-build
 make -j8 install
+切換swig的版本
+看錯誤說明，關掉conda
