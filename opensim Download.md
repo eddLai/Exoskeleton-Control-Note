@@ -146,3 +146,5 @@ unset PYTHONPATH
 ```
 conda install -c conda-forge gcc=12 
 ```
+沒有解決==但應該有下載阿==
+4. 嘗試解決
