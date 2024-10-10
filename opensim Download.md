@@ -4,6 +4,16 @@
 - **`swig/`**：
     - 這個目錄是在腳本下載並編譯 [[SWIG（Simplified Wrapper and Interface Generator）]]時創建的。SWIG 是用來生成 OpenSim 的 Python 綁定的重要工具。
 - **`.cmake/`**：
+
+```
+# Test opensim-core.
+echo "LOG: TESTING OPENSIM-CORE..."
+cd ~/opensim-workspace/opensim-core-build
+# TODO: Temporary for python to find Simbody libraries.
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/opensim-workspace/opensim-core-dependencies-install/simbody/lib
+ctest --parallel $NUM_JOBS --output-on-failure
+```
+
 ```bash
 Number of objective function evaluations             = 397
 Number of objective gradient evaluations             = 334
