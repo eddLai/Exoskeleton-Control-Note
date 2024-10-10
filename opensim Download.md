@@ -106,7 +106,26 @@ Errors while running CTest
 make -j8 install
 切換swig的版本
 看錯誤說明，關掉conda
+```
+======================================================================
+ERROR: test_states_trajectory (unittest.loader._FailedTest.test_states_trajectory)
+----------------------------------------------------------------------
+ImportError: Failed to import test module: test_states_trajectory
+Traceback (most recent call last):
+  File "/home/eddlai/miniconda3/lib/python3.12/unittest/loader.py", line 396, in _find_test_path
+    module = self._get_module_from_name(name)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/eddlai/miniconda3/lib/python3.12/unittest/loader.py", line 339, in _get_module_from_name
+    __import__(name)
+  File "/home/eddlai/opensim-workspace/opensim-core-source/Bindings/Python/tests/test_states_trajectory.py", line 4, in <module>
+    import opensim as osim
+  File "/home/eddlai/opensim-workspace/opensim-core-build/Bindings/Python/RelWithDebInfo/opensim/__init__.py", line 18, in <module>
+    from .simbody import *
+  File "/home/eddlai/opensim-workspace/opensim-core-build/Bindings/Python/RelWithDebInfo/opensim/simbody.py", line 10, in <module>
+    from . import _simbody
+ImportError: /home/eddlai/miniconda3/lib/libstdc++.so.6: version `GLIBCXX_3.4.32' not found (required by /home/eddlai/opensim-workspace/opensim-core-build/Bindings/Python/RelWithDebInfo/opensim/_simbody.so)
 
+```
 嘗試使用
 ```
 export PATH=~/opensim-workspace/Python-3.6.9-source/Python-3.6.9:$PATH
