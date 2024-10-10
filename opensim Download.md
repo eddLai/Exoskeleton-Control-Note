@@ -147,4 +147,4 @@ unset PYTHONPATH
 conda install -c conda-forge gcc=12 
 ```
 沒有解決==但應該有下載阿==
-4. 嘗試解決
+4. 關閉conda bash自動開啟，`~/.bashrc`
