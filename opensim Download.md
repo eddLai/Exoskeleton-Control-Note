@@ -126,8 +126,12 @@ Traceback (most recent call last):
 ImportError: /home/eddlai/miniconda3/lib/libstdc++.so.6: version `GLIBCXX_3.4.32' not found (required by /home/eddlai/opensim-workspace/opensim-core-build/Bindings/Python/RelWithDebInfo/opensim/_simbody.so)
 
 ```
-嘗試使用
+1. 嘗試在終端中使用
 ```
 export PATH=~/opensim-workspace/Python-3.6.9-source/Python-3.6.9:$PATH
 export LD_LIBRARY_PATH=~/opensim-workspace/opensim-core-dependencies-install/simbody/lib:$LD_LIBRARY_PATH
 ```
+
+2. 嘗試在.sh中加入
+
+1. 
