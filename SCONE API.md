@@ -125,6 +125,9 @@ input: `array`
 - mass
 ### Setup
 - reset
+- inputs
+	- actuator
+	- delayed_actuator
 - delay
 	- dof 
 		- position
