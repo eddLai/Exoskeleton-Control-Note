@@ -1,10 +1,15 @@
+- name
 - activation ??
 - excitation ??
-暗項目
+- init_activation
+- 
+按項目分配
 - fiber
 	- length
 	- length_norm
 	- velocity
 	- velocity_norm
 - force
-	- 
+	- force
+	- force_norm
+- 
