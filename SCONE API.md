@@ -186,6 +186,7 @@ input: `array`
 - is_supported
 
 ---
+# Data Structure
 ### Quaternion
 圖形學和機械模擬中，避免「萬向鎖」問題和更平滑地進行插值（slerp）方面。
 $$Q=w+xi+yj+zk$$
@@ -195,3 +196,7 @@ $$Q=w+xi+yj+zk$$
 轉換成不同座標
 - `to_euler_???`
 - `to_rotation_vector()`
+
+### Vec3
+x, y, z描述
+`__repr__`, `__str__`
