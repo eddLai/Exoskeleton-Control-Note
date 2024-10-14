@@ -164,13 +164,15 @@ input: `array`
 
 ---
 # builtins.PyCapsule instance
+### Setup
 `evaluate_par_file`
-`load_model`
 `replace_string_tags`
+**array_dtype**
 dir
 - scone_dir
 - scone_results_dir
-# GET
+### GET
+- `load_model`
 - is_array_dtype'
 	- float32
 	- float64
