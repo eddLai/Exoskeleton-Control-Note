@@ -1,3 +1,4 @@
 - inputs
-	- 
+	- add
+	- clear
 - name
