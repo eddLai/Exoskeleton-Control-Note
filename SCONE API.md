@@ -165,3 +165,7 @@ input: `array`
 ---
 # builtins.PyCapsule instance
 evaluate_par_file
+# GET
+- is_array_dtype'
+	- float32
+		- 
