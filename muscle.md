@@ -3,14 +3,15 @@
 - excitation ??
 - init_activation
 - insertion_body
+- origin_body
 按項目分配
 - fiber
 	- length
 	- length_norm
 	- velocity
 	- velocity_norm
+	- optimal_fiber_length
 - force
 	- force
 	- force_norm
 	- max_isometric_force
-- 
