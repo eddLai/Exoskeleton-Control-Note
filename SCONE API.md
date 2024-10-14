@@ -36,7 +36,7 @@ iterate `model.`
 
 
 ---
-## Simple Example
+# Simple Example
 The method of randomizing used in Example
 ```python
 	rng = np.random.default_rng(random_seed)
@@ -163,3 +163,5 @@ input: `array`
 - write_results
 
 ---
+# builtins.PyCapsule instance
+evaluate_par_file
