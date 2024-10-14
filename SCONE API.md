@@ -129,8 +129,10 @@ input: `array`
 		- fiber velocity
 		- force
 		- vestibular
-- 
+- init
+	- muscle_activations`
 - `has_simulation_ended`
+- 
 ### GET
 - step_size
 - current_measure
