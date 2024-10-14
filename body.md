@@ -1,7 +1,9 @@
+### Setup
 - add_external
 	- force
 	- moment
 - clear_external_force_moment
+### INFO
 - ang
 	- acc
 	- vel
@@ -9,4 +11,6 @@
 	- acc
 	- pos
 	- vel
-	- 
+- contact
+	- moment
+	- point
