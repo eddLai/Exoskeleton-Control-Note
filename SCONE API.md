@@ -126,7 +126,7 @@ input: `array`
 	- dofs
 - gravity
 - [[joint]] -> joints
-- leg -> legs
+- [[leg]] -> legs
 - mass
 - state
 - time
