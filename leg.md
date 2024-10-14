@@ -1,6 +1,7 @@
 - length
 - name
-- relative
+- relative_foot_position
+- upper_body
 
 - contact
 	- force
