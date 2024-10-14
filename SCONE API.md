@@ -187,4 +187,9 @@ input: `array`
 
 ---
 ### Quaternion
+圖形學和機械模擬中，避免「萬向鎖」問題和更平滑地進行插值（slerp）方面。
 $$Q=w+xi+yj+zk$$
+
+`sconepy.Quat`
+- `array()`
+- to_eu
