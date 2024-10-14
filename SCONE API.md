@@ -107,8 +107,10 @@ input: `array`
 	- force
 	- load
 	- power
-- `actuators`
-- `bodies`
+- [[actuator]]
+	- `actuators
+- [[body]]
+	- `bodies`
 - [[muscle]]
 	- muscles
 	- activation
