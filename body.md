@@ -1,7 +1,12 @@
 - add_external
 	- force
 	- moment
-- clear_ext
+- clear_external_force_moment
 - ang
 	- acc
 	- vel
+- com
+	- acc
+	- pos
+	- vel
+	- 
