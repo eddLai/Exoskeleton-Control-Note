@@ -96,8 +96,8 @@ input: `array`
 ### LOAD
 - adjust state
 - actuator
-- 
 ### INFO
+- name
 - com
 	- `com_pos`
 	- `com_vel`
@@ -108,6 +108,7 @@ input: `array`
 - `actuators`
 - `bodies`
 - muscle
+	- muscles
 	- activation
 	- excitation
 	- fiber
@@ -123,6 +124,7 @@ input: `array`
 - legs
 - mass
 ### Setup
+- reset
 - delay
 	- dof 
 		- position
@@ -141,7 +143,6 @@ input: `array`
 ### GET
 - step_size
 - measure
-	- measu
+	- measure
 	- current_measure
 	- final_measure
-	- 
