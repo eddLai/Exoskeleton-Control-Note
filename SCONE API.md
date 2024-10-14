@@ -95,6 +95,7 @@ muscle gastroc_l L=1.145 V=0.000 F=0.037
 ---
 # model setup:
 input: `array`
+都會跟一個對於對應elements，都會有個s的項目。joint有joints
 ### LOAD
 - adjust state
 - actuator
@@ -124,7 +125,7 @@ input: `array`
 	- velocity
 	- dofs
 - gravity
-- joints
+- [[joint]]
 - legs
 - mass
 - state
