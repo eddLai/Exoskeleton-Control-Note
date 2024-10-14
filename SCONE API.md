@@ -130,7 +130,9 @@ input: `array`
 		- force
 		- vestibular
 - init
-	- muscle_activations`
+	- muscle_activations
+	- state_from_dofs
+	- 
 - `has_simulation_ended`
 - 
 ### GET
