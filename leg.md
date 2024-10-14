@@ -1,8 +1,13 @@
-contact
-- force
-- load
-- moment
-- pos
+- length
+- name
+- relative
 
-body
-- ba
+- contact
+	- force
+	- load
+	- moment
+	- pos
+
+- body
+	- base
+	- foot
