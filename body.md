@@ -3,7 +3,12 @@
 	- force
 	- moment
 - clear_external_force_moment
+- set
+	- 
 ### INFO
+- mass
+- name
+- inertia_diag
 - ang
 	- acc
 	- vel
