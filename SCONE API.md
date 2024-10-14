@@ -128,6 +128,10 @@ input: `array`
 - inputs
 	- actuator
 	- delayed_actuator
+- dof
+	- positions
+	- velocities
+	- 
 - delay
 	- dof 
 		- position
@@ -141,7 +145,6 @@ input: `array`
 	- muscle_activations
 	- state_from_dofs
 	- 
-- `has_simulation_ended`
 - log_measure_report
 ### GET
 - step_size
@@ -149,3 +152,5 @@ input: `array`
 	- measure
 	- current_measure
 	- final_measure
+- simulation
+	- `has_simulation_ended`
