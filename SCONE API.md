@@ -92,9 +92,10 @@ muscle gastroc_l L=1.145 V=0.000 F=0.037
 ```
 
 # model setup:
+input: `array`
 ### LOAD
 - adjust state
-- actuator input `array`
+- actuator
 - 
 ### INFO
 - com
@@ -114,6 +115,10 @@ muscle gastroc_l L=1.145 V=0.000 F=0.037
 		- velocity
 	- force
 ### Setup
+- delay
+	- dof position
+	- dof velocity
+	- 
 ### GET
 - step_size
 - current_measure
