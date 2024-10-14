@@ -93,7 +93,9 @@ muscle gastroc_l L=1.145 V=0.000 F=0.037
 
 # model setup:
 ### LOAD
-- adjust
+- adjust state
+- actuator input `array`
+- 
 ### INFO
 - muscle
 	- activation
