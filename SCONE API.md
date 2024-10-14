@@ -168,7 +168,7 @@ input: `array`
 - `evaluate_par_file`
 - `replace_string_tags`
 - `set_log_level`
-- 
+- version
 - array_dtype
 	- float32
 	- float64
