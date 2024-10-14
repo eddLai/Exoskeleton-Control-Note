@@ -192,5 +192,6 @@ $$Q=w+xi+yj+zk$$
 
 `sconepy.Quat`
 - `array()`
+轉換成不同
 - `to_euler_???`
 - `to_rotation_vector()`
