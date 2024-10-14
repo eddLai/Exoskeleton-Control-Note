@@ -97,7 +97,13 @@ muscle gastroc_l L=1.145 V=0.000 F=0.037
 - actuator input `array`
 - 
 ### INFO
-- 
+- com
+	- `com_pos`
+	- `com_vel`
+- contact
+	- force
+	- load
+	- power
 - `actuators`
 - `bodies`
 - muscle
