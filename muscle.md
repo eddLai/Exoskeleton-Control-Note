@@ -15,3 +15,5 @@
 	- force
 	- force_norm
 	- max_isometric_force
+- pennation_angle_at_optimal
+- tendon_slack_length
