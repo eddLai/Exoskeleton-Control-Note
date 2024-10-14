@@ -125,6 +125,7 @@ input: `array`
 - mass
 ### Setup
 - reset
+- simulation_end_time
 - inputs
 	- actuator
 	- delayed_actuator
@@ -144,8 +145,9 @@ input: `array`
 - init
 	- muscle_activations
 	- state_from_dofs
-	- 
 - log_measure_report
+- state
+- 
 ### GET
 - step_size
 - measure
