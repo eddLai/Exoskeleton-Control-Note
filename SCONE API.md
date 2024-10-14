@@ -119,7 +119,7 @@ input: `array`
 		- length
 		- velocity
 	- force
-- dof
+- [[dof]]
 	- position
 	- velocity
 	- dofs
