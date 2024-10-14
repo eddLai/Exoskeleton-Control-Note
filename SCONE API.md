@@ -119,6 +119,9 @@ input: `array`
 	- velocity
 	- dofs
 - gravity
+- joints
+- legs
+- mass
 ### Setup
 - delay
 	- dof 
@@ -134,9 +137,11 @@ input: `array`
 	- state_from_dofs
 	- 
 - `has_simulation_ended`
-- 
+- log_measure_report
 ### GET
 - step_size
-- current_measure
-- final_measure
-- 
+- measure
+	- measu
+	- current_measure
+	- final_measure
+	- 
