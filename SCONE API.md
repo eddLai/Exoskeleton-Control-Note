@@ -116,8 +116,14 @@ input: `array`
 	- force
 ### Setup
 - delay
-	- dof position
-	- dof velocity
+	- dof 
+		- position
+		- velocity
+	- muscle
+		- fiber length
+		- fiber velocity
+		- force
+		- vestibular
 	- 
 ### GET
 - step_size
