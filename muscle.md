@@ -2,7 +2,7 @@
 - activation ??
 - excitation ??
 - init_activation
-- 
+- insertion_body
 按項目分配
 - fiber
 	- length
@@ -12,4 +12,5 @@
 - force
 	- force
 	- force_norm
+	- max_isometric_force
 - 
