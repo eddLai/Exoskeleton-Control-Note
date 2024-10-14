@@ -114,6 +114,10 @@ input: `array`
 		- length
 		- velocity
 	- force
+- dof
+	- position
+	- velocity
+	- dofs
 ### Setup
 - delay
 	- dof 
@@ -124,8 +128,7 @@ input: `array`
 		- fiber velocity
 		- force
 		- vestibular
-	- 
 ### GET
 - step_size
 - current_measure
-- 
+- final_m
