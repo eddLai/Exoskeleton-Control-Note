@@ -36,6 +36,7 @@ iterate `model.`
 
 
 ---
+## Simple Example
 The method of randomizing used in Example
 ```python
 	rng = np.random.default_rng(random_seed)
