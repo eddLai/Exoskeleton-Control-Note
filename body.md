@@ -8,7 +8,8 @@
 	- external_force_at
 	- external_moment
 	- lin_vel
-	- 
+	- orientation
+	- pos
 ### INFO
 - mass
 - name
@@ -28,3 +29,5 @@
 	- force
 	- force_at
 	- moment
+
+---
