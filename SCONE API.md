@@ -123,6 +123,8 @@ input: `array`
 - joints
 - legs
 - mass
+- state
+- time
 ### Setup
 - reset
 - simulation_end_time
@@ -147,7 +149,7 @@ input: `array`
 	- state_from_dofs
 - log_measure_report
 - state
-- 
+- store_data
 ### GET
 - step_size
 - measure
@@ -156,3 +158,6 @@ input: `array`
 	- final_measure
 - simulation
 	- `has_simulation_ended`
+- write_results
+
+---
