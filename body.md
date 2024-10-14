@@ -4,11 +4,16 @@
 	- moment
 - clear_external_force_moment
 - set
+	- external_force
+	- external_force_at
+	- external_moment
+	- lin_vel
 	- 
 ### INFO
 - mass
 - name
 - inertia_diag
+- orientation
 - ang
 	- acc
 	- vel
