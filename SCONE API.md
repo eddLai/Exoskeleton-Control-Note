@@ -125,8 +125,8 @@ input: `array`
 	- velocity
 	- dofs
 - gravity
-- [[joint]]
-- legs
+- [[joint]] -> joints
+- leg -> legs
 - mass
 - state
 - time
