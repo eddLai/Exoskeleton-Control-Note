@@ -165,7 +165,11 @@ input: `array`
 ---
 # builtins.PyCapsule instance
 evaluate_par_file
+load_model
+replace_string_tags
+
 # GET
 - is_array_dtype'
 	- float32
-		- 
+	- float64
+- is_supported
