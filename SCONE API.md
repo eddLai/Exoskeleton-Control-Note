@@ -91,7 +91,8 @@ muscle gastroc_l L=1.145 V=0.000 F=0.037
 
 ```
 
-model setup:
+# model setup:
+### INFO
 - muscle
 	- activation
 	- excitation
@@ -99,3 +100,5 @@ model setup:
 		- length
 		- velocity
 	- force
+### Setup
+- 
