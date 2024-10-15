@@ -1,0 +1,33 @@
+### Setup
+- add_external
+	- force
+	- moment
+- clear_external_force_moment
+- set
+	- external_force
+	- external_force_at
+	- external_moment
+	- lin_vel
+	- orientation
+	- pos
+### INFO
+- mass
+- name
+- inertia_diag
+- orientation
+- ang
+	- acc
+	- vel
+- com
+	- acc
+	- pos
+	- vel
+- contact
+	- moment
+	- point
+- external
+	- force
+	- force_at
+	- moment
+
+---

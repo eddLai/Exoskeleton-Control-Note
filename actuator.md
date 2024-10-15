@@ -1,0 +1,7 @@
+- inputs
+	- input
+	- add
+	- clear
+	- max
+	- min
+- name

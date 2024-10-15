@@ -1,1 +1,0 @@
-1. if assisting or obstacle
