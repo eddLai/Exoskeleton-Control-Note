@@ -16,6 +16,9 @@ sconepy found at /opt/scone/lib
 19:10:20 Loaded settings from /home/eddlai/.config/SCONE/scone-settings.zml 
 ```
 
+### 寫入問題
+
+
 ---
 ref. https://scone.software/doku.php?id=doc:sconepy
 iterate `model.`
