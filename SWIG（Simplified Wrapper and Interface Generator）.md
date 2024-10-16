@@ -7,3 +7,9 @@
 C wrapper
 Default arguments
 `void bar(int x, int y = 3, int z = 4);`
+明確宣告使用不同數量的參數所需要的量
+```
+void bar(int x, int y, int z);
+void bar(int x, int y);
+void bar(int x);
+```
