@@ -3,3 +3,5 @@
 需要Interface File `*.i` or  `*.swg`
 寫法：
 - header file 或 declaration 不需要compile
+
+C wrapper
