@@ -17,7 +17,16 @@ sconepy found at /opt/scone/lib
 ```
 
 ### 寫入問題
-
+```python
+import os
+if store_data:
+    dirname = 'sconepy_example_' + model.name()
+    filename = model.name() + f'_{random_seed}_{model.time():0.3f}_{model.com_pos().y:0.3f}'
+    model.write_results(dirname, filename)
+    current_directory = os.getcwd()
+    print(f'Results written to {current_directory}/{dirname}/{filename}. Please use SCONE Studio to replay the .sto file.', flush=True)
+```
+沒有出現.sto，不確定model.write_results(dirname, filename)的效果，需要確認該函數
 
 ---
 ref. https://scone.software/doku.php?id=doc:sconepy
