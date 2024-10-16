@@ -13,3 +13,8 @@ void bar(int x, int y, int z);
 void bar(int x, int y);
 void bar(int x);
 ```
+
+swig -python speedup_performance.i
+會產生
+- `.py`
+- `.c`：需要煙ㄧ
