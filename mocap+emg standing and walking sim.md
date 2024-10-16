@@ -58,3 +58,5 @@ detrend?
 - [x] 下次收案一起把Cygnus TTL完成, `sync_marker.npz`（等測試）
 
 統一改用opensim 4.1
+
+EMG貼片要加GND
