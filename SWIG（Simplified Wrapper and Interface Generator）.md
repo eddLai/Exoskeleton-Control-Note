@@ -17,4 +17,6 @@ void bar(int x);
 swig -python speedup_performance.i
 會產生
 - `.py`
-- `.c`：需要煙ㄧ
+- `.c`：需要編譯成shared library
+
+python動態加載
