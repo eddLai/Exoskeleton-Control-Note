@@ -59,4 +59,4 @@ detrend?
 
 統一改用opensim 4.1
 
-EMG貼片要加GND
+EMG貼片要加GND，左右腳的問題已經校正
