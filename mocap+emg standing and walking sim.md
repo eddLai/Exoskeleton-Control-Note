@@ -30,11 +30,7 @@ tools: [[SCONE]]用來RL training, [[opensim]]用來進行IK推測
 2. ==Validation by collect a new data==
 
 
-
-
 [[Python and C integration]]
-
-
 opensim下載：
 https://github.com/sk413025/sci-competition/issues/59
 libgconf-2-4下載, https://blog.csdn.net/lingzhou0909/article/details/139708197
@@ -42,6 +38,7 @@ libgconf-2-4下載, https://blog.csdn.net/lingzhou0909/article/details/139708197
 
 opensim裡頭都有各種組合的code不知道為什麼
 
+---
 ### 與安妤進行討論
 130紅燈亮，131紅燈暗，140綠燈亮, 141綠燈暗
 02 右腳
