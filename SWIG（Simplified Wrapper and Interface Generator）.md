@@ -5,3 +5,5 @@
 - header file 或 declaration 不需要compile
 
 C wrapper
+Default arguments
+`void bar(int x, int y = 3, int z = 4);`
