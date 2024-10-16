@@ -42,13 +42,13 @@ libgconf-2-4下載, https://blog.csdn.net/lingzhou0909/article/details/139708197
 
 opensim裡頭都有各種組合的code不知道為什麼
 
+### 與安妤進行討論
 130紅燈亮，131紅燈暗，140綠燈亮, 141綠燈暗
 02 右腳
 其他 左腳起步
-
 detrend?
-
 下次收案一起把Cygnus TTL完成
+EMG貼片要加GND，左右腳的問題已經校正
 
 資料同步
 - [x] 用光學對齊檢查，應該要差不多綠光開始走動??
@@ -58,5 +58,3 @@ detrend?
 - [x] 下次收案一起把Cygnus TTL完成, `sync_marker.npz`（等測試）
 
 統一改用opensim 4.1
-
-EMG貼片要加GND，左右腳的問題已經校正
