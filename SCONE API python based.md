@@ -10,8 +10,14 @@ SCONE_Data:
 	- H0918_osim3.scone
 	- H0918_osim4.scone
 - `.osim`
+	- H0918M_osim3.osim
+	- H0918M_osim4.osim
+	- H0918v3.osim
 - `.hfd`
+	- H0918.hfd
+	- H0918v3.hfd
 - `.zml`
+	- 
 ### API characteristic
 SCONE py
 - Data format
