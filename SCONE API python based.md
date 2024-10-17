@@ -49,6 +49,7 @@ if store_data:
     print(f'Results written to {current_directory}/{dirname}/{filename}. Please use SCONE Studio to replay the .sto file.', flush=True)
 ```
 沒有出現.sto，不確定model.write_results(dirname, filename)的效果，需要確認該函數
+會預設存在`\SCONE\result`
 
 ---
 
