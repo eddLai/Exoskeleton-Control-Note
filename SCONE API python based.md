@@ -33,26 +33,11 @@ if store_data:
 沒有出現.sto，不確定model.write_results(dirname, filename)的效果，需要確認該函數
 
 ---
-ref. https://scone.software/doku.php?id=doc:sconepy
-iterate `model.`
-- `bodies()`
-	- `name`
-	- `mass`
-	- `inertia_diag`
-- `muscles()`
-	- `name`
-	- `fiber_length_norm`
-	- `fiber_velocity_norm`
-	- `force_norm`
-- `dofs()`
-- `actuators()`
-- `status()`
-
-`model.reset`, `.set_store_data`: 歸零，儲存資料，
 
 
 ---
 # Simple Example
+[[SCONE API reference]]
 The method of randomizing used in Example
 ```python
 	rng = np.random.default_rng(random_seed)

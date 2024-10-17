@@ -1,3 +1,4 @@
+ref. https://scone.software/doku.php?id=doc:sconepy
 # model
 input: `array`
 都會跟一個對於對應elements，都會有個s的項目。joint有joints
