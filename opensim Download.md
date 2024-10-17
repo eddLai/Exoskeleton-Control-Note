@@ -14,7 +14,7 @@ cd ~/opensim-workspace/opensim-core-build
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/opensim-workspace/opensim-core-dependencies-install/simbody/lib
 ctest --parallel $NUM_JOBS --output-on-failure
 ```
-
+### Error
 ```bash
 Number of objective function evaluations             = 397
 Number of objective gradient evaluations             = 334
@@ -100,7 +100,9 @@ Errors while running CTest
 
 ```
 
-嘗試
+---
+
+### 嘗試
 依據[Compilation and ctest on Linux](https://github.com/opensim-org/opensim-core/issues/2664)
 ~/opensim-workspace/opensim-core-build
 make -j8 install
@@ -124,8 +126,10 @@ Traceback (most recent call last):
   File "/home/eddlai/opensim-workspace/opensim-core-build/Bindings/Python/RelWithDebInfo/opensim/simbody.py", line 10, in <module>
     from . import _simbody
 ImportError: /home/eddlai/miniconda3/lib/libstdc++.so.6: version `GLIBCXX_3.4.32' not found (required by /home/eddlai/opensim-workspace/opensim-core-build/Bindings/Python/RelWithDebInfo/opensim/_simbody.so)
-
 ```
+conda 降級
+並且conda install libgcc-ng=9.3.0
+需要GLIBCXX_3.4.**32**，如果沒有改變swig中就不會有這個問題
 1. 嘗試在終端中使用(failed)
 ```
 export PATH=~/opensim-workspace/Python-3.6.9-source/Python-3.6.9:$PATH
@@ -148,9 +152,5 @@ conda install -c conda-forge gcc=12
 ```
 沒有解決==但應該有下載阿==
 4. 關閉conda bash自動開啟，`~/.bashrc`
-
-conda 降級
-並且conda install libgcc-ng=9.3.0
-需要GLIBCXX_3.4.**32**，如果在swig中就不會有這個問題
 
 注意.sh的使用方法，不能這樣debug
