@@ -151,4 +151,6 @@ conda install -c conda-forge gcc=12
 
 conda 降級
 並且conda install libgcc-ng=9.3.0
-需要GLIBCXX_3.4.**32**
+需要GLIBCXX_3.4.**32**，如果在swig中就不會有這個問題
+
+注意.sh的使用方法，不能這樣debug
