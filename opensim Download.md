@@ -1,7 +1,11 @@
 ---
 
 ---
-python與matlab都可以用則需要
+python與matlab都可以用則需要opensim GUI
+使用conda獨立環境則使用
+
+---
+C++核心功能開發，可能會用到Docker
 [opensim_Build-Instructions](https://github.com/opensim-org/opensim-core/wiki/Build-Instructions#build-instructions-1)
 [opensim-core-linux-build-script.sh](https://github.com/opensim-org/opensim-core/blob/main/scripts/build/opensim-core-linux-build-script.sh) 編譯core會產生：
 - **`opensim-workspace/`**：
