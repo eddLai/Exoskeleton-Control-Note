@@ -20,6 +20,9 @@ File name:
 - `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
 - `.osim`contains the rule of the forces, such as Slippery Slope
 - `.lua`[[lua self-defined script]] for Controller, Measure, 
+- `.par`包含
+	- offset資訊
+	- 
 
 ---
 ### Keywords in SCONE 
