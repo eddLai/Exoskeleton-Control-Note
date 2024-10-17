@@ -6,6 +6,9 @@ SCONEpy path
 
 SCONE_Data:
 `.scone`
+	H0918_hfd.scone
+	H0918_osim3.scone
+	
 `.osim`
 `.hfd`
 `.zml`
