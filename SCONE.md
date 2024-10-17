@@ -34,4 +34,4 @@ Predictive simulations
 
 ---
 [[SCONE API python based]]
-SCONE
+SCONE的核心是怎麼實現的?
