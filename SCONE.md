@@ -26,10 +26,14 @@ File name:
 	- 肌肉
 		- 剛度係數 KL: linear stiffness
 		- 初始長度（L0）：靜止狀態
-		- 彎曲剛度係數（K）：flexural stiffness
+		- 彎曲剛度係數（KF）：flexural stiffness
 	- 骨骼+肌肉
 		- KL
 		- KF
+	- 動作控制
+		- 增益
+			- Kp
+			- Kv
 
 ---
 ### Keywords in SCONE 
