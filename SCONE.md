@@ -24,7 +24,7 @@ File name:
 	- offset資訊
 	- 剛度係數 KL: linear stiffness
 	- 初始長度（L0）：靜止狀態
-	- 彎曲剛度係數（K）：
+	- 彎曲剛度係數（K）：flexural stiffness
 
 ---
 ### Keywords in SCONE 
