@@ -21,10 +21,15 @@ File name:
 - `.osim`contains the rule of the forces, such as Slippery Slope
 - `.lua`[[lua self-defined script]] for Controller, Measure, 
 - `.par`包含
-	- offset資訊
-	- 剛度係數 KL: linear stiffness
-	- 初始長度（L0）：靜止狀態
-	- 彎曲剛度係數（K）：flexural stiffness
+	- 骨骼關節
+		- offset資訊
+	- 肌肉
+		- 剛度係數 KL: linear stiffness
+		- 初始長度（L0）：靜止狀態
+		- 彎曲剛度係數（K）：flexural stiffness
+	- 骨骼+肌肉
+		- KL
+		- KF
 
 ---
 ### Keywords in SCONE 
