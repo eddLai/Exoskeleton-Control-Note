@@ -1,3 +1,7 @@
+---
+
+---
+python與matlab都可以用則需要
 [opensim_Build-Instructions](https://github.com/opensim-org/opensim-core/wiki/Build-Instructions#build-instructions-1)
 [opensim-core-linux-build-script.sh](https://github.com/opensim-org/opensim-core/blob/main/scripts/build/opensim-core-linux-build-script.sh) 編譯core會產生：
 - **`opensim-workspace/`**：
