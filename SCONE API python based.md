@@ -28,6 +28,7 @@ SCONE py
 	- **neural delays** to sensors and actuators ?
 	- **reward shaping** is possible
 - `.sto`儲存權重
+- `.scone`中定義`.osim`
 
 ---
 ### ENV setup
