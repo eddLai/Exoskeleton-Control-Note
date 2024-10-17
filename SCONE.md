@@ -34,7 +34,7 @@ Predictive simulations
 
 ---
 [[SCONE API python based]]
-SCONE的核心是怎麼實現的?顯善
+SCONE的核心是怎麼實現的?顯示出來就是標準的RL畫面
 從MESSAGE LOG去回推他的code
 ```
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
