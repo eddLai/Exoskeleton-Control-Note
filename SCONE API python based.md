@@ -5,13 +5,13 @@ SCONEpy path
 - ubuntu
 
 SCONE_Data:
-`.scone`
-	H0918_hfd.scone
-	H0918_osim3.scone
-	
-`.osim`
-`.hfd`
-`.zml`
+- `.scone`
+	- H0918_hfd.scone
+	- H0918_osim3.scone
+	- H0918_osim4.scone
+- `.osim`
+- `.hfd`
+- `.zml`
 ### API characteristic
 SCONE py
 - Data format
