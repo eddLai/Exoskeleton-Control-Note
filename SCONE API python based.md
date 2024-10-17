@@ -3,6 +3,12 @@
 SCONEpy path
 - windwos: `C:\Program Files\SCONE\bin\sconepy.cp39-win_amd64.pyd`
 - ubuntu
+
+SCONE_Data:
+`.scone`
+`.osim`
+`.hfd`
+`.zml`
 ### API characteristic
 SCONE py
 - Data format

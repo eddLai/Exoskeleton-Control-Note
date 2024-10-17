@@ -21,12 +21,6 @@ File name:
 - `.osim`contains the rule of the forces, such as Slippery Slope
 - `.lua`[[lua self-defined script]] for Controller, Measure, 
 
-Data:
-`.scone`
-`.osim`
-`.hfd`
-`.zml`
-
 ---
 ### Keywords in SCONE 
 **case sensitive**.
