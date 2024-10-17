@@ -17,7 +17,10 @@ SCONE_Data:
 	- H0918.hfd
 	- H0918v3.hfd
 - `.zml`
-	- 
+	- InitStateGait10.zml
+	- InitStateJump.zml
+	- neural_delays_FEA_v3.zml
+	- neural_delays_FEA_v4.zml
 ### API characteristic
 SCONE py
 - Data format
