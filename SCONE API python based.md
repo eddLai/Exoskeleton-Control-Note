@@ -27,7 +27,7 @@ SCONE py
 	- biomechanical sensors and actuators via NumPy arrays
 	- **neural delays** to sensors and actuators ?
 	- **reward shaping** is possible
-- `.sto`儲存權重，為什麼不象儲存`.par`
+- `.sto`儲存權重，為什麼不像GUI版本儲存`.par`？
 - `.scone`中定義`.osim`
 
 ---
