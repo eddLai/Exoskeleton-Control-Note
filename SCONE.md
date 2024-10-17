@@ -23,6 +23,9 @@ File name:
 
 Data:
 `.scone`
+`.osim`
+`.hfd`
+`.zml`
 
 ---
 ### Keywords in SCONE 
