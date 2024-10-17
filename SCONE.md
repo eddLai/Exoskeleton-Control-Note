@@ -22,7 +22,9 @@ File name:
 - `.lua`[[lua self-defined script]] for Controller, Measure, 
 - `.par`包含
 	- offset資訊
-	- 
+	- 剛度係數 KL: linear stiffness
+	- 初始長度（L0）：靜止狀態
+	- 彎曲剛度係數（K）：
 
 ---
 ### Keywords in SCONE 
