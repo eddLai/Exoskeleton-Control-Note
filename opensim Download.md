@@ -5,6 +5,7 @@
 
 ---
 ### 使用conda獨立環境則使用
+https://github.com/opensim-org/conda-opensim
 
 ---
 ### C++核心功能開發，可能會用到Docker
