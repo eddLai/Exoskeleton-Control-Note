@@ -7,6 +7,7 @@ Successfully initialized OpenSim3 version 3.3-2021-01-28
 
 ---
 ## 先按了evaluation
+對Tutorial 4a - Gait - OpenSim.scone
 ```
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
@@ -32,6 +33,18 @@ Result             = 95.0951
 Evaluation took 1.82416s for 2.705s (1.48288x real-time)
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
+```
+對Tutorial 2a - High Jump - OpenSim.scone
+```
+Created model H0918v3; dofs=9 muscles=18 mass=74.5314
+Created model H0918v3; dofs=9 muscles=18 mass=74.5314
+Loaded Tutorial 2a - High Jump - OpenSim.scone; dim=27; time=0.043
+get_thread_priority() is not implemented for this platform
+Terminating simulation at 0.480
+Result               = 39.3395
+  jump_height        = 82.7441
+  early_jump_penalty = 0
+Evaluation took 0.146752s for 0.48s (3.27082x real-time)
 ```
 
 
