@@ -58,7 +58,8 @@ if store_data:
 
 ---
 # Simple Example
-[[SCONE API reference]]
+### [[SCONE API reference]]
+### Example
 The method of randomizing used in Example
 ```python
 	rng = np.random.default_rng(random_seed)
@@ -113,3 +114,7 @@ muscle glut_max_l L=1.055 V=0.000 F=0.016
 muscle gastroc_l L=1.145 V=0.000 F=0.037
 
 ```
+
+---
+### UNKNOWN
+如何`.par`，`write_results`會跳過
