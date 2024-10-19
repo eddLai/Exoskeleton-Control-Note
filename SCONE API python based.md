@@ -70,51 +70,6 @@ The method of randomizing used in Example
 ```
 
 
-```python
-type(model): <class 'sconepy.Model'>
-model: <sconepy.Model object at 0x7f71080359b0>
-body ground mass=0.000 inertia=[ 0.000000 0.000000 0.000000 ]
-body pelvis mass=11.777 inertia=[ 0.102800 0.087100 0.057900 ]
-body femur_r mass=9.301 inertia=[ 0.133900 0.035100 0.141200 ]
-body tibia_r mass=3.708 inertia=[ 0.050400 0.005100 0.051100 ]
-body calcn_r mass=1.250 inertia=[ 0.001400 0.003900 0.004100 ]
-body femur_l mass=9.301 inertia=[ 0.133900 0.035100 0.141200 ]
-body tibia_l mass=3.708 inertia=[ 0.050400 0.005100 0.051100 ]
-body calcn_l mass=1.250 inertia=[ 0.001400 0.003900 0.004100 ]
-body torso mass=34.237 inertia=[ 1.474500 0.755500 1.431400 ]
-muscle hamstrings_r L=1.306 V=0.000 F=0.137
-muscle bifemsh_r L=0.891 V=0.000 F=0.009
-muscle glut_max_r L=1.055 V=0.000 F=0.016
-muscle iliopsoas_r L=0.547 V=0.000 F=0.002
-muscle rect_fem_r L=0.620 V=0.000 F=0.005
-muscle vasti_r L=1.106 V=0.000 F=0.028
-muscle gastroc_r L=1.145 V=0.000 F=0.037
-muscle soleus_r L=1.342 V=-0.000 F=0.171
-muscle tib_ant_r L=0.606 V=0.000 F=0.005
-muscle hamstrings_l L=1.306 V=0.000 F=0.137
-muscle bifemsh_l L=0.891 V=0.000 F=0.009
-muscle glut_max_l L=1.055 V=0.000 F=0.016
-muscle iliopsoas_l L=0.547 V=0.000 F=0.002
-muscle rect_fem_l L=0.620 V=0.000 F=0.005
-muscle vasti_l L=1.106 V=0.000 F=0.028
-muscle gastroc_l L=1.145 V=0.000 F=0.037
-muscle soleus_l L=1.342 V=-0.000 F=0.171
-muscle tib_ant_l L=0.606 V=0.000 F=0.005
-```
-
-```python
-type(model): <class 'sconepy.Model'>
-model: <sconepy.Model object at 0x7f71080326f0>
-body tibia_r mass=3.708 inertia=[ 0.050400 0.005100 0.051100 ]
-body tibia_l mass=3.708 inertia=[ 0.050400 0.005100 0.051100 ]
-body torso mass=34.237 inertia=[ 1.474500 0.755500 1.431400 ]
-muscle glut_max_r L=1.055 V=0.000 F=0.016
-muscle gastroc_r L=1.145 V=0.000 F=0.037
-muscle glut_max_l L=1.055 V=0.000 F=0.016
-muscle gastroc_l L=1.145 V=0.000 F=0.037
-
-```
-
 ---
 ### UNKNOWN
 如何`.par`，`write_results`會跳過
