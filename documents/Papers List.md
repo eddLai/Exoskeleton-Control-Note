@@ -8,7 +8,7 @@
 - [[ML EMG muscle estimation.pdf]]：使用ML SVM, SVR-GA(最佳), RL進行肌力使用預測。從預處理到ML方法的詳盡說明以及比較。
 
 ---
-- simulation
+- simulation路徑
 	- [[Motor Control Programs and walking.pdf]]
 	- [[A Muscle-Reflex Model that Encodes Principles of.pdf]]
 	-CEINMS a toolbox to investigate the influence of different neural control solutions on the prediction of muscle excitation and joint moments during dynamic motor tasks.pdf
