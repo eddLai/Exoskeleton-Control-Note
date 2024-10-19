@@ -53,13 +53,13 @@ tree -P '*.pdf' --noreport | sed -E 's/(├──|└──) (.*\.pdf)/\1 [[\2]]
 │   │       ├── [[Real-Time_NN_Gait_Phase_Estimation_Using_a_Robotic_Hip_Exoskeleton.pdf]]
 │   │       ├── [[Reinforcement Learning Based Adaptive Walking.pdf]]
 │   │       └── [[Supplimentary_Experiment-free exoskeleton assistance via learning in simulation - 41586_2024_7382_MOESM1_ESM.pdf]]
-│   ├── Hardware
+│   ├── #Hardware
 │   │   ├── [[AMD Kria K24 SOM Product Overview Deck.pdf]]
 │   │   └── [[Xilinx Kria Series.pdf]]
 │   ├── Hip Control
 │   ├── KneeBO Contol
 │   ├── Plan Graphs
-│   ├── RL
+│   ├── #RL
 │   │   ├── books
 │   │   │   ├── [[Book all-in-one.pdf]]
 │   │   │   ├── [[Deep Reinforcement Learning Hands-On Apply modern RL.pdf]]
@@ -74,7 +74,7 @@ tree -P '*.pdf' --noreport | sed -E 's/(├──|└──) (.*\.pdf)/\1 [[\2]]
 │   │       ├── [[DISTRIBUTED DISTRIBUTIONAL DETERMINISTIC.pdf]]
 │   │       ├── [[RL curiosity.pdf]]
 │   │       └── [[Skew_Fit_State_Covering_Self_Supervised1903.03698.pdf]]
-│   ├── Simulation
+│   ├── #Simulation
 │   │   └── papers
 │   │       ├── [[A Muscle-Reflex Model that Encodes Principles of.pdf]]
 │   │       ├── [[A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf]]
@@ -110,6 +110,7 @@ tree -P '*.pdf' --noreport | sed -E 's/(├──|└──) (.*\.pdf)/\1 [[\2]]
     ├── [[SS_期末專題slide.pdf]]
     ├── [[計劃書exoskeleton組v1.1.pdf]]
     └── [[附件1_外骨骼系統源代碼v2.pdf]]
+
 ---
 ### 相似的架構：Note from phase I
 - [[Reinforcement Learning Based Adaptive Walking.pdf]]：dynamics
