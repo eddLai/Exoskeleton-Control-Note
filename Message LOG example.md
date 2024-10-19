@@ -64,4 +64,4 @@ Closed optimization 241019.134522.H0918v3.RS2.S10WA3K1G14.D20
 ![[SCONE optimization iteration example.png|400]]
 
 
-需要根據SRC
+需要根據[[SCONE SRC]]
