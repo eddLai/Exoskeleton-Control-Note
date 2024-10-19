@@ -8,12 +8,12 @@
 - [[ML EMG muscle estimation.pdf]]：使用ML SVM, SVR-GA(最佳), RL進行肌力使用預測。從預處理到ML方法的詳盡說明以及比較。
 
 ---
--	
-				-Motor Control Programs and walking.pdf
-				-A Muscle-Reflex Model that Encodes Principles of.pdf
-				-CEINMS a toolbox to investigate the influence of different neural control solutions on the prediction of muscle excitation and joint moments during dynamic motor tasks.pdf
-				-Muscle-controlled physics simulations of bird locomotion resolve the grounded running paradox.pdf
-				-A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf
+- simulation
+	- [[Motor Control Programs and walking.pdf]]
+	- [[A Muscle-Reflex Model that Encodes Principles of.pdf]]
+	-CEINMS a toolbox to investigate the influence of different neural control solutions on the prediction of muscle excitation and joint moments during dynamic motor tasks.pdf
+	-Muscle-controlled physics simulations of bird locomotion resolve the grounded running paradox.pdf
+	-A neuromuscular model of human locomotion combines spinal reflex circuits with voluntary movements.pdf
 				-DISTRIBUTED DISTRIBUTIONAL DETERMINISTIC.pdf
 				-A Distributional Perspective on Reinforcement Learning.pdf
 				-Deterministic Policy Gradient Algorithms.pdf
