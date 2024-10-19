@@ -14,7 +14,7 @@ tree -P '*.pdf' --noreport | sed -E 's/(├──|└──) (.*\.pdf)/\1 [[\2]]
 │   │   ├── [[ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf]]
 │   │   └── [[論文蒐集同意書_中文版_賴宏達.pdf]]
 │   ├── deploy
-│   ├── Dynamics Model
+│   ├── #Dynamics_Model
 │   │   ├── [[Adaptive Synergetic Motion Control for Rehabilitation.pdf]]
 │   │   ├── [[effect on healthcare-10-01291-v2.pdf]]
 │   │   ├── [[Hierarchical_Interactive_Learning_for_a_HUman-Powered_Augmentation_Lower_EXoskeleton.pdf]]
@@ -24,7 +24,7 @@ tree -P '*.pdf' --noreport | sed -E 's/(├──|└──) (.*\.pdf)/\1 [[\2]]
 │   │   │   └── [[Design and Control of a Powered Hip.pdf]]
 │   │   ├── [[Precision Interaction Force Control of an Underactuated Hydraulic Stance Leg Exoskeleton Considering the Constraint from the Wearer.pdf]]
 │   │   └── [[Robust walking control of a lower limb rehabilitation exoskeleton coupled with a musculoskeletal model via deep reinforcement learning.pdf]]
-│   ├── EMG
+│   ├── #EMG
 │   │   └── paper
 │   │       ├── [[a-model-free-deep-reinforcement-learning-approach-for-control-of-exoskeleton-gait-patterns.pdf]]
 │   │       ├── [[applsci-13-12609.pdf]]
@@ -37,7 +37,7 @@ tree -P '*.pdf' --noreport | sed -E 's/(├──|└──) (.*\.pdf)/\1 [[\2]]
 │   │       ├── [[Geyer&Herr-ReflexModel2Column (1).pdf]]
 │   │       ├── [[ML EMG muscle estimation.pdf]]
 │   │       └── [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
-│   ├── Exoskeleton examples
+│   ├── #Exoskeleton examples
 │   │   ├── [[Deep Reinforcement Learning in Unity With Unity ML Toolkit (Abhilash Majumder) (Z-Library).pdf]]
 │   │   ├── [[DMPs tutorial.pdf]]
 │   │   └── Papers
