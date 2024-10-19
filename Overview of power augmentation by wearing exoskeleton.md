@@ -15,4 +15,4 @@ History of exoskeleton:[Exoskeletons for Human Performance Augmentation | Spring
 - [[第二階段]]：在初步開發完畢後，仍然有實驗效果不明顯的問題，以及系統不夠穩定的狀況
 
 
-[[Papers List]]
+[[Document List]]
