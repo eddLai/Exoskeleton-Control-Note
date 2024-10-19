@@ -42,4 +42,10 @@ Loaded Tutorial 4a - Gait - OpenSim.scone; dim=53; time=0.044
 Reorganizing windows, columns=1 rows=1
 Initialized optimization 241019.134522.H0918v3.RS2.S10WA3K1G14.D20
 ```
+
+```
+Canceling optimization 241019.134522.H0918v3.RS2.S10WA3K1G14.D20
+Finished 241019.134522.H0918v3.RS2.S10WA3K1G14.D20 (666.74s): Optimization canceled
+Closed optimization 241019.134522.H0918v3.RS2.S10WA3K1G14.D20
+```
 ![[SCONE optimization iteration example.png|400]]
