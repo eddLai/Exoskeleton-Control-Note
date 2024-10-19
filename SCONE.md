@@ -50,6 +50,7 @@ Predictive simulations
 [[SCONE API python based]]
 SCONE的核心是怎麼實現的?顯示出來就是標準的RL畫面
 從MESSAGE LOG去回推他的code
+### MESSAGE
 ```
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
 Could not convert folder Documents: 0000022ED925B540
@@ -75,7 +76,30 @@ Result             = 100.683
   GRF              = 0.582764 <- 10 * 0.0582764
 Evaluation took 1.86822s for 1.6s (0.856429x real-time)
 ```
-先找到完整的src
+載入動畫
+```
+Loaded 0023_1.505_1.214.par; dim=53; time=0.055
+get_thread_priority() is not implemented for this platform
+Terminating simulation at 20.000
+Result             = 1.21434
+  Gait             = 0 <- 100 * (0.00031097 > 0.05)
+    step_velocity  = 1.09222
+    step_count     = 38
+  Effort           = 0.601143 <- 0.1 * 6.01143
+    effort         = 9798.52
+    distance       = 21.8697
+  MuscleActivation = 0.422046 <- 2000 * 0.000211023
+    effort         = 6.19135
+    distance       = 21.8697
+  DofLimits        = 0.0816146
+    ankle_angle_l  = 0 <- 0.1 * 0
+    ankle_angle_r  = 0 <- 0.1 * 0
+    knee_angle_l   = 0.0416741 <- 0.02 * (2.0837 > 1)
+    knee_angle_r   = 0.0399406 <- 0.02 * (1.99703 > 1)
+  GRF              = 0.109541 <- 10 * 0.0109541
+Evaluation took 12.3344s for 20s (1.62148x real-time)
+Results written to /home/eddlai/SCONE/results/241007.175746.H0918v3.RS2.S10WA3K1G14.D20/0023_1.505_1.214.par.sto in 0.223776s
+```
 
 ---
 ### UNKNOWN
