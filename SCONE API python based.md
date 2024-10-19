@@ -54,9 +54,6 @@ if store_data:
 會預設存在`\SCONE\results`中
 
 ---
-
-
----
 # Simple Example
 ### [[SCONE API reference]]
 ### Example
@@ -69,6 +66,8 @@ The method of randomizing used in Example
 	# 產生一個陣列，為每條肌肉設置隨機化
 ```
 
+---
+# How to C
 
 ---
 ### UNKNOWN
