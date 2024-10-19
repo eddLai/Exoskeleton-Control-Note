@@ -65,3 +65,4 @@ Closed optimization 241019.134522.H0918v3.RS2.S10WA3K1G14.D20
 
 
 需要根據[[SCONE SRC]]
+`sconepy.evaluate_par_file()`使用方法
