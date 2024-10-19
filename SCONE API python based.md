@@ -65,9 +65,7 @@ The method of randomizing used in Example
 	muscle_activations = 0.1 + 0.4 * rng.random((len(model.muscles())))
 	# 產生一個陣列，為每條肌肉設置隨機化
 ```
-
----
-# How to C
+### [[How to wrap SCONE C src to python]]
 
 ---
 ### UNKNOWN
