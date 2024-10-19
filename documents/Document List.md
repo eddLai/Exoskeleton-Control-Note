@@ -5,7 +5,7 @@
 │   │   ├── Exo conference endnote
 │   │   │   └── My EndNote Library.Data
 │   │   │       └── sdb
-│   │   ├── GCBME 2024 Abstract_Exoskeleton_final.pdf
+│   │   ├── [[GCBME 2024 Abstract_Exoskeleton_final.pdf]]
 │   │   ├── ICMST 2024 Abstract_Exoskeleton_v4.pdf
 │   │   ├── ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v2.pdf
 │   │   ├── ICMST 2024 Abstract_Exoskeleton_賴宏達,沈恩佑,劉芸婷v3.pdf
