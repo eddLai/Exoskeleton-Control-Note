@@ -52,7 +52,7 @@ SCONE的核心是怎麼實現的?顯示出來就是標準的RL畫面
 從MESSAGE LOG去回推他的code
 ### Message
 [[Message LOG example]]
-產生`.par`
+產生`.par`，儲存的機制是？
 ```
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
 Could not convert folder Documents: 0000022ED925B540
