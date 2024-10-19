@@ -1,10 +1,10 @@
-開啟GUII
+## 開啟GUI
 ```
 SCONE version 2.3.1.2903
 SCONE Tutorials and Examples are up-to-date
 Successfully initialized OpenSim3 version 3.3-2021-01-28
 ```
-先按了evaluation
+## 先按了evaluation
 ```
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
@@ -32,3 +32,10 @@ Created model H0918v3; dofs=9 muscles=18 mass=74.5314
 Created model H0918v3; dofs=9 muscles=18 mass=74.5314
 ```
 
+---
+## 按下optimzation
+```
+Loaded Tutorial 4a - Gait - OpenSim.scone; dim=53; time=0.044
+Reorganizing windows, columns=1 rows=1
+Initialized optimization 241019.134522.H0918v3.RS2.S10WA3K1G14.D20
+```
