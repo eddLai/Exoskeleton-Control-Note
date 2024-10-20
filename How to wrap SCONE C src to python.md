@@ -9,5 +9,7 @@ sorted(pathlib.Path(path).glob('sconepy*.*'))
 
 ```python
 importlib.util.find_spec('sconepy')
+
+sys.path.append(path_to_sconepy)
 ```
 
