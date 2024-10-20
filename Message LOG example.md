@@ -90,3 +90,39 @@ simulation_frequency = 1954.53
 simulation_duration  = 1.776s (1.523x real-time)
 Evaluation took 1.88376s for 2.705s (1.43596x real-time)
 ```
+
+
+---
+```
+CmaOptimizer {
+	signature_prefix = DATE_TIME
+	min_progress = 1e-4
+	
+	SimulationObjective {
+		max_duration = 20
+		
+		# Model used in simulation
+		ModelOpenSim3 {
+			model_file = models/H0918v3.osim
+			
+			# Optimize initial state parameters
+			state_init_file = init/InitStateH0918Gait10ActA.zml
+			initial_state_offset = 0~0.01<-0.5,0.5>
+			initial_state_offset_exclude = "*_tx;*_ty;*_u"
+			initial_load = 1
+			fixed_control_step_size = 0.005
+		}
+		
+		# Controller for gait
+		<< controllers/H0918RS2v3.scone >>
+		
+		# Measure for gait
+		CompositeMeasure {
+			<< measures/Gait10.scone >>
+			<< measures/EffortWangCubed2000.scone >>
+			<< measures/DofKnee1.scone >>
+			<< measures/Grf14.scone >>
+		}
+	}
+}
+```
