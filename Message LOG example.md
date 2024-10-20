@@ -93,6 +93,7 @@ Evaluation took 1.88376s for 2.705s (1.43596x real-time)
 
 
 ---
+model = sconepy.load_model('data/edd_osim3.scone')只能載入model
 ```
 CmaOptimizer {
 	signature_prefix = DATE_TIME
