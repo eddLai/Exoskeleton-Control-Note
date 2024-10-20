@@ -3,6 +3,11 @@
 `sys`：修改interpreter的位址，用來動態加載
 `importlib.util`：用來確認加載
 
-```
+```python
 sorted(pathlib.Path(path).glob('sconepy*.*'))
 ```
+
+```python
+importlib.util.find_spec('sconepy')
+```
+
