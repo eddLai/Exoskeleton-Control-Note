@@ -1,4 +1,4 @@
 [[SWIG（Simplified Wrapper and Interface Generator）]]
 
-`sys`：用來動ㄊㄞ
-`importlib.util`：用來
+`sys`：修改interpreter的位址，用來動態加載
+`importlib.util`：用來確認加載
