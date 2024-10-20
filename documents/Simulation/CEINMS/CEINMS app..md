@@ -1,4 +1,5 @@
 ref.
 - [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]]
-https://github.com/CEINMS/CEINMS
+- https://github.com/CEINMS/CEINMS
 
+---
