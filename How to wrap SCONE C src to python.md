@@ -5,6 +5,8 @@
 
 ```python
 sorted(pathlib.Path(path).glob('sconepy*.*'))
+
+pathlib.Path.home()
 ```
 
 ```python
