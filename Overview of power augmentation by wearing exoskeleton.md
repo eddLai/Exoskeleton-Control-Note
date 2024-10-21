@@ -13,3 +13,6 @@ History of exoskeleton:[Exoskeletons for Human Performance Augmentation | Spring
 ## 開發實務
 - [[第一階段實際開會紀錄]]+[[開發時間軸規畫]]：成功建立一套能夠訓練模型，集成Cyguns EMG sensor, Exoskeleton+ESP32控制, PC Server端運算 的外骨骼系統及VR眼鏡虛擬教練
 - [[第二階段]]：在初步開發完畢後，仍然有實驗效果不明顯的問題，以及系統不夠穩定的狀況
+
+
+[[Document List]]
