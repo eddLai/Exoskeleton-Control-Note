@@ -6,6 +6,9 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 1. Load model`.osim`
 2. Load motion `.mot`
 
+### Workflow
+
+
 ---
 
 Coordinate controller
