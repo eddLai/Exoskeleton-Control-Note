@@ -7,7 +7,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 2. Load motion `.mot`
 
 ### Workflow
-1. The OpenSim Model:現在mocap已經整合了scaling
+1. The OpenSim Model:現在mocap已經整合了scaling:mass properties (mass and inertia tensor)
 3. Simulation Pipelines (Workflows)
 4. Common Pre-Processing Steps
 	1. Importing Experimental Data
