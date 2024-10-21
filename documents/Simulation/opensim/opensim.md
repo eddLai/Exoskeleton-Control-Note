@@ -7,24 +7,24 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 2. Load motion `.mot`
 
 ### Workflow
-1. The OpenSim Model
-2. Simulation Pipelines (Workflows)
-3. Common Pre-Processing Steps
+1. The OpenSim Model:現在mocap已經整合了scaling
+3. Simulation Pipelines (Workflows)
+4. Common Pre-Processing Steps
 	1. Importing Experimental Data
 	2. Scaling
-4. The Inverse Problem
+5. The Inverse Problem
 	1. Inverse Kinematics
 	2. Inverse Dynamics
 	3. Static Optimization
 	4. Computed Muscle Control
 	5. EMG-Informed Methods
-5. The Forward Problem
+6. The Forward Problem
 	1. Forward Dynamics with Known Controls
 	2. Shooting Methods
 	3. Reinforcement Learning (RL)  
 	4. Direct Collocation
-6. Frequently Asked Questions About Choosing a Simulation Pipeline
-7. Analyzing Simulations
+7. Frequently Asked Questions About Choosing a Simulation Pipeline
+8. Analyzing Simulations
 
 ---
 
