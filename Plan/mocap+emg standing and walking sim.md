@@ -64,3 +64,6 @@ EMG貼片要加GND，左右腳的問題已經校正
 - Inversed: 計算出模擬->EMG-informed 校正
 - Forward: 
 - ![[opensim_Forward Problem.png]]
+
+<div style="background-color: white; padding: 10px;">
+  <img src="D:\Notes\Exoskeleton-Control-Note\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
