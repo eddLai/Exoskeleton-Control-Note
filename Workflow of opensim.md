@@ -15,7 +15,7 @@
 		1. 用途:用來讓muscle逼近輸入的物件座標，
 		2. 特性:適合較高能量的運動(肌腱動態和彈性儲能，例如跑步)，
 		3. 指標:residuals from the CMC
-	3. EMG-Informed Methods
+	3. EMG-Informed Methods: [[CEINMS app.]]
 6. The Forward Problem
 	1. Forward Dynamics with Known Controls: 需要adding a controller
 	2. [[Shooting Methods]]

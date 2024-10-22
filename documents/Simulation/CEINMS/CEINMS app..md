@@ -3,5 +3,5 @@ ref.
 - https://github.com/CEINMS/CEINMS
 
 ---
-目標得到:_geometrical_ state
-肌肉力矩壁
+preprocessing 2k_geometrical_ state
+肌肉力矩臂
