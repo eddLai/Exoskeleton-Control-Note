@@ -63,3 +63,4 @@ EMG貼片要加GND，左右腳的問題已經校正
 方法:
 - Inversed: 計算出模擬->EMG-informed 校正
 - Forward: 
+- ![[opensim_Forward Problem.png]]
