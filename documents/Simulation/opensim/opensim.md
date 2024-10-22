@@ -9,7 +9,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 2. Load motion `.mot`
 ### [[Workflow of opensim]]
 ### Analysis
-- Body Kinematics: 
+- Body Kinematics
 - Point Kinematics
 - Muscle Analysis
 - Joint Reactions
