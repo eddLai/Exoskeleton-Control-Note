@@ -11,3 +11,5 @@ ref.
 - _muscle excitations_ sEMG signals
 	- 現有已經濾波過
 
+`.mot`, `.sto`
+
