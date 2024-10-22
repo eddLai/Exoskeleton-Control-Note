@@ -79,3 +79,5 @@ SCONE, shooting methods跟RL的差別?
 
 apply torques between two bodies: TorqueActuator
 apply generalized forces and torques to a specific coordinate: CoordinateActuators
+
+cupy
