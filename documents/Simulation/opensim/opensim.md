@@ -17,7 +17,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 	1. Inverse Kinematics
 	2. Inverse Dynamics
 	3. Static Optimization
-	4. Computed Muscle Control, 無法在
+	4. Computed Muscle Control, 無法使用Scripting?
 	5. EMG-Informed Methods
 6. The Forward Problem
 	1. Forward Dynamics with Known Controls
