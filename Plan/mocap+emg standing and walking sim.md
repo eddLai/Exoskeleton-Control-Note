@@ -39,7 +39,7 @@ libgconf-2-4下載, https://blog.csdn.net/lingzhou0909/article/details/139708197
 opensim裡頭都有各種組合的code不知道為什麼
 
 ---
-### 與安妤進行討論
+### 實驗數據採集:與maurice 安妤進行討論
 130紅燈亮，131紅燈暗，140綠燈亮, 141綠燈暗
 02 右腳
 其他 左腳起步
@@ -56,7 +56,7 @@ EMG貼片要加GND，左右腳的問題已經校正
 
 統一改用opensim 4.1，需要嫁接Callibrated Emg Informed NMS
 
-### Task
+### 收斂目標
 1. opensim把肌肉資料***轉換為模擬***資料
 2. SCONE***生成***更多模擬資料
 
@@ -68,4 +68,5 @@ EMG貼片要加GND，左右腳的問題已經校正
 
 但都需要得到excitation資料，所以什麼是excitation
 
-SCONE
+### 問題
+SCONE, shooting methods跟RL的差別?
