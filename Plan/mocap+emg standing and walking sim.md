@@ -78,3 +78,4 @@ SCONE, shooting methods跟RL的差別?
 [Simulating Ideal Assistive Devices to Reduce the Metabolic Cost of Running | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163417)
 
 apply torques between two bodies: TorqueActuator
+apply generalized forces and torques to a specific coordinate: CoordinateActuators
