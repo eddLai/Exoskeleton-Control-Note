@@ -8,7 +8,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 1. Load model`.osim`
 2. Load motion `.mot`
 
-### Workflow
+### Workflow of opensim
 ![[opensim workflow.png]]
 1. The OpenSim Model
 3. Simulation Pipelines (Workflows)
