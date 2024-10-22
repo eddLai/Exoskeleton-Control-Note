@@ -10,3 +10,4 @@ ref.
 - _moment arms_ 肌肉力矩臂
 - _muscle excitations_ sEMG signals
 	- 現有已經濾波過
+
