@@ -66,4 +66,4 @@ EMG貼片要加GND，左右腳的問題已經校正
 <div style="background-color: white; padding: 10px;">
   <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\opensim_Forward Problem.png" alt="ID Tool" width="500"/></div>
 
-但都需要得到excitation資料，所以gp
+但都需要得到excitation資料，所以什麼是excitation

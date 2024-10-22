@@ -23,7 +23,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 	2. Computed Muscle Control, 無法使用Scripting?，用來讓muscle逼近輸入的物件座標
 	4. EMG-Informed Methods
 6. The Forward Problem
-	1. Forward Dynamics with Known Controls
+	1. Forward Dynamics with Known Controls: 需要adding a controller
 	2. Shooting Methods
 	3. Reinforcement Learning (RL)  
 	4. Direct Collocation
