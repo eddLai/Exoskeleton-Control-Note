@@ -14,7 +14,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 	1. Importing Experimental Data
 	2. Scaling
 5. The Inverse Problem
-	1. Inverse Kinematics
+	1. Inverse Kinematics: "best match" is expressed as a **weighted least-squares** problem
 	2. Inverse Dynamics
 	3. Static Optimization
 	4. Computed Muscle Control, 無法使用Scripting?
