@@ -8,14 +8,15 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 
 ### Workflow
 ![[opensim workflow.png]]
-1. The OpenSim Model:現在mocap已經整合了scaling:mass properties (mass and inertia tensor)
+1. The OpenSim Model
 3. Simulation Pipelines (Workflows)
 4. Common Pre-Processing Steps
 	1. Importing Experimental Data
-	2. Scaling
+	2. Scaling: 現在mocap已經整合了scaling:mass properties (mass and inertia tensor)
 5. The Inverse Problem
 	1. Inverse Kinematics: "best match" is expressed as a **weighted least-squares** problem
-	2. Inverse Dynamics: ID -> forces
+	2. Inverse Dynamics: ID -> forces, 解方程by Simbody™
+	![[Pasted image 20241022105159.png]]
 	4. Static Optimization
 	5. Computed Muscle Control, 無法使用Scripting?
 	6. EMG-Informed Methods
