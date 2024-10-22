@@ -20,8 +20,8 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
   <img src="D:\Notes\Exoskeleton-Control-Note\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
 
 	1. Static Optimization
-	2. Computed Muscle Control, 無法使用Scripting?
-	3. EMG-Informed Methods
+	2. Computed Muscle Control, 無法使用Scripting?，用來讓muscle逼近輸入的物件座標
+	4. EMG-Informed Methods
 6. The Forward Problem
 	1. Forward Dynamics with Known Controls
 	2. Shooting Methods
