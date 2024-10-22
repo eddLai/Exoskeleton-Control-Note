@@ -3,5 +3,5 @@ ref.
 - https://github.com/CEINMS/CEINMS
 
 ---
-preprocessing 2k_geometrical_ state
+preprocessing 得到 _geometrical_ state
 肌肉力矩臂
