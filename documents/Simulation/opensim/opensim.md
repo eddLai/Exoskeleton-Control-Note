@@ -17,9 +17,12 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 	1. Inverse Kinematics: "best match" is expressed as a **weighted least-squares** problem
 	2. Inverse Dynamics: ID -> forces, 解方程by Simbody™
 	![[Inverse Dynamics (ID) Tool.png|300]]
-	4. Static Optimization
-	5. Computed Muscle Control, 無法使用Scripting?
-	6. EMG-Informed Methods
+	<div style="background-color: white; padding: 10px;">
+  <img src="Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
+
+	1. Static Optimization
+	2. Computed Muscle Control, 無法使用Scripting?
+	3. EMG-Informed Methods
 6. The Forward Problem
 	1. Forward Dynamics with Known Controls
 	2. Shooting Methods
