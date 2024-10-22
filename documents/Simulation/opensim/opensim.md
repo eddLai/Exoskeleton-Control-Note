@@ -7,8 +7,8 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 ### file and data structure
 1. Load model`.osim`
 2. Load motion `.mot`
-
 ### [[Workflow of opensim]]
+### Analysis
 
 Coordinate controller
 
