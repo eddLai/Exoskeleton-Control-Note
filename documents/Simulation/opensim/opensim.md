@@ -10,8 +10,8 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 ### [[Workflow of opensim]]
 ### Analysis
 - Body Kinematics
-- Point Kinematics
-- Muscle Analysis
+- Point Kinematics: 追蹤特定位置
+- Muscle Analysis: 
 - Joint Reactions
 - Induced Acceleration
 - Force Reporter
