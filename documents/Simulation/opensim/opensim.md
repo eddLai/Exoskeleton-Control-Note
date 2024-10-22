@@ -26,7 +26,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 	1. Forward Dynamics with Known Controls: 需要adding a controller
 	2. [[Shooting Methods]]
 	3. Reinforcement Learning (RL)  [Reinforcement learning with musculoskeletal models](https://osim-rl.kidzinski.com/)
-	4. Direct Collocation
+	4. Direct Collocation: [OpenSim Moco](https://opensim-org.github.io/opensim-moco-site/)
 7. Frequently Asked Questions About Choosing a Simulation Pipeline
 8. Analyzing Simulations
 
