@@ -1,7 +1,9 @@
 https://github.com/opensim-org/opensim-core?tab=readme-ov-file
 https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
+
 ### Terms
 - anthropometry:人體測量學
+- **PCSA** 是 **Physiological Cross-Sectional Area（生理橫截面積）**
 ### file and data structure
 1. Load model`.osim`
 2. Load motion `.mot`
