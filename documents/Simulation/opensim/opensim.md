@@ -11,7 +11,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 ### Analysis
 - Body Kinematics
 - Point Kinematics: 追蹤特定位置
-- Muscle Analysis: 
+- Muscle Analysis: 長度、速度、歸一化、羽狀角度、主被動纖維力和肌腱力
 - Joint Reactions
 - Induced Acceleration
 - Force Reporter
