@@ -54,7 +54,7 @@ EMG貼片要加GND，左右腳的問題已經校正
 	- [x] 透過肌肉，heel座標關係去對齊(可以double check)
 - [x] 下次收案一起把Cygnus TTL完成, `sync_marker.npz`（等測試）
 
-統一改用opensim 4.1，需要嫁接CEINMS
+統一改用opensim 4.1，需要嫁接Callibrated Emg Informed NMS
 
 ### Task
 - 校正
