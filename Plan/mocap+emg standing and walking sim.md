@@ -61,5 +61,5 @@ EMG貼片要加GND，左右腳的問題已經校正
 2. SCONE***生成***更多模擬資料
 
 方法:
-- 計算出模擬->校正
-- 
+- Inversed: 計算出模擬->EMG-informed 校正
+- Forward: 
