@@ -2,7 +2,7 @@ https://github.com/opensim-org/opensim-core?tab=readme-ov-file
 https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 ### Terms
 - anthropometry:人體測量學
-
+### file and data structure
 1. Load model`.osim`
 2. Load motion `.mot`
 
