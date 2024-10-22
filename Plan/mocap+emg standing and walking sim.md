@@ -71,3 +71,4 @@ EMG貼片要加GND，左右腳的問題已經校正
 
 ### 問題
 SCONE, shooting methods跟RL的差別?
+什麼是[[數值優化]]
