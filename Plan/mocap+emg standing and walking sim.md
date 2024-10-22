@@ -63,7 +63,7 @@ EMG貼片要加GND，左右腳的問題已經校正
 
 方法:
 - Inversed: 計算出模擬->EMG-informed 校正
-- Forward: 
+- Forward: 需要Objective Function
 <div style="background-color: white; padding: 10px;">
   <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\opensim_Forward Problem.png" alt="ID Tool" width="500"/></div>
 
