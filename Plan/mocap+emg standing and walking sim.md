@@ -76,3 +76,5 @@ SCONE, shooting methods跟RL的差別?
 
 [Simulating ideal assistive devices to reduce the metabolic cost of walking with heavy loads | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180320)
 [Simulating Ideal Assistive Devices to Reduce the Metabolic Cost of Running | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163417)
+
+apply torques between two bodies: TorqueActuator
