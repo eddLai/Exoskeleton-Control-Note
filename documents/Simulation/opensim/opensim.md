@@ -15,10 +15,10 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 	2. Scaling
 5. The Inverse Problem
 	1. Inverse Kinematics: "best match" is expressed as a **weighted least-squares** problem
-	2. Inverse Dynamics
-	3. Static Optimization
-	4. Computed Muscle Control, 無法使用Scripting?
-	5. EMG-Informed Methods
+	2. Inverse Dynamics: ID -> forces
+	4. Static Optimization
+	5. Computed Muscle Control, 無法使用Scripting?
+	6. EMG-Informed Methods
 6. The Forward Problem
 	1. Forward Dynamics with Known Controls
 	2. Shooting Methods
