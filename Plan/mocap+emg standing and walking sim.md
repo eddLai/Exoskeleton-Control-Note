@@ -57,7 +57,8 @@ EMG貼片要加GND，左右腳的問題已經校正
 統一改用opensim 4.1，需要嫁接Callibrated Emg Informed NMS
 
 ### Task
-opensim把肌肉資料轉換為模擬資料, 
-SCONE**生成**更多模擬資料
+1. opensim把肌肉資料***轉換為模擬***資料
+2. SCONE***生成***更多模擬資料
+
 - 校正
 - 
