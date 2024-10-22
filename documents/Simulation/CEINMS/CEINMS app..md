@@ -3,3 +3,5 @@ ref.
 - https://github.com/CEINMS/CEINMS
 
 ---
+目標得到:_geometrical_ state
+肌肉力矩壁
