@@ -1,3 +1,2 @@
 high-level tasks quantified by an objective function
-[[SCONE]], [[S
-其實完全可以自己建立
+[[SCONE]], [[SCONE SRC]]的本質，其實完全透過opensim自己建立
