@@ -21,3 +21,7 @@ Data input:
 格式要求: 
 - muscle names <- `subjectDescFile`
 - muscle activation <- excitationsDescFile`inputSignals
+
+`<prefix>_Length.sto`
+`<prefix>_MomentArm_<dof_name>.sto`
+MuscleAnalysis
