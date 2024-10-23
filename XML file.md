@@ -9,3 +9,15 @@
 - 文字
 - 屬性
 - 其他元素
+```
+<InvitationList>
+<family>
+       <aunt>
+       <name>Christine</name>
+        <name>Stephanie</name>
+       </aunt>
+</family>
+</InvitationList>
+```
+
+<InvitationList> 是根元素；family 和 aunt 是其他元素名稱。
