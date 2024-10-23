@@ -15,4 +15,5 @@ ref.
 
 Data input:
 - `endheader`
-- 
+- `nColumns=15` or `dataColumns 15`
+- `nRows=1264` or dataRows 1264
