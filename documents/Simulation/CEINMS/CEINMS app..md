@@ -35,7 +35,7 @@ MuscleAnalysis
 toc
 .. toctree::
    :maxdepth: 2
-  
+
    xsd/ceinmsCalibrationSetup.xsd
    xsd/calibration.xsd
 
