@@ -47,14 +47,16 @@ detrend?
 下次收案一起把Cygnus TTL完成
 EMG貼片要加GND，左右腳的問題已經校正
 
-資料同步
+##### 資料同步
 - [x] 用光學對齊檢查，應該要差不多綠光開始走動??
 	- [x] EMG event_marker開始，跟video紅燈frame對齊
 	- [x] (gait_analysis)沒時間->時間點附近最靠近的heel，(水平校正trc, x, y ,z成有意義的資料)看analysis，但丟進去opensim可能不需要
 	- [x] 透過肌肉，heel座標關係去對齊(可以double check)
 - [x] 下次收案一起把Cygnus TTL完成, `sync_marker.npz`（等測試）
 
-統一改用opensim 4.1，需要嫁接Callibrated Emg Informed NMS
+##### 修改
+- 統一改用opensim 4.1，需要嫁接Callibrated Emg Informed NMS
+- 要多一個maximally contracted isometrically (no motion occurring)
 
 ---
 ### 收斂目標
