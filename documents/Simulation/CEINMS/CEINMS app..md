@@ -18,3 +18,5 @@ Data input:
 - `nColumns=15` or `dataColumns 15`
 - `nRows=1264` or `dataRows 1264`
 多列stamps，第一列是`time`
+muscle names <- `subjectDescFile`
+muscle activation <-
