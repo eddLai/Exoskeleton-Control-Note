@@ -25,4 +25,6 @@ Data input:
 `<prefix>_Length.sto`
 `<prefix>_MomentArm_<dof_name>.sto`
 MuscleAnalysis
-`compute_moments`, `muscle_list`, `moment_arm_coordinate_list`
+`compute_moments`, 
+`muscle_list`:需要include all muscles
+`moment_arm_coordinate_list`
