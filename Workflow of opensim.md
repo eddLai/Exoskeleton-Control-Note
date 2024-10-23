@@ -11,7 +11,7 @@
   <img src="D:\Notes\Exoskeleton-Control-Note\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
 
 	1. Static Optimization
-	2. Computed Muscle Control, 無法使用Scripting?，
+	2. Computed Muscle Control, 無法使用Scripting?
 		1. 用途:用來讓muscle逼近輸入的物件座標，
 		2. 特性:適合較高能量的運動(肌腱動態和彈性儲能，例如跑步)，
 		3. 指標:residuals from the CMC
