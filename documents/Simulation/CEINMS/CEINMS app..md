@@ -30,3 +30,15 @@ MuscleAnalysis
 `moment_arm_coordinate_list`
 
 需要透過MOtoNMS轉檔
+
+---
+toc
+.. toctree::
+   :maxdepth: 2
+  
+   xsd/ceinmsCalibrationSetup.xsd
+   xsd/calibration.xsd
+
+   xsd/subject.xsd
+   xsd/inputData.xsd
+   xsd/excitationGenerator.xsd
