@@ -14,7 +14,7 @@
 - 其他元素
 
 舉例:
-```
+```xml
 <InvitationList>
 <family>
        <aunt>
