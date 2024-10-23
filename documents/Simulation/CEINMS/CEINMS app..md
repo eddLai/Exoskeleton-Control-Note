@@ -28,3 +28,5 @@ MuscleAnalysis
 `compute_moments`, 
 `muscle_list`:需要include all muscles
 `moment_arm_coordinate_list`
+
+需要透過MOtoNMS
