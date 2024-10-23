@@ -25,3 +25,4 @@ Data input:
 `<prefix>_Length.sto`
 `<prefix>_MomentArm_<dof_name>.sto`
 MuscleAnalysis
+`compute_moments`
