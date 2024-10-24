@@ -23,4 +23,4 @@
 	3. Reinforcement Learning (RL)  [Reinforcement learning with musculoskeletal models](https://osim-rl.kidzinski.com/)
 	4. Direct Collocation: [OpenSim Moco](https://opensim-org.github.io/opensim-moco-site/)
 7. Frequently Asked Questions About Choosing a Simulation Pipeline
-8. Analyzing Simulations
+8. [[opensim analysis simulation]]

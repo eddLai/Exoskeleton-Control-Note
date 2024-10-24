@@ -3,7 +3,6 @@ ref.
 [OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview)
 - [[opensim Download]]
 - [[Workflow of opensim]]
-- [[opensim analysis]]
 
 Coordinate controller
 
