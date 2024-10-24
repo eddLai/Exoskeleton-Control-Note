@@ -14,7 +14,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 
 ### [[Workflow of opensim]]
 
-![[Coordinate Systems.png]]
+![[Coordinate Systems.png|300]]
 ### Analysis
 - Body Kinematics
 - Point Kinematics: 追蹤特定位置
