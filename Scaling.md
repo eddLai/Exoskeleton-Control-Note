@@ -14,7 +14,10 @@ Unit: mm, kg, year
 	<scaling_order> measurements manualScale</scaling_order>
 ```
 
-`<MeasurementSet>`:用於manual
+`<MeasurementSet>`:用於[[Manual Scaling]]
+`<ScaleSet>`
+- <marker_file>
+- 
 
 目標
 - ScaleTasks: 
