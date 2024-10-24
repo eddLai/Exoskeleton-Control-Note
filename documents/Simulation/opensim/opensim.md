@@ -7,6 +7,9 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 ### file and data structure
 1. `.trc`: Marker trajectories
 2. `.sto`: GRF, COP(center of pressure), EMG data
+	1. 代表storage
+	2. 第一行一定要是time
+	3. 由
 3. `.mot`: GRF, COP, Joints angle, EMG data
 	1. 基本用途:SIMM (Software for Interactive Musculoskeletal Modeling)
 	2. 會有endheader
