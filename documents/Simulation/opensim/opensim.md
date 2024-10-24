@@ -7,6 +7,8 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 ### file and data structure
 1. Load model`.osim`
 2. Load motion `.mot`
+3.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，OpenSim 4.0可以用
+
 ### [[Workflow of opensim]]
 ### Analysis
 - Body Kinematics
