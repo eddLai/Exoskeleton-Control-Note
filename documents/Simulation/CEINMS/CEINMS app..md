@@ -80,3 +80,5 @@ objective function weightings alpha, beta and gamma
 
 ### tendon setting:
 equilibriumElastic more acc. but stiff less comput. time
+
+---
