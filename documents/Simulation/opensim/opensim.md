@@ -7,7 +7,7 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 ### file and data structure
 1. `.trc`: Marker trajectories
 2. `.sto`: GRF, COP(center of pressure), EMG data
-3. `.mot`: GRF, COP, Joints angle, EMG data, 
+3. `.mot`: GRF, COP, Joints angle, EMG data, 基本用途:SIMM (Software for Interactive Musculoskeletal Modeling)
 4. `.osim`: Load model
 5. `.mot`: Load motion
 6.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，Mocap, OpenSim 4.0可以轉檔成`.trc`, `.mot`
