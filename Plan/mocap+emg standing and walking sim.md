@@ -83,3 +83,5 @@ apply torques between two bodies: TorqueActuator
 apply generalized forces and torques to a specific coordinate: CoordinateActuators
 
 cupy
+
+有對肌肉模型進行縮放嗎，參考以及使用的方法是?
