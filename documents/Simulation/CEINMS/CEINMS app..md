@@ -43,3 +43,5 @@ toc
    xsd/subject.xsd
    xsd/inputData.xsd
    xsd/excitationGenerator.xsd
+
+XSD用於驗證XML可否使用
