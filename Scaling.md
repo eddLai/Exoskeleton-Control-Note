@@ -12,8 +12,9 @@ Unit: mm, kg, year
 <ModelScaler>
 	<apply>true</apply>
 	<scaling_order> measurements manualScale</scaling_order>
-
 ```
+
+`<MeasurementSet>`:用於manual
 
 目標
 - ScaleTasks: 
