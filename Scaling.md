@@ -16,8 +16,10 @@ Unit: mm, kg, year
 
 `<MeasurementSet>`:用於[[Manual Scaling]]
 `<ScaleSet>`
-- <marker_file>
-- 
+- `<marker_file>`
+- `<time_range>`
+
+<preserve_mass_distribution>
 
 目標
 - ScaleTasks: 
