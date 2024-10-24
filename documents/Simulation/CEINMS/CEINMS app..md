@@ -84,3 +84,4 @@ equilibriumElastic more acc. but stiff less comput. time
 
 ---
 ### CEINMScalibrate
+用途: refining muscle parameters
