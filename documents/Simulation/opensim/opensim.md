@@ -6,9 +6,10 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 - **PCSA** 是 **Physiological Cross-Sectional Area（生理橫截面積）**
 ### file and data structure
 1. `.trc`: Marker trajectories
-2. `.osim`: Load model
-3. Load motion `.mot`
-4.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，OpenSim 4.0可以用
+2. `.sto`: GRF or 
+3. `.osim`: Load model
+4. `.mot`: Load motion
+5.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，OpenSim 4.0可以用
 
 ### [[Workflow of opensim]]
 ### Analysis
