@@ -17,10 +17,13 @@ Unit: mm, kg, year
 	<apply>true</apply>
 	<scaling_order> measurements manualScale</scaling_order>
 ```
-`<MeasurementSet>`:
-`<ScaleSet>`:用於[[Manual Scaling]]
-- `<marker_file>`
-- `<time_range>`
+用於[[Manual Scaling]]
+- `<MeasurementSet>`:
+	- `<MarkerPairSet>`
+	- 
+- `<ScaleSet>`:
+	- `<marker_file>`
+	- `<time_range>`
 
 `<preserve_mass_distribution>`: 1 or 0 option
 ```
