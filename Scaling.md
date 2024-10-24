@@ -17,6 +17,10 @@
 	3. $p_2 = \{ \text{L.ASIS}, \text{L.Knee.Lat} \}$
 	4. ...
 	5. $s = \frac{s_1 + s_2}{2}$
-2. 
+2. 幾何縮放
+	1. 關節框架
+	2. 質量中心
+	3. 力作用點與肌肉附著點
+	4. Wrapping Objects
 # Our Mocap integrated process
 debug ref.:[Getting Started with Scaling - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089123/Getting+Started+with+Scaling)
