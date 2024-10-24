@@ -6,4 +6,5 @@
 	- 比較虛擬與實驗標記
 	- 解決反向動力學
 	- 誤差->權重
-- 
+- ScaleMeasurementSet: 實驗對象相關測量數據
+- ScaleScaleSet: 手動
