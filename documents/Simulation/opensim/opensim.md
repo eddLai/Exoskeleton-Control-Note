@@ -5,9 +5,10 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 - anthropometry:人體測量學
 - **PCSA** 是 **Physiological Cross-Sectional Area（生理橫截面積）**
 ### file and data structure
-1. Load model`.osim`
-2. Load motion `.mot`
-3.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，OpenSim 4.0可以用
+1. `.trc`: Marker trajectories
+2. `.osim`: Load model
+3. Load motion `.mot`
+4.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，OpenSim 4.0可以用
 
 ### [[Workflow of opensim]]
 ### Analysis
