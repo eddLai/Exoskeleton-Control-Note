@@ -19,7 +19,7 @@ Unit: mm, kg, year
 - `<marker_file>`
 - `<time_range>`
 
-<preserve_mass_distribution>
+`<preserve_mass_distribution>`: 1 or 0 option
 
 目標
 - ScaleTasks: 
