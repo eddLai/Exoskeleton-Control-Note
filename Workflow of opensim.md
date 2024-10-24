@@ -1,5 +1,4 @@
 ![[opensim workflow.png]]
-1. [[opensim data collection]]
 2. The OpenSim Model
 3. Simulation Pipelines (Workflows)
 4. Common Pre-Processing Steps
@@ -24,4 +23,3 @@
 	3. Reinforcement Learning (RL)  [Reinforcement learning with musculoskeletal models](https://osim-rl.kidzinski.com/)
 	4. Direct Collocation: [OpenSim Moco](https://opensim-org.github.io/opensim-moco-site/)
 7. Frequently Asked Questions About Choosing a Simulation Pipeline
-8. [[opensim analysis simulation]]
