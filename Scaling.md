@@ -4,7 +4,7 @@
 [sject01_Setup_Scale.xml](https://github.com/opensim-org/opensim-models/blob/master/Pipelines/Gait2354_Simbody/subject01_Setup_Scale.xml)
 - ScaleTasks: 
 	- 比較虛擬與實驗標記
-	- 解決反向動力學
+	- 解決(他移動虛擬標記的演算法是?)反向動力學
 	- 誤差->權重
 - ScaleMeasurementSet: 實驗對象相關測量數據
 - ScaleScaleSet: 手動縮放
