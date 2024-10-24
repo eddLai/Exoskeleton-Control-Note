@@ -9,3 +9,6 @@
 - ScaleMeasurementSet: 實驗對象相關測量數據
 - ScaleScaleSet: 手動縮放
 - ScaleMarkerSet.xml: 虛擬標記位置
+
+# Our Mocap integrated process
+debug ref.:[Getting Started with Scaling - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089123/Getting+Started+with+Scaling)
