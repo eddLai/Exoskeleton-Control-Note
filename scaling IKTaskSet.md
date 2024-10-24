@@ -1,6 +1,6 @@
 對於優化算法，這樣定義權重:
 ## Marker Tasks
-虛擬與
+虛擬與實驗標記之位置差異
 ```
 <IKMarkerTask name="Sternum"> <weight>1</weight> </IKMarkerTask>
 <IKMarkerTask name="R.Acromium"> <weight>1</weight> </IKMarkerTask>
