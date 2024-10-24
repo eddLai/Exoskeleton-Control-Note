@@ -52,3 +52,7 @@ XSD用於驗證XML可否使用
 ---
 ### CEINMS modes
 - openLoop: means _full-predictive_ 不需要外部反饋e.g. joint moments file
+
+optimization algorithm
+
+- 
