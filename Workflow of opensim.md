@@ -12,12 +12,13 @@
   <img src="D:\Notes\Exoskeleton-Control-Note\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
 
 	1. [[Static Optimization(SO)]]
-	2. Computed Muscle Control, 無法使用Scripting?
+		1. 根據特定目標計算每個時間點的最佳肌肉力分佈，但不一定符合生理真實的肌肉激活模式
+	2. [[Computed Muscle Control]], 無法使用Scripting?
 		1. 用途:用來讓muscle逼近輸入的物件座標，
 		2. 特性:適合較高能量的運動(肌腱動態和彈性儲能，例如跑步)，
 		3. 指標:residuals from the CMC
 	3. EMG-Informed Methods: [[CEINMS app.]]
-6. The Forward Problem
+6. The Forward Problem:從已知的力量推導運動。
 	1. Forward Dynamics with Known Controls: 需要adding a controller
 	2. [[Shooting Methods]]
 	3. Reinforcement Learning (RL)  [Reinforcement learning with musculoskeletal models](https://osim-rl.kidzinski.com/)
