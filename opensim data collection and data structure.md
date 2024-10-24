@@ -12,7 +12,8 @@ tool list: [Tools for Preparing Motion Data - OpenSim Documentation - OpenSim](h
 	3. 由opensim開發極似`.mot`
 3. `.mot`: GRF, COP, Joints angle, EMG data
 	1. 會有endheader
-	2. 基本用途:SIMM (Software for Interactive Musculoskeletal Modeling)
+	2. `inDegrees=yes` or no -> in radians
+	3. 基本用途:SIMM (Software for Interactive Musculoskeletal Modeling)
 4. `.osim`: Load model
 5. `.mot`: Load motion
 6.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)
