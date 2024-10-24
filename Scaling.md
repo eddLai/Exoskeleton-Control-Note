@@ -20,7 +20,7 @@ Unit: mm, kg, year
 用於[[Manual Scaling]]
 - `<MeasurementSet>`:
 	- `<MarkerPairSet>`
-	- 
+	- `<BodyScale>`:可以決定X, Y, Z
 - `<ScaleSet>`:
 	- `<marker_file>`
 	- `<time_range>`
