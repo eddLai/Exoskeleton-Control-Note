@@ -15,7 +15,8 @@
 	1. $p_1 = \{ \text{R.ASIS}, \text{R.Knee.Lat} \}$
 	2. $s_1 = \frac{e_1}{m_1}$
 	3. $p_2 = \{ \text{L.ASIS}, \text{L.Knee.Lat} \}$
-	4. 
+	4. ...
+	5. $s = \frac{s_1 + s_2}{2}$
 2. 
 # Our Mocap integrated process
 debug ref.:[Getting Started with Scaling - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089123/Getting+Started+with+Scaling)
