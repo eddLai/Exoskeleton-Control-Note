@@ -52,7 +52,7 @@ XSD用於驗證XML可否使用
 ---
 ### CEINMS modes
 objective function weightings alpha, beta and gamma
-optimization algorithm goal: 
+### optimization algorithm goal: 
 `trackedMuscles在實驗中測量的肌肉  || predictedMusclesao沒有在實驗中測量的肌肉`
 
 - _openLoop_: means _full-predictive_ 不需要外部反饋e.g. joint moments file
@@ -76,3 +76,6 @@ optimization algorithm goal:
 > trackedMuscles = none
 > 
 > predictedMuscles = every muscle
+
+
+tendon setting: equilibriumElastic more acc. but stiff less comput. time
