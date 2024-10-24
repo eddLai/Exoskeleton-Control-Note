@@ -13,6 +13,8 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 6.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，Mocap, OpenSim 4.0可以轉檔成`.trc`, `.mot`
 
 ### [[Workflow of opensim]]
+
+![[Coordinate Systems.png]]
 ### Analysis
 - Body Kinematics
 - Point Kinematics: 追蹤特定位置
