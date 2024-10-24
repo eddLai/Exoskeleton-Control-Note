@@ -6,6 +6,16 @@
 Unit: mm, kg, year
 `<notes>`:用於註記
 `<GenericModelMaker>`
+- `<model_file>`
+- `<marker_set_file>`
+```
+        <ModelScaler>
+            <apply>true</apply>
+            <scaling_order> measurements manualScale</scaling_order>
+
+```
+
+目標
 - ScaleTasks: 
 	- 比較虛擬與實驗標記
 	- 解決(他移動虛擬標記的演算法是?)反向動力學
