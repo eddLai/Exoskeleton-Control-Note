@@ -13,7 +13,7 @@ Unit: mm, kg, year
 	<apply>true</apply>
 	<scaling_order> measurements manualScale</scaling_order>
 ```
-
+<model scaler
 `<MeasurementSet>`:用於[[Manual Scaling]]
 `<ScaleSet>`
 - `<marker_file>`
