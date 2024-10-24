@@ -1,5 +1,5 @@
 ![[opensim workflow.png]]
-1. [[opensim ]]
+1. [[opensim data collection]]
 2. The OpenSim Model
 3. Simulation Pipelines (Workflows)
 4. Common Pre-Processing Steps
