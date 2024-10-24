@@ -9,9 +9,9 @@ Unit: mm, kg, year
 - `<model_file>`
 - `<marker_set_file>`
 ```
-        <ModelScaler>
-            <apply>true</apply>
-            <scaling_order> measurements manualScale</scaling_order>
+<ModelScaler>
+	<apply>true</apply>
+	<scaling_order> measurements manualScale</scaling_order>
 
 ```
 
