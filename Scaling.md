@@ -7,4 +7,5 @@
 	- 解決反向動力學
 	- 誤差->權重
 - ScaleMeasurementSet: 實驗對象相關測量數據
-- ScaleScaleSet: 手動
+- ScaleScaleSet: 手動縮放
+- ScaleMarkerSet.xml: 虛擬標記位置
