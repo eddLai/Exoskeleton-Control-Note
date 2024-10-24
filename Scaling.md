@@ -24,6 +24,9 @@ Unit: mm, kg, year
 <output_model_file>subject01_scaledOnly.osim</output_model_file> <output_scale_file>subject01_scaleSet_applied.xml</output_scale_file>
 ```
 
+`<MarkerPlacer>`
+
+
 目標
 - ScaleTasks: 
 	- 比較虛擬與實驗標記
