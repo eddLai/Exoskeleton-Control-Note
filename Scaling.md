@@ -3,6 +3,7 @@
 
 [sject01_Setup_Scale.xml](https://github.com/opensim-org/opensim-models/blob/master/Pipelines/Gait2354_Simbody/subject01_Setup_Scale.xml)
 [Scale Setup File - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090015/Scale+Setup+File)
+Unit: mm, kg, year
 - ScaleTasks: 
 	- 比較虛擬與實驗標記
 	- 解決(他移動虛擬標記的演算法是?)反向動力學
