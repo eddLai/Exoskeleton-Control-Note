@@ -1,3 +1,4 @@
+![[Coordinate Systems.png|300]]
 # Data collection
 tool list: [Tools for Preparing Motion Data - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089096/Tools+for+Preparing+Motion+Data)
 ### Terms

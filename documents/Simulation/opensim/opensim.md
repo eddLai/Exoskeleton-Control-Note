@@ -1,9 +1,8 @@
-https://github.com/opensim-org/opensim-core?tab=readme-ov-file
-https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
-### [[opensim Download]]
-### [[Workflow of opensim]]
-
-![[Coordinate Systems.png|300]]
+ref.
+[opensim-org/opensim-core: SimTK OpenSim C++ libraries and command-line applications, and Java/Python wrapping.](https://github.com/opensim-org/opensim-core?tab=readme-ov-file)
+[OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview)
+- [[opensim Download]]
+- [[Workflow of opensim]]
 ### Analysis
 - Body Kinematics
 - Point Kinematics: 追蹤特定位置
