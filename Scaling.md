@@ -10,13 +10,13 @@ Unit: mm, kg, year
 ### `<ScaleTool name="subject01">`之定義
 `<GenericModelMaker>`
 - `<model_file>`
-- `<marker_set_file>`
+- `<marker_set_file>`: [Scale Marker File - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090011/Scale+Marker+File)
+##### `<model scaler>`
 ```
 <ModelScaler>
 	<apply>true</apply>
 	<scaling_order> measurements manualScale</scaling_order>
 ```
-##### `<model scaler>`
 `<MeasurementSet>`:用於[[Manual Scaling]]
 `<ScaleSet>`
 - `<marker_file>`
