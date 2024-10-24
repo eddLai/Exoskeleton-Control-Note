@@ -22,6 +22,6 @@
 	2. 質量中心
 	3. 力作用點與肌肉附著點
 	4. Wrapping Objects
-3. Target Mass, TM and 保留質量分佈（Preserve Mass Distribution, PMD）
+3. 質量與慣性選項: Target Mass, TM + 保留質量分佈（Preserve Mass Distribution, PMD）
 # Our Mocap integrated process
 debug ref.:[Getting Started with Scaling - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089123/Getting+Started+with+Scaling)
