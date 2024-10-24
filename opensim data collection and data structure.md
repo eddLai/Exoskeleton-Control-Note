@@ -17,7 +17,8 @@ tool list: [Tools for Preparing Motion Data - OpenSim Documentation - OpenSim](h
 5. `.mot`: Load motion
 6.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，
 	1. in binary format
-	2. Mocap, OpenSim 4.0可以轉檔成`.trc`, `.mot`
+	2. 需要用C++讀取
+	4. Mocap, OpenSim 4.0可以轉檔成`.trc`, `.mot`
 
 ### Caution
 force file: NaNs often occur when computing COP，這是不行的
