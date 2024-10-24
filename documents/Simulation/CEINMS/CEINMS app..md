@@ -31,9 +31,10 @@ MuscleAnalysis
 `muscle_list`:需要include all muscles
 `moment_arm_coordinate_list`
 
-需要透過MOtoNMS轉檔
+需要透過MATLAB MOtoNMS轉檔
 
 ---
+### File hir
 background: [[XML file]]
 toc
 .. toctree::
@@ -48,3 +49,6 @@ toc
 
 XSD用於驗證XML可否使用
 
+---
+### CEINMS modes
+openLoop
