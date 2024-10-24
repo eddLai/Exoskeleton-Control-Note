@@ -19,6 +19,7 @@ tool list: [Tools for Preparing Motion Data - OpenSim Documentation - OpenSim](h
 6.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)
 	1. in binary format
 	2. 官方需要用C++讀取，[pyomeca/ezc3d: Easy to use C3D reader/writer for C++, Python and Matlab](https://github.com/pyomeca/ezc3d)工具
+	3. 面對COP包含NaN，使用`OriginOfForcePlate` 標誌，而不是使用 COP
 	4. Mocap, OpenSim 4.0可以轉檔成`.trc`, `.mot`
 
 ### Caution
