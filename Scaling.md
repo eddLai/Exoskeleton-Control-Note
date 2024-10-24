@@ -4,7 +4,10 @@
 [sject01_Setup_Scale.xml](https://github.com/opensim-org/opensim-models/blob/master/Pipelines/Gait2354_Simbody/subject01_Setup_Scale.xml)
 [Scale Setup File - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090015/Scale+Setup+File)
 Unit: mm, kg, year
+## 通用:
 `<notes>`:用於註記
+`<apply>true</apply>`: 用於啟用
+## `<ScaleTool name="subject01">`之定義
 `<GenericModelMaker>`
 - `<model_file>`
 - `<marker_set_file>`
