@@ -52,7 +52,7 @@ XSD用於驗證XML可否使用
 ---
 ### CEINMS modes
 objective function weightings alpha, beta and gamma
-optimization algorithm goal: trackedMuscles  || predictedMuscles
+optimization algorithm goal: trackedMuscles  || predictedMusclesao沒有g
 
 - _openLoop_: means _full-predictive_ 不需要外部反饋e.g. joint moments file
 - _Hybrid mode_
