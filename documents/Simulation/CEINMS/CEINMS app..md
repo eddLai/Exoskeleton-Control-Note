@@ -51,6 +51,7 @@ XSD用於驗證XML可否使用
 
 ---
 ### CEINMS modes
+`CEINMS -S <path to main XML setup file>`
 ### optimization algorithm goal: 
 `trackedMuscles在實驗中測量的肌肉  || predictedMusclesao沒有在實驗中測量的肌肉`
 objective function weightings alpha, beta and gamma
@@ -82,3 +83,4 @@ objective function weightings alpha, beta and gamma
 equilibriumElastic more acc. but stiff less comput. time
 
 ---
+### CEINMScalibrate
