@@ -13,13 +13,16 @@ Unit: mm, kg, year
 	<apply>true</apply>
 	<scaling_order> measurements manualScale</scaling_order>
 ```
-<model scaler
+## `<model scaler>`
 `<MeasurementSet>`:用於[[Manual Scaling]]
 `<ScaleSet>`
 - `<marker_file>`
 - `<time_range>`
 
 `<preserve_mass_distribution>`: 1 or 0 option
+```
+<output_model_file>subject01_scaledOnly.osim</output_model_file> <output_scale_file>subject01_scaleSet_applied.xml</output_scale_file>
+```
 
 目標
 - ScaleTasks: 
