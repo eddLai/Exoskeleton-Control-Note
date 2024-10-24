@@ -34,7 +34,7 @@ MuscleAnalysis
 需要透過MATLAB MOtoNMS轉檔
 
 ---
-### File hir
+### File hierarchy
 background: [[XML file]]
 toc
 .. toctree::
@@ -51,4 +51,4 @@ XSD用於驗證XML可否使用
 
 ---
 ### CEINMS modes
-openLoop
+- openLoop
