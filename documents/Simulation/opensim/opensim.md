@@ -14,6 +14,10 @@ https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 5. `.mot`: Load motion
 6.  [C3D (.c3d) Files](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53090837/C3D+.c3d+Files)，Mocap, OpenSim 4.0可以轉檔成`.trc`, `.mot`
 
+### Caution
+force file: NaNs often occur when computing COP，這是不行的
+
+---
 ### [[Workflow of opensim]]
 
 ![[Coordinate Systems.png|300]]
