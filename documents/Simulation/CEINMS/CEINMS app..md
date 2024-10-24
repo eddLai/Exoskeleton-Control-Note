@@ -4,6 +4,7 @@ ref.
 - https://github.com/CEINMS/CEINMS
 
 ---
+## Data Description
 - preprocessing 得到 _geometrical_ state
 - _musculo-tendon lengths_ 肌腱-肌肉單位的長度
 	- By opensim scaling流程
@@ -11,9 +12,10 @@ ref.
 - _muscle excitations_ sEMG signals
 	- 現有已經濾波過
 
-`.mot`, `.sto`
+file type: `.mot`, `.sto`
 
-Data input:
+---
+### Data input:
 - `endheader`
 - `nColumns=15` or `dataColumns 15`
 - `nRows=1264` or `dataRows 1264`
@@ -45,3 +47,4 @@ toc
    xsd/excitationGenerator.xsd
 
 XSD用於驗證XML可否使用
+
