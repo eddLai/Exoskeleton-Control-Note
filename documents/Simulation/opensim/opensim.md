@@ -10,4 +10,5 @@ ref.
 	4. [[opensim forward problem]]
 - [[opensim analysis simulation]]
 
+其實可以用GUI去產生xml，再開始setting
 Coordinate controller
