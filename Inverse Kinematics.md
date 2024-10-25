@@ -36,6 +36,7 @@ marker, coordinate各自權重
 ```
 `<weight>`
 `<IKCoordinateTask>: <weight>, <from_file>, and <value>`, `<locked>`
+`<SimmCoordinate> 的 <default_value> `
 
 需要
 - marker_file
