@@ -1,4 +1,4 @@
-1. Inverse Kinematics: "best match" is expressed as a **weighted least-squares** problem
+1. [[Inverse Kinematics]]: "best match" is expressed as a **weighted least-squares** problem
 2. Inverse Dynamics: ID -> forces, 解方程by Simbody™
 <div style="background-color: white; padding: 10px;">
 <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>

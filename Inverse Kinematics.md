@@ -1,0 +1,1 @@
+![[Inputs and Outputs of the IK Tool.png]]
