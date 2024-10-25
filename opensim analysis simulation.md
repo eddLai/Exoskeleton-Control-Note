@@ -4,3 +4,5 @@
 - Joint Reactions: 負載，來自地面的反作用力
 - Induced Acceleration: 肌肉個別力量所產生的加速度
 - Force Reporter: 沿路徑的張力, 質心合力
+
+[[Induced Acceleration Analysis(IAA)]]: 個別肌肉力量對模型質心加速度
