@@ -31,10 +31,13 @@ marker, coordinate各自權重
 
 	<!-- Coordinates -->
 	<IKCoordinateTask name="subtalar_angle_r"> <value> 0 </value></IKCoordinateTask>
-
-
 ```
-
+需要
+- marker_file
+- coordinate_file
+- time_range
+- output_motion_file
+- 
 ## Result Evaluation
 官方建議: 
 - Maximum marker error should generally be less than 2-4 cm
