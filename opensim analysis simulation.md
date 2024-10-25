@@ -9,4 +9,4 @@
 - [Probes - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089593/Probes): 評估指標
 	- SystemEnergyProbe: 總能
 	- Umberger2010MuscleMetabolicsProbe: 肌肉代謝功率
-	- 
+	- OpenSim Actuator and Joint internal power Probe: Actuator
