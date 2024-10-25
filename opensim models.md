@@ -33,3 +33,6 @@ XML -> **ModelBuilder.py** -> new model
     <inertia>0.01481 0.0045510000000000004 0.013193 0 0 0</inertia>
 </Body>
 ```
+
+#### 使用mesh體
+`.vtp`、`.stl`、`.obj`
