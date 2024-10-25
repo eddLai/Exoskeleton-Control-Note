@@ -10,6 +10,8 @@ muscle activations and muscle forces that satisfy
 ignore activation dynamics and tendon compliance
 
 command: `analyze -S subject01_Setup_StaticOptimization.xml`
+XML setting: [Static Optimization Settings Files and XML Tags - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089631/Static+Optimization+Settings+Files+and+XML+Tags)
+
 
 ---
 #### Core Method
