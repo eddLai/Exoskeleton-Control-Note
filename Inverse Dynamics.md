@@ -5,9 +5,10 @@ the net forces and torques at each joint which produce the movement.
 **subject01_simbody.osim**: adjusted virtual markers.
 
 $$\begin{equation}
-    \mathbf{M}(\mathbf{q}) \ddot{\mathbf{q}} + \mathbf{C}(\mathbf{q}, \dot{\mathbf{q}}) + \mathbf{G}(\mathbf{q}) = \boldsymbol{\tau}
+    \mathbf{M}(\mathbf{q}) \ddot{\mathbf{q}} + \mathbf{C}(\mathbf{q}, \dot{\mathbf{q}}) + \mathbf{G}(\mathbf{q}) = \boldsymbol{\tau}_{generalized\ forces}
 \end{equation}
 $$
 $$\mathbf{q}, \dot{\mathbf{q}}, \ddot{\mathbf{q}} \in \mathbb{R}^N$$
 $$\mathbf{M}(\mathbf{q}) \in \mathbb{R}^{N \times N}$$
-$$C function$$ is is the vector of Coriolis and centrifugal forces;
+$$C function$$is the vector of Coriolis and centrifugal forces;
+
