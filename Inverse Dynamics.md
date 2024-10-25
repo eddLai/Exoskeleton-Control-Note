@@ -9,3 +9,5 @@ $$\begin{equation}
 \end{equation}
 $$
 $$\mathbf{q}, \dot{\mathbf{q}}, \ddot{\mathbf{q}} \in \mathbb{R}^N$$
+$$\mathbf{M}(\mathbf{q}) \in \mathbb{R}^{N \times N}$$
+$$C function$$ is is the vector of Coriolis and centrifugal forces;
