@@ -29,7 +29,10 @@ marker, coordinate各自權重
 	<!-- Markers -->
 	<IKMarkerTask name="Sternum"> <weight>1</weight> </IKMarkerTask>
 
-	`<``IKCoordinateTask` `name``=``"subtalar_angle_r"``> <``value``> 0 </``value``></``IKCoordinateTask``>`
+	<!-- Coordinates -->
+	<IKCoordinateTask name="subtalar_angle_r"> <value> 0 </value></IKCoordinateTask>
+
+
 ```
 
 ## Result Evaluation
