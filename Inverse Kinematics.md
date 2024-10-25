@@ -22,7 +22,15 @@ $$\min_{\mathbf{q}} \left[
 ## Command
 `ik -S subject01_Setup_IK.xml`
 
-XML setup
+### XML setup
+marker, coordinate各自權重
+```
+<objects>
+	<!-- Markers -->
+	<IKMarkerTask name="Sternum"> <weight>1</weight> </IKMarkerTask>
+
+	`<``IKCoordinateTask` `name``=``"subtalar_angle_r"``> <``value``> 0 </``value``></``IKCoordinateTask``>`
+```
 
 ## Result Evaluation
 官方建議: 
