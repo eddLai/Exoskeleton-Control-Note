@@ -7,3 +7,5 @@
 - contact geometry
 - markers
 - controllers
+
+rigid bodies interconnected by joints
