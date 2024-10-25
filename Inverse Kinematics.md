@@ -26,12 +26,13 @@ $$\min_{\mathbf{q}} \left[
 `<InverseKinemtaticsTool>`
 marker, coordinate各自權重
 ```
-<objects>
-	<!-- Markers -->
-	<IKMarkerTask name="Sternum"> <weight>1</weight> </IKMarkerTask>
-
-	<!-- Coordinates -->
-	<IKCoordinateTask name="subtalar_angle_r"> <value> 0 </value></IKCoordinateTask>
+<IKTaskSet name="gait2354_IK">
+	<objects>
+		<!-- Markers -->
+		<IKMarkerTask name="Sternum"> <weight>1</weight> </IKMarkerTask>
+	
+		<!-- Coordinates -->
+		<IKCoordinateTask name="subtalar_angle_r"> <value> 0 </value></IKCoordinateTask>
 ```
 需要
 - marker_file
