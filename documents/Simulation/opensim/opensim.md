@@ -2,6 +2,7 @@ ref.
 [opensim-org/opensim-core: SimTK OpenSim C++ libraries and command-line applications, and Java/Python wrapping.](https://github.com/opensim-org/opensim-core?tab=readme-ov-file)
 [OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview)
 - [[opensim Download]]
+- opensim
 - [[opensim data collection and data structure]]
 - [[Overview of opensim's workflow]]
 	1. Importing Experimental Data
