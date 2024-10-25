@@ -35,7 +35,7 @@ XML -> **ModelBuilder.py** -> new model
 ```
 
 #### 使用mesh體
-`.vtp`、`.stl`、`.obj`
+`<mesh_file>bone.vtp</mesh_file>``.vtp`、`.stl`、`.obj`
 
 ```
 <Body>
@@ -52,4 +52,7 @@ XML -> **ModelBuilder.py** -> new model
 ```
 <Appearance>
 <visible>
+<opacity>
+<color>
+<SurfaceProperties> (1:Points, 2:Wire, 3:Shaded)
 ```
