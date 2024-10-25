@@ -1,5 +1,5 @@
 
-Tasks: 
+Tasks: 需要建置有手部肌肉的模型，以及外骨骼模型，怎麼從`STL`轉換。
 ## Components
 - reference frames
 - bodies
