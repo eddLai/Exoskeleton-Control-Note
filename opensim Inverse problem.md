@@ -1,4 +1,4 @@
-1. [[Inverse Kinematics]]: "best match" is expressed as a **weighted least-squares** problem
+1. [[Inverse Kinematics]] or RRA: "best match" is expressed as a **weighted least-squares** problem
 <div style="background-color: white; padding: 10px;">
 <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\Inputs and Outputs of the IK Tool.png" alt="ID Tool" width="300"/></div>
 3. [[Inverse Dynamics]]: ID -> forces, 解方程by Simbody™
