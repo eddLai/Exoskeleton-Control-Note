@@ -88,3 +88,5 @@ cupy
 
 - [ ] 確認mocap端的opensim scaling 流程
 - [ ] 需要確認joint/coordinate definitions match
+
+[[GCBME呈現]]
