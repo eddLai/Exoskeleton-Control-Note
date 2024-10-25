@@ -10,6 +10,8 @@ tips:
 
 ## Process
 weighted least squares problem
+IK solver
+
 
 ## Evaluation
 官方建議: 
