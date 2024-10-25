@@ -57,7 +57,7 @@ XML -> **ModelBuilder.py** -> new model
 
 `<mesh_file>bone.vtp</mesh_file>`: `.vtp`、`.stl`、`.obj`
 
-####  XML for a Joint
+#### XML for a Joint
 Frames：
 1. **Ground**：每個模型都從一個Ground Frame開始。這是一個固定不動的參考框架。
 2. **Body**：剛體的框架，與移動的剛體相關聯。
@@ -65,4 +65,4 @@ Frames：
 
 製作joints，需要連接父框架和子框架，使用`PhysicalOffsetFrames`
 
-
+#### 
