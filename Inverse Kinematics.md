@@ -13,6 +13,10 @@ weighted least squares problem
 IK solver可以只依賴marker運算，但也可以提供實驗值
 會得到: 
 非預設座標的值會變動
+$$\min_{\mathbf{q}} \left[
+\sum_{i=\text{markers}} w_i \left\| \mathbf{x}_i^{\text{exp}} - \mathbf{x}_i (\mathbf{q}) \right\|^2
++ \sum_{j=\text{unprescribed coords}} \omega_j \left( q_j^{\text{exp}} - q_j \right)^2
+\right]$$
 
 ## Evaluation
 官方建議: 
