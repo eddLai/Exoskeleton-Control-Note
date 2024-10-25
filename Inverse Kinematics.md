@@ -10,7 +10,7 @@ tips:
 
 ## Process
 weighted least squares problem
-IK solver
+IK solver可以只依賴marker運算，但也可以提供實驗值
 會得到: 
 非預設座標的值會變動
 
