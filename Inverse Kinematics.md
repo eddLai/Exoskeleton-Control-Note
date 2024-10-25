@@ -31,7 +31,7 @@ marker, coordinate各自權重
 		<!-- Markers -->
 		<IKMarkerTask name="Sternum"> <weight>1</weight> </IKMarkerTask>
 	
-		<!-- Coordinates -->
+		<!-- Coordinates -->會直接使用這個固定值
 		<IKCoordinateTask name="subtalar_angle_r"> <value> 0 </value></IKCoordinateTask>
 ```
 `<weight>`
