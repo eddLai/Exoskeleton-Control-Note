@@ -19,10 +19,16 @@ $$\min_{\mathbf{q}} \left[
 \sum_{i=\text{markers}} w_i \left\| \mathbf{x}_i^{\text{exp}} - \mathbf{x}_i (\mathbf{q}) \right\|^2
 + \sum_{j=\text{unprescribed coords}} \omega_j \left( q_j^{\text{exp}} - q_j \right)^2
 \right]$$
+## Command
+|     |
+| --- |
+|     |
 
-## Evaluation
+## Result Evaluation
 官方建議: 
 - Maximum marker error should generally be less than 2-4 cm
 - RMS under 2 cm
 - similar experiment should within one standard deviation
+
+
 
