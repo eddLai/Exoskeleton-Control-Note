@@ -37,3 +37,12 @@ XML -> **ModelBuilder.py** -> new model
 #### 使用mesh體
 `.vtp`、`.stl`、`.obj`
 
+```
+<Body>
+<attached_geometry>
+<Mesh name="base_geom_1">
+```
+
+```
+<socket_frame>
+```
