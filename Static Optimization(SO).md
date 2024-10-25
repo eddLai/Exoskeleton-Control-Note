@@ -9,6 +9,8 @@ muscle activations and muscle forces that satisfy
 
 ignore activation dynamics and tendon compliance
 
+command: `analyze -S subject01_Setup_StaticOptimization.xml`
+
 ---
 #### Core Method
 reduce actuation from reserve and residual actuators: 引入虛擬actuators來solve the dynamic equations
