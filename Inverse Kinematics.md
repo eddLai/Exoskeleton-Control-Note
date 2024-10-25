@@ -35,7 +35,7 @@ marker, coordinate各自權重
 		<IKCoordinateTask name="subtalar_angle_r"> <value> 0 </value></IKCoordinateTask>
 ```
 `<weight>`
-`<IKCoordinateTask>: <weight>, <from_file>, and <value>`, <>
+`<IKCoordinateTask>: <weight>, <from_file>, and <value>`, `<locked>`
 
 需要
 - marker_file
