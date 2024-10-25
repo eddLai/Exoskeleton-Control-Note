@@ -27,3 +27,5 @@ Point Force, Body Force
 `<forces_to_exclude>`
 `<external_loads_file>`
 `<coordinates_file>`
+`<lowpass_cutoff_frequency_for_coordinates>`
+`<output_gen_force_file>`
