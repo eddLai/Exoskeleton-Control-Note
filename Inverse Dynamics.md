@@ -19,3 +19,9 @@ $$C function$$is the vector of
 
 command:`id -S subject01_Setup_InverseDynamics.xml`
 Point Force, Body Force
+
+### XML setting
+`<results_directory>`
+`<model_file>`
+`<time_range>`
+`<forces_to_exclude>`
