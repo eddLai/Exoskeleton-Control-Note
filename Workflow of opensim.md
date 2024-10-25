@@ -6,7 +6,7 @@
 	1. Inverse Kinematics: "best match" is expressed as a **weighted least-squares** problem
 	2. Inverse Dynamics: ID -> forces, 解方程by Simbody™
 	<div style="background-color: white; padding: 10px;">
-  <img src="D:\Notes\Exoskeleton-Control-Note\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
+  <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
 
 	1. [[Static Optimization(SO)]]
 		1. 根據特定目標計算每個時間點的最佳肌肉力分佈，但不一定符合生理真實的肌肉激活模式
@@ -21,8 +21,4 @@
 	3. Reinforcement Learning (RL)  [Reinforcement learning with musculoskeletal models](https://osim-rl.kidzinski.com/)
 	4. Direct Collocation: [OpenSim Moco](https://opensim-org.github.io/opensim-moco-site/)
 7. Frequently Asked Questions About Choosing a Simulation Pipeline
-
-
-	<div style="background-color: white; padding: 10px;">
-  <img src="D:\Notes\Exoskeleton-Control-Note\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
   

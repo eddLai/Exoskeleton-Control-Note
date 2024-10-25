@@ -6,7 +6,7 @@ ref.
 - [[Workflow of opensim]]
 	1. Importing Experimental Data
 	2. [[opensim Scaling]]: 現在mocap已經整合了scaling:mass properties (mass and inertia tensor)
-	3. 
+	3. [[Inverse problem]]
 - [[opensim analysis simulation]]
 
 Coordinate controller
