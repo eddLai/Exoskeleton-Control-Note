@@ -8,3 +8,8 @@ tips:
 - 優先增加「運動」段標記（例如放置於大腿段的三角架標記）的權重，因為這些標記通常較為穩定，不易受到軟組織位移的影響
 - 相對權重 vs 絕對權重
 
+Evaluation
+官方建議: 
+- Maximum marker error should generally be less than 2-4 cm
+- RMS under 2 cm
+
