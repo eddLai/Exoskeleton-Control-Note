@@ -11,7 +11,7 @@ tips:
 ## Process
 weighted least squares problem
 IK solver
-
+座標的誤差
 
 ## Evaluation
 官方建議: 
