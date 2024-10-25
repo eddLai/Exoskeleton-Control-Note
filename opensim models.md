@@ -14,4 +14,5 @@ rigid bodies interconnected by joints
 
 XML -> **ModelBuilder.py** -> new model
 
-`socket_`: 
+語法: `socket_`: indicate the path
+例如: `<socket_parent_frame>/ground</socket_parent_frame>`
