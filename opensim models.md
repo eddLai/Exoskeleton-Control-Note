@@ -4,4 +4,6 @@
 - joints
 - constraints
 - forces
-- contact geometry, markers and controllers
+- contact geometry
+- markers
+- controllers
