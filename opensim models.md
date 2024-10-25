@@ -65,6 +65,32 @@ Frames：
 
 製作joints，需要連接父框架和子框架，使用`PhysicalOffsetFrames`
 
+example:
+```XML
+<CustomJoint name="r_shoulder">
+    <socket_parent_frame>base_offset</socket_parent_frame>
+    <socket_child_frame>/bodyset/r_humerus</socket_child_frame>
+    <coordinates>
+        <Coordinate name="r_shoulder_elev">
+            <default_value>0</default_value>
+            <default_speed_value>0</default_speed_value>
+            <range>-1.5707963300000001 3.1415926500000002</range>
+            <clamped>false</clamped>
+            <locked>false</locked>
+            <prescribed_function />
+        </Coordinate>
+    </coordinates>
+    <frames>
+        <PhysicalOffsetFrame name="base_offset">
+            <socket_parent>/bodyset/base</socket_parent>
+            <translation>-0.017545000000000002 -0.0070000000000000001 0.17000000000000001</translation>
+            <orientation>0 0 0</orientation>
+        </PhysicalOffsetFrame>
+    </frames>
+    <SpatialTransform>...</SpatialTransform>
+</CustomJoint>
+```
+
 ##### Available Joint Types
 1. WeldJoint: introduces no coordinates (degrees of freedom) and fuses bodies together
 2. PinJoint: one coordinate about the common Z-axis of parent and child joint frames
