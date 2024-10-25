@@ -85,3 +85,6 @@ apply generalized forces and torques to a specific coordinate: CoordinateActuato
 cupy
 
 有對肌肉模型進行縮放嗎，參考以及使用的方法是?
+
+- [ ] 確認mocap端的opensim scaling 流程
+- [ ] 需要確認joint/coordinate definitions match
