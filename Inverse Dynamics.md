@@ -17,4 +17,4 @@ $$C function$$is the vector of
 更多生物力學:[Biomechanics of Movement – By Thomas K. Uchida and Scott L. Delp](https://biomech.stanford.edu/)
 
 
-command 
+command:`id -S subject01_Setup_InverseDynamics.xml`
