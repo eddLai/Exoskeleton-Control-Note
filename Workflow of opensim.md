@@ -1,13 +1,11 @@
 ![[opensim workflow.png]]
 2. The OpenSim Model
 3. Simulation Pipelines (Workflows)
-4. Common Pre-Processing Steps
-	1. Importing Experimental Data
-	2. [[opensim Scaling]]: 現在mocap已經整合了scaling:mass properties (mass and inertia tensor)
+4. Common Pre-Processing Steps: import data, scaling
 5. The Inverse Problem
 	1. Inverse Kinematics: "best match" is expressed as a **weighted least-squares** problem
 	2. Inverse Dynamics: ID -> forces, 解方程by Simbody™
-	<div style="background-color: white; padding: 10px;">
+<div style="background-color: white; padding: 10px;">
   <img src="D:\Notes\Exoskeleton-Control-Note\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
 
 	1. [[Static Optimization(SO)]]
