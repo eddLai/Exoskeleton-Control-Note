@@ -56,3 +56,5 @@ XML -> **ModelBuilder.py** -> new model
 ```
 
 `<mesh_file>bone.vtp</mesh_file>`: `.vtp`、`.stl`、`.obj`
+
+####  XML for a Joint
