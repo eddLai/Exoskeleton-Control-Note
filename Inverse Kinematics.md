@@ -11,7 +11,8 @@ tips:
 ## Process
 weighted least squares problem
 IK solver
-座標的誤差
+會得到: 
+非預設座標的值會變動
 
 ## Evaluation
 官方建議: 
