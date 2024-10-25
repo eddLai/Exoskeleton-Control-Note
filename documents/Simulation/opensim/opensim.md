@@ -3,7 +3,7 @@ ref.
 [OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview)
 - [[opensim Download]]
 - [[opensim data collection and data structure]]
-- [[Workflow of opensim]]
+- [[Overview of opensim's workflow]]
 	1. Importing Experimental Data
 	2. [[opensim Scaling]]: 現在mocap已經整合了scaling:mass properties (mass and inertia tensor)
 	3. [[opensim Inverse problem]]
