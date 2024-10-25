@@ -10,5 +10,7 @@ $$\begin{equation}
 $$
 $$\mathbf{q}, \dot{\mathbf{q}}, \ddot{\mathbf{q}} \in \mathbb{R}^N$$
 $$\mathbf{M}(\mathbf{q}) \in \mathbb{R}^{N \times N}$$
-$$C function$$is the vector of Coriolis and centrifugal forces;
+$$C function$$is the vector of 
+- Coriolis forces: 運動方向的軸上產生的力
+- centrifugal forces: 離心力
 
