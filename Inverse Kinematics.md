@@ -23,7 +23,7 @@ $$\min_{\mathbf{q}} \left[
 `ik -S subject01_Setup_IK.xml`
 
 ### XML setup
-`<``InverseKinemtaticsTool`>
+`<InverseKinemtaticsTool>`
 marker, coordinate各自權重
 ```
 <objects>
