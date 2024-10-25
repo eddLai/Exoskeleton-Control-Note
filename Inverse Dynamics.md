@@ -1,2 +1,2 @@
 用於產生generalized forces
-mass, force and acceleration
+mass, force and acceleration，$F = ma$
