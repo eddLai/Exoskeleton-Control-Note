@@ -45,5 +45,11 @@ XML -> **ModelBuilder.py** -> new model
 
 ```
 <socket_frame>
-<input_transform> 特殊的x,y,z的
+<input_transform>
+<scale_factors> 特殊的x,y,z的scaling
+```
+
+```
+<Appearance>
+<visible>
 ```
