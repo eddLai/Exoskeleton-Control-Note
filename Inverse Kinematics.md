@@ -1,7 +1,3 @@
-<div style="background-color: white; padding: 10px;">
-<img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\Inverse Dynamics (ID) Tool.png" alt="ID Tool" width="300"/></div>
-<div style="background-color: white; padding: 10px;">
-<img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\Inputs and Outputs of the IK Tool.png" alt="ID Tool" width="300"/></div>
 用途:計算同化既有模型與實驗資料
 ==輸出的是.mot==
 Units: m, radians
