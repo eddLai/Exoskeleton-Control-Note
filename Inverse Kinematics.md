@@ -23,6 +23,7 @@ $$\min_{\mathbf{q}} \left[
 `ik -S subject01_Setup_IK.xml`
 
 ### XML setup
+`<``InverseKinemtaticsTool`>
 marker, coordinate各自權重
 ```
 <objects>
@@ -38,6 +39,7 @@ marker, coordinate各自權重
 - time_range
 - output_motion_file
 - constraint_weight
+- accuracy
 ## Result Evaluation
 官方建議: 
 - Maximum marker error should generally be less than 2-4 cm
