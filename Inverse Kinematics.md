@@ -20,9 +20,7 @@ $$\min_{\mathbf{q}} \left[
 + \sum_{j=\text{unprescribed coords}} \omega_j \left( q_j^{\text{exp}} - q_j \right)^2
 \right]$$
 ## Command
-|     |
-| --- |
-|     |
+`ik -S subject01_Setup_IK.xml`
 
 ## Result Evaluation
 官方建議: 
