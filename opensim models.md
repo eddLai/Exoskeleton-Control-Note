@@ -35,8 +35,6 @@ XML -> **ModelBuilder.py** -> new model
 ```
 
 #### 使用mesh體
-`<mesh_file>bone.vtp</mesh_file>``.vtp`、`.stl`、`.obj`
-
 ```
 <Body>
 <attached_geometry>
@@ -56,3 +54,5 @@ XML -> **ModelBuilder.py** -> new model
 <color>
 <SurfaceProperties> (1:Points, 2:Wire, 3:Shaded)
 ```
+
+`<mesh_file>bone.vtp</mesh_file>`: `.vtp`、`.stl`、`.obj`
