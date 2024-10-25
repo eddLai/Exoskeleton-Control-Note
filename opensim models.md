@@ -13,3 +13,5 @@ rigid bodies interconnected by joints
 ![[model sys..png]]
 
 XML -> **ModelBuilder.py** -> new model
+
+`socket_`: 
