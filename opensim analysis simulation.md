@@ -5,4 +5,8 @@
 - Induced Acceleration: 肌肉個別力量所產生的加速度
 - Force Reporter: 沿路徑的張力, 質心合力
 
-[[Induced Acceleration Analysis(IAA)]]: 個別肌肉力量對模型質心加速度
+- [[Induced Acceleration Analysis(IAA)]]: 個別肌肉力量對模型質心加速度
+- [Probes - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089593/Probes): 評估指標
+	- SystemEnergyProbe: 總能
+	- Umberger2010MuscleMetabolicsProbe: 肌肉代謝功率
+	- 
