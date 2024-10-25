@@ -25,3 +25,5 @@ Point Force, Body Force
 `<model_file>`
 `<time_range>`
 `<forces_to_exclude>`
+`<external_loads_file>`
+`<coordinates_file>`
