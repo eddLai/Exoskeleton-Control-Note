@@ -14,3 +14,5 @@ $$C function$$is the vector of
 - Coriolis forces: 運動方向的軸上產生的力
 - centrifugal forces: 離心力
 
+更多生物力學:[Biomechanics of Movement – By Thomas K. Uchida and Scott L. Delp](https://biomech.stanford.edu/)
+
