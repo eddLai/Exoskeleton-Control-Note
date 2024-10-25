@@ -37,7 +37,7 @@ marker, coordinate各自權重
 - coordinate_file
 - time_range
 - output_motion_file
-- 
+- constraint_weight
 ## Result Evaluation
 官方建議: 
 - Maximum marker error should generally be less than 2-4 cm
