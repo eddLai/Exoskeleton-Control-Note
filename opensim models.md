@@ -56,7 +56,7 @@ XML -> **ModelBuilder.py** -> new model
 ```
 
 `<mesh_file>bone.vtp</mesh_file>`: `.vtp`、`.stl`、`.obj`
-
+## Joints
 #### XML for a Joint
 Frames：
 1. **Ground**：每個模型都從一個Ground Frame開始。這是一個固定不動的參考框架。
@@ -65,4 +65,12 @@ Frames：
 
 製作joints，需要連接父框架和子框架，使用`PhysicalOffsetFrames`
 
+##### Available Joint Types
+1. WeldJoint: introduces no coordinates (degrees of freedom) and fuses bodies together
+2. PinJoint: one coordinate about the common Z-axis of parent and child joint frames
+3. SliderJoint: one coordinate along common X-axis of parent and child joint frames
+4. BallJoint: three rotational coordinates that are about X, Y, Z of B in P
+5. EllipsoidJoint: three rotational coordinates that are about X, Y, Z of B in P with coupled translations such that B traces and ellipsoid centered at P
+6. FreeJoint: six coordinates with 3 rotational (like the ball) and 3 translations of B in P
+7. CustomJoint: user specified 1-6 coordinates and user defined spatial transform to locate B with respect to P
 #### 
