@@ -34,6 +34,8 @@ marker, coordinate各自權重
 		<!-- Coordinates -->
 		<IKCoordinateTask name="subtalar_angle_r"> <value> 0 </value></IKCoordinateTask>
 ```
+`<weight>`
+
 需要
 - marker_file
 - coordinate_file
