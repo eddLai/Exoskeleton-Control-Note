@@ -40,7 +40,7 @@ sldie所需要的圖
 - 6
 	- 簡單RL agent-environment loop，表達適應性多個動作(顯示gait波形有空再弄)
 - 7
-	- input channel
+	- input channel(一隻腳) -> 出力占比(顏色) ->
 
 
 8 minutes for presentation, followed by 2 minutes for Q&A.
