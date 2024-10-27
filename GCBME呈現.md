@@ -19,3 +19,7 @@ Introduction
 Materials and Methods
 Results??
 Discussion
+
+1. 先畫架構
+2. 再上顏色
+3. 再加上實體圖
