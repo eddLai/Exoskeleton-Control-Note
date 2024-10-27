@@ -17,7 +17,7 @@ digital twin怎麼塞
 Outline
 Introduction
 Gait
-muscle fatigue in the elderly
+muscle fatigue in the elderly -> falls and injury
 Materials and Methods
 Results??
 Discussion
