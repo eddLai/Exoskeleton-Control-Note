@@ -18,7 +18,6 @@ Outline
 Introduction
 Gait
 muscle fatigue in the elderly -> falls and injury
-- 正常balance and 跌到faitque 導致(SCONE)的跌倒,
 
 Materials and Methods
 Results??
@@ -30,3 +29,7 @@ Discussion
 
 - 會是一個iteration?EMG informed CEINMS, SO, CMC
 - EMG-informed也需要經過CMC才能控制模型?
+
+sldie所需要的圖
+- 4:
+	- 正常balance and 跌到faitque 導致(SCONE)的跌倒
