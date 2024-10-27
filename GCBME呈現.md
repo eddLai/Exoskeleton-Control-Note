@@ -38,7 +38,7 @@ sldie所需要的圖
 	- quality of life
 	- 外骨骼的配戴圖
 - 6
-	- 簡單RL agent-environment loop，表達適應性多個動作
+	- 簡單RL agent-environment loop，表達適應性多個動作(波形)
 
 
 8 minutes for presentation, followed by 2 minutes for Q&A.
