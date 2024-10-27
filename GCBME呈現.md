@@ -48,7 +48,7 @@ sldie所需要的圖
 	- MCU \*2
 - 11
 	- 分開現有的材料圖
-	- 以及EMG處理流程
+	- 以及EMG處理流程，缺了Sampling r
 
 
 8 minutes for presentation, followed by 2 minutes for Q&A.
