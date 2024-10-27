@@ -18,6 +18,7 @@ Outline
 Introduction
 Gait
 muscle fatigue in the elderly -> falls and injury
+- balance, faitque 
 fall warning
 
 Materials and Methods
