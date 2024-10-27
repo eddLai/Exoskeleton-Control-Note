@@ -44,7 +44,11 @@ sldie所需要的圖
 - 9
 	- 感覺需要放一張，但是想不到(示意圖?)
 - 10
-	- 
+	- 重新製圖
+	- MCU \*2
+- 11
+	- 分開現有的材料圖
+	- 以及EMG處理流程
 
 
 8 minutes for presentation, followed by 2 minutes for Q&A.
