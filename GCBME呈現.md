@@ -18,9 +18,7 @@ Outline
 Introduction
 Gait
 muscle fatigue in the elderly -> falls and injury
-- balance, faitque 導致(SCONE導致)的跌倒,
-- 
-fall warning
+- 正常balance and 跌到faitque 導致(SCONE)的跌倒,
 
 Materials and Methods
 Results??
