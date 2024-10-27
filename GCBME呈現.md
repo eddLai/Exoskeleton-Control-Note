@@ -49,8 +49,10 @@ sldie所需要的圖
 - 11
 	- 分開現有的材料圖
 	- 以及EMG處理流程，缺了Sampling rate, 1000Hz, 50-ms window
-- 12
 - 13
+	- 訓練過程的影片
+- 14
+	- 分多頁形成動畫
 
 
 8 minutes for presentation, followed by 2 minutes for Q&A.
