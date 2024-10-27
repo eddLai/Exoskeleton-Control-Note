@@ -42,6 +42,8 @@ sldie所需要的圖
 - 7
 	- EMG channels(一隻腳), IMU input -> control轉動動畫
 - 9
+	- 感覺需要放一張，但是想不到(示意圖?)
+- 10
 	- 
 
 
