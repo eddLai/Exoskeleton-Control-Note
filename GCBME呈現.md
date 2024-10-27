@@ -23,3 +23,6 @@ Discussion
 1. 先畫架構
 2. 再上顏色
 3. 再加上實體圖
+
+- 會是一個iteration?EMG informed CEINMS, SO, CMC
+- EMG-informed也需要經過CMC才能控制模型?
