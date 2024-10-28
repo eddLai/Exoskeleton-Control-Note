@@ -42,6 +42,7 @@ sldie所需要的圖
 	- 外骨骼的配戴圖
 - 6
 	- 簡單RL agent-environment loop，表達適應性多個動作(顯示gait波形有空再弄)
+	- 引用別人的論文的內容
 - 7
 	- EMG channels(一隻腳), IMU input -> control轉動動畫
 - 9
