@@ -40,6 +40,7 @@ sldie所需要的圖
 - 5
 	- quality of life
 	- 外骨骼的配戴圖
+	- [ ] 讓老人笑
 - 6
 	- 簡單RL agent-environment loop，表達適應性多個動作(顯示gait波形有空再弄)
 	- [ ] 引用別人的論文的內容
