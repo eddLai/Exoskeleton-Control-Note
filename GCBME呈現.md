@@ -54,6 +54,8 @@ sldie所需要的圖
 	- MCU \*2
 - 11 ??太大膽
 	- 分開現有的材料圖
+		- 放個藍牙
+		- 放個EMG訊號的示意圖
 	- IMU
 - 12
 	- 以及EMG處理流程，缺了Sampling rate, 1000Hz, 50-ms window
