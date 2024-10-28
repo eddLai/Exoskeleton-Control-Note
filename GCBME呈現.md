@@ -48,7 +48,7 @@ sldie所需要的圖
 	- EMG channels(一隻腳), IMU input -> control轉動動畫
 	- [ ] 用一部分安妤的圖
 - 9
-	- 感覺需要放一張，但是想不到(示意圖?)用很學理的方式搞出EMG estimation
+	- 感覺需要放一張，但是想不到(示意圖?)用很學理神經肌肉過程的方式搞出EMG estimation
 - 10
 	- 重新製圖
 	- MCU \*2
