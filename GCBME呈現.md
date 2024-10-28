@@ -32,6 +32,7 @@ Discussion
 
 sldie所需要的圖
 - 4:
+	- [ ] 討論意思，需要更清楚
 	- 正常balance
 	- 跌到faitque 導致(SCONE)的跌倒
 - 5
