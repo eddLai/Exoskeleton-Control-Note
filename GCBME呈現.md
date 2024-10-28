@@ -54,6 +54,7 @@ sldie所需要的圖
 	- MCU \*2
 - 11
 	- 分開現有的材料圖
+	- IMU
 - 12
 	- 以及EMG處理流程，缺了Sampling rate, 1000Hz, 50-ms window
 - 14
