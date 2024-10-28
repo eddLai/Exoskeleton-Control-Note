@@ -18,6 +18,7 @@ Outline
 Introduction
 Gait
 muscle fatigue in the elderly -> falls and injury
+還需要用
 
 Materials and Methods
 Results??
@@ -30,6 +31,7 @@ Discussion
 - 會是一個iteration?EMG informed CEINMS, SO, CMC
 - EMG-informed也需要經過CMC才能控制模型?
 
+有之前的圖可以用了
 sldie所需要的圖
 - 4:
 	- [ ] 討論意思，需要更清楚
