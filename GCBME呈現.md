@@ -67,9 +67,9 @@ sldie所需要的圖
 
 8 minutes for presentation, followed by 2 minutes for Q&A.
 
-為什麼要申請
+申請動機
 20秒
 
-老鼠動畫
+老鼠recording動畫
 噴水影片
 生涯規劃
