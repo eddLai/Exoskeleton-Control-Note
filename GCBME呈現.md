@@ -66,17 +66,3 @@ sldie所需要的圖
 
 
 8 minutes for presentation, followed by 2 minutes for Q&A.
-
-申請動機
-20秒
-機械手臂影片
-旺宏mocap影片
-老鼠recording動畫
-流水台影片
-
-生涯規劃
-1. 外骨骼輔助
-2. 打創業比賽
-3. BMI
-4. 結合BMI的外骨骼控制系統
-5. 出國申請雙碩士或者博士
