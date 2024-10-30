@@ -64,6 +64,7 @@ sldie所需要的圖
 	- 出現動畫
 - 20
 	- [ ] 數據有問題
+- [ ] 意義
 
 
 8 minutes for presentation, followed by 2 minutes for Q&A.
