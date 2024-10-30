@@ -58,8 +58,8 @@ sldie所需要的圖
 	- [ ] IMU
 		- 放個藍牙
 		- 放個EMG訊號的示意圖
-- 12
-	- 以及EMG處理流程，缺了Sampling rate, 1000Hz, 50-ms window
+- 13
+	- [ ] 
 - 14
 	- 訓練過程的影片
 - 15
