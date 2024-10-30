@@ -50,7 +50,7 @@ sldie所需要的圖
 	- EMG channels(一隻腳), IMU input -> control轉動動畫
 	- [ ] 用一部分安妤的圖
 	- [ ] 大改
-- 9
+- [x] 9
 	- [ ] Fatigue方法，數學
 - 10
 - 11 
