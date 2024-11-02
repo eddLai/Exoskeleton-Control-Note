@@ -24,4 +24,6 @@ Archive:
 把成果提前到11月前
 病理的目標：平衡的很好
 
+<div style="background-color: white; padding: 10px;">
+  <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\opensim_Forward Problem.png" alt="ID Tool" width="500"/></div>
 ![[EXO_schedule_20241101.png]]
