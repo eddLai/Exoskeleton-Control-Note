@@ -25,3 +25,4 @@ Archive:
 病理的目標：平衡的很好
 
 ![[EXO_schedule_20241101.png]]
+https://miro.com/welcomeonboard/MW5VQ0Z6RzdydVZXRnB3SEI0ZThETTdyaTlqdE1OVmo0elFwRndUWGE4akx0d1lLNURQNFp3dmltUU1nclN5YXwzNDU4NzY0NTc0OTA5NzMzNTQ4fDI=?share_link_id=448721730790
