@@ -25,5 +25,5 @@ Archive:
 病理的目標：平衡的很好
 
 <div style="background-color: white; padding: 10px;">
-  <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\opensim_Forward Problem.png" alt="ID Tool" width="500"/></div>
+  <img src="D:\Notes\Exoskeleton-Control-Note\plan" alt="ID Tool" width="500"/></div>
 ![[EXO_schedule_20241101.png]]
