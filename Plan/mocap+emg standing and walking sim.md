@@ -93,6 +93,7 @@ cupy
 
 ![[pipeline of building Digital Twins.png]]
 
+Sean
 1. CENIMS到底校正了什麼
 	1. 關節力臂
 	2. 肌肉長度變化
@@ -102,11 +103,11 @@ cupy
 		1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
 2. CENIMS應該要跟CMC相似，跟Trajectory做校正
 
-賴宏達
+eddlai
 4. Find Heel挖Maurice code
 5. Opensim API
 6. SCONE API
-7. CEINMS
+7. CEINMS API
 
 跟YY確認
 1. MVC
