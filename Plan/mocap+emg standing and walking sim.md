@@ -91,3 +91,4 @@ cupy
 
 [[GCBME呈現]]
 
+![[pipeline of building Digital Twins.png]]
