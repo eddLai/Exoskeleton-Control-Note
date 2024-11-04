@@ -100,7 +100,6 @@ cupy
 	5. 疑問:
 		1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
 2. CENIMS應該要跟CMC相似，跟Trajectory做校正
-3. SCONE改權重
 
 4. Find Heel挖Maurice code
 5. Opensim API 
@@ -109,3 +108,4 @@ cupy
 1. MVC
 2. Faitgue
 3. ID需要反作用力 30Hz以上
+4. SCONE改權重
