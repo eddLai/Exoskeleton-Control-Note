@@ -105,6 +105,7 @@ Sean
 2. CENIMS應該要跟CMC相似，跟Trajectory做校正
 3. Scaling
 4. SCONE嘗試調整各種權重
+5. 改Model 4不能用
 
 eddlai
 4. Find Heel挖Maurice code
