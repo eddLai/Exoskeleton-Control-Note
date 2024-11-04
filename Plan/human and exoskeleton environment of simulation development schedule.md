@@ -11,7 +11,7 @@ Archive:
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
-| 10/13 | 1 month         | [[Plan/mocap+emg standing and walking sim]]                          |       |
+| 10/13 | 1 month         | [[Plan/mocap+emg standing and walking sim]]                     |       |
 | 10/20 | 1 week          | running and climbing                                            |       |
 | 11/2  | 2 weeks         | trasistion                                                      |       |
 | 11/9  | 1 week          | 導入Exoskeleton 的model                                            |       |
@@ -26,3 +26,4 @@ Archive:
 
 ![[EXO_schedule_20241101.png]]
 https://miro.com/welcomeonboard/MW5VQ0Z6RzdydVZXRnB3SEI0ZThETTdyaTlqdE1OVmo0elFwRndUWGE4akx0d1lLNURQNFp3dmltUU1nclN5YXwzNDU4NzY0NTc0OTA5NzMzNTQ4fDI=?share_link_id=448721730790
+
