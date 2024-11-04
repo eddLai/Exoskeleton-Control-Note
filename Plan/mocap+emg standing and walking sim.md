@@ -92,7 +92,7 @@ cupy
 [[GCBME呈現]]
 
 ![[pipeline of building Digital Twins.png]]
-1. CENIMS到底校正了什麼，校正
+1. CENIMS到底校正了什麼，跟選擇的model做校正
 	1. 關節力臂
 	2. 肌肉長度變化
 	3. ==關節力矩(ID)==
