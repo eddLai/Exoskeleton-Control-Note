@@ -104,5 +104,7 @@ cupy
 3. Find Heel挖Maurice code
 4. Opensim API 
 
+跟YY確認
 1. MVC
 2. Faitgue
+3. ID需要反作用力
