@@ -101,6 +101,5 @@ cupy
 		1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
 2. CENIMS應該要跟CMC相似，跟Trajectory做校正
 
-1. Find Heel挖Maurice code
-2. Opensim API
-3. 
+3. Find Heel挖Maurice code
+4. Opensim API 
