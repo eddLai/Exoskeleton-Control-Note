@@ -93,5 +93,5 @@ cupy
 
 ![[pipeline of building Digital Twins.png]]
 1. CENIMS到底校正了什麼
-
-1. 
+	1. 關節力避
+2. 
