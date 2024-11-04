@@ -100,4 +100,4 @@ cupy
 	5. 疑問:
 		1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
 2. CENIMS應該要跟CMC相似，跟Trajectory做校正
-3. 
+3. Find H
