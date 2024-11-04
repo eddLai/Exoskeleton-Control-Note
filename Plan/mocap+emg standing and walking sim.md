@@ -107,4 +107,4 @@ cupy
 跟YY確認
 1. MVC
 2. Faitgue
-3. ID需要反作用力
+3. ID需要反作用力 30Hz以上
