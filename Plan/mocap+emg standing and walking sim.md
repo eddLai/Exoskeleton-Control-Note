@@ -93,5 +93,7 @@ cupy
 
 ![[pipeline of building Digital Twins.png]]
 1. CENIMS到底校正了什麼
-	1. 關節力避
+	1. 關節力臂
+	2. 肌肉長度變化
+	3. EMG
 2. 
