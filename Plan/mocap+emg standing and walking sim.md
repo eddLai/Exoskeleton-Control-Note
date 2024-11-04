@@ -92,4 +92,6 @@ cupy
 [[GCBME呈現]]
 
 ![[pipeline of building Digital Twins.png]]
-CENIMS
+1. CENIMS到底校正了什麼
+
+1. 
