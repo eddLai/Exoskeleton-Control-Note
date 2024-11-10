@@ -52,3 +52,6 @@ gaitspeedcm
 改用$SR_d$
 
 應該用pandas優化，寫法有夠醜
+
+已知
+18 -> 
