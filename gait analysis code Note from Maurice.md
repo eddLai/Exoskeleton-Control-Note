@@ -25,7 +25,7 @@ $$
 $$
 2. 前臂 (Forearm)
 $$\text{Forearm\_R} = \left( \vec{P}_{\text{RElbow}} + (\vec{P}_{\text{RWrist}} - \vec{P}_{\text{RElbow}}) \times 0.682 \right) \times 0.022$$
-$$\text{cm} = \text{Upper\_arm\_R} + \text{Upper\_arm\_L} + \text{Forearm\_R} + \text{Forearm\_L} + \text{Foot\_R} + \text{Foot\_L} + \text{Leg\_R} + \text{Leg\_L} + \text{Thigh\_R} + \text{Thigh\_L} + \text{Head} + \text{Trunk\_R} + \text{Trunk\_L}$$
+
 ## Down sample
 ```python 
 def downsample(data, factor):
