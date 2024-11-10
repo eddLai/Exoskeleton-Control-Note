@@ -24,4 +24,4 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 使用`find_peaks`找到$local\ minima$
 
 gaitspeedcm
-改用SR
+改用$SR_d$
