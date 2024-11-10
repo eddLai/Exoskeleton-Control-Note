@@ -21,5 +21,6 @@ heel_v_xy_plane
 $$v_x = x_n-x_{n-1}$$
 $$v_y = y_n-y_{n-1}$$
 $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
-使用find_peaks找到$local_minima$
+使用`find_peaks`找到$local\ minima$
+
 gaitspeedcm
