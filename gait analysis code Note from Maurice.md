@@ -54,4 +54,7 @@ gaitspeedcm
 應該用pandas優化，寫法有夠醜
 
 已知
-18 -> 
+18 -> RSmallToe_Y
+20 -> RHeel_X
+36 -> LSmallToe_Y
+38 -> LHeel_X
