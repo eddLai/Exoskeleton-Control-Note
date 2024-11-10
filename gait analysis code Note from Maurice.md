@@ -67,3 +67,4 @@ $$TR_{side}=mean(v_{side})+std(v_{side})$$
 - argrelmin: 接觸地面的瞬間
 $$locs_{min}={v[i]|v[i]<mean(v-0.2\times std(v))}$$
 對該`locs_min` set進行交替驗證
+`frame_<side>_heel_sground`
