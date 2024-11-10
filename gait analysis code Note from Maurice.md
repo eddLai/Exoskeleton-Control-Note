@@ -17,14 +17,7 @@ from decimal import Decimal, ROUND_HALF_UP
 int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 ```
 ## Define_COM
-1. 上臂 (Upper Arm)
-$$
-\begin{align*}
-\text{Upper\_arm} &= \left( \vec{P}_{\text{RShoulder}} + (\vec{P}_{\text{RElbow}} - \vec{P}_{\text{RShoulder}}) \times 0.436 \right) \times 0.028 \\
-\end{align*}
-$$
-2. 前臂 (Forearm)
-$$\text{Forearm\_R} = \left( \vec{P}_{\text{RElbow}} + (\vec{P}_{\text{RWrist}} - \vec{P}_{\text{RElbow}}) \times 0.682 \right) \times 0.022$$
+
 總COM = 全部COM_parts加總
 ## Down sample
 ```python 
