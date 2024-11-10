@@ -48,11 +48,11 @@ $$v_y = y_n-y_{n-1}$$
 $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 使用`find_peaks`找到$local\ minima$
 
-gaitspeedcm
+## gaitspeedcm
 改用$SR_d$
 
-應該用pandas優化，寫法有夠醜
 
+應該用pandas優化，寫法有夠醜
 已知maurice用的trc column序列比我少1
 18 -> RSmallToe_Y
 20 -> RHeel_X
