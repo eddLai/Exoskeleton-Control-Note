@@ -17,7 +17,25 @@ from decimal import Decimal, ROUND_HALF_UP
 int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 ```
 ## Define_COM
+\[
+\text{Segment} = \left( \vec{P}_{\text{Start}} + (\vec{P}_{\text{End}} - \vec{P}_{\text{Start}}) \times \text{Position Ratio} \right) \times \text{Mass Ratio}
+\]
 
+| Segment        | Start      | End       | Position Ratio | Mass Ratio |
+|----------------|------------|-----------|----------------|------------|
+| Upper\_arm\_R  | RShoulder  | RElbow    | 0.436          | 0.028      |
+| Upper\_arm\_L  | LShoulder  | LElbow    | 0.436          | 0.028      |
+| Forearm\_R     | RElbow     | RWrist    | 0.682          | 0.022      |
+| Forearm\_L     | LElbow     | LWrist    | 0.682          | 0.022      |
+| Foot\_R        | Rankle     | Avg(RBigToe, RSmallToe) | 0.5            | 0.0145     |
+| Foot\_L        | Lankle     | Avg(LBigToe, LSmallToe) | 0.5            | 0.0145     |
+| Leg\_R         | RKnee      | Rankle    | 0.433          | 0.0465     |
+| Leg\_L         | LKnee      | Lankle    | 0.433          | 0.0465     |
+| Thigh\_R       | RHip       | RKnee     | 0.433          | 0.1        |
+| Thigh\_L       | LHip       | LKnee     | 0.433          | 0.1        |
+| Head           | Neck       | Nose      | 1              | 0.081      |
+| Trunk\_R       | RHip       | RShoulder | 0.5            | 0.2485     |
+| Trunk\_L       | LHip       | LShoulder | 0.5            | 0.2485     |
 總COM = 全部COM_parts加總
 ## Down sample
 ```python 
