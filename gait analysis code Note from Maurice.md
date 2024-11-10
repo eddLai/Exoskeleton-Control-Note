@@ -60,4 +60,4 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 
 ## find_foot_strike
 為什麼不用加權才是質心速度阿
-$$tempR=\frac{\vec{P_{Heel}}​+\vec{P_SmallToe​+PRBigToe​​}{3}$$
+$$tempR=\frac{\vec{P_{Heel}}​+\vec{P_{SmallToe}}​+\vec{P_{BigToe}​​}{3}$$
