@@ -25,7 +25,7 @@ $$
 $$
 2. 前臂 (Forearm)
 $$\text{Forearm\_R} = \left( \vec{P}_{\text{RElbow}} + (\vec{P}_{\text{RWrist}} - \vec{P}_{\text{RElbow}}) \times 0.682 \right) \times 0.022$$
-
+總COM = 全部加總
 ## Down sample
 ```python 
 def downsample(data, factor):
