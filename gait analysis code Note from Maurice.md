@@ -51,7 +51,7 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 ## gaitspeedcm
 改用$SR_d$
 
-
+## Data Structure
 應該用pandas優化，寫法有夠醜
 已知maurice用的trc column序列比我少1
 18 -> RSmallToe_Y
