@@ -18,5 +18,5 @@ int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 ```
 
 heel_v_xy_plane
-＄
+$$v_x$$
 gaitspeedcm
