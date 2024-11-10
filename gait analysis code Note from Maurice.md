@@ -42,7 +42,6 @@ def downsample(data, factor):
 	return data[::factor]
 ```
 $$down\_index = SR/SR_d$$
-
 ## heel_v_xy_plane
 $$v_x = x_n-x_{n-1}$$
 $$v_y = y_n-y_{n-1}$$
