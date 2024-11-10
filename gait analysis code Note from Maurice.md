@@ -18,8 +18,8 @@ int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 ```
 
 ```python 
-    def downsample(data, factor):
-        return data[::factor]
+def downsample(data, factor):
+	return data[::factor]
 ```
 $$down\_index = SR/SR_d$$
 heel_v_xy_plane
