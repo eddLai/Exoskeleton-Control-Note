@@ -10,6 +10,13 @@ IK data
 body_parts
 
 ---
+## Data Structure
+應該用pandas優化，寫法有夠醜
+已知maurice用的trc column序列比我少1
+18 -> RSmallToe_Y
+20 -> RHeel_X
+36 -> LSmallToe_Y
+38 -> LHeel_X
 # Funcs
 高精度四捨五入
 ```python
@@ -50,11 +57,3 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 
 ## gaitspeedcm
 改用$SR_d$
-
-## Data Structure
-應該用pandas優化，寫法有夠醜
-已知maurice用的trc column序列比我少1
-18 -> RSmallToe_Y
-20 -> RHeel_X
-36 -> LSmallToe_Y
-38 -> LHeel_X
