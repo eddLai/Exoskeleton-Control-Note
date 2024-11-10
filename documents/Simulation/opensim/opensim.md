@@ -19,4 +19,5 @@ Coordinate controller
 
 ---
 ### Application
-使用gait analysis code  from Maurice
+- 使用[[gait analysis code Note from Maurice]]
+
