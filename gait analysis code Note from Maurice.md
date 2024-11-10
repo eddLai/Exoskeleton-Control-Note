@@ -65,4 +65,4 @@ $$v_{side}=\sqrt{\sum{\Delta temp_{side}^2}}\times SR$$
 $$TR_{side}=mean(v_{side})+std(v_{side})$$
 - find_peaks: 抬起的瞬間
 - argrelmin: 接觸地面的瞬間
-$$locs_{min}={vR[i]}$$
+$$locs_{min}={v[i]|v[i]}$$
