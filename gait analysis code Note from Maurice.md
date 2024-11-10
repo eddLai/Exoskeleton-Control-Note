@@ -16,6 +16,10 @@ body_parts
 from decimal import Decimal, ROUND_HALF_UP
 int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 ```
+```p
+    def downsample(data, factor):
+        return data[::factor]
+```
 $$down\_index = SR/SR_d$$
 heel_v_xy_plane
 $$v_x = x_n-x_{n-1}$$
