@@ -20,7 +20,6 @@ int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 $$1. 上臂 (Upper Arm)
 \begin{align*}
 \text{Upper\_arm} &= \left( \vec{P}_{\text{RShoulder}} + (\vec{P}_{\text{RElbow}} - \vec{P}_{\text{RShoulder}}) \times 0.436 \right) \times 0.028 \\
-\text{Upper\_arm\_L} &= \left( \vec{P}_{\text{LShoulder}} + (\vec{P}_{\text{LElbow}} - \vec{P}_{\text{LShoulder}}) \times 0.436 \right) \times 0.028
 \end{align*}$$
 ## Down sample
 ```python 
