@@ -24,7 +24,7 @@ $$
 \end{align*}
 $$
 2. 前臂 (Forearm)
-$$\text{Upper\_arm\_R} &= \left( \vec{P}_{\text{RShoulder}}$$
+$$\text{Upper\_arm\_R} = \left( \vec{P}_{\text{RShoulder}} + (\vec{P}_{\text{RElbow}} - \vec{P}_{\text{RShoulder}}) \times 0.436 \right) \times 0.028$$
 ## Down sample
 ```python 
 def downsample(data, factor):
