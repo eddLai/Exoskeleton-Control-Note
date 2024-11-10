@@ -53,7 +53,7 @@ gaitspeedcm
 
 應該用pandas優化，寫法有夠醜
 
-已知maurice用的trc
+已知maurice用的trc column序列比我ㄕ
 18 -> RSmallToe_Y
 20 -> RHeel_X
 36 -> LSmallToe_Y
