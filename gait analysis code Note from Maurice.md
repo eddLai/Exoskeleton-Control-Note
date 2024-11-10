@@ -24,7 +24,7 @@ $$
 \end{align*}
 $$
 2. 前臂 (Forearm)
-
+$$$$
 ## Down sample
 ```python 
 def downsample(data, factor):
