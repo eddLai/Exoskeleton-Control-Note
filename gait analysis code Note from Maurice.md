@@ -20,6 +20,6 @@ int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 heel_v_xy_plane
 $$v_x = x_n-x_{n-1}$$
 $$v_y = y_n-y_{n-1}$$
-$$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR$$
+$$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s$$
 
 gaitspeedcm
