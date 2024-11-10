@@ -16,7 +16,7 @@ body_parts
 from decimal import Decimal, ROUND_HALF_UP
 int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 ```
-
+down_index = 
 heel_v_xy_plane
 $$v_x = x_n-x_{n-1}$$
 $$v_y = y_n-y_{n-1}$$
