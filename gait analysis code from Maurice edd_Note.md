@@ -81,7 +81,7 @@ $$i_{min\_side}=TF_{side}[min\_pks\_value < mean(v_{side})-0.2 \times std(v_{sid
 ---
 $$\Delta v_{side}=v_{i+1}-v_{i}, i=1,2,...,n-1$$
 $$\text{locs\_possible\_min\_side} = \{ i \mid \left| \frac{\Delta v}{\sigma(\Delta v)} \right| < 0.3 \}$$
-$$\text{locs\_possible\_min\_side} = \{ i \in \text{locs\_possible\_min\_side} \mid v[i] < mean(v){side}) - 0.2 \cdot \sigma(vL) \}$$
+$$\text{locs\_possible\_min\_side} = \{ i \in \text{locs\_possible\_min\_side} \mid v_{side}[i] < mean(v_{side})) - 0.2 \cdot \sigma(v_{side}) \}$$
 $$\text{locs\_possible\_min\_L} = \text{sort}(\text{locs\_minL} \cup \text{locs\_possible\_min\_L})$$
 
 對該`locs_min` set進行交替驗證
