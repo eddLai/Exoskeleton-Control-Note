@@ -11,7 +11,6 @@ $$min(v_{side\_i}, v_{side\_i+1})< mean(v_{side})-0.2 \times std(v_{side})$$
 - $TF_{side}$=`argrelmin(V_side)[0]`: index of 接觸地面的瞬間的$min\_pks\_value = v_{side}[TF_{side}]$
 - 對$min\_pks\_value$ 篩選
 $$i_{min\_side}=TF_{side}[min\_pks\_value < mean(v_{side})-0.2 \times std(v_{side})]$$
-
 $$\Delta v_{side}=v_{i+1}-v_{i}, i=1,2,...,n-1$$
 $$i_{slow} = \{ i \mid \left| \frac{\Delta v}{\sigma(\Delta v)} \right| < 0.3 \}$$
 $$i_{slow} = \{ i \in i_{slow} \mid v_{side}[i] < mean(v_{side})) - 0.2 \times std(v_{side}) \}$$
