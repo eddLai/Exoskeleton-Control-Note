@@ -20,8 +20,8 @@ $$i_{slow\_side} = \{ i \in i_{slow\_side} \mid v_{side}[i] < mean(v_{side})) - 
 $$i_{slow\_side} = \text{sort}(i_{min\_side} \cup i_{slow\_side})$$
 $$loc_k\subset i_{min\_side}$$
 `p = np.where(condition)[0]`
-$$p_k=min(i \in i_{slow\_side}|i>loc_k), \rightarrow p_k, p_{k}$$
-$$n_k=min(i \in i_{slow\_side}|i<loc_k)$$
+$$p_k=min(i \in i_{slow\_side}|i>loc_k), \rightarrow p_k, p_{k+1}...$$
+$$n_k=min(i \in i_{slow\_side}|i<loc_k)\rightarrow p_k, p_{k+1}...$$
 if $p_k$ existed (`p.size>0`): $p_x$
 
 
