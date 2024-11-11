@@ -22,6 +22,7 @@ $$loc_k\subset i_{min\_side}$$
 $$p_k=min(i \in i_{slow\_side}|i>loc_k)$$
 $$n_k=min(i \in i_{slow\_side}|i<loc_k)$$
 
+
 ---
 
 對該`locs_min` set進行交替驗證
