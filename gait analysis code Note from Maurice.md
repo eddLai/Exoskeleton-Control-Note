@@ -19,8 +19,9 @@ body_parts
 36 -> LSmallToe_Y
 38 -> LHeel_X
 # Funcs
-$i$: index
-$SR$: sample rate
+- $i$: index
+- $SR$: sample rate
+- 
 
 高精度四捨五入
 ```python
