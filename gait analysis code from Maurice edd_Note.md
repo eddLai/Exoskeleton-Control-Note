@@ -79,7 +79,7 @@ $$min(v_{side\_i}, v_{side\_i+1})< mean(v_{side})-0.2 \times std(v_{side})$$
 $$i_{min\_side}=TF_{side}[min\_pks\_value < mean(v_{side})-0.2 \times std(v_{side})]$$
 
 ---
-$$\Delta v$$
+$$\Delta v_{side}=$$
 $$\text{locs\_possible\_min\_i} = \{ i \mid \left| \frac{vL[i+1] - vL[i]}{\sigma(\Delta vL)} \right| < 0.3 \}$$
 $$\text{locs\_possible\_min\_L} = \{ i \in \text{locs\_possible\_min\_L} \mid vL[i] < \mu(vL) - 0.2 \cdot \sigma(vL) \}$$
 $$\text{locs\_possible\_min\_L} = \text{sort}(\text{locs\_minL} \cup \text{locs\_possible\_min\_L})$$
