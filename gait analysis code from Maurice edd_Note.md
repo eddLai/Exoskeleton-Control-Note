@@ -84,6 +84,7 @@ $$\text{locs\_possible\_min\_side} = \{ i \mid \left| \frac{\Delta v}{\sigma(\De
 $$\text{locs\_possible\_min\_side} = \{ i \in \text{locs\_possible\_min\_side} \mid v_{side}[i] < mean(v_{side})) - 0.2 \times std(v_{side}) \}$$
 $$\text{locs\_possible\_min\_L} = \text{sort}(\text{locs\_minL} \cup \text{locs\_possible\_min\_L})$$
 
+
 對該`locs_min` set進行交替驗證
 - `frame_<side>_heel_sground`
 - `frame_<side>_heel_lground`
