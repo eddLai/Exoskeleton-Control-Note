@@ -70,7 +70,7 @@ $$v_{side}=\sqrt{\sum{\Delta temp_{side}^2}}\times SR$$
 $$TR_{side}=mean(v_{side})+std(v_{side})$$
 - $i_{max\_side}$=`find_peaks(V_side)`: 抬起的瞬間 $max\_pks\_value = v_{side}[i_{max\_side}]$
 - $TF_{side}$=`argrelmin(V_side)[0]`: index of 接觸地面的瞬間的$min\_pks\_value = v_{side}[TF_{side}]$
-- 執行雙重過濾
+- 對$min\_pks\_value$ 執行過濾
 $$i_{min\_side}=TF_{side}[min\_pks\_value < mean(v_{side})-0.2 \times std(v_{side})]$$
 
 $$\text{locs\_possible\_min\_L} = \{ i \mid \left| \frac{vL[i+1] - vL[i]}{\sigma(\Delta vL)} \right| < 0.3 \}$$
