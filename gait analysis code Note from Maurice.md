@@ -19,7 +19,7 @@ body_parts
 36 -> LSmallToe_Y
 38 -> LHeel_X
 # Funcs
-$$i$$
+$i$: index
 高精度四捨五入
 ```python
 from decimal import Decimal, ROUND_HALF_UP
