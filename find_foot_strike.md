@@ -25,7 +25,6 @@ $$n_k=min(i \in i_{slow\_side}|i<loc_k)\rightarrow n_k, n_{k-1}...$$
 if $p_k$ existed (`p.size>0`): `p_x[0]`
 if $n_k$ existed (`p.size>0`): `n_x[-1]`
 
-
 ---
 
 對該`locs_min` set進行交替驗證
