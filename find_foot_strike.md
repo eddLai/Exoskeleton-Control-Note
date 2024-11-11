@@ -10,7 +10,7 @@ $$min(v_{side\_i}, v_{side\_i+1})< mean(v_{side})-0.2 \times std(v_{side})$$
 >需要處理最後的點，沒有值可以相減
 
 ---
-###
+### Minima
 - $TF_{side}$=`argrelmin(V_side)[0]`: index of 接觸地面的瞬間的$min\_pks\_value = v_{side}[TF_{side}]$
 - 對$min\_pks\_value$ 篩選
 $$i_{min\_side}=TF_{side}[min\_pks\_value < mean(v_{side})-0.2 \times std(v_{side})]$$
@@ -19,6 +19,7 @@ $$i_{slow} = \{ i \mid \left| \frac{\Delta v}{\sigma(\Delta v)} \right| < 0.3 \}
 $$i_{slow} = \{ i \in i_{slow} \mid v_{side}[i] < mean(v_{side})) - 0.2 \times std(v_{side}) \}$$
 $$i_{slow} = \text{sort}(i_{min\_side} \cup i_{slow})$$
 
+---
 
 對該`locs_min` set進行交替驗證
 - `frame_<side>_heel_sground`
