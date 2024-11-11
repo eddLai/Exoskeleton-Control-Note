@@ -71,6 +71,8 @@ $$v_{side}=\sqrt{\sum{\Delta temp_{side}^2}}\times SR$$
 - `final_temp_locs_side` = $i_{max\_side}[max\_pks\_value > TR_{side}==mean(v_{side})+std(v_{side})]$
 - 篩選符合
 $$min(v_{side\_i}, v_{side\_i+1})< mean(v_{side})-0.2 \times std(v_{side})$$
+
+
 ---
 - $TF_{side}$=`argrelmin(V_side)[0]`: index of 接觸地面的瞬間的$min\_pks\_value = v_{side}[TF_{side}]$
 - 對$min\_pks\_value$ 篩選
