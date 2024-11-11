@@ -20,6 +20,8 @@ body_parts
 38 -> LHeel_X
 # Funcs
 $i$: index
+$SR$: sample rate
+
 高精度四捨五入
 ```python
 from decimal import Decimal, ROUND_HALF_UP
