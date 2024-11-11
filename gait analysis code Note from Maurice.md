@@ -64,7 +64,7 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 $$temp_{side}=\frac{\vec{P_{Heel\_side}}​+\vec{P_{SmallToe\_side}}​+\vec{P_{BigToe\_side}}​​}{3}$$
 $$v_{side}=\sqrt{\sum{\Delta temp_{side}^2}}\times SR$$
 $$TR_{side}=mean(v_{side})+std(v_{side})$$
-- find_peaks: 抬起的瞬間
+- find_peaks(V_side): 抬起的瞬間
 - argrelmin: 接觸地面的瞬間
 $$locs_{min}={v[i]|v[i]<mean(v-0.2\times std(v))}$$
 
