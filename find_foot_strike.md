@@ -21,7 +21,7 @@ $$i_{slow\_side} = \text{sort}(i_{min\_side} \cup i_{slow\_side})$$
 $$loc_k\subset i_{min\_side}$$
 $$p_k=min(i \in i_{slow\_side}|i>loc_k)$$
 $$n_k=min(i \in i_{slow\_side}|i<loc_k)$$
-if p_k
+if $p_k$ existed
 
 
 ---
