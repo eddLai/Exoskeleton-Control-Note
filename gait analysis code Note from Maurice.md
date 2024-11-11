@@ -21,7 +21,7 @@ body_parts
 # Funcs
 - $i$: index
 - $SR$: sample rate
-- 
+- $v$: velocity
 
 高精度四捨五入
 ```python
