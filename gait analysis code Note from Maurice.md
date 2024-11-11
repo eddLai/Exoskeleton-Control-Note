@@ -67,6 +67,8 @@ $$TR_{side}=mean(v_{side})+std(v_{side})$$
 - find_peaks: 抬起的瞬間
 - argrelmin: 接觸地面的瞬間
 $$locs_{min}={v[i]|v[i]<mean(v-0.2\times std(v))}$$
+
+
 $$\text{locs\_possible\_min\_L} = \{ i \mid \left| \frac{vL[i+1] - vL[i]}{\sigma(\Delta vL)} \right| < 0.3 \}$$
 $$\text{locs\_possible\_min\_L} = \{ i \in \text{locs\_possible\_min\_L} \mid vL[i] < \mu(vL) - 0.2 \cdot \sigma(vL) \}$$
 $$\text{locs\_possible\_min\_L} = \text{sort}(\text{locs\_minL} \cup \text{locs\_possible\_min\_L})$$
