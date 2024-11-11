@@ -18,7 +18,7 @@ $$\Delta v_{side}=v_{i+1}-v_{i}, i=1,2,...,n-1$$
 $$i_{slow} = \{ i \mid \left| \frac{\Delta v}{\sigma(\Delta v)} \right| < 0.3 \}$$
 $$i_{slow\_side} = \{ i \in i_{slow\_side} \mid v_{side}[i] < mean(v_{side})) - 0.2 \times std(v_{side}) \}$$
 $$i_{slow\_side} = \text{sort}(i_{min\_side} \cup i_{slow\_side})$$
-$$p_k=min(i)$$
+$$p_k=min(i \in )$$
 
 ---
 
