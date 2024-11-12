@@ -23,7 +23,7 @@ $$loc_k\subset i_{min\_side}$$
 $$p_k=min(i \in i_{slow\_side}|i>loc_k), \rightarrow p_k, p_{k+1}...$$
 $$n_k=min(i \in i_{slow\_side}|i<loc_k)\rightarrow n_k, n_{k-1}...$$
 if $p_k$ existed (`p.size>0`): `p_x[0]` $\rightarrow n\_R, n\_L\ array$
-if $n_k$ existed (`p.size>0`): `n_x[-1]`
+if $n_k$ existed (`p.size>0`): `n_x[-1]` $\rightarrow n\_R, n\_L\ array$
 
 ---
 
