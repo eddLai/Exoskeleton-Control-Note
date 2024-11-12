@@ -17,7 +17,7 @@ $$i_{min\_side}=TF_{side}[min\_pks\_value < mean(v_{side})-0.2 \times std(v_{sid
 $$\Delta v_{side}=v_{i+1}-v_{i}, i=1,2,...,n-1$$
 $$(1) \quad i_{slow\_side} = \{ i \mid \left| \frac{\Delta v}{\sigma(\Delta v)} \right| < 0.3 \}$$
 $$(2) \quad i_{slow\_side} = \{ i \in i_{slow\_side} \mid v_{side}[i] < mean(v_{side})) - 0.2 \times std(v_{side}) \}$$
-$$(1) \quad i_{slow\_side} = \text{sort}(i_{min\_side} \cup i_{slow\_side})$$
+$$(3) \quad i_{slow\_side} = \text{sort}(i_{min\_side} \cup i_{slow\_side})$$
 $$loc_k\subset i_{min\_side}$$
 `p = np.where(condition)[0]`
 $$p_k=min(i \in i_{slow\_side}|i>loc_k), \rightarrow p_k, p_{k+1}...$$
