@@ -29,7 +29,8 @@ from decimal import Decimal, ROUND_HALF_UP
 int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 ```
 ## Define_COM
-Foot_Rjo4gp
+1. Foot_R為什麼算法不一樣
+2. scaling每個bp
 $$\text{Segment} = \left( \vec{P}_{\text{Start}} + (\vec{P}_{\text{End}} - \vec{P}_{\text{Start}}) \times \text{Position Ratio} \right) \times \text{Mass Ratio}$$
 
 | Segment       | Start     | End                     | Position Ratio | Mass Ratio |
