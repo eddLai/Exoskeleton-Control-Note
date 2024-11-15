@@ -30,7 +30,7 @@ int(Decimal(n).quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 ```
 ## Define_COM
 1. Foot_R為什麼算法不一樣
-2. scaling每個bp
+2. Apose scaling每個人不一樣
 $$\text{Segment} = \left( \vec{P}_{\text{Start}} + (\vec{P}_{\text{End}} - \vec{P}_{\text{Start}}) \times \text{Position Ratio} \right) \times \text{Mass Ratio}$$
 
 | Segment       | Start     | End                     | Position Ratio | Mass Ratio |
