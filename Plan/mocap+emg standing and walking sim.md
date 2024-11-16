@@ -123,4 +123,4 @@ eddlai
 - [ ] 為什麼AnYu那幾筆資料的軌跡很奇怪
 整個左標系統是反的
 ![[AnYu data path2 right first.png]]
-![[Pasted image 20241116213116.png]]
+![[AnYu data path2 left first.png]]
