@@ -124,3 +124,4 @@ eddlai
 整個左標系統是反的
 ![[AnYu data path2 right first.png]]
 ![[AnYu data path4 left first.png]]
+![[Pasted image 20241116213156.png]]
