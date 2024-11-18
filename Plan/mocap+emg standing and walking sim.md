@@ -129,7 +129,7 @@ eddlai
 ---
 Deadline: 11/18 (二)
 1. 釐清CENIMS功能，sean, eddlai
-2. 檢查為什麼CENIMS會讀不到對的資料 /lib/FileIO/EMGDataFromFile.cpp
+2. 檢查為什麼CENIMS會讀不到對的資料 
 
 
 1. 疑問:
