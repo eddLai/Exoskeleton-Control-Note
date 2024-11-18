@@ -101,11 +101,11 @@ Sean
 	3. ==關節力矩(ID)==
 	4. EMG
 	5. 疑問:
-		1. [x] 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
-2. CENIMS應該要跟CMC相似，跟Trajectory做校正
-3. Scaling
-4. SCONE嘗試調整各種權重
-5. 改Model 4不能用在SCONE中
+		- [x] 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
+1. CENIMS應該要跟CMC相似，跟Trajectory做校正
+2. Scaling
+3. SCONE嘗試調整各種權重
+4. 改Model 4不能用在SCONE中
 
 eddlai
 4. Find Heel挖Maurice code
