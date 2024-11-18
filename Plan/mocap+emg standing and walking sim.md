@@ -130,8 +130,6 @@ eddlai
 Deadline: 11/18 (二)
 1. 釐清CENIMS功能，sean, eddlai
 2. 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
-3. 疑問:
-	1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
 4. CENIMS應該要跟CMC相似，跟Trajectory做校正
 5. Scaling
 6. SCONE嘗試調整各種權重
