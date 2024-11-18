@@ -128,7 +128,7 @@ eddlai
 
 ---
 Deadline: 11/18 (二)
-釐清CENIMS功能
+釐清CENIMS功能，sean, 
 
 1. CENIMS到底校正了什麼，關節與
 	1. 關節力臂
