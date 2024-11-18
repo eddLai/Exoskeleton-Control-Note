@@ -125,3 +125,30 @@ eddlai
 ![[AnYu data path2 right first.png]]
 ![[AnYu data path4 left first.png]]
 ![[Sean data path1 left first.png]]
+
+---
+Deadline: 11/18 (二)
+Sean
+1. CENIMS到底校正了什麼，關節與
+	1. 關節力臂
+	2. 肌肉長度變化
+	3. ==關節力矩(ID)==
+	4. EMG
+	5. 疑問:
+		1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
+2. CENIMS應該要跟CMC相似，跟Trajectory做校正
+3. Scaling
+4. SCONE嘗試調整各種權重
+5. 改Model 4不能用在SCONE中
+
+eddlai
+4. Find Heel挖Maurice code
+5. Opensim API
+6. SCONE API
+7. CEINMS API
+
+跟YY確認
+1. MVC
+2. Faitgue
+3. ID需要反作用力 30Hz以上
+4. SCONE改權重
