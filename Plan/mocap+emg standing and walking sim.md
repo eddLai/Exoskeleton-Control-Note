@@ -130,3 +130,6 @@ eddlai
 Deadline: 11/18 (二)
 1. 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正
 2. 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
+
+emg.mot
+path1_01_EMG_cut.
