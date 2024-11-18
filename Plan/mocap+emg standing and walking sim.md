@@ -129,7 +129,7 @@ eddlai
 ---
 Deadline: 11/18 (二)
 1. 釐清CENIMS功能，sean, eddlai
-2. 檢查為什麼cjo
+2. 檢查為什麼會讀
 
 
 3. CENIMS到底校正了什麼，關節與
