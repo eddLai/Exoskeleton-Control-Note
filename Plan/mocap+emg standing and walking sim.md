@@ -128,19 +128,21 @@ eddlai
 
 ---
 Deadline: 11/18 (二)
-釐清CENIMS功能，sean, 
+1. 釐清CENIMS功能，sean, eddlai
+2. 檢查為什麼cjo
 
-1. CENIMS到底校正了什麼，關節與
+
+3. CENIMS到底校正了什麼，關節與
 	1. 關節力臂
 	2. 肌肉長度變化
 	3. ==關節力矩(ID)==
 	4. EMG
 	5. 疑問:
 		1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
-2. CENIMS應該要跟CMC相似，跟Trajectory做校正
-3. Scaling
-4. SCONE嘗試調整各種權重
-5. 改Model 4不能用在SCONE中
+4. CENIMS應該要跟CMC相似，跟Trajectory做校正
+5. Scaling
+6. SCONE嘗試調整各種權重
+7. 改Model 4不能用在SCONE中
 
 eddlai
 4. Find Heel挖Maurice code
