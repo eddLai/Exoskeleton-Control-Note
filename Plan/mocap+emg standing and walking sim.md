@@ -132,9 +132,9 @@ Deadline: 11/18 (二)
 2. 檢查為什麼會讀不到對的資料
 
 
-	5. 疑問:
-		1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
-4. CENIMS應該要跟CMC相似，跟Trajectory做校正
-5. Scaling
-6. SCONE嘗試調整各種權重
-7. 改Model 4不能用在SCONE中
+1. 疑問:
+	1. 應該要選擇的model做校正?雖然沒有身高，但有丟肌肉長度
+2. CENIMS應該要跟CMC相似，跟Trajectory做校正
+3. Scaling
+4. SCONE嘗試調整各種權重
+5. 改Model 4不能用在SCONE中
