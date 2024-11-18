@@ -138,15 +138,3 @@ Deadline: 11/18 (二)
 5. Scaling
 6. SCONE嘗試調整各種權重
 7. 改Model 4不能用在SCONE中
-
-eddlai
-4. Find Heel挖Maurice code
-5. Opensim API
-6. SCONE API
-7. CEINMS API
-
-跟YY確認
-1. MVC
-2. Faitgue
-3. ID需要反作用力 30Hz以上
-4. SCONE改權重
