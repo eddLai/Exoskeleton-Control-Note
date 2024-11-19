@@ -136,4 +136,4 @@ Deadline: 11/18 (二)
 4. 要開始收病患，建立流程，等跟maurice他們開會
 5. 量化比較步態擬合
 6. 等長等張，不用負重
-7. visual 
+7. visual studio
