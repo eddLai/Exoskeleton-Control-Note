@@ -128,18 +128,18 @@ eddlai
 
 ---
 Deadline: 11/26 (二)
-sean
-1. 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正
-2. 等長等張，不用負重
-3. K fold
-4. faitgue偵測與量化文獻
-eddlai
-1. 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
-	1. `emg.mot`
-	2. `path1_01_EMG_cut.sto`
-	3. visual studio編譯
-	4. 量化比較步態擬合
-	5. 用速度去大致定位，回到座標去抓起來的確切時間否則會是錯的
+- sean
+	1. 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正
+	2. 等長等張，不用負重
+	3. K fold
+	4. faitgue偵測與量化文獻
+- eddlai
+	- 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
+		1. `emg.mot`
+		2. `path1_01_EMG_cut.sto`
+		3. visual studio編譯
+		4. 量化比較步態擬合
+		5. 用速度去大致定位，回到座標去抓起來的確切時間否則會是錯的
 等maurice一起開會
 1. 問牧華可不可以兩個人選一個
 2. 要開始收病患，建立流程，等跟maurice他們開會
