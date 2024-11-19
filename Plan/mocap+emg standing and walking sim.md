@@ -134,12 +134,11 @@ eddlai
 1. 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
 	1. `emg.mot`
 	2. `path1_01_EMG_cut.sto`
-	3. 
+	3.  visual studio編譯
 2. 問牧華可不可以兩個人選一個
 3. 要開始收病患，建立流程，等跟maurice他們開會
 4. 量化比較步態擬合
 5. 等長等張，不用負重
-6. visual studio
 7. K fold
 8. 文獻探討會
 9. 用速度去大致定位，回到座標去抓起來的確切時間否則會是錯的
