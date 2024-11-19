@@ -127,7 +127,7 @@ eddlai
 ![[Sean data path1 left first.png]]
 
 ---
-Deadline: 11/18 (二)
+Deadline: 11/26 (二)
 sean
 1. 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正
 eddlai
@@ -135,11 +135,11 @@ eddlai
 	1. `emg.mot`
 	2. `path1_01_EMG_cut.sto`
 	3.  visual studio編譯
-2. 問牧華可不可以兩個人選一個
-3. 要開始收病患，建立流程，等跟maurice他們開會
-4. 量化比較步態擬合
-5. 等長等張，不用負重
-7. K fold
-8. 文獻探討會
-9. 用速度去大致定位，回到座標去抓起來的確切時間否則會是錯的
-10. 為什麼要除三，目的是，對抓起點沒有幫助阿
+
+1. 問牧華可不可以兩個人選一個
+2. 要開始收病患，建立流程，等跟maurice他們開會
+3. 等長等張，不用負重
+4. K fold
+5. 文獻探討會
+6. 用速度去大致定位，回到座標去抓起來的確切時間否則會是錯的
+7. 為什麼要除三，目的是，對抓起點沒有幫助阿
