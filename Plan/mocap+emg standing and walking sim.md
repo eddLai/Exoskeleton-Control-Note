@@ -132,4 +132,4 @@ Deadline: 11/18 (二)
 2. 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
 	1. `emg.mot`
 	2. `path1_01_EMG_cut.sto`
-3. 問牧華
+3. 問牧華，
