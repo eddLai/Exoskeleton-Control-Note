@@ -133,3 +133,4 @@ Deadline: 11/18 (二)
 	1. `emg.mot`
 	2. `path1_01_EMG_cut.sto`
 3. 問牧華可不可以選人
+4. 要開始收病患
