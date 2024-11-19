@@ -138,4 +138,4 @@ Deadline: 11/18 (二)
 6. 等長等張，不用負重
 7. visual studio
 8. K fold
-9. 文獻
+9. 文獻探討會
