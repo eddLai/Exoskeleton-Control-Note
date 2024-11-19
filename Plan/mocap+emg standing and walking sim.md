@@ -130,7 +130,8 @@ eddlai
 Deadline: 11/26 (二)
 sean
 1. 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正
-2. 
+2. 等長等張，不用負重
+3. 4. K fold
 eddlai
 1. 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
 	1. `emg.mot`
@@ -141,7 +142,5 @@ eddlai
 等maurice一起開會
 1. 問牧華可不可以兩個人選一個
 2. 要開始收病患，建立流程，等跟maurice他們開會
-3. 等長等張，不用負重
-4. K fold
 5. 文獻探討會
 6. 為什麼要除三，目的是，對抓起點沒有幫助阿
