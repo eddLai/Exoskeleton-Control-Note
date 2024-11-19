@@ -139,3 +139,4 @@ Deadline: 11/18 (二)
 7. visual studio
 8. K fold
 9. 文獻探討會
+10. 用速度去大致定/回到座標
