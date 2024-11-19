@@ -137,4 +137,4 @@ Deadline: 11/18 (二)
 5. 量化比較步態擬合
 6. 等長等張，不用負重
 7. visual studio
-8. K fl
+8. K fold
