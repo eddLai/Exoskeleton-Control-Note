@@ -132,7 +132,7 @@ Deadline: 11/18 (二)
 2. 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
 	1. `emg.mot`
 	2. `path1_01_EMG_cut.sto`
-3. 問牧華可不可以選人
+3. 問牧華可不可以兩個人選一個
 4. 要開始收病患，建立流程，等跟maurice他們開會
 5. 量化比較步態擬合
 6. 等長等張，不用負重
