@@ -69,7 +69,7 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 2. 使用濾波和平滑計算質心的包絡線與波動。
 3. 計算左右步態的面積與速度特徵。
 4. 輸出步態穩定性的特徵值，包括 RMS 和步態區間特徵。
-## Speed_analysis：ㄩㄥ
+## Speed_analysis：用於判斷
 `i_slow_n["R"] == R_locs_possible_min_n`
 
 `frame_R_heel_sground = np.concatenate(i_slow_n["R"][:1],i_slow_p["R"])`
