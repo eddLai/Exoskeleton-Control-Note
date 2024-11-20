@@ -72,3 +72,4 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 ## Speed_analysis
 `i_slow_n["R"] == R_locs_possible_min_n`
 
+i_slow_n["R"]
