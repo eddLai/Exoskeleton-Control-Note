@@ -81,4 +81,4 @@ expand margin
 ### interpolation
 for i in speed_midpoint:
 $$temp\_interp = sort(V_{abs[i]}:V_{abs[i+2]})$$不滿足排序要相反`flipud`
-$$speed\_midpoint[]$$
+$$speed\_midpoint[i+1]$$
