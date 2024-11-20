@@ -72,4 +72,4 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 ## Speed_analysis
 `i_slow_n["R"] == R_locs_possible_min_n`
 
-`np.concatenate(i_slow_n["R"][:1],i_slow_p["R"])`
+`frame_R_heel_sground = np.concatenate(i_slow_n["R"][:1],i_slow_p["R"])`
