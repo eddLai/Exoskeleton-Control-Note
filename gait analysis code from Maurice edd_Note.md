@@ -80,5 +80,5 @@ $$speed\_midpoint[-1] + mean\_gap < len(V\_abs)$$:
 expand margin
 ### interpolation
 for i in speed_midpoint:
-$$temp\_interp = sort(V_{abs[i]}:V_{abs[i+2]})$$不滿足排
+$$temp\_interp = sort(V_{abs[i]}:V_{abs[i+2]})$$不滿足排序要相反
 $$speed\_midpoint[$$
