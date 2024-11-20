@@ -73,6 +73,6 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 `i_slow_n["R"] == R_locs_possible_min_n`
 
 `frame_R_heel_sground = np.concatenate(i_slow_n["R"][:1],i_slow_p["R"])`
-$$speed\_midpoint=sort(lground_R \land lground_L)$$
+$$speed\_midpoint=sort(lground_R \bigcap lground_L)$$
 $$mean\_gap=round(\frac{1}{N-1}\sum^{N-1}_{i=1}{speed\_midpoint[i+1]-speed\_midpoint[i]}{})$$
 $$speed\_midpoint[$$
