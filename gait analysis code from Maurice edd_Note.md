@@ -79,6 +79,6 @@ if $$speed\_midpoint[0] - mean\_gap > 1$$ and
 $$speed\_midpoint[-1] + mean\_gap < len(V\_abs)$$:
 expand margin
 ### interpolation
-for i in 
+for i in speed_midpoint
 $$temp\_speed = sort(V_{abs})$$
 $$speed\_midpoint[$$
