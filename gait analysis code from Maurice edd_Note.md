@@ -72,4 +72,4 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 ## [[Speed_analysis]]：用於判斷stable步態
 
 ## flexion_analysis
-為什麼有兩種，hip
+為什麼有兩種，hip用flexion
