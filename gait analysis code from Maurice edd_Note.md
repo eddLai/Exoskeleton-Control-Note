@@ -103,7 +103,6 @@ $$
 
 $$
 
-  
-
+  計算兩者的RMS
 $$\text{RMS}_{[a,b]} = \sqrt{\frac{1}{b-a+1} \sum_{i=a}^b x_i^2}$$
 
