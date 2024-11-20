@@ -71,4 +71,4 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 4. 輸出步態穩定性的特徵值，包括 RMS 和步態區間特徵。
 ## [[Speed_analysis]]：用於判斷stable步態
 
-flexion_analysis
+## flexion_analysis
