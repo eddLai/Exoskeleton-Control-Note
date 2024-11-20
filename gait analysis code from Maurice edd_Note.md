@@ -83,6 +83,6 @@ for i in speed_midpoint:
 $$temp\_interp = sort(V_{abs[i]}:V_{abs[i+2]})$$
 一個時間段的速度變化，若不滿足==速度下降==，執行相反flipud
 $$temp\_interp\_section =[speed\_midpoint[i+1]-speed\_midpoint[i]]$$
-$$interp\_sections$$
+組合成$$interp\_speed\_sections$$
 
 
