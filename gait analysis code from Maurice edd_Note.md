@@ -85,5 +85,25 @@ $$temp\_interp = sort(V_{abs[i]}:V_{abs[i+2]})$$
 $$temp\_interp\_section =[speed\_midpoint[i+1]-speed\_midpoint[i]]$$
 組合成$$interp\_speed\_sections$$
 對其進行`PchipInterpolator`
+$$\text{Threshold}_{\text{steady}} = 0.7 \cdot (\max(v_{\text{mean}}) - \min(v_{\text{mean}})) + \min(v_{\text{mean}})$$
 
+$$\text{bound} = \{t \, | \, v_{\text{mean}}(t) > \text{Threshold}_{\text{steady}} \}$$
+
+$$
+
+\text{Threshold}_{\text{start/end}} = 0.2 \cdot (\max(v_{\text{mean}}) - \min(v_{\text{mean}})) + \min(v_{\text{mean}})
+
+$$
+
+  
+
+$$
+
+\text{bound}_{\text{start/end}} = \{t \, | \, v_{\text{mean}}(t) > \text{Threshold}_{\text{start/end}} \}
+
+$$
+
+  
+
+$$\text{RMS}_{[a,b]} = \sqrt{\frac{1}{b-a+1} \sum_{i=a}^b x_i^2}$$
 
