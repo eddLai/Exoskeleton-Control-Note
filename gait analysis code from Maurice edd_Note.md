@@ -103,6 +103,7 @@ $$
 
 $$
 
-  計算兩者的RMS
+  計算兩者的速度的
+  RMS
 $$\text{RMS}_{[a,b]} = \sqrt{\frac{1}{b-a+1} \sum_{i=a}^b x_i^2}$$
 
