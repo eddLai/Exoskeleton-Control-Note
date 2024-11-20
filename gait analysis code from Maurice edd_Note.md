@@ -66,4 +66,4 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 
 ## [[find_foot_strike]]
 ## COM_analysis
-用投影方法計算不太的穩定度
+用投影方法計算步態的穩定度
