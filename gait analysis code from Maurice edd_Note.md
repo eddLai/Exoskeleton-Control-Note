@@ -65,3 +65,4 @@ $$|\vec{v}| = \sqrt{v_x^2+v_y^2} \times SR(f_s = 1/s, scaling2real)$$
 改用$SR_d$
 
 ## [[find_foot_strike]]
+## 
