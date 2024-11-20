@@ -78,5 +78,5 @@ $$mean\_gap=round(\frac{1}{N-1}\sum^{N-1}_{i=1}{speed\_midpoint[i+1]-speed\_midp
 if $$speed\_midpoint[0] - mean\_gap > 1$$ and
 $$speed\_midpoint[-1] + mean\_gap < len(V\_abs)$$:
 expand margin
-### intep
+### interpolation
 $$speed\_midpoint[$$
