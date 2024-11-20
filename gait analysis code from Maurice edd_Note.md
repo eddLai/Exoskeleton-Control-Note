@@ -81,5 +81,5 @@ expand margin
 ### interpolation
 for i in speed_midpoint:
 $$temp\_interp = sort(V_{abs[i]}:V_{abs[i+2]})$$
-一個時間段的速度變化，不滿足排序要相反flipud
+一個時間段的速度變化，不滿足要相反flipud
 $$temp\_interp[speed\_midpoint[i+1]-speed\_midpoint[i]]$$
