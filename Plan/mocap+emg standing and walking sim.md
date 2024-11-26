@@ -149,7 +149,6 @@ Deadline: 11/26 (二)
 Deadline: 12/03 (二)
 調整
 - sean
-	2. 等長等張，不用負重
 - eddlai
 	- 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
 		1. `emg.mot`
@@ -168,3 +167,4 @@ Deadline: 12/03 (二)
 	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
 - 討論faitgue偵測與量化文獻
 	- 出力振幅降到20%
+	- MVC等長等張，不用負重
