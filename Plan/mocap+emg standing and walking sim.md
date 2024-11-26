@@ -155,6 +155,7 @@ Deadline: 12/03 (二)
 	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
 	- 討論faitgue偵測與量化文獻
 		- 出力振幅降到20%，但沒有提到時間區段的問題
+		- 關節角度
 		- 中位頻率，
 		- 樣本謪
 - sean
