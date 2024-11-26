@@ -150,7 +150,7 @@ Deadline: 12/03 (二)
 調整
 - sean
 	2. 等長等張，不用負重
-	3. faitgue偵測與量化文獻
+	3. [x] faitgue偵測與量化文獻
 - eddlai
 	- 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
 		1. `emg.mot`
@@ -167,3 +167,4 @@ Deadline: 12/03 (二)
 		- dep-RL
 		- opensim-RL
 	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
+- 
