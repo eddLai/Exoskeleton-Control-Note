@@ -148,6 +148,13 @@ Deadline: 11/26 (二)
 ---
 Deadline: 12/03 (二)
 調整
+- together
+	- 搞懂SCONE的本質，建立資料常模
+		- dep-RL
+		- opensim-RL
+	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
+- 討論faitgue偵測與量化文獻
+	- 出力振幅降到20%
 - sean
 	- MVC要等長等張，不用負重，至少一篇文獻
 - eddlai
@@ -161,10 +168,3 @@ Deadline: 12/03 (二)
 	1. 問牧華可不可以兩個人選一個
 	2. 要開始收病患，建立流程，等跟maurice他們開會
 	3. 為什麼要除三，目的是，對抓起點沒有幫助阿
-- together
-	- 搞懂SCONE的本質，建立資料常模
-		- dep-RL
-		- opensim-RL
-	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
-- 討論faitgue偵測與量化文獻
-	- 出力振幅降到20%
