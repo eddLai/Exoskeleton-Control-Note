@@ -149,7 +149,7 @@ Deadline: 11/26 (二)
 Deadline: 12/03 (二)
 調整
 - sean
-	- MVC等長等張，不用負重
+	- MVC要等長等張，不用負重，至少一篇文獻
 - eddlai
 	- 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
 		1. `emg.mot`
