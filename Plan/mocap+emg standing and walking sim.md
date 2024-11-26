@@ -155,7 +155,8 @@ Deadline: 12/03 (二)
 	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
 	- 討論faitgue偵測與量化文獻
 		- 出力振幅降到20%
-	- 中位頻率
+		- 中位頻率
+		- 
 - sean
 	- MVC要等長等張，不用負重，至少一篇文獻
 - eddlai
