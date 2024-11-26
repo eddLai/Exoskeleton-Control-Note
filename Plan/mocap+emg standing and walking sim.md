@@ -167,4 +167,4 @@ Deadline: 12/03 (二)
 		- dep-RL
 		- opensim-RL
 	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
-- 討論
+- 討論faitgue偵測與量化文獻
