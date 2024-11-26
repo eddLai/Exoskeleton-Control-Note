@@ -146,7 +146,7 @@ Deadline: 11/26 (二)
 	3. 為什麼要除三，目的是，對抓起點沒有幫助阿
 
 ---
-Deadline: 11/26 (二)
+Deadline: 12/03 (二)
 - sean
 	1. 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正
 	2. 等長等張，不用負重
