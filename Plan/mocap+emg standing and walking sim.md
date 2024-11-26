@@ -164,7 +164,7 @@ Deadline: 12/03 (二)
 	1. 問牧華可不可以兩個人選一個
 	2. 要開始收病患，建立流程，等跟maurice他們開會
 	3. 為什麼要除三，目的是，對抓起點沒有幫助阿
-to
-搞懂SCONE的本質，建立資料常模
-- dep-RL
-- opensim-RL
+- together
+	- 搞懂SCONE的本質，建立資料常模
+		- dep-RL
+		- opensim-RL
