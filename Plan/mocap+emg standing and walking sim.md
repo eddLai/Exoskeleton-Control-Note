@@ -163,6 +163,8 @@ Deadline: 12/03 (二)
 		- 中位頻率 []
 		- 樣本謪
 - sean
+	- 用網路資料驗證流程
+	- 
 	- MVC要等長等張，不用負重，至少一篇文獻
 - eddlai
 	- 檢查為什麼CENIMS會讀不到對的資料 `/lib/FileIO/EMGDataFromFile.cpp`
