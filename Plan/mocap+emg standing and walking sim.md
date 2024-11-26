@@ -147,7 +147,7 @@ Deadline: 11/26 (二)
 
 ---
 Deadline: 12/03 (二)
-調整
+調整資料工程的工作不能全丟給sean
 - together
 	- 搞懂SCONE的本質，建立資料常模
 		- dep-RL
