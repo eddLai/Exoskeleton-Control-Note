@@ -149,7 +149,6 @@ Deadline: 11/26 (二)
 Deadline: 12/03 (二)
 調整
 - sean
-	1. 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正，怎麼把資料結合
 	2. 等長等張，不用負重
 	3. K fold
 	4. faitgue偵測與量化文獻
@@ -168,3 +167,4 @@ Deadline: 12/03 (二)
 	- 搞懂SCONE的本質，建立資料常模
 		- dep-RL
 		- opensim-RL
+	- 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正，怎麼把資料結合
