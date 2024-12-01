@@ -13,7 +13,7 @@ $EMG_{FT}$
 ## Factors of fatique
 - insufficient blood perfusion of muscle fibers
 - depletion of energy sources
-- metabolites’ build-up $\rightarrow$ excess hydrogen ions "slows down the waveform of an action potential"
+- metabolites’ build-up $\rightarrow$ excess hydrogen ions ***"slows down the waveform of an action potential"***
 
 ---
 # Frequency analysis
