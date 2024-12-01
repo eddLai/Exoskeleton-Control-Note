@@ -21,4 +21,4 @@ $$
 $$\text{Median Frequency} = \text{median} \left( P(f,t) \right)
 $$
 
-### MSE
+### Multiscale Entropy, MSE
