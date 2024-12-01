@@ -173,4 +173,4 @@ Deadline: 12/03 (二)
 - [ ] time_difference問題有待商榷，trc都從0.33..開始
 - [ ] [[CEINMS User Guide 0.9.pdf]]
 - [ ] [[Statistical Methods for Defining and Analyzing Declining Trends]]
-- [ ] 系統需要能夠理解代償，或者要想辦法fit回去原始的步態，
+- [ ] 系統需要能夠理解代償，或者要想辦法fit回去原始的步態，用各種方法
