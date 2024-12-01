@@ -21,4 +21,6 @@ $$
 $$\text{Median Frequency} = \text{median} \left( P(f,t) \right)
 $$
 
+---
+### Stable?
 ### Multiscale Entropy, MSE
