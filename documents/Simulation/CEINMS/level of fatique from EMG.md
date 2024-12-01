@@ -1,7 +1,7 @@
 # IDEA
 - ref. 
 	- Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol [1]
-	- Effects of Walking Intensity on Leg Muscle Fatigue and Plantar Pressure [[s12891-021-04705-8.pdf]] [2]
+	- [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]] [2]
 	- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 - 出力振幅降到20%，但沒有提到時間區段的問題 [1]
 - 關節角度 [1]
