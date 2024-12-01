@@ -19,7 +19,8 @@ ref. [[Effects of various walking intensities on leg muscle fatigue and plantar 
 >***Synchronization of the motor unit pool leads to an increase in amplitude and an increase in the duration of the activation of the EMG signal***
 
 頻率降低，但是振幅提升（因為同步性）
-股直肌過度用力（恢復機制），為了繼續產生運動並協助在疲勞階段進行代償的肌肉
+隨著phase的不同，股直肌過度用力（恢復機制），為了繼續產生運動並協助在疲勞階段進行代償的肌肉
+
 步行速度的增加，脛前肌的肌電圖中值頻率會顯著下降
 
 ---
