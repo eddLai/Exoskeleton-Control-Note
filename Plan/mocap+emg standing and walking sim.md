@@ -176,5 +176,5 @@ Deadline: 12/03 (二)
 
 [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
-- [ ] time_difference問題有待商榷
+- [ ] time_difference問題有待商榷，trc都從0.33..開始
 - [ ] 
