@@ -180,4 +180,4 @@ Deadline: 12/03 (二)
 
 - [ ] time_difference問題有待商榷，trc都從0.33..開始
 - [ ] [[CEINMS User Guide 0.9.pdf]]
-- [ ] [[Method of de]]
+- [ ] [[Statistical Methods for Defining and Analyzing Declining Trends]]
