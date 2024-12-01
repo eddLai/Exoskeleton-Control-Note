@@ -22,7 +22,8 @@ ref. [[Effects of various walking intensities on leg muscle fatigue and plantar 
 ![[RF muscle amplitude in different level of faitque.png|400]]
 隨著phase的不同，股直肌過度用力（恢復機制），為了繼續產生運動並協助在疲勞階段進行代償的肌肉
 
-ref. [[Characterization of muscle fatigue in the lower limb.pdf]]用了很棒的統計方法在嘗試解決這種不直觀的數據。
+ref. [[Characterization of muscle fatigue in the lower limb.pdf]]
+用了很棒的統計方法在嘗試解決這種不直觀的數據。
 步行速度的增加，脛前肌的肌電圖中值頻率會顯著下降
 ![[different muscles when fatigue.png||600]]
 1. RF（股直肌）疲乏中期會下降，後期代償會增加
