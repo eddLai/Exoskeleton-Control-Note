@@ -15,7 +15,7 @@ $EMG_{FT}$
 - depletion of energy sources
 - metabolites’ build-up $\rightarrow$ excess hydrogen ions ***"slows down the waveform of an action potential"***
 
-Synchronization of the motor unit pool leads to an increase in amplitude and an increase in the duration of the activation of the EMG signal
+>Synchronization of the motor unit pool leads to an increase in amplitude and an increase in the duration of >the activation of the EMG signal
 
 ---
 # Frequency analysis
