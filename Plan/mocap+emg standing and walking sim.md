@@ -155,7 +155,6 @@ Deadline: 12/03 (二)
 		- opensim-RL
 	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
 	- 討論faitgue偵測與量化文獻
-
 - sean
 	- 用網路資料驗證流程
 	- MVC要等長等張，不用負重，至少一篇文獻
