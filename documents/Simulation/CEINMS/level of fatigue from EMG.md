@@ -24,6 +24,8 @@ ref. [[Effects of various walking intensities on leg muscle fatigue and plantar 
 
 步行速度的增加，脛前肌的肌電圖中值頻率會顯著下降
 ![[different muscles when fatigue.png||600]]
+1. RF（股直肌）和BF（股二頭肌）肌肉會增加
+2. 
 
 ---
 # Frequency analysis
