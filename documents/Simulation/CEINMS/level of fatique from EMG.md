@@ -18,7 +18,7 @@ $EMG_{FT}$
 ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
 >***Synchronization of the motor unit pool leads to an increase in amplitude and an increase in the duration of the activation of the EMG signal***
 
-頻率降低，但是
+頻率降低，但是振幅提升（因為同步性）
 
 
 ---
