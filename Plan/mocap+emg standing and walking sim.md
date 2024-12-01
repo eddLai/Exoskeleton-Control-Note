@@ -178,6 +178,7 @@ Deadline: 12/03 (二)
 
 [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
+待辦問題：
 - [ ] time_difference問題有待商榷，trc都從0.33..開始
 - [ ] [[CEINMS User Guide 0.9.pdf]]
 - [ ] [[Statistical Methods for Defining and Analyzing Declining Trends]]
