@@ -160,7 +160,7 @@ Deadline: 12/03 (二)
 			- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 		- 出力振幅降到20%，但沒有提到時間區段的問題 [1]
 		- 關節角度 [1]
-		- 中位頻率 []
+		- 中位頻率 [2] 
 		- 樣本謪
 - sean
 	- 用網路資料驗證流程
