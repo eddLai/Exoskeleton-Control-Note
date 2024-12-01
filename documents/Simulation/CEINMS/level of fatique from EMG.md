@@ -15,8 +15,8 @@ $EMG_{FT}$
 - depletion of energy sources
 - metabolites’ build-up $\rightarrow$ excess hydrogen ions ***"slows down the waveform of an action potential"***
 
->Synchronization of the motor unit pool leads to an increase in amplitude and an increase in the duration of 
->the activation of the EMG signal
+[[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
+>***Synchronization of the motor unit pool leads to an increase in amplitude and an increase in the duration of the activation of the EMG signal***
 
 ---
 # Frequency analysis
