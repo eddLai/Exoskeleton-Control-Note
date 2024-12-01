@@ -150,7 +150,7 @@ Deadline: 11/26 (二)
 可以試試看大家一起專攻一個方向，但他一定比我早嘗試
 Deadline: 12/03 (二)
 - together
-	- 搞懂SCONE的本質，建立資料常模？
+	- 搞懂SCONE的本質，建立資料常模？而非資料生成
 		- dep-RL
 		- opensim-RL
 	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
