@@ -10,6 +10,8 @@
 - 樣本謪
 
 $EMG_{FT}$
+nsufficient blood perfusion of muscle fibers, depletion of energy sources, and
+metabolites’ build-up.
 
 ---
 # Frequency analysis
