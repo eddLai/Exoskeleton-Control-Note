@@ -30,7 +30,7 @@ ref. [[Characterization of muscle fatigue in the lower limb.pdf]]
 2. BF（股二頭肌）肌肉都會增加
 3. TA 疲乏初期也會下降
 4. GL 中期較大
-![[different mean of muscles when fatigue.png]]
+![[different mean of muscles when fatigue.png|600]]
 系統需要能夠理解代償，或者要想辦法fit回去
 
 ---
