@@ -172,3 +172,6 @@ Deadline: 12/03 (二)
 		3. visual studio編譯
 	- 量化比較步態擬合
 - 等maurice一起開會（繼續等）
+
+
+[[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
