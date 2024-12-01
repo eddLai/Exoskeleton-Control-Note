@@ -11,9 +11,9 @@
 
 $EMG_{FT}$
 ## Factors of fatique
-insufficient blood perfusion of muscle fibers
-depletion of energy sources, and
-metabolites’ build-up.
+- insufficient blood perfusion of muscle fibers
+- depletion of energy sources
+- metabolites’ build-up.
 
 ---
 # Frequency analysis
