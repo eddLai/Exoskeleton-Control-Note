@@ -14,6 +14,8 @@ $EMG_{FT}$
 - insufficient blood perfusion of muscle fibers
 - depletion of energy sources
 - metabolites’ build-up.
+excess hydrogen ions slows down
+the waveform of an action potential
 
 ---
 # Frequency analysis
