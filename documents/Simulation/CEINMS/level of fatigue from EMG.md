@@ -31,6 +31,7 @@ ref. [[Characterization of muscle fatigue in the lower limb.pdf]]
 3. TA 疲乏初期也會下降
 4. GL 中期較大
 ![[different mean of muscles when fatigue.png|600]]
+誤差條的“鬍鬚”代表了每位參與者的sEMG信號振幅的變異範圍
 系統需要能夠理解代償，或者要想辦法fit回去
 
 ---
