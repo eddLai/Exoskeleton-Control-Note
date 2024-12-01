@@ -24,10 +24,10 @@ ref. [[Effects of various walking intensities on leg muscle fatigue and plantar 
 
 步行速度的增加，脛前肌的肌電圖中值頻率會顯著下降
 ![[different muscles when fatigue.png||600]]
-1. RF（股直肌）疲乏初期會下降，代償會增加
+1. RF（股直肌）疲乏中期會下降，後期代償會增加
 2. BF（股二頭肌）肌肉都會增加
 3. TA 疲乏初期也會下降
-4. GL 呈現穩定
+4. GL 中期較大
 
 系統需要能夠理解代償
 
