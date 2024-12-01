@@ -9,7 +9,7 @@
 	- [x] 視野一個是只有穩態，一個是整個行走階段，所得到的中位頻率振幅不一樣？不會
 
 $EMG_{FT}$
-# atique
+# Fatique
 ## Factors of fatique
 - insufficient blood perfusion of muscle fibers
 - depletion of energy sources
