@@ -27,7 +27,7 @@ ref. [[Effects of various walking intensities on leg muscle fatigue and plantar 
 1. RF（股直肌）疲乏初期會下降，代償會增加
 2. BF（股二頭肌）肌肉都會增加
 3. TA 疲乏初期也會下降
-4. GL
+4. GL 呈現穩定
 需要
 
 ---
