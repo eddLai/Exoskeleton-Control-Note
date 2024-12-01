@@ -29,7 +29,7 @@ ref. [[Effects of various walking intensities on leg muscle fatigue and plantar 
 3. TA 疲乏初期也會下降
 4. GL 中期較大
 
-系統需要能夠理解代償
+系統需要能夠理解代償，或者要想辦法fit回去
 
 ---
 # Frequency analysis
