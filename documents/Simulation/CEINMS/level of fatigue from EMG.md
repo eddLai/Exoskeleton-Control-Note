@@ -1,35 +1,37 @@
 # IDEA
 - ref. 
-	- [[Characterization of muscle fatigue in the lower limb.pdf]] [1]
+	- [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]] [1]
 	- [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]] [2]
 	- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
-- 電壓振幅降到20%，但沒有提到時間區段的問題 [1]
-- 關節角度 [1]
-- 中位頻率 [2] 可以用頻率成份去理解這些肌肉活動
-	- [x] 視野一個是只有穩態，一個是整個行走階段，所得到的中位頻率振幅不一樣？不會
 
 $EMG_{FT}$
 # Fatique
+由於個體差異，需要用統計方法在嘗試得到人體常模。
+或者使用一些數學分析（例如頻率）找到數據的一致性。
 ## Factors of fatique
 - insufficient blood perfusion of muscle fibers
 - depletion of energy sources
 - metabolites’ build-up $\rightarrow$ excess hydrogen ions ***"slows down the waveform of an action potential"***
 
-ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
+>ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
 >***Synchronization of the motor unit pool leads to an increase in amplitude and an increase in the duration of the activation of the EMG signal***
-
-統一的結論：頻率降低，但是振幅提升（因為同步性）
-![[RF muscle amplitude in different level of faitque.png|400]]
+>頻率降低，但是振幅提升（因為同步性）
+>ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
+>![[RF muscle amplitude in different level of faitque.png|400]]
 隨著phase的不同，股直肌過度用力（恢復機制），為了繼續產生運動並協助在疲勞階段進行代償的肌肉
 
-ref. [[Characterization of muscle fatigue in the lower limb.pdf]]
-用了很棒的統計方法在嘗試解決這種不直觀的數據。
-步行速度的增加，脛前肌的肌電圖中值頻率會顯著下降
+ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
+![[heart rate when fatigue.png|400]]
+
+---
+# Amplitude
+ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
 ![[different muscles when fatigue.png||600]]
 1. RF（股直肌）疲乏中期會下降，後期代償會增加
 2. BF（股二頭肌）肌肉都會增加
 3. TA 疲乏初期也會下降
 4. GL 中期較大
+
 ![[different mean of muscles when fatigue.png|600]]
 誤差條的“鬍鬚”代表了每位參與者的sEMG信號振幅的變異範圍
 系統需要能夠理解代償，或者要想辦法fit回去
@@ -37,12 +39,32 @@ ref. [[Characterization of muscle fatigue in the lower limb.pdf]]
 ---
 # Frequency analysis
 ### Median Frequency
-[[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
+==步行速度的增加，脛前肌的肌電圖中值頻率會顯著下降==
+ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
 $$Z_{xx}(f,t) = \mathcal{F} \left\{ x(t) w(t - \tau) \right\}$$
 $$P(f,t) = |Z_{xx}(f,t)|^2
 $$
 $$\text{Median Frequency} = \text{median} \left( P(f,t) \right)
 $$
+
+---
+# Statistics Method
+ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
+為了對抗個體差異，因此必須考慮統計方法。方可得到人類的常模（母體均值）。
+### Recall
+樣本均值鄉對於母體均值的波動變化
+SD樣本標準差，$\bar{x}$ 樣本均值
+$$SE=\frac{SD}{\sqrt{n}}$$
+SE越小就越接近母體
+$$CI=\bar{x}+Z_{0.95} \cdot SE$$
+Tukey檢驗
+單因素ANOVA後使用
+
+### Application
+SD $\uparrow$ ，肌肉的運動模式變得不一致
+- ==RF和BF 會趨於不穩定，SD上升==
+- 透過SE and CI去分辨是否是具備統計學意義的肌肉疲勞與補償
+$$$$
 
 ---
 # Stablility analysis

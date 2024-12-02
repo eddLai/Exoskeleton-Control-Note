@@ -93,7 +93,8 @@ cupy
 
 ![[pipeline of building Digital Twins.png]]
 
-Deadline: 11/12 (二)
+---
+## Deadline: 11/12 (二)
 Sean
 1. CENIMS到底校正了什麼，關節與
 	1. 關節力臂
@@ -127,7 +128,7 @@ eddlai
 ![[Sean data path1 left first.png]]
 
 ---
-Deadline: 11/26 (二)
+## Deadline: 11/26 (二)
 - sean
 	1. 釐清CENIMS功能，sean, eddlai，CENIMS應該要跟CMC相似，跟Trajectory做校正
 	2. 等長等張，不用負重
@@ -148,7 +149,7 @@ Deadline: 11/26 (二)
 ---
 調整資料工程的工作不能全丟給sean，一定要有其他人
 可以試試看大家一起專攻一個方向，但他一定比我早嘗試
-Deadline: 12/03 (二)
+## Deadline: 12/03 (二)
 - together
 	- 搞懂SCONE的本質，建立資料常模？方可資料生成
 		- dep-RL
@@ -178,3 +179,4 @@ Deadline: 12/03 (二)
 	- 振幅
 	- 頻率
 - [ ] 寫跑0~24，下降趨勢？，寫code去確認這件事情 交給sean
+- [ ] path1_09
