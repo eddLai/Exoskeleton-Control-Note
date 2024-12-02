@@ -33,9 +33,6 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular 
 	- 脛前肌（TA）會主動縮短，踝關節背屈，會加速疲勞
 	- 足底壓力上升
 	- 外翻（pronation）和內翻（supination）。然而，在疲勞狀態下，走路時會出現**外翻力矩（dorsiflexion moment）**
-	- 
-
-
 
 ---
 # Amplitude
