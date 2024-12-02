@@ -167,8 +167,8 @@ eddlai
 	- 量化比較步態擬合
 - 等maurice一起開會（繼續等）
 
-
-推出
+頭ㄧㄥ
+速度不夠
 [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
 待辦問題：
