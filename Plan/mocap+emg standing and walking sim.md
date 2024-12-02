@@ -154,6 +154,7 @@ eddlai
 	- 搞懂SCONE的本質，建立資料常模？方可資料生成（還沒看）
 		- dep-RL
 		- opensim-RL
+	- 
 	- opensim_CMC, CEINMS怎麼資料結合: 釐清CENIMS功能，CENIMS應該要跟CMC相似，跟Trajectory做校正
 	- 討論faitgue偵測與量化文獻
 - sean
