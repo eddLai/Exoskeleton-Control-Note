@@ -67,6 +67,8 @@ SD $\uparrow$ ，肌肉的運動模式變得不一致
 $$\mu_x = \frac{1}{n} \sum_{i=1}^{n} x_i$$
 $$SE_x = \frac{SD_x}{\sqrt{n}}$$
 
+$$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x
+$$
 
 ---
 # Stablility analysis
