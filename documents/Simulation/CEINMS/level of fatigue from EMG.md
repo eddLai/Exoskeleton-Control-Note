@@ -47,7 +47,7 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular
 ---
 # Frequency analysis
 ### Median Frequency
-==步行速度的增加，脛前肌的肌電圖中值頻率會顯著下降==
+==步行速度的增加，脛前肌(TA)的肌電圖中值頻率會顯著下降==
 ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
 $$Z_{xx}(f,t) = \mathcal{F} \left\{ x(t) w(t - \tau) \right\}$$
 $$P(f,t) = |Z_{xx}(f,t)|^2
