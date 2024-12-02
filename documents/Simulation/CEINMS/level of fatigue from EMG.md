@@ -62,7 +62,7 @@ Tukey檢驗
 $$\Delta \bar{Y}_{ij} = \bar{Y}_i - \bar{Y}_j$$
 $$SE(\Delta \bar{Y}_{ij}) = \sqrt{\frac{S^2}{n_i} + \frac{S^2}{n_j}}$$
 $$q_\alpha$$
-
+$$|\Delta \bar{Y}_{ij}| > q_\alpha \cdot SE(\Delta \bar{Y}_{ij})$$
 ### Application
 SD $\uparrow$ ，肌肉的運動模式變得不一致
 - ==RF和BF 會趨於不穩定，SD上升==
