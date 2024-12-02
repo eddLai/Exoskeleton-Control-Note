@@ -167,8 +167,9 @@ eddlai
 	- 量化比較步態擬合
 - 等maurice一起開會（繼續等）
 
-頭ㄧㄥ
-速度不夠
+投影片中
+- 速度不夠
+-  線上資料庫的量化資料
 [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
 待辦問題：
