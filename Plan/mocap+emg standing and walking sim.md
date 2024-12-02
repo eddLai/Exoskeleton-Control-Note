@@ -170,7 +170,8 @@ eddlai
 投影片中
 - [ ] 速度不夠，推測的路徑
 - [ ] 線上資料庫的量化資料（有需要），比較我們的資料是否正確（標準是？）振幅；頻譜
-- CENIMS等我看完User Guide
+- CENIMS等我看完User Guide，再開始編譯
+- 
 
 [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
