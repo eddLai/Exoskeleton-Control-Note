@@ -78,7 +78,7 @@ SD $\uparrow$ ，肌肉的運動模式變得不一致
 $$\mu_x = \frac{1}{n} \sum_{i=1}^{n} x_i$$
 $$SE_x = \frac{SD_x}{\sqrt{n}}$$, but n should be a constant
 $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
-用來判斷是否合理
+用來判斷處於CI的範是否合理
 - 用tukey判斷同一個體各時間段落是否出現顯著差異
 
 ---
