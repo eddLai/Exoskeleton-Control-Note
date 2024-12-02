@@ -172,7 +172,8 @@ eddlai
 - [ ] 線上資料庫的量化資料（有需要），比較我們的資料是否正確（標準是？）振幅；頻譜
 - [ ] 線上資料庫驗證流程失敗的原因
 - CENIMS等我看完User Guide，再開始編譯
-- 
+
+--
 
 [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
