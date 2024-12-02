@@ -89,3 +89,4 @@ $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
 ![[Movement angles of 3 participants.png|500]]
 
 ---
+# Connection with Exoskeleton
