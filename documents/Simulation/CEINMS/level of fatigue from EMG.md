@@ -31,6 +31,7 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular 
 - pathological changes of neuromuscular regulations in patients with neurological impairments and is able to detect a decreasing pattern of EMG complexity
 - speeds
 	- 脛前肌（TA）會主動縮短，踝關節背屈，會加速疲勞
+- 足底壓力上升
 
 
 
