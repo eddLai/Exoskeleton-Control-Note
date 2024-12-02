@@ -70,7 +70,6 @@ $$SE_x = \frac{SD_x}{\sqrt{n}}$$, but n should be a constant
 $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
 用來判斷是否合理
 
-
 ---
 # Stablility analysis
 ### Multiscale Entropy, MSE
