@@ -60,6 +60,7 @@ $$CI=\bar{x}+Z_{0.95} \cdot SE$$
 Tukey檢驗
 單因素ANOVA後使用
 $$$$
+$$$$
 ### Application
 SD $\uparrow$ ，肌肉的運動模式變得不一致
 - ==RF和BF 會趨於不穩定，SD上升==
