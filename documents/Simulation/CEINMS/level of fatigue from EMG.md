@@ -94,7 +94,8 @@ $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{fo
 
 Sample Entropy (SE)
 $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
-$$CI(complexity\ inde) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
+$$CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
+
 ### Movement angles
 ![[Movement angles of 3 participants.png|500]]
 
