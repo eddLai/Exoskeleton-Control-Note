@@ -59,7 +59,8 @@ SE越小就越接近母體
 $$CI=\bar{x}+Z_{0.95} \cdot SE$$
 Tukey檢驗
 單因素ANOVA後使用
-$$$$
+$$\Delta \bar{Y}_{ij} = \bar{Y}_i - \bar{Y}_j
+$$
 $$$$
 ### Application
 SD $\uparrow$ ，肌肉的運動模式變得不一致
