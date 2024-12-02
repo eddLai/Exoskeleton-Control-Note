@@ -25,7 +25,7 @@ optimizer.step()：==以優化器==進行權重更新
 
 1. 計算新Q對於舊的Q的更新方向
 ># DDPG
->TD的算法只要前後兩個，參見[[RL原理]]中的**why target net**，
+>TD的算法只要前後兩個，參見[[principle of RL]]中的**why target net**，
 >$Q_{\text{target}} = r + \gamma \cdot Q(s', a') \cdot (1 - \text{done})$, done是用來處理終止狀態
 >計算$\text{Loss} = \text{MSE}(Q(s, a), Q_{\text{target}})$，用以確保Q的更新方向正確
 >$\text{Loss} = \frac{1}{N} \sum_{i=1}^{N} \left( Q(s_i, a_i) - \left( r_i + \gamma \cdot Q(s'_i, a'_i) \cdot (1 - \text{done}_i) \right) \right)^2$

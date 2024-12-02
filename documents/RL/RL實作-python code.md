@@ -1,7 +1,7 @@
 ## 目標
 核心採用Pathwise Derivative PG或稱Deep Deterministic Policy Gradient，並以最新的D4PG方法修改進行優化以提高穩定度
 參考：[[Deep Reinforcement Learning Hands-On Apply modern RL.pdf]]的ch17
-詳見[[RL原理]], [[python tips]]
+詳見[[principle of RL]], [[python tips]]
 
 ---
 ### models in pytorch

@@ -22,6 +22,14 @@ $EMG_{FT}$
 
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
 ![[heart rate when fatigue.png|400]]
+### Characteristics
+- RF在結束後會出現恢復性過勞行為 $> sEMG_{init}$
+>post-fatigue behavior increasing the electrical amplitude until even exceeding the initial level
+- 補償機制：
+	- **RF和GL肌肉**在15分鐘時顯示出疲勞，並在隨後的測試中表現出一定的電活動增強，顯示肌肉有恢復過度使用的跡象。
+	- **TA和BF肌肉**則在測試期間顯示出穩定的疲勞指標，沒有顯著恢復。
+
+
 
 ---
 # Amplitude
@@ -71,8 +79,11 @@ $$\mu_x = \frac{1}{n} \sum_{i=1}^{n} x_i$$
 $$SE_x = \frac{SD_x}{\sqrt{n}}$$, but n should be a constant
 $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
 用來判斷是否合理
+- 用tukey判斷同一個體各時間段落是否出現顯著差異
 
 ---
 # Stablility analysis
 ### Multiscale Entropy, MSE
 
+### Movement angles
+![[Movement angles of 3 participants.png|500]]

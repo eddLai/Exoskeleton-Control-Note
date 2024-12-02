@@ -6,7 +6,7 @@ History of exoskeleton:[Exoskeletons for Human Performance Augmentation | Spring
 
 ---
 ## 分工
-分成[[EMG彙整]]、[[Overview of AR]]、[[Robotics彙整]](作為從基礎的訓練端出發，DMPs有機會廣泛的使用在兩種模式上，但是仍然讓沈恩佑去讀一下其他資料更好)、[[RL彙整]]進行突破，做一個集成上的應用，[[RL原理]]
+分成[[EMG彙整]]、[[Overview of AR]]、[[Robotics彙整]](作為從基礎的訓練端出發，DMPs有機會廣泛的使用在兩種模式上，但是仍然讓沈恩佑去讀一下其他資料更好)、[[RL application]]進行突破，做一個集成上的應用，[[principle of RL]]
 [[Hip exoskeleton Note]]
 
 ---
@@ -16,3 +16,15 @@ History of exoskeleton:[Exoskeletons for Human Performance Augmentation | Spring
 
 
 [[Document List]]
+
+---
+## 核心目標
+**不是討論人需要輔助多少力，而是透過動態系統去確保人機互動以及輔助的持續發生**
+- [[level of fatigue from EMG]]
+- [[principle of RL]]
+-  [[RL application]]
+- [[overview of opensim]]
+- [[SCONE]]
+
+![[GCBME_exoskeleton_final_algorithm.webp]]
+![[pipeline of building Digital Twins.png]]

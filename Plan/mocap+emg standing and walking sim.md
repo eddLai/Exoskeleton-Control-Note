@@ -1,4 +1,4 @@
-tools: [[SCONE]]用來RL training, [[opensim]]用來進行IK推測, [[CEINMS app.]]
+tools: [[SCONE]]用來RL training, [[overview of opensim]]用來進行IK推測, [[CEINMS app.]]
 
 7 Days ~ 10/3 (Thursday)
 1. make model fit an object
@@ -21,8 +21,8 @@ tools: [[SCONE]]用來RL training, [[opensim]]用來進行IK推測, [[CEINMS app
 				3. [ ] 檢查各個鏡頭
 			2. [ ] (quantize the [[level of fatigue from EMG]]? ***sean, eddlai***)
 		2. Transform the Real EMG to muscle activation
-			1. [x] mocap [[opensim]] [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
-			3. [x] meaning of muscle activation in [[opensim]] and scone [CEINMS](https://pubmed.ncbi.nlm.nih.gov/26522621/) [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]] ***eddlai, sean***, 
+			1. [x] mocap [[overview of opensim]] [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
+			3. [x] meaning of muscle activation in [[overview of opensim]] and scone [CEINMS](https://pubmed.ncbi.nlm.nih.gov/26522621/) [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]] ***eddlai, sean***, 
 				1. [ ] 使用者角度***sean***
 				2. [ ] 把API串接起來
 				3. [x] read the papers
