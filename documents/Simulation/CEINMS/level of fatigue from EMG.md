@@ -28,7 +28,7 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular 
 - 補償機制：
 	- **RF和GL肌肉**在15分鐘時顯示出疲勞，並在隨後的測試中表現出一定的電活動增強，顯示肌肉有恢復過度使用的跡象。
 	- **TA和BF肌肉**則在測試期間顯示出穩定的疲勞指標，沒有顯著恢復。
-
+- pathological changes of neuromuscular regulations in patients with neurological impairments and is able to detect a decreasing pattern of EMG complexity
 
 
 ---
@@ -84,7 +84,14 @@ $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
 ---
 # Stablility analysis
 ### Multiscale Entropy, MSE
+https://physionet.org/files/mse/1.0/tutorial/tutorial.pdf
+不同步行強度下脛前肌和腓腸肌的肌電圖訊號複雜度變化
+粗粒化，用平均
+$$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{for} \quad 1 \leq j \leq \frac{N}{\tau}$$
 
+Sample Entropy (SE)
+$$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
+$$CI = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
 ### Movement angles
 ![[Movement angles of 3 participants.png|500]]
 
