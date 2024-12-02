@@ -65,7 +65,7 @@ SD $\uparrow$ ，肌肉的運動模式變得不一致
 - ==RF和BF 會趨於不穩定，SD上升==
 - 透過SE and CI去分辨是否是具備統計學意義的肌肉疲勞與補償
 $$\mu_x = \frac{1}{n} \sum_{i=1}^{n} x_i$$
-$$SE_x = \frac{SD_x}{\sqrt{n}}$$
+$$SE_x = \frac{SD_x}{\sqrt{n}}$$, but n 
 $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
 
 ---
