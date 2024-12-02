@@ -168,7 +168,7 @@ eddlai
 - 等maurice一起開會（繼續等）
 
 投影片中
-- 速度不夠，推測
+- 速度不夠，推測的路徑
 - 線上資料庫的量化資料
 [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
