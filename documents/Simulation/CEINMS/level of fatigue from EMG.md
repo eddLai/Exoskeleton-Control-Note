@@ -81,6 +81,8 @@ $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
 用來判斷處於CI的範圍內，才合理
 - 用tukey判斷同一個體各時間段落是否出現顯著差異
 - 使用ANOVA：速度與持續時間
+	- - 步行速度 (mph): 1.8, 3.6, 5.4
+	- 持續時間 (分鐘): 10, 20
 
 ---
 # Stablility analysis
