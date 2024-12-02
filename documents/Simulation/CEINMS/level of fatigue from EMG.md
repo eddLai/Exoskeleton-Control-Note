@@ -30,7 +30,8 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular 
 	- **TA和BF肌肉**則在測試期間顯示出穩定的疲勞指標，沒有顯著恢復。
 - pathological changes of neuromuscular regulations in patients with neurological impairments and is able to detect a decreasing pattern of EMG complexity
 - speeds
-	- 脛前肌（TA）會主動縮短，踝關節背屈
+	- 脛前肌（TA）會主動縮短，踝關節背屈，會ㄐㄧㄚ
+
 
 
 ---
