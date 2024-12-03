@@ -132,10 +132,11 @@ $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
 	- 持續時間 (分鐘): 10, 20
 
 ---
-# Stablility analysis
+Stablility analysis
 
 ---
-### Multiscale Entropy, MSE
+Multiscale Entropy, MSE
+
 https://physionet.org/files/mse/1.0/tutorial/tutorial.pdf
 [[MSEtutorial.pdf]]
 https://github.com/inuritdino/MultiScaleEntropy
@@ -148,7 +149,8 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 $$CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
 
 ---
-### Movement angles
+Movement angles
+
 ![[Movement angles of 3 participants.png|500]]
 
 ---
