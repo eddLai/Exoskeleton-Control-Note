@@ -118,6 +118,7 @@ Sample Entropy (SE)
 $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 $$CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
 
+---
 ### Movement angles
 ![[Movement angles of 3 participants.png|500]]
 
