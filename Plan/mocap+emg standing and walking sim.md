@@ -195,4 +195,4 @@ eddlai
 - [ ] 加進手臂的模型，IK部份
 - [ ] 回到多自由度的模型
 - [ ] sensor重組的，需要問物治的老師怎麼標記回對的人體model
-- [ ] 上肢的controller要survey
+- [ ] 上肢的controller要survey，（
