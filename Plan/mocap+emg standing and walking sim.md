@@ -176,7 +176,7 @@ eddlai
 ## Deadline: 12/10 (二)
 量化疲乏之後，再進scone生成的資料
 - [x] opensim moco 完全擬合
-- [ ] 把中間有休息的打
+- [ ] 把中間有休息的寫進簡報
 - [ ] time_difference問題有待商榷，trc都從0.33..開始
 - [ ] [[CEINMS User Guide 0.9.pdf]]
 - [ ] [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
