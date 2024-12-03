@@ -189,6 +189,8 @@ eddlai
 - [ ] [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]] sean, eddlai 找時間一起看
 - [ ] MSE, 小波分析, hilbert轉換 eddlai
 - [ ] Muscle Fatigue Analysis Using OpenSim.pdf sean可以先看，eddlai
+- [ ] 加進手臂的模型，IK部份進opensim
+- [ ] 回到多自由度的模型
 
 
 - [ ] 系統需要能夠理解代償，或者要想辦法fit回去原始的步態，用各種方法
@@ -204,4 +206,4 @@ extension://efaidnbmnnnibpcajpcglclefindmkaj/[https://www.biorxiv.org/content/bi
 病理的需要CPG
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/ "https://pmc.ncbi.nlm.nih.gov/articles/pmc10544733/")
 未來用MUST來做，避免犧牲EMG高頻資訊
-頻譜圖50Hz
+頻譜圖要注意範圍50Hz
