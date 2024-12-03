@@ -68,6 +68,7 @@ Characteristics
 
 ---
 Amplitude
+
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
 ![[different muscles when fatigue.png||600]]
 
