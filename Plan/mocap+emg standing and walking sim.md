@@ -199,9 +199,9 @@ eddlai
 
 >相關資料
 >extension://efaidnbmnnnibpcajpcglclefindmkaj/[https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf "https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf")
->病理的需要CPG
-[https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/ "https://pmc.ncbi.nlm.nih.gov/articles/pmc10544733/")
+>病理的需要CPG [https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/ "https://pmc.ncbi.nlm.nih.gov/articles/pmc10544733/")
 未來用MUST來做，避免犧牲EMG高頻資訊
+
 - [ ] 系統需要能夠理解代償，或者要想辦法fit回去原始的步態，用各種方法
 	- 關節角度
 	- 振幅
