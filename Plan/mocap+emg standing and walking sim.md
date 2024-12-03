@@ -174,7 +174,7 @@ eddlai
 
 ---
 ## Deadline: 12/10 (二)
-
+量化差異之後，再進
 - [x] opensim moco 完全擬合
 - [ ] time_difference問題有待商榷，trc都從0.33..開始
 - [ ] [[CEINMS User Guide 0.9.pdf]]
