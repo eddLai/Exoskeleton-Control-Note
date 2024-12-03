@@ -1,3 +1,24 @@
+<style>
+    .reveal {
+        font-family: 'Times New Roman', '標楷體';
+        font-size: 30px;
+        text-align: left;
+        color: black;
+        background-image: url('NTKLab_white bg.png');
+        background-size: cover;
+        background-position: center;
+    }
+	.with-border{
+		border: 1px solid red;
+	}
+</style>
+
+<grid drag="70 10" drop="-3 40">
+timestamp checking
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+</grid>
+
+<!-- slide bg="NTKLab_white bg_cover_resize.png"-->
 # IDEA
 - ref. 
 	- [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]] [1]  Table2 Fatigue的定義有待商榷
