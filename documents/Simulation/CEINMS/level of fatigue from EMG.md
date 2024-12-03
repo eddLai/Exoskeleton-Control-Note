@@ -47,11 +47,12 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular 
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
 ![[different muscles when fatigue.png||600]]
 
----
 1. RF（股直肌）疲乏中期會下降，後期代償會增加
 2. BF（股二頭肌）肌肉都會增加
 3. TA 疲乏初期也會下降
 4. GL 中期較大
+
+---
 
 ![[different mean of muscles when fatigue.png|600]]
 誤差條的“鬍鬚”代表了每位參與者的sEMG信號振幅的變異範圍
