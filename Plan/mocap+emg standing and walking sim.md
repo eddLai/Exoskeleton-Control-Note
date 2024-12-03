@@ -180,8 +180,8 @@ eddlai
 量化疲乏之後，再進scone生成的資料
 - [x] opensim moco 完全擬合
 - [ ] 把中間有休息的寫進簡報的圖裡 sean
-- [ ] time_difference問題有待商榷，trc都從0.33..開始 sean
-- [ ] 線上資料庫的量化資料（有需要），比較我們的資料是否正確（標準是？）振幅；頻譜
+- [ ] time_difference問題有待商榷，trc都從0.33..開始 sean再次確認
+- [ ] 線上資料庫的量化資料（有需要），比較我們的資料是否正確（標準是？）振幅；頻譜 sean
 - [ ] 線上資料庫驗證流程失敗的原因，速度不夠，推測的路徑
 - CENIMS等我看完User Guide，再開始編譯
 - [ ] [[CEINMS User Guide 0.9.pdf]]
