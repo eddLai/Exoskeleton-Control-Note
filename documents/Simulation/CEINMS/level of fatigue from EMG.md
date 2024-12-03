@@ -21,14 +21,14 @@ level of fatigue from EMG
 <!-- slide bg="NTKLab_white bg_cover_resize.png"-->
 
 ---
-# IDEA
+IDEA
 - ref. 
 	- [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]] [1]  Table2 Fatigue的定義有待商榷
 	- [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]] [2]
 	- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 
 $EMG_{FT}$
-# Fatique
+Fatique
 由於個體差異，需要用統計方法在嘗試得到人體常模。
 或者使用一些數學分析（例如頻率）找到數據的一致性。
 
