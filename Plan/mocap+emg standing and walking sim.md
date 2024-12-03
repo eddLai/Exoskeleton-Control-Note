@@ -176,7 +176,7 @@ eddlai
 待辦問題：
 - [ ] time_difference問題有待商榷，trc都從0.33..開始
 - [ ] [[CEINMS User Guide 0.9.pdf]]
-- [ ] [[Statistical Methods for Defining and Analyzing Declining Trends]]
+- [x] [[Statistical Methods for Defining and Analyzing Declining Trends]]
 - [ ] [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 - [ ] 系統需要能夠理解代償，或者要想辦法fit回去原始的步態，用各種方法
 	- 關節角度
