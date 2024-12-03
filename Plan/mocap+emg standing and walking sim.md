@@ -194,7 +194,7 @@ eddlai
 
 >以後多注意：
 >sean 記得CC給大家
->eddlai 
+>eddlai 頻譜圖要注意範圍50Hz
 
 - [ ] 系統需要能夠理解代償，或者要想辦法fit回去原始的步態，用各種方法
 	- 關節角度
@@ -209,4 +209,3 @@ extension://efaidnbmnnnibpcajpcglclefindmkaj/[https://www.biorxiv.org/content/bi
 病理的需要CPG
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/ "https://pmc.ncbi.nlm.nih.gov/articles/pmc10544733/")
 未來用MUST來做，避免犧牲EMG高頻資訊
-頻譜圖要注意範圍50Hz
