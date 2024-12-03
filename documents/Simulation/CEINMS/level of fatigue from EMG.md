@@ -28,12 +28,13 @@ IDEA
 	- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 
 $EMG_{FT}$
+
 Fatique
 由於個體差異，需要用統計方法在嘗試得到人體常模。
 或者使用一些數學分析（例如頻率）找到數據的一致性。
 
 ---
-## Factors of fatique
+Factors of fatique
 - insufficient blood perfusion of muscle fibers
 - depletion of energy sources
 - metabolites’ build-up $\rightarrow$ excess hydrogen ions ***"slows down the waveform of an action potential"***
