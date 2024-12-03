@@ -203,3 +203,4 @@ extension://efaidnbmnnnibpcajpcglclefindmkaj/[https://www.biorxiv.org/content/bi
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/ "https://pmc.ncbi.nlm.nih.gov/articles/pmc10544733/")
 
 未來用MUST來做，避免犧牲EMG高頻資訊
+50Hz
