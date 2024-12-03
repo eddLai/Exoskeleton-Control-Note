@@ -73,6 +73,8 @@ $$
 # Statistics Method
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
 為了對抗個體差異，因此必須考慮統計方法。方可得到人類的常模（母體均值）。
+
+---
 ### Recall
 樣本均值鄉對於母體均值的波動變化
 SD樣本標準差，$\bar{x}$ 樣本均值
