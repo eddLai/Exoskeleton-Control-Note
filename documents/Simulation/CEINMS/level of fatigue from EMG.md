@@ -28,6 +28,7 @@ IDEA
 	- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 
 $EMG_{FT}$
+- [[Statistical Methods for Defining and Analyzing Declining Trends]]
 
 Fatique
 由於個體差異，需要用統計方法在嘗試得到人體常模。
