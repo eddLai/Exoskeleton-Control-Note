@@ -63,6 +63,8 @@ Characteristics
 - 補償機制：
 	- **RF和GL肌肉**在15分鐘時顯示出疲勞，並在隨後的測試中表現出一定的電活動增強，顯示肌肉有恢復過度使用的跡象。
 	- **TA和BF肌肉**則在測試期間顯示出穩定的疲勞指標，沒有顯著恢復。
+
+---
 - pathological changes of neuromuscular regulations in patients with neurological impairments and is able to detect a decreasing pattern of EMG complexity
 - speeds
 	- 脛前肌（TA）會主動縮短，踝關節背屈，會加速疲勞
