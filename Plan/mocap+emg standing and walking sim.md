@@ -199,3 +199,4 @@ eddlai
 
 extension://efaidnbmnnnibpcajpcglclefindmkaj/[https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf "https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf")
 病理的需要CPG
+[https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/ "https://pmc.ncbi.nlm.nih.gov/articles/pmc10544733/")
