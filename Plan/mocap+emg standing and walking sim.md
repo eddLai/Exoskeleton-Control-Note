@@ -193,7 +193,7 @@ eddlai
 之後盡量做同一件事情
 
 - [ ] 加進手臂的模型，IK部份，opensim
-- [ ] 回到多自由度的模型
+- [ ] 回到多自由度的模型halpe26
 - [ ] sensor重組的，需要問物治的老師怎麼標記回對的人體model
 - [ ] 上肢的controller要survey，有看過用SCONE的文獻
 - [ ] CC給大家
