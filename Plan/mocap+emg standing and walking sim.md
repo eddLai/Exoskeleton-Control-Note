@@ -196,8 +196,6 @@ eddlai
 	- 振幅
 	- 頻率
 
-- [ ] 加進手臂的模型，IK部份進opensim
-- [ ] 回到多自由度的模型
 - [x] sensor重組的，需要問物治的老師怎麼標記回對的人體model(先pass)
 - [ ] 上肢的controller要survey，有看過用SCONE的文
 - [ ] 記得CC給大家
@@ -205,6 +203,5 @@ eddlai
 extension://efaidnbmnnnibpcajpcglclefindmkaj/[https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf "https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf")
 病理的需要CPG
 [https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10544733/ "https://pmc.ncbi.nlm.nih.gov/articles/pmc10544733/")
-
 未來用MUST來做，避免犧牲EMG高頻資訊
-50Hz
+頻譜圖50Hz
