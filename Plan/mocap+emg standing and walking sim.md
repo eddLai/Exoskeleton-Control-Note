@@ -184,7 +184,7 @@ eddlai
 - [ ] 線上資料庫的量化資料（有需要），比較我們的資料是否正確（標準是？）振幅；頻譜 sean
 - CENIMS等看完User Guide，再開始編譯 eddlai
 	- [ ] [[CEINMS User Guide 0.9.pdf]]
-- [ ] [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]] sean
+- [ ] [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]] sean, eddlai 找時間一起看
 - [ ] 系統需要能夠理解代償，或者要想辦法fit回去原始的步態，用各種方法
 	- 關節角度
 	- 振幅
