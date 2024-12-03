@@ -100,7 +100,8 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular
 為了對抗個體差異，因此必須考慮統計方法。方可得到人類的常模（母體均值）。
 
 ---
-### Recall
+Recall
+
 樣本均值鄉對於母體均值的波動變化
 SD樣本標準差，$\bar{x}$ 樣本均值
 $$SE=\frac{SD}{\sqrt{n}}$$
@@ -114,7 +115,8 @@ $$q_\alpha透過顯著水平\alpha定義臨界值$$
 $$|\Delta \bar{Y}_{ij}| > q_\alpha \cdot SE(\Delta \bar{Y}_{ij})則認為有顯著差異$$
 
 ---
-### Application
+Application
+
 SD $\uparrow$ ，肌肉的運動模式變得不一致
 - ==RF和BF 會趨於不穩定，SD上升==
 - 透過SE and CI去分辨是否是具備統計學意義的肌肉疲勞與補償
