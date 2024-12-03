@@ -104,6 +104,8 @@ $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
 
 ---
 # Stablility analysis
+
+---
 ### Multiscale Entropy, MSE
 https://physionet.org/files/mse/1.0/tutorial/tutorial.pdf
 [[MSEtutorial.pdf]]
