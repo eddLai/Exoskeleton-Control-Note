@@ -14,11 +14,13 @@
 </style>
 
 <grid drag="70 10" drop="-3 40">
-timestamp checking
+level of fatigue from EMG
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
 <!-- slide bg="NTKLab_white bg_cover_resize.png"-->
+
+---
 # IDEA
 - ref. 
 	- [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]] [1]  Table2 Fatigue的定義有待商榷
