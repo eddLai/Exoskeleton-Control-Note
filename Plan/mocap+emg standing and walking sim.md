@@ -196,3 +196,5 @@ eddlai
 - [ ] 回到多自由度的模型
 - [ ] sensor重組的，需要問物治的老師怎麼標記回對的人體model
 - [ ] 上肢的controller要survey，（SCONE）
+
+extension://efaidnbmnnnibpcajpcglclefindmkaj/[https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf "https://www.biorxiv.org/content/biorxiv/early/2024/09/10/2024.09.06.611594.full.pdf")
