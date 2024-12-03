@@ -195,14 +195,13 @@ eddlai
 >以後多注意：
 >sean 記得CC給大家
 >eddlai 頻譜圖要注意範圍50Hz
-> sensor重組的特規骨架，需要問物治的老師怎麼標記回對的人體model(先pass)
+>sensor重組的特規骨架，需要問物治的老師怎麼標記回對的人體model(先pass)
 
 - [ ] 系統需要能夠理解代償，或者要想辦法fit回去原始的步態，用各種方法
 	- 關節角度
 	- 振幅
 	- 頻率
 
-- [x] sensor重組的，需要問物治的老師怎麼標記回對的人體model(先pass)
 - [ ] 上肢的controller要survey，有看過用SCONE的文
 - [ ] 記得CC給大家
 
