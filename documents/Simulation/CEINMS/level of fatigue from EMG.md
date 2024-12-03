@@ -27,6 +27,8 @@ $EMG_{FT}$
 ---
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
 ![[heart rate when fatigue.png|400]]
+
+---
 ### Characteristics
 - RF在結束後會出現恢復性過勞行為 $> sEMG_{init}$
 >post-fatigue behavior increasing the electrical amplitude until even exceeding the initial level
