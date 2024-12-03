@@ -26,6 +26,7 @@ $EMG_{FT}$
 
 ---
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
+
 ![[heart rate when fatigue.png|400]]
 
 ---
