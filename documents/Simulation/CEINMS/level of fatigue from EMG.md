@@ -75,9 +75,9 @@ Characteristics
 Amplitude
 
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
-
 ![[different muscles when fatigue.png||400]]
 
+---
 1. RF（股直肌）疲乏中期會下降，後期代償會增加
 2. BF（股二頭肌）肌肉都會增加
 3. TA 疲乏初期也會下降
