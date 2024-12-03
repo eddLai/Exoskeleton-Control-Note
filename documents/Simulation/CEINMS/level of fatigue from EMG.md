@@ -54,7 +54,7 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular 
 ![[heart rate when fatigue.png|400]]
 
 ---
-### Characteristics
+Characteristics
 - RF在結束後會出現恢復性過勞行為 $> sEMG_{init}$
 >post-fatigue behavior increasing the electrical amplitude until even exceeding the initial level
 - 補償機制：
@@ -67,7 +67,7 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular 
 	- 外翻（pronation）和內翻（supination）。然而，在疲勞狀態下，走路時會出現**外翻力矩（dorsiflexion moment）**
 
 ---
-# Amplitude
+Amplitude
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
 ![[different muscles when fatigue.png||600]]
 
