@@ -173,7 +173,7 @@ eddlai
 - CENIMS等我看完User Guide，再開始編譯
 
 ---
-## Deadline: 12/03 (二)
+## Deadline: 12/10 (二)
 待辦問題：
 - [ ] time_difference問題有待商榷，trc都從0.33..開始
 - [ ] [[CEINMS User Guide 0.9.pdf]]
