@@ -86,6 +86,7 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular
 Frequency analysis
 
 Median Frequency
+
 ==步行速度的增加，脛前肌(TA)的肌電圖中值頻率會顯著下降==
 ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
 $$Z_{xx}(f,t) = \mathcal{F} \left\{ x(t) w(t - \tau) \right\}$$
@@ -96,6 +97,7 @@ $$
 
 ---
 Statistics Method
+
 ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular position using the WFD protocol.pdf]]
 為了對抗個體差異，因此必須考慮統計方法。方可得到人類的常模（母體均值）。
 
