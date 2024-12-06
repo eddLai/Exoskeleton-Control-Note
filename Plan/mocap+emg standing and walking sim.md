@@ -180,7 +180,8 @@ eddlai
 ---
 ## Deadline: 12/10 (二)
 量化疲乏之後，再進scone生成的資料
-- [x] opensim moco 完全擬合
+- [ ] 解決notebook merge問題
+- [x] opensim moco 完全擬合，不能用
 - [ ] 把中間有休息的寫進簡報的圖裡 sean
 - [ ] time_difference問題有待商榷，trc都從0.33..開始 sean再次確認
 - [ ] 線上資料庫的量化資料（有需要），比較我們的資料是否正確（標準是？）振幅；頻譜 sean
@@ -191,6 +192,7 @@ eddlai
 - [ ] Muscle Fatigue Analysis Using OpenSim.pdf sean可以先看，eddlai
 - [ ] 回到多自由度的模型，加進halpe26手臂的模型，IK部份進opensim sean
 - [ ] 上肢的controller要survey，找到看過用SCONE的文 eddlai, sean
+- [x] 研究一下RMS envelope，不行，因為最後要走到real-time
 
 >以後多注意：
 >sean 記得CC給大家
