@@ -158,6 +158,7 @@ $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{fo
 
 
 第二步
+
 Sample Entropy (SE)
 得到一個對陣列中，所有可能計算評估
 $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
