@@ -172,6 +172,7 @@ $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{fo
 
 $$MSE\ method\rightarrow CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
 ---
+MSE example
 較長時間尺度下較不複雜
 
 ---
