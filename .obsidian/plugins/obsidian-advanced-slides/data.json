@@ -1,5 +1,5 @@
 {
-  "port": "3030",
+  "port": "3020",
   "autoReload": true,
   "exportDirectory": "/export",
   "enableChalkboard": false,
@@ -7,7 +7,7 @@
   "enableMenu": false,
   "enablePointer": false,
   "enableTimeBar": false,
-  "theme": "black",
+  "theme": "",
   "highlightTheme": "zenburn",
   "transition": "slide",
   "transitionSpeed": "default",
@@ -17,5 +17,5 @@
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-  "motm": "2024-12-03T00:55:27.007Z"
+  "motm": "2024-12-03T00:46:29.544Z"
 }
