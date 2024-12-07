@@ -6,7 +6,7 @@ History of exoskeleton:[Exoskeletons for Human Performance Augmentation | Spring
 
 ---
 ## 分工
-分成[[EMG彙整]]、[[Overview of AR]]、[[Robotics彙整]](作為從基礎的訓練端出發，DMPs有機會廣泛的使用在兩種模式上，但是仍然讓沈恩佑去讀一下其他資料更好)、[[RL application]]進行突破，做一個集成上的應用，[[principle of RL]]
+分成[[overview of EMG]]、[[Overview of AR]]、[[Robotics彙整]](作為從基礎的訓練端出發，DMPs有機會廣泛的使用在兩種模式上，但是仍然讓沈恩佑去讀一下其他資料更好)、[[RL application]]進行突破，做一個集成上的應用，[[principle of RL]]
 [[Hip exoskeleton Note]]
 
 ---
