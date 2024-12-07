@@ -1,0 +1,100 @@
+/* Slide Presentation CSS Template */
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #333;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .slide {
+    background-color: white;
+    border-radius: 8px;
+    margin: 20px auto;
+    padding: 40px;
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+  }
+  
+  h2 {
+    font-size: 2em;
+    margin-bottom: 0.75em;
+  }
+  
+  p, li {
+    font-size: 1.25em;
+    line-height: 1.5;
+  }
+  
+  a {
+    color: #0066cc;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  ul {
+    margin: 1em 0;
+    padding-left: 20px;
+  }
+  
+  li {
+    margin: 0.5em 0;
+  }
+  
+  code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #eee;
+    padding: 2px 4px;
+    border-radius: 4px;
+  }
+  
+  pre code {
+    display: block;
+    padding: 10px;
+    overflow-x: auto;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Custom class for specific styling */
+  .key-point {
+    font-weight: bold;
+    color: #d14;
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 768px) {
+    .slide {
+      width: 95%;
+      padding: 20px;
+    }
+  
+    h1 {
+      font-size: 2em;
+    }
+  
+    h2 {
+      font-size: 1.75em;
+    }
+  
+    p, li {
+      font-size: 1em;
+    }
+  }
+  

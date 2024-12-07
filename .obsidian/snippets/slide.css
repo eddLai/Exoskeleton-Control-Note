@@ -1,0 +1,71 @@
+
+/* Base styling for slides */
+.reveal .slides section {
+    color: #FFFFFF; /* White text for high contrast */
+    background-color: #333333; /* Dark background for readability */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Modern, readable font */
+    text-align: left; /* Align text to the left */
+    transition: transform 0.5s ease; /* Smooth transition for slide changes */
+    font-size: 26px; /* Adjust font size */
+    padding: 30px; /* Padding around text */
+}
+
+/* Slide transition animations */
+.reveal .slides {
+    animation: slideIn 0.5s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-10%);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Styling for headings to make them stand out */
+.reveal h1, .reveal h2, .reveal h3 {
+    color: #FFD700; /* Gold color for headings, adds emphasis */
+}
+
+/* Code block enhancements for technical content */
+.reveal pre code {
+    background-color: #2B2B2B; /* Slightly lighter background for code blocks */
+    color: #F8F8F2; /* White-ish text color for code */
+    border: 1px solid #555; /* Border for definition */
+    box-shadow: 0 2px 3px rgba(0,0,0,0.2); /* Soft shadow for depth */
+    border-radius: 5px; /* Rounded corners for modern look */
+    padding: 15px; /* Padding for better readability */
+    overflow-x: auto; /* Ensures code blocks are scrollable horizontally */
+}
+
+/* Enhancements for lists */
+.reveal ul li, .reveal ol li {
+    margin-bottom: 10px; /* Space out list items */
+    list-style-type: disc; /* Disc style for unordered lists */
+    list-style-position: inside; /* Ensures alignment */
+}
+
+/* Custom styling for links to make them noticeable */
+.reveal a {
+    color: #1E90FF; /* Bright blue color for links */
+    text-decoration: underline; /* Underline for clarity */
+}
+
+/* 確保所有標題都左對齊 */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    text-align: left;
+}
+
+/* 如果有需要，確保表格也左對齊 */
+.reveal table {
+    text-align: left;
+}
+
+/* 確保引用也左對齊 */
+.reveal blockquote {
+    text-align: left;
+}
