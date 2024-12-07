@@ -180,7 +180,7 @@ eddlai
 ---
 ## Deadline: 12/10 (二)
 量化疲乏之後，再進scone生成的資料
-- [ ] 解決notebook merge問題
+- [x] 解決notebook merge問題
 - [x] opensim moco 完全擬合，不能用
 - [ ] 把中間有休息的寫進簡報的圖裡 sean
 - [ ] time_difference問題有待商榷，trc都從0.33..開始 sean再次確認
