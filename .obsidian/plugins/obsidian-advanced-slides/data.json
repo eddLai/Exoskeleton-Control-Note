@@ -7,7 +7,7 @@
   "enableMenu": false,
   "enablePointer": false,
   "enableTimeBar": false,
-  "theme": "white",
+  "theme": "css/layout.css",
   "highlightTheme": "zenburn",
   "transition": "slide",
   "transitionSpeed": "default",
