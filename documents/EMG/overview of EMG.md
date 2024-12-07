@@ -9,6 +9,7 @@ MUAPs
 ### Denoise方法
 - muscle artifact (MA)
 - ocular artifacts
+- Baseline wander
 - 
 
 
