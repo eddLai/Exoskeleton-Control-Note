@@ -188,7 +188,7 @@ eddlai
 - CENIMS等看完User Guide，再開始編譯 eddlai
 	- [ ] [[CEINMS User Guide 0.9.pdf]]
 - [ ] [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]] sean, eddlai 找時間一起看
-- [ ] MSE:可以
+- [ ] MSE:可以拿來量化pattern
 - [ ] 小波分析, hilbert轉換 eddlai
 - [ ] Muscle Fatigue Analysis Using OpenSim.pdf sean可以先看，eddlai
 - [ ] 回到多自由度的模型，加進halpe26手臂的模型，IK部份進opensim sean
