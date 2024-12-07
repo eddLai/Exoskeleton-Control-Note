@@ -153,6 +153,7 @@ https://github.com/inuritdino/MultiScaleEntropy
 $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{for} \quad 1 \leq j \leq \frac{N}{\tau}$$
 
 Sample Entropy (SE)
+得到一個對陣列中，所有可能計算評估
 $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 存在${x_1, x_2, ..., x_N}$，
 - $m$: ~~可輸入之樣式長度~~，切分pattern是自動的，$m$ 的向量為 ${x_i, x_{i+1}, ..., x_{i+m-1}}$，其中 $1 \le i \le N-m+1$
