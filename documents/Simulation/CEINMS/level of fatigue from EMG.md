@@ -155,6 +155,7 @@ $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{fo
 Sample Entropy (SE)
 $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 存在${x_1, x_2, ..., x_N}$，
+
 可輸入之樣式長度，$m$ 的向量為 ${x_i, x_{i+1}, ..., x_{i+m-1}}$，其中 $1 \le i \le N-m+1$
 $|x_{i+k} - x_{j+k}| \le r$，其中 $0 \le k \le m-1$
 
