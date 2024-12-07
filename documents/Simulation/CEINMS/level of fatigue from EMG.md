@@ -178,6 +178,10 @@ SE example
 白噪音較長時間尺度下較不複雜, 但1/f 噪音沒有
 
 ---
+https://journal.gerontechnology.org/archives/2109-2424-1-SM.pdf
+
+
+---
 Movement angles
 
 ![[Movement angles of 3 participants.png|500]]
