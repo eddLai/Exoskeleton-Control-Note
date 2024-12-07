@@ -169,7 +169,7 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 - $\tau$: 樣本長度N
 
 ---
-SE結果：$0<SE<\infty$, 用於量化時間序列的複雜度或規律性，
+SE結果：$0<SE<\infty$, 用於量化時間序列的複雜度或規律性，亂度低表示越規律
 $$CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
 
 ---
