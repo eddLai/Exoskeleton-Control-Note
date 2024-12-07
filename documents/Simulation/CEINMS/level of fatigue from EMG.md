@@ -165,7 +165,9 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 ---
 SE結果：$0<SE<\infty$, 用於量化時間序列的複雜度或規律性，亂度低表示越規律
 
-粗粒化，用平均
+粗粒化
+
+用於得到不同ㄕ
 $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{for} \quad 1 \leq j \leq \frac{N}{\tau}$$
 
 $$CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
