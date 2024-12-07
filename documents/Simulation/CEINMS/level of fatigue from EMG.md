@@ -157,7 +157,7 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 存在${x_1, x_2, ..., x_N}$，
 - $m$: 可輸入之樣式長度，$m$ 的向量為 ${x_i, x_{i+1}, ..., x_{i+m-1}}$，其中 $1 \le i \le N-m+1$
 - $r$: $|x_{i+k} - x_{j+k}| \le \gamma$，其中 $0 \le k \le m-1$
-- $\tau$: 樣本長度N
+$\tau$: 樣本長度N
 
 $$CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
 
