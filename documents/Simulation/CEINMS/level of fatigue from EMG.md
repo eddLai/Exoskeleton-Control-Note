@@ -145,9 +145,10 @@ Stablility analysis
 ---
 Multiscale Entropy, MSE
 
-https://physionet.org/files/mse/1.0/tutorial/tutorial.pdf
-[[MSEtutorial.pdf]]
-https://github.com/inuritdino/MultiScaleEntropy
+- https://physionet.org/files/mse/1.0/tutorial/tutorial.pdf
+- [[MSEtutorial.pdf]]
+- https://github.com/inuritdino/MultiScaleEntropy
+
 應用：不同步行強度下脛前肌和腓腸肌的肌電圖訊號複雜度變化
 
 ---
