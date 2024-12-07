@@ -10,7 +10,7 @@ MUAPs
 - muscle artifact (MA)
 - ocular artifacts
 - Baseline wander
-- 
+- CEEMDAN
 
 
 - [[level of fatigue from EMG]]
