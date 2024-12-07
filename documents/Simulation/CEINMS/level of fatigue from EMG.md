@@ -171,6 +171,7 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{for} \quad 1 \leq j \leq \frac{N}{\tau}$$
 
 $$MSE\ method\rightarrow CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
+
 ---
 MSE example
 ![[MSE example.png|500]]
