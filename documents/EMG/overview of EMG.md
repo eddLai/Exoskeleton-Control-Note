@@ -7,7 +7,9 @@
 ### Models
 MUAPs
 ### Denoise方法
-muscle artifact (MA)
-ocular artifacts
+- muscle artifact (MA)
+- ocular artifacts
+- 
+
 
 - [[level of fatigue from EMG]]
