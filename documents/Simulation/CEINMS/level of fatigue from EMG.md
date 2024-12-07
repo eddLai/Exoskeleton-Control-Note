@@ -170,7 +170,9 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 用於得到不同尺度(粗度)的時間序列
 $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{for} \quad 1 \leq j \leq \frac{N}{\tau}$$
 
-$$MSE\rightarrow CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
+$$MSE\ method\rightarrow CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
+---
+較長時間尺度下較不複雜
 
 ---
 Movement angles
