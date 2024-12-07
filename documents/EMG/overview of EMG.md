@@ -3,5 +3,8 @@
 
 可能要用來配合建立DQN的模型
 
+---
+
+」### Denoise方法
+
 - [[level of fatigue from EMG]]
-解釋MUAPs
