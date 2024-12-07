@@ -183,6 +183,6 @@ Movement angles
 ![[Movement angles of 3 participants.png|500]]
 
 ---
-# Connection with Exoskeleton
+Connection with Exoskeleton
 
 WFDB application 生理數據資料庫
