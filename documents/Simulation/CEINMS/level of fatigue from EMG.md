@@ -148,7 +148,7 @@ Multiscale Entropy, MSE
 https://physionet.org/files/mse/1.0/tutorial/tutorial.pdf
 [[MSEtutorial.pdf]]
 https://github.com/inuritdino/MultiScaleEntropy
-不同步行強度下脛前肌和腓腸肌的肌電圖訊號複雜度變化
+應用：不同步行強度下脛前肌和腓腸肌的肌電圖訊號複雜度變化
 粗粒化，用平均
 $$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{for} \quad 1 \leq j \leq \frac{N}{\tau}$$
 
@@ -159,7 +159,6 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 - $r$: $|x_{i+k} - x_{j+k}| \le \gamma$，其中 $0 \le k \le m-1$
 - $\tau$: 樣本長度N
 
-得到一個對陣列中，所有可能計算評估
 $$CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
 
 ---
