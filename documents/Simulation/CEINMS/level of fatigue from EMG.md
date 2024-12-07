@@ -190,5 +190,5 @@ Movement angles
 ---
 Connection with Exoskeleton
 生理數據資料庫
-WFDB application
-MIT-BIH database
+- WFDB application
+- MIT-BIH database
