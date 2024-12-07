@@ -168,6 +168,8 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 - $r$: $|x_{i+k} - x_{j+k}| \le \gamma$，其中 $0 \le k \le m-1$
 - $\tau$: 樣本長度N
 
+---
+SE結果：樣本熵值是一個介於 0 到正無限大之間的數值，用於量化時間序列的複雜度或規律性
 $$CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
 
 ---
