@@ -50,9 +50,9 @@ $$arctan(-\infty)=-\pi/2, for\ \omega>0$$
 $$arctan(\infty)=\pi/2, for\ \omega<0$$
 
 ---
-$$h(t) = \mathcal{F}^{-1}\{H(f)\} = \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df=\frac{C}{jw}$$
+$$h(t) = \mathcal{F}^{-1}\{H(w)\} = \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df=\frac{C}{jw}$$
 [[fourier transform of sgn]]
-$$H(f)=\text{sgn}(t) = 
+$$H(f)=\text{sgn}(w) = 
 \begin{cases} 
 1 & \text{for } t > 0 \\
 0 & \text{for } t = 0 \\
