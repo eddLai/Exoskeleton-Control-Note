@@ -40,6 +40,8 @@ LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
 系統輸出是信號與系統函數的卷積
 $$y(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
 $$
+[[]]
+
 ---
 [[fourier transform of sgn]]
 $$H(f)=\text{sgn}(w) = 
@@ -80,7 +82,7 @@ $$H(x(t)) = \frac{1}{\pi} \, \text{p.v.} \int_{-\infty}^{\infty} \frac{x(\tau)}{
 $$BTW. u(f) = \frac{1 + \text{sgn}(f)}{2}.$$
 
 ---
-### Hilbert tansform
+### Meaning of Hilbert tansform in freq domain
 https://tzupingkao.coderbridge.io/2022/09/24/9-HilbertTransform/
 對頻譜做$90^o$相位偏移
 $$z=re^{j\theta}$$
