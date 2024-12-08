@@ -78,8 +78,11 @@ X_a(f), & \text{for } f = 0, \\
 
 $$X_a(F) = X(f) + \text{sgn}(f) \cdot X(f)$$
 
-
+---
 $$x_a(t) \overset{\text{def}}{=} \mathcal{F}^{-1} \left[ X_a(f) \right]$$
+$$z(t) = x(t) + j \hat{x}(t)$$
+$$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
+$$X(f) = \mathscr{F}\{x(t)\}$$
 $$x_a(t) = \mathcal{F}^{-1} \left[ X(f) \right] + \mathcal{F}^{-1} \left[ \text{sgn}(f) \right] \ast \mathcal{F}^{-1} \left[ X(f) \right]$$
 $$x_a(t) = x(t) + j \left[ \frac{1}{\pi t} \ast x(t) \right]=x(t)+s_a(t) = s(t) + j \hat{x}(t).
 $$
