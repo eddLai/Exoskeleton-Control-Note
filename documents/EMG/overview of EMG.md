@@ -1,5 +1,5 @@
 # 現在方案
-1. SR: 1000Hz
+1. Cygnus, protocol: BT 
 2. high-pass filter: `filted_emg = self.h_filter.filtfilt(signal)`
 3. notch filter:`filted_emg = self.n_filter.filtfilt(filted_emg)`
 4. Rectification: `rect_emg = np.abs(filted_emg)`
