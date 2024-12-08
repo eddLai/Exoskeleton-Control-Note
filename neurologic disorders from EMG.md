@@ -5,3 +5,5 @@ amyotrophic lateral sclerosis (ALS))
 - fasciculation potential
 
 characterize spontaneous motor unit firing properties
+
+approximate entropy (ApEn) 
