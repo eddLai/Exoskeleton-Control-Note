@@ -81,8 +81,10 @@ $$X_a(F) = X(f) + \text{sgn}(f) \cdot X(f)$$
 ---
 $$x_a(t) \overset{\text{def}}{=} \mathcal{F}^{-1} \left[ X_a(f) \right]$$
 $$x_a(t) = \mathcal{F}^{-1} \left[ X(f) \right] + \mathcal{F}^{-1} \left[ \text{sgn}(f) \right] \ast \mathcal{F}^{-1} \left[ X(f) \right]$$
-$$x_a(t) = x(t) + j \left[ \frac{1}{\pi t} \cdot x(t) \right]=x(t) + j \hat{x}(t)$$
-$$u(f) = \frac{1 + \text{sgn}(f)}{2}.$$
+$$x_a(t) = x(t) + j \left[ \frac{1}{\pi t} \cdot x(t) \right]=x(t) + j \hat{x}(t)= x(t) + j \cdot H(x(t))$$
+$$H(x(t)) = \mathcal{F}^{-1}\left[ -i \cdot \text{sgn}(\omega) \cdot X(\omega) \right]$$
+$$H(x(t)) = \frac{1}{\pi} \, \text{p.v.} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
+$$BTW. u(f) = \frac{1 + \text{sgn}(f)}{2}.$$
 
 ---
 MSE
