@@ -1,5 +1,3 @@
-
----
 [[fourier transform of sgn]]
 $$H(f)=\text{sgn}(w) = 
 \begin{cases} 
