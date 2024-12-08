@@ -3,6 +3,9 @@ amyotrophic lateral sclerosis (ALS))
 - fibrillation potentials
 - positive sharp waves
 - fasciculation potential
+- 零星尖峰 (Sporadic spikes)： 以非常低的放電率隨機放電。
+- 強直尖峰 (Tonic spikes)： 總是表現出一系列有規律的尖峰放電，類似於最小激活時的運動單位動作電位。
+- 重複性放電 (Repetitive discharges)： 代表高頻、重複的動作電位放電，例如雙峰、三峰、多峰或長時間的迭代自發放電（即肌陣攣性或神經肌強直性放電）。
 
 characterize spontaneous motor unit firing properties
 
