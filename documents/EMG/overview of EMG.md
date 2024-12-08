@@ -51,8 +51,8 @@ $$arctan(-\infty)=-\pi/2, for\ \omega>0$$
 $$arctan(\infty)=\pi/2, for\ \omega<0$$
 
 ---
-$$h(t) = \mathcal{F}^{-1}\{H(fy(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
-)\} = \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df=\int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df$$
+$$h(t) = \mathcal{F}^{-1}\{H(fy(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau)\} 
+$$$$= \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df=\int_{-\infty}^\infty \frac{C}{jw} e^{j 2 \pi f t} df$$
 [[fourier transform of sgn]]
 $$H(f)=\text{sgn}(w) = 
 \begin{cases} 
