@@ -58,7 +58,9 @@ $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 取得分量，減去均值包絡線
 $$p(t) = r(t) - m(t)\quad \text{(2)}$$
 $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
-$$\text{If } \text{SD} < \delta, \text{ proceed to next step, otherwise return to step (2)}$$
+兩個ㄊㄧㄠ
+1. $$\text{If } \text{SD} < \delta, \text{ proceed to next step, otherwise return to step (2)}$$
+2. $$\text{If } r(t) \text{ is not monotonic, then go back to step (2) and set } k = k + 1$$
 
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
