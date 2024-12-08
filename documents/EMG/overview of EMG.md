@@ -20,7 +20,7 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 $$z(t) = x(t) + j \hat{x}(t)$$
 
 ### Hilbert tansform
-
+$$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 
 
 MSE
