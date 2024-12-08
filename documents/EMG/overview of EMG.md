@@ -1,15 +1,13 @@
 # 現在方案
 1. Cygnus, protocol:BT 
 >Cygnus version: 0.28.0.7
-Operative system: Windows
-Record datetime: 2024-10-09 15:52:36.017
-Device ID: STEEG_DG819202
-Device verison: 
-Device bandwidth: DC to 131 Hz
-Device sampling rate: 1000 samples/second
-Data type / unit: non-EEG / micro-volt (uV)
-Bandpass filter: None
-Notch filter: None
+>Operative system: Windows
+>Device ID: STEEG_DG819202
+>Device bandwidth: DC to 131 Hz
+>Device sampling rate: 1000 samples/second
+>Data type / unit: non-EEG / micro-volt (uV)
+>Bandpass filter: None
+>Notch filter: None
 
 1. high-pass filter: `filted_emg = self.h_filter.filtfilt(signal)`
 2. notch filter:`filted_emg = self.n_filter.filtfilt(filted_emg)`
