@@ -56,5 +56,5 @@ MSE
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
 
-- [[neurologic disorders from EMG]]
+- [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
