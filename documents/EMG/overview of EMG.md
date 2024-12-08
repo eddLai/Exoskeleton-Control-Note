@@ -46,7 +46,9 @@ $$z=re^{j\theta}$$
 $$e^{j\theta}=cos(\theta)+jsin(\theta)$$
 $$\theta=arg(z)=arctan(\frac{Im(z)}{Re(z)})$$
 $$a+bj=\frac{1}{jw}=-j\frac{1}{w}$$
-$$arctan(-\infty)=-\pi/2, for\ \omega<$$
+$$arctan(-\infty)=-\pi/2, for\ \omega>0$$
+$$arctan(\infty)=\pi/2, for\ \omega<0$$
+---
 $$H(f) =
 \begin{cases}
 -j, & f > 0, \\
