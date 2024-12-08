@@ -51,6 +51,8 @@ IMF: 波動是0，上下差小於1
 ---
 ### Entropy
 [Entropy Hub Guide](https://www.entropyhub.xyz/_downloads/40d9c1910993d9509e60865d940bb066/EntropyHubGuide.pdf)
+[[Approximate Entropy and Sample Entropy: A Comprehensive Tutorial.pdf]]
+
 
 
 ---
