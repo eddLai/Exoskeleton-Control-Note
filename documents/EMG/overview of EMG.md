@@ -42,6 +42,7 @@ LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
 ### Hilbert tansform
 https://tzupingkao.coderbridge.io/2022/09/24/9-HilbertTransform/
 對頻譜做$90^o$相位偏移
+$$j\omega \rightarrow 90$$
 $$H(f) =
 \begin{cases}
 -j, & f > 0, \\
