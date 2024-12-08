@@ -4,7 +4,7 @@
         font-size: 30px;
         text-align: left;
         color: black;
-        background-image: url('NTKLab_white bg.png');
+        background-image: url('../NTKLab_white bg.png');
         background-size: cover;
         background-position: center;
     }
