@@ -112,6 +112,10 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular
 ---
 Recall生物統計
 
+{0, 5, 9, 14}和{5, 6, 8, 9}其平均值都是7，但第二個集合具有較小的標準差。
+
+表述「相差k![{\displaystyle k}](https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40)個標準差」，即在 $\bar{X}±kS$ 的[樣本](https://zh.wikipedia.org/wiki/%E6%A8%A3%E6%9C%AC_(%E7%B5%B1%E8%A8%88%E5%AD%B8) "樣本 (統計學)")（sample）範圍內考量。
+
 樣本均值鄉對於母體均值的波動變化
 SD樣本標準差，$\bar{x}$ 樣本均值
 $$SE=\frac{SD}{\sqrt{n}}$$
