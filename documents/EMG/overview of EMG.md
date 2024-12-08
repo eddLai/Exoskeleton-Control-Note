@@ -60,8 +60,6 @@ $$H(f)=\text{sgn}(w) =
 0 & \text{for } t = 0 \\
 -1 & \text{for } t < 0
 \end{cases}$$
-$$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
-$$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
 
 ### Analytic signal
 使得$x(t)$之原始信號，沒有負頻率（傅立葉轉換僅僅為了維持
