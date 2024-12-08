@@ -45,7 +45,7 @@ https://tzupingkao.coderbridge.io/2022/09/24/9-HilbertTransform/
 $$z=re^{j\theta}$$
 $$e^{j\theta}=cos(\theta)+jsin(\theta)$$
 $$\theta=arg(z)=arctan(\frac{Im(z)}{Re(z)})$$
-$$a+bj=\frac{1}{jw}=-j$$
+$$a+bj=\frac{1}{jw}=-j\frac{1}{w}$$
 $$z=j\omega \rightarrow 90^o$$
 $$H(f) =
 \begin{cases}
