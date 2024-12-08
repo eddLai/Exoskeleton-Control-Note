@@ -42,16 +42,18 @@ $$y(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
 $$
 - [[Analytic signal and Hilbert Transform]]
 
----
-### Entropy
 經驗模態分解法：
 瞬時頻率：透過analytic signal
-
-[Entropy Hub Guide](https://www.entropyhub.xyz/_downloads/40d9c1910993d9509e60865d940bb066/EntropyHubGuide.pdf)
-
 intrinsic mode function
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
 
+---
+### Entropy
+[Entropy Hub Guide](https://www.entropyhub.xyz/_downloads/40d9c1910993d9509e60865d940bb066/EntropyHubGuide.pdf)
+
+
+---
+# App.
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
