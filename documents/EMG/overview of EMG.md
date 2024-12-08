@@ -46,6 +46,7 @@ X(f), & \text{for } f = 0, \\
 0, & \text{for } f < 0,
 \end{cases}=X(f)+\text{sgn}(f) X(f)
 $$
+$$u(f) = \frac{1 + \text{sgn}(f)}{2}.$$
 ### Hilbert tansform
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
