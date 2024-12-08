@@ -11,4 +11,4 @@ characterize spontaneous motor unit firing properties
 - approximate entropy (ApEn) 
 	- nonlinear complexity domain
 - multiscale entropy
-- intrinsic mode entropy
+- intrinsic mode entropy (IMEn), empirical mode decomposition (EMD)
