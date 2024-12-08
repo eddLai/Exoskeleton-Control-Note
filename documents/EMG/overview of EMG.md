@@ -18,7 +18,7 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 ### Analytic signal
 對於$x(t)$之原始信號，存在沒有負頻率的複值形式
 $$z(t) = x(t) + j \hat{x}(t)$$
-$$$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
+$$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
 $$X(-f) = X^*(f)$$
 ### Hilbert tansform
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
