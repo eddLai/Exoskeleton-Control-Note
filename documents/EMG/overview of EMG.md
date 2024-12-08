@@ -42,7 +42,7 @@ $$y(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
 $$
 - [[Analytic signal and Hilbert Transform]]
 
-ref. [[Multi-Scale Entropy Analysis of Different Spontaneous Motor.pdf]]
+ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 瞬時頻率：透過analytic signal
 ### intrinsic mode function:
 - 局部極值，與過零點數量相等
