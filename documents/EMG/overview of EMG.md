@@ -51,8 +51,6 @@ $$arctan(-\infty)=-\pi/2, for\ \omega>0$$
 $$arctan(\infty)=\pi/2, for\ \omega<0$$
 
 ---
-$$h(t) = \mathcal{F}^{-1}\{H(fy(t)\} = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau
-$$$$= \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df=\int_{-\infty}^\infty \frac{C}{jw} e^{j 2 \pi f t} df$$
 [[fourier transform of sgn]]
 $$H(f)=\text{sgn}(w) = 
 \begin{cases} 
@@ -62,7 +60,7 @@ $$H(f)=\text{sgn}(w) =
 \end{cases}$$
 
 ### Analytic signal
-使得$x(t)$之原始信號，沒有負頻率（傅立葉轉換僅僅為了維持
+使得$x(t)$之原始信號，沒有負頻率（傅立葉轉換僅僅為了維持)
 $$z(t) = x(t) + j \hat{x}(t)$$
 $$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
 $$X(f) = \mathscr{F}\{x(t)\}$$
