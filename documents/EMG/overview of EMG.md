@@ -14,7 +14,7 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 - CEEMDAN
 
 ---
-# Analysis
+# Analysis methods
 https://web.ntnu.edu.tw/~algo/Signal.html
 ### Analytic signal
 對於$x(t)$之原始信號，存在沒有負頻率的複值形式
@@ -39,5 +39,5 @@ MSE
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
 
-- 
+- [[disease of ]]
 - [[level of fatigue from EMG]]
