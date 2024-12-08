@@ -49,6 +49,9 @@ j, & f < 0.
 \end{cases}
 $$
 $$h(t) = \mathcal{F}^{-1}\{H(f)\} = \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df.$$
+$$\int_{0}^\infty (-j) e^{j 2 \pi f t} df = -j \int_{0}^\infty e^{j 2 \pi f t} df.$$
+反之
+
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
 $$\text{sgn}(f) =
