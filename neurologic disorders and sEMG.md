@@ -10,7 +10,9 @@ amyotrophic lateral sclerosis (ALS))
 - 病理sEMG會有較低的entropy, 
 - 重複性自發性尖峰和正常表面肌電圖基線可以通過它們的最低和最高平均熵值輕鬆地區分
 - MEMD 的 IMEn 分析在尺度 4可見顯著差異，而MSE需要尺度6
-- 
+- 高尺度，
+強直尖峰具有更高的複雜性水平，並且比零星尖峰，
+
 
 ---
 characterize spontaneous motor unit firing properties
