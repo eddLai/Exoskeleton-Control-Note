@@ -50,13 +50,6 @@ $$arctan(-\infty)=-\pi/2, for\ \omega>0$$
 $$arctan(\infty)=\pi/2, for\ \omega<0$$
 
 ---
-$$H(f) =
-\begin{cases}
--j, & f > 0, \\
-0, & f = 0, \\
-j, & f < 0.
-\end{cases}
-$$
 $$h(t) = \mathcal{F}^{-1}\{H(f)\} = \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df.$$
 $$\int_{0}^\infty (-j) e^{j 2 \pi f t} df = -j \int_{0}^\infty e^{j 2 \pi f t} df=\frac{1}{j 2 \pi t}$$
 反之負頻域
