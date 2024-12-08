@@ -164,6 +164,7 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 
 B的序列再延伸一個值
 $$A_{\tau}=$$
+$$B_{\tau}=$$
 
 ---
 >SE結果：$0<SE<\infty$, 用於量化時間序列的複雜度或規律性，亂度低表示越規律
