@@ -10,6 +10,7 @@ amyotrophic lateral sclerosis (ALS))
 - 病理sEMG會有較低的entropy, 
 - 重複性自發性尖峰和正常表面肌電圖基線可以通過它們的最低和最高平均熵值輕鬆地區分
 
+---
 characterize spontaneous motor unit firing properties
 
 >based on SampleEn
