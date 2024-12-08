@@ -49,8 +49,8 @@ $$
 $$X(f) = 
 \begin{cases}
 \frac{1}{2} X_a(f), & \text{for } f > 0, \\
-S_a(f), & \text{for } f = 0, \\
-\frac{1}{2} S_a(-f)^*, & \text{for } f < 0 \, \text{(Hermitian symmetry)},
+X_a(f), & \text{for } f = 0, \\
+\frac{1}{2} X_a(-f)^*, & \text{for } f < 0 \, \text{(Hermitian symmetry)},
 \end{cases}$$
 
 $$u(f) = \frac{1 + \text{sgn}(f)}{2}.$$
