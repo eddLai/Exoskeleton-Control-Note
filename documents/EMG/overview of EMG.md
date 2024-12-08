@@ -52,8 +52,9 @@ ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 一個signal由多個IMF組成，IMF可以是線性或者非線性的
 $$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
 $$
+用局部極值找到包絡線
 $$e_{\text{max}}(t), \quad e_{\text{min}}(t)$$
-
+$$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
