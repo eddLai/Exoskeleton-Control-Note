@@ -157,6 +157,7 @@ Multiscale Entropy, MSE
 ---
 
 Sample Entropy (SE)
+- ref. [[Multi-Scale Entropy Analysis of Different Spontaneous Motor.pdf]]
 
 得到一個對陣列中，所有可能計算評估
 $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
