@@ -47,6 +47,8 @@ MSE
 經驗模態分解法：
 瞬時頻率：透過analytic signal
 
+file:///home/eddlai/Downloads/entropy-23-01309.pdf
+
 intrinsic mode function
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
