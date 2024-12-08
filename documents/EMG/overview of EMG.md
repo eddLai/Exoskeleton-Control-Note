@@ -44,7 +44,7 @@ $$X_a(f) \overset{\text{def}}{=}
 2X(f), & \text{for } f > 0, \\
 X(f), & \text{for } f = 0, \\
 0, & \text{for } f < 0,
-\end{cases}
+\end{cases}=X(f)+\text{sgn}(f) X(f)
 $$
 ### Hilbert tansform
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
