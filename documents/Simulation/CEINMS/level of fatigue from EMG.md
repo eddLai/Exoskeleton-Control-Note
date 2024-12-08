@@ -161,6 +161,7 @@ $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
 - $m$: ~~可輸入之樣式長度~~，切分pattern是自動的，$m$ 的向量為 ${x_i, x_{i+1}, ..., x_{i+m-1}}$，其中 $1 \le i \le N-m+1$
 - $r$: $|x_{i+k} - x_{j+k}| \le \gamma$，其中 $0 \le k \le m-1$
 - $\tau$: 樣本長度N
+$$A_{\tau}=$$
 
 ---
 >SE結果：$0<SE<\infty$, 用於量化時間序列的複雜度或規律性，亂度低表示越規律
