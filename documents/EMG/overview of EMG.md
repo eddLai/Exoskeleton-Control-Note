@@ -34,9 +34,9 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 # Analysis methods
 https://web.ntnu.edu.tw/~algo/Signal.html
 # Recall system and signals
-系統函數，為Dirac delta單位脈衝函數$\delta(x)$輸入LTI系統所得到的響應
+$h(t)$系統衝擊響應，為Dirac delta單位脈衝函數$\delta(x)$輸入LTI系統所得到的響應
 LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
-系統響應（輸出）是信號與系統函數的卷機
+系統響應（輸出）是信號與系統函數的卷積
 ### Hilbert tansform
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
