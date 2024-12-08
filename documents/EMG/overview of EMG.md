@@ -43,11 +43,11 @@ $$
 - [[Analytic signal and Hilbert Transform]]
 
 ---
-MSE
+### Entropy
 經驗模態分解法：
 瞬時頻率：透過analytic signal
 
-EntropyHubGuide(https://www.entropyhub.xyz/_downloads/40d9c1910993d9509e60865d940bb066/EntropyHubGuide.pdf)
+[Entropy Hub Guide](https://www.entropyhub.xyz/_downloads/40d9c1910993d9509e60865d940bb066/EntropyHubGuide.pdf)
 
 intrinsic mode function
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
