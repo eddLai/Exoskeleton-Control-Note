@@ -51,16 +51,14 @@ $$arctan(\infty)=\pi/2, for\ \omega<0$$
 
 ---
 $$h(t) = \mathcal{F}^{-1}\{H(f)\} = \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df=\frac{2}{jw}$$
-$$h(t) = \frac{1}{2 \pi t} - \frac{1}{2 \pi t}=\frac{1}{\pi t}.
-$$
-$$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
-$$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
 $$\text{sgn}(t) = 
 \begin{cases} 
 1 & \text{for } t > 0 \\
 0 & \text{for } t = 0 \\
 -1 & \text{for } t < 0
 \end{cases}$$
+$$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
+$$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
 
 ### Analytic signal
 使得$x(t)$之原始信號，沒有負頻率（傅立葉轉換僅僅為了維持
