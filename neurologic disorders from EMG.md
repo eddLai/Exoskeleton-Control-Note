@@ -1,0 +1,3 @@
+fibrillation potentials
+positive sharp waves
+fasciculation potential
