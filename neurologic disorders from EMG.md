@@ -14,3 +14,4 @@ characterize spontaneous motor unit firing properties
 - intrinsic mode entropy (IMEn), empirical mode decomposition (EMD)\
 
 decomposes a time series into multiple nonlinear scales representing its inherent oscillatory modes
+mode-mixing and mode-misalignment problems of the original EMD algorithm
