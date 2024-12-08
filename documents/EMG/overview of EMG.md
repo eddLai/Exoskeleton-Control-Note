@@ -40,7 +40,7 @@ LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
 系統輸出是信號與系統函數的卷積
 
 ### Hilbert tansform
-對頻譜做$90^o$相位
+對頻譜做$90^o$相位偏移
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
 $$\text{sgn}(f) =
