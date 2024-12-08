@@ -1,16 +1,30 @@
+# Data collection
 硬體突破：
 - [無線EMG貼片](https://www.bio-translational-exoskeleton.com/)
 
 可能要用來配合建立DQN的模型
 
 ---
-### Models
-MUAPs
+# Models
+MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 ### Denoise方法
 - muscle artifact (MA)
 - ocular artifacts
 - Baseline wander
 - CEEMDAN
 
+---
+# Analysis
+### Analytic signal
+沒有負頻率的複值形式
+### Hilbert tansform
+
+
+
+MSE
+經驗模態分解法：
+瞬時頻率, intrinsic mode function
+intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
+IMF: 波動是0，上下差小於1
 
 - [[level of fatigue from EMG]]
