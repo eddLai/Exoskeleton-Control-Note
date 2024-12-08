@@ -52,7 +52,7 @@ $$X(f) =
 X_a(f), & \text{for } f = 0, \\
 \frac{1}{2} X_a(-f)^*, & \text{for } f < 0 \, \text{(Hermitian symmetry)},
 \end{cases}=\frac{1}{2} \left[ X_a(f) + X_a(-f)^* \right]$$
-$$x_a(t) \overset{\text{def}}{=} \mathcal{F}^{-1} \left[ X_a(f) \right]=s_a(t) = \mathcal{F}^{-1} \left[ S(f) +$$
+$$x_a(t) \overset{\text{def}}{=} \mathcal{F}^{-1} \left[ X_a(f) \right]$$
 $$u(f) = \frac{1 + \text{sgn}(f)}{2}.$$
 
 ### Hilbert tansform
