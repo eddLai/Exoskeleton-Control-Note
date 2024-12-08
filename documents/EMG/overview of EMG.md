@@ -41,6 +41,14 @@ LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
 
 ### Hilbert tansform
 對頻譜做$90^o$相位偏移
+$$H(f) =
+\begin{cases}
+-j, & f > 0, \\
+0, & f = 0, \\
+j, & f < 0.
+\end{cases}
+$$
+$$h(t) = \mathcal{F}^{-1}\{H(f)\} = \int_{-\infty}^\infty H(f) e^{j 2 \pi f t} df.$$
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
 $$\text{sgn}(f) =
