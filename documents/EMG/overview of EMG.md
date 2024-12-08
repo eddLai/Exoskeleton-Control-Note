@@ -38,7 +38,7 @@ https://web.ntnu.edu.tw/~algo/Signal.html
 $$z(t) = x(t) + j \hat{x}(t)$$
 $$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
 $$X(f) = \mathscr{F}\{x(t)\}$$
-$$X(-f) = X^*(f)$$
+$$Hermitian\_sysmetry:X(-f) = X^*(f)$$
 $$X_a(f) \overset{\text{def}}{=} 
 \begin{cases} 
 2X(f), & \text{for } f > 0, \\
@@ -47,6 +47,7 @@ X(f), & \text{for } f = 0, \\
 \end{cases}=X(f)+\text{sgn}(f) X(f)
 $$
 $$u(f) = \frac{1 + \text{sgn}(f)}{2}.$$
+
 ### Hilbert tansform
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
