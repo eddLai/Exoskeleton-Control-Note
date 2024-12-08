@@ -33,6 +33,16 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 ---
 # Analysis methods
 https://web.ntnu.edu.tw/~algo/Signal.html
+# Recall system and signal
+### Hilbert tansform
+$$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
+$$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
+$$\text{sgn}(f) =
+\begin{cases}
+j, & f > 0 \\
+0, & f = 0 \\
+-j, & f < 0
+\end{cases}$$
 
 ### Analytic signal
 使得$x(t)$之原始信號，沒有負頻率（傅立葉轉換僅僅為了維持
@@ -58,17 +68,6 @@ $$x_a(t) = \mathcal{F}^{-1} \left[ X(f) \right] + \mathcal{F}^{-1} \left[ \text{
 $$x_a(t) = x(t) + j \left[ \frac{1}{\pi t} \ast x(t) \right]=x(t)+s_a(t) = s(t) + j \hat{x}(t).
 $$
 $$u(f) = \frac{1 + \text{sgn}(f)}{2}.$$
-
-### Hilbert tansform
-$$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
-$$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
-$$\text{sgn}(f) =
-\begin{cases}
-j, & f > 0 \\
-0, & f = 0 \\
--j, & f < 0
-\end{cases}$$
-
 
 MSE
 經驗模態分解法：
