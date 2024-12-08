@@ -7,3 +7,4 @@ amyotrophic lateral sclerosis (ALS))
 characterize spontaneous motor unit firing properties
 
 approximate entropy (ApEn) 
+nonlinear complexity domain
