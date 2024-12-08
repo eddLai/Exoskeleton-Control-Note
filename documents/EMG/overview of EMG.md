@@ -16,7 +16,7 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 ---
 # Analysis
 ### Analytic signal
-對於$x(t)$沒有負頻率的複值形式
+對於$x(t)$之原始信號，存在沒有負頻率的複值形式
 $$z(t) = x(t) + j \hat{x}(t)$$
 
 ### Hilbert tansform
