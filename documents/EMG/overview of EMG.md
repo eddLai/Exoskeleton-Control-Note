@@ -34,7 +34,7 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 # Analysis methods
 https://web.ntnu.edu.tw/~algo/Signal.html
 # Recall system and signals
-Dirac delta 衝擊函數$\delta(x)$，為單位脈衝輸入系統所得到的響應
+系統函數，為Dirac delta 單位脈衝函數$\delta(x)$輸入系統所得到的響應
 ### Hilbert tansform
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
