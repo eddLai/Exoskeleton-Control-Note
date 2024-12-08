@@ -151,13 +151,13 @@ Multiscale Entropy, MSE
 - https://physionet.org/files/mse/1.0/tutorial/tutorial.pdf
 - [[MSEtutorial.pdf]]
 - https://github.com/inuritdino/MultiScaleEntropy
+- [[Multi-Scale Entropy Analysis of Different Spontaneous Motor.pdf]]
 
 應用：不同步行強度下脛前肌和腓腸肌的肌電圖訊號複雜度變化
 
 ---
 
 Sample Entropy (SE)
-- ref. [[Multi-Scale Entropy Analysis of Different Spontaneous Motor.pdf]]
 
 得到一個對陣列中，所有可能計算評估
 $$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
