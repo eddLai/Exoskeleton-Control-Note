@@ -8,3 +8,5 @@ characterize spontaneous motor unit firing properties
 
 approximate entropy (ApEn) 
 nonlinear complexity domain
+multiscale entrop
+intrinsic mode entrop
