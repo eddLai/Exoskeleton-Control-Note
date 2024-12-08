@@ -1,9 +1,9 @@
 # 現在方案
-1. `filted_emg = self.h_filter.filtfilt(signal)`
-2. Apply notch filter:`filted_emg = self.n_filter.filtfilt(filted_emg)`
-3. Rectify the EMG signal: `rect_emg = np.abs(filted_emg)`
+1. high-pass filter: `filted_emg = self.h_filter.filtfilt(signal)`
+2. notch filter:`filted_emg = self.n_filter.filtfilt(filted_emg)`
+3. Rectification: `rect_emg = np.abs(filted_emg)`
 4. Get the envelope using low-pass filter: `envelope = self.l_filter.filtfilt(rect_emg)`
-        return envelope
+5. normalize_data to 0
 # Data collection
 硬體突破：
 - [無線EMG貼片](https://www.bio-translational-exoskeleton.com/)
