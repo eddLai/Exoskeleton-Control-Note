@@ -34,7 +34,7 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 # Analysis methods
 https://web.ntnu.edu.tw/~algo/Signal.html
 ### Analytic signal
-使得$x(t)$之原始信號，沒有負頻率（傅立葉轉換僅僅為了維持完整性）
+使得$x(t)$之原始信號，沒有負頻率（傅立葉轉換僅僅為了維持
 $$z(t) = x(t) + j \hat{x}(t)$$
 $$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
 $$X(f) = \mathscr{F}\{x(t)\}$$
