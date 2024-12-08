@@ -47,7 +47,7 @@ ref. [[Multi-Scale Entropy Analysis of Different Spontaneous Motor.pdf]]
 瞬時頻率：透過analytic signal
 intrinsic mode function:
 - 局部極值，與過零點數量相等
-- 
+- 上下包絡線
 
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
