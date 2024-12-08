@@ -55,6 +55,9 @@ $$
 用局部極值找到包絡線
 $$e_{\text{max}}(t), \quad e_{\text{min}}(t)$$
 $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
+取得分量，減去均值包絡線
+$$p(t) = r(t) - m(t)$$
+
 
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
