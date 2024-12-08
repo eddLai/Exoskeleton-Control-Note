@@ -37,6 +37,7 @@ https://web.ntnu.edu.tw/~algo/Signal.html
 $h(t)_{系統衝擊響應}$，為$\delta(x)_{Dirac\ delta單位脈衝函數}$輸入$LTI$系統所得到的響應
 LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
 系統響應（輸出）是信號與系統函數的卷積
+
 ### Hilbert tansform
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
