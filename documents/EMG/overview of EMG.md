@@ -1,9 +1,7 @@
 # 現在方案
- filted_emg = self.h_filter.filtfilt(signal)
-Apply notch filter
-filted_emg = self.n_filter.filtfilt(filted_emg)
-        # Rectify the EMG signal
-        rect_emg = np.abs(filted_emg)
+1. filted_emg = self.h_filter.filtfilt(signal)
+2. Apply notch filter:filted_emg = self.n_filter.filtfilt(filted_emg)
+3. Rectify the EMG signal: rect_emg = np.abs(filted_emg)
         # Get the envelope using low-pass filter
         envelope = self.l_filter.filtfilt(rect_emg)
         return envelope
