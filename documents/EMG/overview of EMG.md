@@ -1,11 +1,12 @@
 # 現在方案
-1. Cygnus, protocol: BT 
-2. high-pass filter: `filted_emg = self.h_filter.filtfilt(signal)`
-3. notch filter:`filted_emg = self.n_filter.filtfilt(filted_emg)`
-4. Rectification: `rect_emg = np.abs(filted_emg)`
-5. Get the envelope using low-pass filter: `envelope = self.l_filter.filtfilt(rect_emg)`
-6. normalize_data to `[0,1]`==標準差不會是1==
-7. 
+1. Cygnus, protocol:BT 
+>
+1. high-pass filter: `filted_emg = self.h_filter.filtfilt(signal)`
+2. notch filter:`filted_emg = self.n_filter.filtfilt(filted_emg)`
+3. Rectification: `rect_emg = np.abs(filted_emg)`
+4. Get the envelope using low-pass filter: `envelope = self.l_filter.filtfilt(rect_emg)`
+5. normalize_data to `[0,1]`==標準差不會是1==
+6. 
 # Data collection
 硬體突破：
 - [無線EMG貼片](https://www.bio-translational-exoskeleton.com/)
