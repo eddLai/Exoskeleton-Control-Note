@@ -43,13 +43,12 @@ $$
 - [[Analytic signal and Hilbert Transform]]
 
 ref. [[Multi-Scale Entropy Analysis of Different Spontaneous Motor.pdf]]
-經驗模態分解法：
 瞬時頻率：透過analytic signal
-intrinsic mode function:
+### intrinsic mode function:
 - 局部極值，與過零點數量相等
 - 上下包絡線對於時間軸對稱（平均值為零）
 
-EMD Empirical Mode Decomposition
+### Empirical Mode Decomposition EMD
 一個signal由多個IMF組成，IMF可以是線性或者非線性的
 
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
