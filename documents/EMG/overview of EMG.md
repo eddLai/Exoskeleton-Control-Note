@@ -61,9 +61,6 @@ $$H(f)=\text{sgn}(w) =
 
 ### Analytic signal
 使得$x(t)$之原始信號，沒有負頻率（傅立葉轉換僅僅為了維持)
-$$z(t) = x(t) + j \hat{x}(t)$$
-$$\hat{f} (\xi)=\int_{-\infty}^{\infty}f(x)e^{-2\pi ix\xi}dx$$
-$$X(f) = \mathscr{F}\{x(t)\}$$
 $$Hermitian\_sysmetry:X(-f) = X^*(f)$$
 $$X_a(f) \overset{\text{def}}{=} 
 \begin{cases} 
@@ -79,7 +76,9 @@ X_a(f), & \text{for } f = 0, \\
 \frac{1}{2} X_a(-f)^*, & \text{for } f < 0 \, \text{(Hermitian symmetry)},
 \end{cases}=\frac{1}{2} \left[ X_a(f) + X_a(-f)^* \right]$$
 
-$$X_a(\omega) = X(\omega) + \text{sgn}(\omega) \cdot X(\omega)$$
+$$X_a(F) = X(f) + \text{sgn}(f) \cdot X(f)$$
+
+
 $$x_a(t) \overset{\text{def}}{=} \mathcal{F}^{-1} \left[ X_a(f) \right]$$
 $$x_a(t) = \mathcal{F}^{-1} \left[ X(f) \right] + \mathcal{F}^{-1} \left[ \text{sgn}(f) \right] \ast \mathcal{F}^{-1} \left[ X(f) \right]$$
 $$x_a(t) = x(t) + j \left[ \frac{1}{\pi t} \ast x(t) \right]=x(t)+s_a(t) = s(t) + j \hat{x}(t).
