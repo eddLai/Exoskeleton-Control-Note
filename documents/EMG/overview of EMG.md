@@ -50,6 +50,9 @@ ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 
 ### Empirical Mode Decomposition EMD
 一個signal由多個IMF組成，IMF可以是線性或者非線性的
+$$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
+$$
+$$e_{\text{max}}(t), \quad e_{\text{min}}(t)$$
 
 
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
