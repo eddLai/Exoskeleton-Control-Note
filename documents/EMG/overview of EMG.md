@@ -57,6 +57,7 @@ $$\text{sgn}(t) =
 0 & \text{for } t = 0 \\
 -1 & \text{for } t < 0
 \end{cases}$$
+[[fourier transform of sgn]]
 $$\hat{x}(t) = \frac{1}{\pi} \int_{-\infty}^{\infty} \frac{x(\tau)}{t - \tau} d\tau$$
 $$\hat{X}(f) = -j \, \text{sgn}(f) X(f)$$
 
