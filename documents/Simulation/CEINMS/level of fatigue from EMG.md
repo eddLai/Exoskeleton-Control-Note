@@ -91,10 +91,7 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular
 系統需要能夠理解代償，或者要想辦法fit回去
 
 ---
-
----
-Application
-
+StatisticsApplication
 SD $\uparrow$ ，肌肉的運動模式變得不一致
 - ==RF和BF 會趨於不穩定，SD上升==
 - 透過SE and CI去分辨是否是具備統計學意義的肌肉疲勞與補償
