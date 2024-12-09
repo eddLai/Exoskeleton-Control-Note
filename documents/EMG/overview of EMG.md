@@ -78,7 +78,9 @@ $$d(t)=v(t)-m(t)$$
 
 
 ---
-intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
+### intrinsic mode entropy (IMEn):
+based on the recently developed multivariate empirical mode decomposition (MEMD) method
+把
 IMF: 波動是0，上下差小於1
 
 ---
