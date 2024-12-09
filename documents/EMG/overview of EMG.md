@@ -45,4 +45,4 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 
 ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
-度
+EMG偵測動作的啟動，會比實際動作早。
