@@ -49,7 +49,7 @@ ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 - 上下包絡線對於時間軸對稱（平均值為零）
 
 ### Empirical Mode Decomposition EMD
-一個signal由多個IMF組成，IMF可以是線性或者非線性的
+data-driven method，一個signal由多個IMF組成，IMF可以是線性或者非線性的
 $$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
 $$
 用局部極值找到包絡線
