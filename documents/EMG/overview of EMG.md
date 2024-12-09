@@ -46,3 +46,8 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
 EMG偵測動作的啟動，會比實際動作早。
+
+signal characteristics
+- Standard Deviation (SD)
+- Period of time
+- % Maximum Voluntary Contraction; • % Maximum EMG Amplitude.
