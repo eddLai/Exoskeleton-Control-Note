@@ -69,6 +69,9 @@ ref. [nihms439498.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihm
 multivariate data，用於local minimum不好找的情況。
 projections along different directions in $(n−1)$dimensional spaces
 
+Hammersley 序列
+(n−1) 球面對應於 n 維空間中的單位球面
+
 ---
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
