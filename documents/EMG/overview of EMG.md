@@ -61,3 +61,5 @@ signal characteristics
 - Period of time
 - % Maximum Voluntary Contraction
 - % Maximum EMG Amplitude
+
+
