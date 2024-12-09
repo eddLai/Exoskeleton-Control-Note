@@ -72,6 +72,7 @@ projections along different directions in $(n−1)$dimensional spaces
 $Hammersley$ 序列
 $(n−1)$ 球面對應於 $n$ 維空間中的單位球面，$P_k (t)=v(t) \cdot x_{\theta_k}$
 
+
 ---
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
 IMF: 波動是0，上下差小於1
