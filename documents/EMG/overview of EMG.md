@@ -52,6 +52,8 @@ EMG偵測動作的啟動，會比實際動作早。
 	- Double T hreshold (DT) 
 	- Adaptive Threshold (AT)
 - statistics
+	- Approximated Generalized Likelihood Ratio (AGLR)
+	- Cumulative Sum (CUSUM)
 - ML
 
 signal characteristics
