@@ -41,8 +41,8 @@ $$
 $$e_{\text{max}}(t), \quad e_{\text{min}}(t)$$
 $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 取得分量，減去均值包絡線
-$$d_j(t)=z(t)-m(t)$$
-$$r(t)=z(t)-IMF(t)$$
+$$IMF_j(t)=z(t)-m(t)$$
+$$r(t)=z(t)-IMF_j(t)$$
 
 $$p(t) = r(t) - m(t)\quad \text{(2)}$$
 $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
