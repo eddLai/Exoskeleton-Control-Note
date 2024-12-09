@@ -71,6 +71,7 @@ projections along different directions in $(n−1)$dimensional spaces
 
 $Hammersley$ 序列
 $(n−1)$ 球面對應於 $n$ 維空間中的單位球面，$P_k (t)=v(t) \cdot x_{\theta_k}$
+在特定極大值
 
 
 ---
