@@ -63,6 +63,7 @@ $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
 2. r必須是單方向的$$\text{If } r(t) \text{ is not monotonic, then go back to step (2) and set } k = k + 1$$
 $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
+頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
 
 ---
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
