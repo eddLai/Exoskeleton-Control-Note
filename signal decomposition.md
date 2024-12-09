@@ -10,6 +10,10 @@ $$
 $$\text{Median Frequency} = \text{median} \left( P(f,t) \right)
 $$
 
+### TKEO operator
+$$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
+把動態放大
+
 ---
 # Recall system and signals
 - $h(t)_{系統衝擊響應}$，為$\delta(x)_{Dirac\ delta單位脈衝函數}$輸入$LTI$系統所得到的響應
