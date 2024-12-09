@@ -42,3 +42,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 # App.
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
+
+ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
+
+度
