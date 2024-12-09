@@ -64,6 +64,8 @@ $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
 $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
 頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
+
+---
 ### MEMD
 ref. [nihms439498.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf)
 multivariate data，用於local minimum不好找的情況。
