@@ -35,15 +35,13 @@ ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 
 ### Empirical Mode Decomposition EMD
 data-driven method，一個signal由多個IMF組成，IMF可以是線性或者非線性的
-$$r(t) = z(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
+$$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
 $$
 用局部極值找到包絡線
 $$e_{\text{max}}(t), \quad e_{\text{min}}(t)$$
 $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 取得分量，減去均值包絡線
-$$IMF_j(t)=z(t)-m(t)$$
-$$r(t)=z(t)-IMF_j(t)\quad \text{(2)}$$
-
+$$p(t) = r(t) - m(t)\quad \text{(2)}$$
 $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
 多次迭代
 $$r_k(n) = r_{k-1}(n) - \sum_{k=1}^{K} IMF_k(n)$$
