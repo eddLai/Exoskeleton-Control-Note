@@ -72,7 +72,7 @@ projections along different directions in $(n−1)$dimensional spaces
 $Hammersley$ 序列
 $(n−1)$ 球面對應於 $n$ 維空間中的單位球面，$P_k (t)=v(t) \cdot x_{\theta_k}$
 在特定投影上，主要特徵之極大值
-m(t)=fra
+$$m(t)=\frac{1}{K}\Sigma^K$$
 $e_k(t)$為上邊界
 $$d(t)=v(t)-m(t)$$
 
