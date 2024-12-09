@@ -46,6 +46,11 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
 EMG偵測動作的啟動，會比實際動作早。
+- Visual inspection
+- threshold
+- statistics
+- ML
+
 Single Threshold (ST)
 Double T hreshold (DT) 
 Adaptive Threshold (AT).
