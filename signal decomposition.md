@@ -43,7 +43,9 @@ $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 取得分量，減去均值包絡線
 $$p(t) = r(t) - m(t)\quad \text{(2)}$$
 $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
-多次迭待
+多次迭代
+$$r_k(n) = r_{k-1}(n) - \sum_{k=1}^{K} IMF_k(n)$$
+
 兩個條件跳出迭代
 1. $$\text{If } \text{SD} < \delta, \text{ proceed to next step, otherwise return to step (2)}$$
 2. r必須是單方向的$$\text{If } r(t) \text{ is not monotonic, then go back to step (2) and set } k = k + 1$$
