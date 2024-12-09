@@ -44,6 +44,7 @@ $$
 
 ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 瞬時頻率：透過analytic signal
+# Signal
 ### intrinsic mode function:
 - 局部極值，與過零點數量相等
 - 上下包絡線對於時間軸對稱（平均值為零）
