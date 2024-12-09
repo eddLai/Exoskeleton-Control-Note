@@ -50,4 +50,5 @@ EMG偵測動作的啟動，會比實際動作早。
 signal characteristics
 - Standard Deviation (SD)
 - Period of time
-- % Maximum Voluntary Contraction; • % Maximum EMG Amplitude.
+- % Maximum Voluntary Contraction
+- % Maximum EMG Amplitude
