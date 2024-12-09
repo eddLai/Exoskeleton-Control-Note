@@ -91,7 +91,7 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular
 系統需要能夠理解代償，或者要想辦法fit回去
 
 ---
-StatisticsApplication
+Statistics Application
 SD $\uparrow$ ，肌肉的運動模式變得不一致
 - ==RF和BF 會趨於不穩定，SD上升==
 - 透過SE and CI去分辨是否是具備統計學意義的肌肉疲勞與補償
@@ -117,37 +117,7 @@ Multiscale Entropy, MSE
 
 應用：不同步行強度下脛前肌和腓腸肌的肌電圖訊號複雜度變化
 
----
-
-Sample Entropy (SE)
-
-得到一個對陣列中，所有可能計算評估
-$$SE(m, \gamma, \tau) = -\log\left(\frac{A_{\tau}}{B_{\tau}}\right)$$
-存在${x_1, x_2, ..., x_N}$，
-- $m$: ~~可輸入之樣式長度~~，切分pattern是自動的，$m$ 的向量為 ${x_i, x_{i+1}, ..., x_{i+m-1}}$，其中 $1 \le i \le N-m+1$
-- $r$: $|x_{i+k} - x_{j+k}| \le \gamma$，其中 $0 \le k \le m-1$
-- $\tau$: 樣本長度N
-
-B的序列再延伸一個值
-$$A_{\tau}=B^{m+1}(\gamma)$$
-$$B_{\tau}=B^m(\gamma)$$
-
-
----
->SE結果：$0<SE<\infty$, 用於量化時間序列的複雜度或規律性，亂度低表示越規律
-
-粗粒化
-
-用於不同尺度(粗度)的時間序列
-$$y_j(\tau) = \frac{1}{\tau} \sum_{i = (j-1)\tau + 1}^{j\tau} x_i \quad \text{for} \quad 1 \leq j \leq \frac{N}{\tau}$$
-
-$$MSE\ method(m,r)\rightarrow CI(Complexity\ Index) = \sum_{i=1}^{\tau_{\text{max}}} SE(i)$$
-
----
-SE example
-![[MSE example.png|500]]
-白噪音較長時間尺度下較不複雜, 但1/f 噪音沒有
-
+--
 ---
 - https://journal.gerontechnology.org/archives/2109-2424-1-SM.pdf
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf
