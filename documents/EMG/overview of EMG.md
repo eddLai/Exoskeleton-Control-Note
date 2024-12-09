@@ -83,7 +83,7 @@ $$d(t)=v(t)-m(t)$$
 ### intrinsic mode entropy (IMEn):
 based on the recently developed multivariate empirical mode decomposition (MEMD) method
 先把Data分解成IMF，再開始計算Sample Entropy
-IMF: 波動是0，上下差小於1
+>IMF: 波動是0，上下差小於1?
 
 ---
 ### Entropy
