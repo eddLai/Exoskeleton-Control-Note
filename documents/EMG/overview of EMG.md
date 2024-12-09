@@ -65,7 +65,8 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
 頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
 ### MEMD
-multivariate data，用於local mini
+ref. [nihms439498.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf)
+multivariate data，用於local minimum不好找的情況
 
 ---
 intrinsic mode entropy (IMEn):based on the recently developed multivariate empirical mode decomposition (MEMD) method
