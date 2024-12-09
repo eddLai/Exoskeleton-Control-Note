@@ -47,7 +47,7 @@ ref. [[Review of electromyography onset detection methods for real-time control 
 
 EMG偵測動作的啟動，會比實際動作早。
 - Visual inspection
-- threshold: SNR or power
+- threshold: SNR or energy value
 	- Single Threshold (ST)
 	- Double T hreshold (DT) 
 	- Adaptive Threshold (AT)
