@@ -1,3 +1,16 @@
+# Frequency analysis
+
+### Median Frequency
+
+==步行速度的增加，脛前肌(TA)的肌電圖中值頻率會顯著下降==
+ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
+$$Z_{xx}(f,t) = \mathcal{F} \left\{ x(t) w(t - \tau) \right\}$$
+$$P(f,t) = |Z_{xx}(f,t)|^2
+$$
+$$\text{Median Frequency} = \text{median} \left( P(f,t) \right)
+$$
+
+---
 # Recall system and signals
 - $h(t)_{系統衝擊響應}$，為$\delta(x)_{Dirac\ delta單位脈衝函數}$輸入$LTI$系統所得到的響應
 - LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
@@ -9,6 +22,8 @@ $$
 
 ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 瞬時頻率：透過analytic signal
+
+---
 # Signal Decomposition
 ### intrinsic mode function:
 - 局部極值，與過零點數量相等
