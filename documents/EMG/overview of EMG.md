@@ -37,9 +37,6 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[statistics methods]]
 - [[entropy]]
 
-[[]]
-
-
 ---
 # App.
 - [[neurologic disorders and sEMG]]
