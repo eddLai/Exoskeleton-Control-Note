@@ -117,7 +117,6 @@ Multiscale Entropy, MSE
 
 應用：不同步行強度下脛前肌和腓腸肌的肌電圖訊號複雜度變化
 
---
 ---
 - https://journal.gerontechnology.org/archives/2109-2424-1-SM.pdf
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf
