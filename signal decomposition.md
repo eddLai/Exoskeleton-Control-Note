@@ -78,5 +78,6 @@ Fourier transform存在問題
 ![[problem of fourier transform.png]]
 不包含時序資訊
 大尺度因子，分辨率高，小頻率
+![[Wavelet family.png]]
 [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
 多種小波，有階數子集
