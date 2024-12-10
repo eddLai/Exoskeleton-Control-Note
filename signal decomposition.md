@@ -68,3 +68,7 @@ $$d(t)=v(t)-m(t)$$
 
 ### CEEMDAN
 ref. [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
+
+---
+### Wavelet transform
+波的basis由
