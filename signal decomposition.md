@@ -71,6 +71,7 @@ ref. [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
 
 ---
 ### Wavelet transform
+[小波变换（Wavelet Transform）-CSDN博客](https://blog.csdn.net/Forlogen/article/details/88535027)
 波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數
 ![[wavelet.png]]
 Fourier transform存在問題
