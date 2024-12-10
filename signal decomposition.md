@@ -71,4 +71,4 @@ ref. [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
 
 ---
 ### Wavelet transform
-波的basis由
+波的basis由多個有限長會衰減的小波組成；相比傅立葉由1三角函數
