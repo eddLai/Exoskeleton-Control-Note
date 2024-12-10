@@ -76,3 +76,4 @@ ref. [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
 Fourier transform存在問題
 ![[problem of fourier transform.png]]
 不包含時序資訊
+大尺度因子，分辨率高，小頻率
