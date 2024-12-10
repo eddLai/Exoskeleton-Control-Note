@@ -67,7 +67,11 @@ $e_k(t)$為上邊界
 $$d(t)=v(t)-m(t)$$
 
 ### CEEMDAN
-ref. [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
+ref. 
+- [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
+- [CEEMDAN：一种优化的集合经验模态分解算法](https://cloud.baidu.com/article/3253447)
+- [IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5947265)
+
 
 ---
 ### Wavelet transform
