@@ -73,5 +73,5 @@ ref. [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
 ### Wavelet transform
 波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數
 Fourier transform存在問題
-![[Pasted image 20241210092207.png]]
+![[problem of fourier transform.png]]
 不包含時序資訊
