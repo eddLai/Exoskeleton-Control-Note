@@ -75,9 +75,9 @@ ref. [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
 波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數
 ![[wavelet.png]]
 Fourier transform存在問題
-![[problem of fourier transform.png]]
+![[problem of fourier transform.png|400]]
 不包含時序資訊
 大尺度因子，分辨率高，小頻率
-![[Wavelet family.png]]
+![[Wavelet families.png|400]]
 [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
 多種小波，有階數子集
