@@ -1,6 +1,6 @@
 ## Discretized system
 $$\left\{ \begin{aligned} 
-&\dot{x} = Ax(t)+bu(t)
+\dot{x}(t) &= Ax(t)+bu(t)
 \\ 
-y(t) &= ma 
+y(t) &= c\cdot x(t)
 \end{aligned} \right.$$
