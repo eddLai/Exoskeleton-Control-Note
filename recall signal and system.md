@@ -1,7 +1,7 @@
 # Discretized system
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
-$$\mathscr{F}{\delta(t)}=\sum_{k=-\infty}^\infty c_ke^{jk\omega_0t}$$
+$$\mathscr{F}\{\delta|T(t)\}=\sum_{k=-\infty}^\infty c_ke^{jk\omega_0t}$$
 
 ## 
 A continous time-invariant system
