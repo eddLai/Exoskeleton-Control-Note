@@ -1,7 +1,7 @@
 # Discretized system
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
-$$\mathscr{F}{\delta(t)}=\su$$
+$$\mathscr{F}{\delta(t)}=\sum_{k=-\infty}^$$
 ## 
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
