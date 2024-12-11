@@ -1,6 +1,6 @@
 # Discretized system
 ## Sampling
-$$x_s(t)$$
+$$x_s(t)=x(t)\delta_T(t)$$
 ## 
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
