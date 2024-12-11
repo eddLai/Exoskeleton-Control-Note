@@ -1,1 +1,1 @@
-## Discrete
+## Discretized system
