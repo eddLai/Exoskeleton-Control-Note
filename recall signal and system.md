@@ -2,5 +2,5 @@
 $$\left\{ \begin{aligned} 
 \dot{x} &= Ax(t)+bu(t)
 \\ 
-y(t)  = ma 
+y(t) &= ma 
 \end{aligned} \right.$$
