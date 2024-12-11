@@ -2,7 +2,7 @@
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\mathscr{F}\{\delta_T(t)\}=\sum_{k=-\infty}^\infty c_ke^{jk\omega_0t}$$
-$$c_k=\frac{1}{T}$$
+$$c_k=\frac{1}{T}\int_{a}^{b}$$
 ## 
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
