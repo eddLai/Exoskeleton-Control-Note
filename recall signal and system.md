@@ -1,5 +1,5 @@
 ## Discretized system
-A continous time-invariant plant
+A continous time-invariant system
 $$\left\{ \begin{aligned} 
 \dot{x}(t) &= Ax(t)+bu(t)
 \\ 
