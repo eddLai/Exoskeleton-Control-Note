@@ -3,12 +3,10 @@
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
 $$\left\{ \begin{aligned} 
-\dot{x}(t) &= Ax(t)+bu(t)
+\mathscr{F}\{\delta_T(t)\}&=\sum_{k=-\infty}^\infty c_ke^{-jk\omega_0t}
 \\ 
-y(t) &= c\cdot x(t)
+c_k&=\frac{1}{T}\int_{T} \delta_T(t)e^{jk\omega_0t}
 \end{aligned} \right.$$
-
-$$c_k=\frac{1}{T}\int_{T} \delta_T(t)e^{jk\omega_0t}$$
 
 ## 
 A continous time-invariant system
