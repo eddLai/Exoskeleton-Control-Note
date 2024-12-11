@@ -1,7 +1,7 @@
 # Discretized system
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
-$$\mathstr{F}$$
+$$\mathscr{F}{}$$
 ## 
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
