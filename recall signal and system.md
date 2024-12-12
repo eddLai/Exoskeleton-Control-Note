@@ -75,5 +75,5 @@ y(t) &= c\cdot x(t)&\ system\ output\ function(time-domain)
 >- x, y通常是矩陣
 >- 消去x即可回到I/O equation
 
-[[derivation of the solution of ]]
+[[derivation of the solution of a state space description system]]
 
