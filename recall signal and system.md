@@ -111,4 +111,4 @@ or Taylor Series of $e^{AT}$
 ## Stability of the system
 $$e^x=1+x+\frac{1}{2!}x^2+\frac{1}{3!}x^3+...$$
 $$limit_{T \rightarrow 0}\ e^{AT}\approx I+AT$$
-e
+eigenvalues are in the left half complex plane.
