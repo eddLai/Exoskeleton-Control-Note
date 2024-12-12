@@ -94,3 +94,12 @@ $$\left\{ \begin{aligned}
 \\ 
 &B_T=\int_{0}^{T} e^{A(T-\alpha)}b d\alpha
 \end{aligned} \right.$$
+$$\left\{ \begin{aligned} 
+\dot{x}(t) &= Ax(t)+bu(t)
+\\ 
+y(t) &= c\cdot x(t)
+\end{aligned} \right.= \left\{ \begin{aligned} 
+&A_T=e^{AT}
+\\ 
+&B_T=\int_{0}^{T} e^{A(T-\alpha)}b d\alpha
+\end{aligned} \right.$$
