@@ -1,4 +1,5 @@
 # Discretized system
+## 
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
