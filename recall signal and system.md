@@ -56,7 +56,7 @@ $$x_s(t)=x(t)\sum_{k=-\infty}^\infty \delta(t-kT)=\sum_{k=-\infty}^\infty x(kT)\
 $$X_S(\omega) = \int_{-\infty}^{\infty} \sum_{k=-\infty}^\infty x(kT)\delta(t-kT)\cdot e^{-j\omega t}dt$$
 $$=\sum_{k=-\infty}^\infty x(kT)\int_{-\infty}^{\infty} \delta(t-kT)\cdot e^{-j\omega t}dt=\sum_{k=-\infty}^\infty x(kT)e^{-j\omega kT}$$
 
-$$z=e^{jwk}, x[k]\rightarrow X(z)$$
+$$z=e^{jwk}, X(z)=$$
 
 ---
 ## Signal classification
