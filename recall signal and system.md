@@ -86,39 +86,5 @@ $$x[k]=x(kT)$$
 $$when\ kT\leq t \leq (k+1)T$$
 $$初始條件\ x_0=x[k]$$
 $$x[k+1]=e^{A(t-t_0)}x[k] + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau$$
-$$\documentclass{article}
-\usepackage{amsmath}
-
-\begin{document}
-
-從連續時間系統的狀態方程：
-\[
-\dot{x}(t) = A x(t) + b u(t),
-\]
-假設輸入 \( u(t) \) 在區間 \([kT, (k+1)T]\) 內保持恆定，記為 \( u[k] \)，則系統狀態在時間 \( (k+1)T \) 可表示為：
-\[
-x((k+1)T) = e^{A((k+1)T - kT)} x[k] + \int_{kT}^{(k+1)T} e^{A((k+1)T-\tau)} b u(\tau) \, d\tau.
-\]
-
-由於輸入 \( u(\tau) = u[k] \) 在該區間內恆定，因此可以將 \( u[k] \) 從積分中提出來：
-\[
-x((k+1)T) = e^{A T} x[k] + u[k] \int_{kT}^{(k+1)T} e^{A((k+1)T-\tau)} b \, d\tau.
-\]
-
-進一步對積分進行變數代換，設 \(\alpha = (k+1)T - \tau\)，則積分範圍變為 \([0, T]\)，並得到：
-\[
-x((k+1)T) = e^{A T} x[k] + u[k] \int_{0}^{T} e^{A\alpha} b \, d\alpha.
-\]
-
-其中，離散系統矩陣 \( A_d \) 和 \( B_d \) 定義如下：
-\[
-A_d = e^{A T}, \quad B_d = \int_{0}^{T} e^{A\alpha} b \, d\alpha.
-\]
-
-因此，離散化後的狀態更新方程為：
-\[
-x[k+1] = A_d x[k] + B_d u[k].
-\]
-
-\end{document}
-$$
+$$x((k+1)T) = e^{A((k+1)T - kT)} x[k] + \int_{kT}^{(k+1)T} e^{A((k+1)T-\tau)} b u(\tau) \, d\tau.$$
+$$x((k+1)T) = e^{A T} x[k] + u[k] \int_{kT}^{(k+1)T} e^{A((k+1)T-\tau)} b \, d\tau.$$
