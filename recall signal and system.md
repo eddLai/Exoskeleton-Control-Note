@@ -1,8 +1,8 @@
 # Discretized system
-$$\d\left\{ \begin{aligned} 
-\dot{x}(t) &= Ax(t)+bu(t)
-\\ 
-y(t) &= c\cdot x(t)
+$$\delta(t)=\left\{ \begin{aligned} 
+&0
+\\
+&\infty
 \end{aligned} \right.$$
 ## Dirac delta function
 
