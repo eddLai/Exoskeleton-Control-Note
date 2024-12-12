@@ -8,8 +8,8 @@ $$\delta(t-t_0)=\left\{ \begin{aligned}
 &\infty, &t = t_0 
 \end{aligned} \right.$$
 $$\int_{-\infty}^\infty \delta(t)dt=1$$
-
-$$\int_{-\infty}^\infty \delta(t)dt=1$$
+that is
+$$\int_{-\infty}^\infty f(t)\delta(t-t_0)dt=f(t_0)$$
 
 ---
 ## Sampling
