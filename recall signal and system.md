@@ -1,5 +1,11 @@
 # Discretized system
-## 
+$$\d\left\{ \begin{aligned} 
+\dot{x}(t) &= Ax(t)+bu(t)
+\\ 
+y(t) &= c\cdot x(t)
+\end{aligned} \right.$$
+## Dirac delta function
+
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
