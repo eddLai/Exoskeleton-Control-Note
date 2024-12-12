@@ -58,7 +58,7 @@ Energy Signal: 有限能量，例如脈衝
 $$E = \int_{-\infty}^{\infty} |x(t)|^2 \, dt$$
 
 ---
-## I/O
+## I/O $\rightarrow$ state space description
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
 \dot{x}(t) &= Ax(t)+bu(t)
