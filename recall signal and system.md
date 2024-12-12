@@ -31,7 +31,7 @@ $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)$$
 for a signal $x(t)$,
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
-$$fourire\left\{ \begin{aligned} 
+$$fourier\ seriers\ form \left\{ \begin{aligned} 
 \delta_T(t)&=\sum_{n=-\infty}^\infty C_ne^{jk\omega_0t}
 \\ 
 C_n&=\frac{1}{T}\int_{T} \delta_T(t)e^{-jk\omega_0t}dt=\frac{1}{T}
