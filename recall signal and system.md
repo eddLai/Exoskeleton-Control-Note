@@ -55,8 +55,8 @@ $$X_S(\omega)= \frac{1}{T}\sum_{k=-\infty}^\infty X(\omega-k\omega_0)$$
 $$x_s(t)=x(t)\sum_{k=-\infty}^\infty \delta(t-kT)=\sum_{k=-\infty}^\infty x(kT)\delta(t-kT)$$
 $$X_S(\omega) = \int_{-\infty}^{\infty} \sum_{k=-\infty}^\infty x(kT)\delta(t-kT)\cdot e^{-j\omega t}dt$$
 $$=\sum_{k=-\infty}^\infty x(kT)\int_{-\infty}^{\infty} \delta(t-kT)\cdot e^{-j\omega t}dt=\sum_{k=-\infty}^\infty x(kT)e^{-j\omega kT}$$
-
-$$z=e^{jwk}, X(z)=\sum_{k=0}^\infty x[k]z$$
+配合離散形式系統
+$$z=e^{jwk}, X(z)=\sum_{k=0}^\infty x[k]z^{-k}$$
 
 ---
 ## Signal classification
