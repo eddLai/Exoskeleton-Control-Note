@@ -80,5 +80,6 @@ $$x(t) = e^{A(t-t_0)}x_0 + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau.$$
 
 ## Discretization
 解決上面 $x(t)$ 之算式 $u(\tau)$ 仍為連續之問題。
-$$t=kT$$
+$$u[t]=u(kT)$$
+$$x[k]=u(kT)$$
 $$when\ kT\leq t \leq (k+1)T$$
