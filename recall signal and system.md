@@ -80,4 +80,4 @@ $$x(t) = e^{A(t-t_0)}x_0 + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau.$$
 
 ## Discretization
 $$t=kT$$
-$$when\ kT<=$$
+$$when\ kT\leq t \leq (k+1)T$$
