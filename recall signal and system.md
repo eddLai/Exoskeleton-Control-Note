@@ -104,6 +104,7 @@ y(t) &= c\cdot x(t)
 &y[k] = c\cdot x[k]
 \end{aligned} \right.$$
 can be proof by 
-$$\dot{x}(t)=\frac{}{}$$
+$$\dot{x}(t)=\frac{x[k+1]-x[k]}{T}$$
+or Tayl
 
 ---
