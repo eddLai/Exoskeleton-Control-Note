@@ -1,5 +1,5 @@
 ## Fourier Series
-$$f(x) =\sum_{}$$
+$$f(x) =\sum_{n=-\infty}^\infty c_n \cdote^$$
 
 ---
 # Fourier Transform
