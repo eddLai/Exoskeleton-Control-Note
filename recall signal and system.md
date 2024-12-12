@@ -61,6 +61,7 @@ $$E = \int_{-\infty}^{\infty} |x(t)|^2 \, dt$$
 ---
 ## I/O $\rightarrow$ state space description
 A continous time-invariant system
+
 $$\left\{ \begin{aligned} 
 \dot{x}(t) &= Ax(t)+bu(t)&\ system\ state\ equation
 \\ 
