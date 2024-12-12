@@ -5,7 +5,7 @@ $$
 $$\hat{f}(\omega) = \int_{-\infty}^{\infty} f(x) e^{-i \omega x} \, dx.
 $$
 
-# Discretized system
+---
 ## Dirac delta function
 ref. [set11.dvi](https://links.uwaterloo.ca/amath353docs/set11.pdf)
 "the function is an example of a distribution."
@@ -20,6 +20,7 @@ $$\int_{-\infty}^\infty f(t)\delta(t-t_0)dt=f(t_0)$$
 $$ \delta(t-t_0) = \int_{-\infty}^{\infty}\delta(t-t_0)e^{-2\pi jkt}dt= e^{-2\pi jkt_0}$$
 
 ---
+# Discretized system
 ## Sampling
 $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)$$
 for a signal $x(t)$,
