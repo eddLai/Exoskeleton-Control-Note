@@ -105,6 +105,6 @@ y(t) &= c\cdot x(t)
 \end{aligned} \right.$$
 can be proof by 
 $$\dot{x}(t)=\frac{x[k+1]-x[k]}{T}$$
-or Tayl
+or Taylor Series of $e^{AT}$
 
 ---
