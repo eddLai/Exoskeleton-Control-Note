@@ -78,4 +78,4 @@ y(t) &= c\cdot x(t)&\ system\ output\ function(time-domain)
 [[derivation of the solution of a state space description system]]
 $$x(t) = e^{A(t-t_0)}x_0 + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau.$$
 
-##
+## Discretization
