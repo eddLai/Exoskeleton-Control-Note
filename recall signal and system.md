@@ -65,3 +65,5 @@ $$\left\{ \begin{aligned}
 \\ 
 y(t) &= c\cdot x(t)&\ system\ output\ function(time-domain)
 \end{aligned} \right.$$
+
+>矩陣：
