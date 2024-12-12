@@ -1,11 +1,11 @@
 # Discretized system
+## Dirac delta function
 $$\delta(t-t_0)=\left\{ \begin{aligned} 
 &0, &t \neq t_0
 \\
 &\infty, &t = t_0 
 \end{aligned} \right.$$
-## Dirac delta function
-
+$$\int_{T} \delta_T(t)e^{jk\omega_0t}dt==1/T$$
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
