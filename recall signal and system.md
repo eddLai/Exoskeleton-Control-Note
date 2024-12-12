@@ -37,7 +37,7 @@ $$fourier\ seriers\ form:\delta_T(t)\left\{ \begin{aligned}
 \\ 
 C_n&=\frac{1}{T}\int_{T} \delta_T(t)e^{-jk\omega_0t}dt=\frac{1}{T}
 \end{aligned} \right.$$
-$$x_s(t) = \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
+$$x_s(t) = \frac{1}{T}\sum_{k=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
 
 ---
 ![[delta sampling sine function T1.png]]
@@ -46,7 +46,7 @@ $$x_s(t) = \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
 ---
 ## the nyquist rate
 $$\mathscr{F}\{x_s(t)\} = \int_{-\infty}^{\infty} \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)\cdot e^{-j\omega t}dt=X_S(\omega)$$
-$$X_S(\omega)= \frac{1}{T}\sum_{n=-\infty}^\infty X(\omega-k\omega_0)$$
+$$X_S(\omega)= \frac{1}{T}\sum_{k=-\infty}^\infty X(\omega-k\omega_0)$$
 
 ---
 ## 
