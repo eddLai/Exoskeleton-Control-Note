@@ -39,8 +39,12 @@ C_n&=\frac{1}{T}\int_{T} \delta_T(t)e^{-jk\omega_0t}dt=\frac{1}{T}
 \end{aligned} \right.$$
 $$x_s(t) = \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
 
+---
 ![[delta sampling sine function T1.png]]
 ![[delta sampling sine function T0.3.png]]
+
+---
+## the nyquist rate
 
 
 ---
