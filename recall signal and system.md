@@ -45,7 +45,7 @@ $$x_s(t) = \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
 
 ---
 ## the nyquist rate
-$$\mathsrc{F}x_s(t) = \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
+$$\mathscr{F}\{x_s(t)\} = \int\frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
 
 ---
 ## 
