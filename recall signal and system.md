@@ -99,7 +99,7 @@ $$\left\{ \begin{aligned}
 \\ 
 y(t) &= c\cdot x(t)
 \end{aligned} \right.= \left\{ \begin{aligned} 
-&{x}[k+1] = Ax(t)+bu(t)
+&{x}[k+1] = A_Tx[k]+bu(t)
 \\ 
-&y[k] = c\cdot x(t)
+&y[k] = c\cdot x[k]
 \end{aligned} \right.$$
