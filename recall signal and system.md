@@ -110,4 +110,4 @@ or Taylor Series of $e^{AT}$
 ---
 ## Stability of the system
 $$e^x=1+x+\frac{1}{2!}x^2+\frac{1}{3!}x^3+...$$
-$$e^$$
+$$e^{AT}\approxI+A$$
