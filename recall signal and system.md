@@ -22,7 +22,8 @@ $$\delta(t-t_0)=\left\{ \begin{aligned}
 $$\int_{-\infty}^\infty \delta(t)dt=1$$
 that is
 $$\int_{-\infty}^\infty f(t)\delta(t-t_0)dt=f(t_0)$$
-$$ D(f) = \int_{-\infty}^{\infty}\delta(t-t_0)e^{-2\pi jkt}dt= e^{-2\pi jkt_0}$$
+
+$$D(f) = \int_{-\infty}^{\infty}\delta(t-t_0)e^{-2\pi jkt}dt= e^{-2\pi jkt_0}$$
 
 ---
 # Discretized system
@@ -66,4 +67,5 @@ $$\left\{ \begin{aligned}
 y(t) &= c\cdot x(t)&\ system\ output\ function(time-domain)
 \end{aligned} \right.$$
 
->矩陣：
+>x, y通常是矩陣
+
