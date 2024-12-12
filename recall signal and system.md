@@ -87,5 +87,5 @@ $$u[t]=u(kT)$$
 $$x[k]=x(kT)$$
 $$when\ kT\leq t \leq (k+1)T$$
 $$初始條件\ x_0=x[k]$$
-$$let\ (1), \alpha=\tau$$
-$$x[k+1]=e^{AT}x[k] + \int_{kT}^{(k+1)T} e^{A(t-\tau)}B u(\tau) \, d\tau$$
+$$let\ (1), \alpha=\tau-kT$$
+$$x[k+1]=e^{AT}x[k] + \int_{kT}^{(k+1)T} e^{A(T-\)}B u(\tau) \, d\tau$$
