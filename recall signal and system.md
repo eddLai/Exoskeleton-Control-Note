@@ -38,7 +38,9 @@ $$fourier\ seriers\ form:\delta_T(t)\left\{ \begin{aligned}
 C_n&=\frac{1}{T}\int_{T} \delta_T(t)e^{-jk\omega_0t}dt=\frac{1}{T}
 \end{aligned} \right.$$
 $$x_s(t) = \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
-![[Pasted image 20241212222724.png]]
+![[delta sampling sine function.png]]
+
+---
 ## 
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
