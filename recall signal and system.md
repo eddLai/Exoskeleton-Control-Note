@@ -79,12 +79,12 @@ y(t) &= c\cdot x(t)&\ system\ output\ function(time-domain)
 $$x(t) = e^{A(t-t_0)}x_0 + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau$$
 
 ## Discretization
-解決上面 $x(t)$ 之算式 $u(\tau)$ 仍為連續之問題。
 $$x((k+1)T) = e^{A((k+1)T - kT)} x[k] + \int_{kT}^{(k+1)T} e^{A((k+1)T-\tau)} b u(\tau) \, d\tau.$$
 $$= e^{A T} x[k] + u[k] \int_{kT}^{(k+1)T} e^{A((k+1)T-\tau)} b \, d\tau.$$
+解決上面 $x(t)$ 之算式 $u(\tau)$ 仍為連續之問題。
 $$k=kT$$
 $$u[t]=u(kT)$$
 $$x[k]=x(kT)$$
 $$when\ kT\leq t \leq (k+1)T$$
 $$初始條件\ x_0=x[k]$$
-$$x[k+1]=e^{A(t-t_0)}x[k] + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau$$
+$$x[k+1]=e^{A(T}x[k] + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau$$
