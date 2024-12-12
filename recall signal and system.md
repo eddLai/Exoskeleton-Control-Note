@@ -31,7 +31,7 @@ $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)$$
 for a signal $x(t)$,
 $$x_s(t)=x(t)\delta_T(t)$$
 let
-$$\omega_0 = 2\pi/T$$
+$$sampling\ rate:\omega_0 = 2\pi/T$$
 $$fourier\ seriers\ form:\delta_T(t)\left\{ \begin{aligned} 
 \delta_T(t)&=\sum_{n=-\infty}^\infty C_ne^{jk\omega_0t}
 \\ 
@@ -47,7 +47,7 @@ $$x_s(t) = \frac{1}{T}\sum_{k=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)$$
 ## the nyquist rate
 $$\mathscr{F}\{x_s(t)\} = \int_{-\infty}^{\infty} \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)\cdot e^{-j\omega t}dt=X_S(\omega)$$
 $$X_S(\omega)= \frac{1}{T}\sum_{k=-\infty}^\infty X(\omega-k\omega_0)$$
-
+if $\omega_0$ 
 
 ---
 ## 
