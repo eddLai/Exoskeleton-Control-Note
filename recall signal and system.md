@@ -1,8 +1,8 @@
 # Discretized system
 $$\delta(t-t_0)=\left\{ \begin{aligned} 
-&0, t = t_0
+&0, &t \neq t_0
 \\
-&\infty, t 
+&\infty, &t = t_0 
 \end{aligned} \right.$$
 ## Dirac delta function
 
