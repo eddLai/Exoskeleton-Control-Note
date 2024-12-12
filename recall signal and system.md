@@ -123,6 +123,6 @@ eigenvalues are in the left half complex plane.
 ---
 ## DTFT
 known
-$$X_S(\omega)$$
+$$X_S(\omega)=\sum_{k=-\infty}^\infty x(kT)e^{-j\omega kT}$$
 
 ## DFT
