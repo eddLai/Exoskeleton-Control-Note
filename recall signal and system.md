@@ -84,4 +84,5 @@ $$k=kT$$
 $$u[t]=u(kT)$$
 $$x[k]=x(kT)$$
 $$when\ kT\leq t \leq (k+1)T$$
+$$初始條件\ x_0=$$
 $$x[k+1]=e^{A(t-t_0)}x_0 + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau$$
