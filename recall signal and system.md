@@ -1,3 +1,6 @@
+# Fourier Transform
+$$f(x) = \frac{1}{2\pi} \int_{-\infty}^{\infty}  \hat{f}(\omega)  e^{i \omega x} \, d\omega,
+$$
 # Discretized system
 ## Dirac delta function
 ref. [set11.dvi](https://links.uwaterloo.ca/amath353docs/set11.pdf)
