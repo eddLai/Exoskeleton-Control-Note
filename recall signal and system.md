@@ -79,5 +79,6 @@ y(t) &= c\cdot x(t)&\ system\ output\ function(time-domain)
 $$x(t) = e^{A(t-t_0)}x_0 + \int_{t_0}^{t} e^{A(t-\tau)}B u(\tau) \, d\tau.$$
 
 ## Discretization
+解決上面x(t)之算是
 $$t=kT$$
 $$when\ kT\leq t \leq (k+1)T$$
