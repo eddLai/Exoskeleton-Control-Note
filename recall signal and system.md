@@ -68,5 +68,5 @@ y(t) &= c\cdot x(t)&\ system\ output\ function(time-domain)
 \end{aligned} \right.$$
 
 >- x, y通常是矩陣
->- 消去x即可
+>- 消去x即可回到I/O equation
 
