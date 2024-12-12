@@ -6,7 +6,7 @@ $$\omega_0 = 2\pi/T$$
 $$\left\{ \begin{aligned} 
 \mathscr{F}\{\delta_T(t)\}=\sum_{k=-\infty}^\infty c_ke^{-jk\omega_0t}
 \\ 
-c_k=\frac{1}{T}\int_{T} \delta_T(t)e^{jk\omega_0t}==1/T
+c_k=\frac{1}{T}\int_{T} \delta_T(t)e^{jk\omega_0t}dt==1/T
 \end{aligned} \right.$$
 
 ## 
