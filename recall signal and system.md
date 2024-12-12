@@ -61,7 +61,9 @@ $$E = \int_{-\infty}^{\infty} |x(t)|^2 \, dt$$
 ---
 ## I/O $\rightarrow$ state space description
 A continous time-invariant system
+舉例I/O description, y是輸出，u是輸入
 $$\ddot{y}(t) + a_1 \dot{y}(t) + a_0 y(t) = b_1 \dot{u}(t) + b_0 u(t)$$
+
 $$\left\{ \begin{aligned} 
 \dot{x}(t) &= Ax(t)+bu(t)&\ system\ state\ equation
 \\ 
