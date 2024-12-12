@@ -56,7 +56,9 @@ Power Signal:
 $$P = \lim_{T \to \infty} \frac{1}{2T} \int_{-T}^{T} |x(t)|^2 \, dt$$
 Energy Signal: 有限能量，例如脈衝
 $$E = \int_{-\infty}^{\infty} |x(t)|^2 \, dt$$
-## 
+
+---
+## I/O
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
 \dot{x}(t) &= Ax(t)+bu(t)
