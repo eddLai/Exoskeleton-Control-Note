@@ -126,5 +126,6 @@ known
 $$X_S(\omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\omega kT}$$
 如果對freqency domain也進行抽象
 $$\Omega=\omega T$$
-$$X_S(\omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\omega}$$
+$$X_S(\Omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\Omega k}$$
+
 ## DFT
