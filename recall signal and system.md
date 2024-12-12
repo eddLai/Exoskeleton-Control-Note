@@ -31,10 +31,10 @@ $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)$$
 for a signal $x(t)$,
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
-$$\left\{ \begin{aligned} 
-\delta_T(t)&=\sum_{k=-\infty}^\infty c_ke^{jk\omega_0t}
+$$fourire\left\{ \begin{aligned} 
+\delta_T(t)&=\sum_{n=-\infty}^\infty C_ne^{jk\omega_0t}
 \\ 
-c_k=\frac{1}{T}\int_{T} \delta_T(t)e^{-jk\omega_0t}dt=\frac{1}{T}
+C_n&=\frac{1}{T}\int_{T} \delta_T(t)e^{-jk\omega_0t}dt=\frac{1}{T}
 \end{aligned} \right.$$
 
 ## 
