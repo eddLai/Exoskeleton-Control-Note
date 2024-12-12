@@ -9,6 +9,9 @@ $$\delta(t-t_0)=\left\{ \begin{aligned}
 \end{aligned} \right.$$
 $$\int_{-\infty}^\infty \delta(t)dt=1$$
 
+$$\int_{-\infty}^\infty \delta(t)dt=1$$
+
+---
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
