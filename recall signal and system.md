@@ -103,5 +103,6 @@ y(t) &= c\cdot x(t)
 \\ 
 &y[k] = c\cdot x[k]
 \end{aligned} \right.$$
+can be proof by 
 
 ---
