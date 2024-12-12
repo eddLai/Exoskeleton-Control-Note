@@ -108,3 +108,4 @@ $$\dot{x}(t)=\frac{x[k+1]-x[k]}{T}$$
 or Taylor Series of $e^{AT}$
 
 ---
+## Stability of the sy
