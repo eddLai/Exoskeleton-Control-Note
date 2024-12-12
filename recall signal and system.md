@@ -130,5 +130,5 @@ $$X_S(\Omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\Omega k}$$
 $$InverseDTFT:\int_{\Omega_1}^{\Omega_1+\pi}X(\Omega)e^{j\Omega n}d\Omega=\sum_{k=-\infty}^\infty x[k]\int_{\Omega_1}^{\Omega_1+\pi}e^{-j\Omega k}\cdot e^{j\Omega n} d\Omega$$
 only when $k=n$,
 $$2\pi \cdot x[n] $$
-
+InverseDTFT
 ## DFT
