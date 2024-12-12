@@ -1,11 +1,13 @@
 # Discretized system
 ## Dirac delta function
+ref. [set11.dvi](https://links.uwaterloo.ca/amath353docs/set11.pdf)
 $$\delta(t-t_0)=\left\{ \begin{aligned} 
 &0, &t \neq t_0
 \\
 &\infty, &t = t_0 
 \end{aligned} \right.$$
 $$\int_{-\infty}^\infty \delta(t)dt=1$$
+
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
