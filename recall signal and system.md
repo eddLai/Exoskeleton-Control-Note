@@ -121,3 +121,6 @@ $$limit_{T \rightarrow 0}\ e^{AT}\approx I+AT$$
 eigenvalues are in the left half complex plane.
 
 ---
+## DTFT
+
+## DFT
