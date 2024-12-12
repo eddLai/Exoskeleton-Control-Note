@@ -1,5 +1,5 @@
 ## Fourier Series
-
+$$f(x) =\sum_{}$$
 
 ---
 # Fourier Transform
