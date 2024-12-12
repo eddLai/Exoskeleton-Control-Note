@@ -90,7 +90,7 @@ $$初始條件\ x_0=x[k]$$
 $$let\ (1), \alpha=\tau-kT, d\alpha=d\tau$$
 $$x[k+1]=e^{AT}x[k] + u[k]\int_{0}^{T} e^{A(T-\alpha)}b d\alpha$$
 $$\left\{ \begin{aligned} 
-A_T=e^{AT}
+&A_T=e^{AT}
 \\ 
-
+&B_T=\int_{0}^{T} e^{A(T-\alpha)}b d\alpha
 \end{aligned} \right.$$
