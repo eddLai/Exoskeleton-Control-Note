@@ -5,7 +5,7 @@ $$\delta(t-t_0)=\left\{ \begin{aligned}
 \\
 &\infty, &t = t_0 
 \end{aligned} \right.$$
-$$\int_{T} \delta_T(t)e^{jk\omega_0t}dt==1/T$$
+$$\int_{-\infty}^\infty \delta(t)dt=1$$
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
