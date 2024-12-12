@@ -63,5 +63,5 @@ A continous time-invariant system
 $$\left\{ \begin{aligned} 
 \dot{x}(t) &= Ax(t)+bu(t)\ system\ state\ equation
 \\ 
-y(t) &= c\cdot x(t)
+y(t) &= c\cdot x(t)\ system\ output\ function
 \end{aligned} \right.$$
