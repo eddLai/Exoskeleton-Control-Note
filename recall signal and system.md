@@ -1,6 +1,7 @@
 # Discretized system
 ## Dirac delta function
 ref. [set11.dvi](https://links.uwaterloo.ca/amath353docs/set11.pdf)
+"the function is an example of a distribution."
 $$\delta(t-t_0)=\left\{ \begin{aligned} 
 &0, &t \neq t_0
 \\
