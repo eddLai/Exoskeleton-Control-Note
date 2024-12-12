@@ -10,6 +10,7 @@ $$\delta(t-t_0)=\left\{ \begin{aligned}
 $$\int_{-\infty}^\infty \delta(t)dt=1$$
 that is
 $$\int_{-\infty}^\infty f(t)\delta(t-t_0)dt=f(t_0)$$
+$$ \delta(t-t_0) = int_(-infty)^inftydelta(x-x_0)e^(-2piikx)dx (1) = e^(-2piikx_0$$
 
 ---
 ## Sampling
