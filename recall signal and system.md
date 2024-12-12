@@ -99,7 +99,7 @@ $$\left\{ \begin{aligned}
 \\ 
 y(t) &= c\cdot x(t)
 \end{aligned} \right.= \left\{ \begin{aligned} 
-&{x}[k+1] &= Ax(t)+bu(t)
+&{x}[k+1] = Ax(t)+bu(t)
 \\ 
-&B_T=\int_{0}^{T} e^{A(T-\alpha)}b d\alpha
+&y[k] = c\cdot x(t)
 \end{aligned} \right.$$
