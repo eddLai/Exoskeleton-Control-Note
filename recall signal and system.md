@@ -7,7 +7,7 @@ $$
 
 ---
 ## Dirac delta function
-ref. [set11.dvi](https://links.uwaterloo.ca/amath353docs/set11.pdf)
+ref. [set11.dvi](https://links.uwaterloo.ca/amath353docs/set11.pdf)其中的fourier transform似乎是錯的
 "the function is an example of a distribution."
 $$\delta(t-t_0)=\left\{ \begin{aligned} 
 &0, &t \neq t_0
