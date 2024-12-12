@@ -88,4 +88,4 @@ $$x[k]=x(kT)$$
 $$when\ kT\leq t \leq (k+1)T$$
 $$初始條件\ x_0=x[k]$$
 $$let\ (1), \alpha=\tau-kT, d\alpha=d\tau$$
-$$x[k+1]=e^{AT}x[k] + \int_{0}^{T} e^{A(T-\alpha)}b u(\tau) \, d\tau$$
+$$x[k+1]=e^{AT}x[k] + \int_{0}^{T} e^{A(T-\alpha)}b d\alpha$$
