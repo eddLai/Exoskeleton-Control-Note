@@ -51,6 +51,9 @@ $$X_S(\omega)= \frac{1}{T}\sum_{k=-\infty}^\infty X(\omega-k\omega_0)$$
 需要 $\omega_0$ > $2\times \omega$，才不會aliasing
 
 ---
+## Signal classification
+Power Signal
+
 ## 
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
