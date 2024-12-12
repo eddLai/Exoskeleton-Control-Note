@@ -52,7 +52,7 @@ $$X_S(\omega)= \frac{1}{T}\sum_{k=-\infty}^\infty X(\omega-k\omega_0)$$
 需要 $\omega_0$ > $2\times \omega$，才不會aliasing
 
 ## Z-transform
-$$x_s(t)=x(t)\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)$$
+$$x_s(t)=x(t)\sum_{k=-\infty}^\infty \delta(t-kT)$$
 $$X_S(\omega) = \int_{-\infty}^{\infty} \frac{1}{T}\sum_{n=-\infty}^\infty e^{jk\omega_0t}\cdot x(t)\cdot e^{-j\omega t}dt$$
 
 ---
