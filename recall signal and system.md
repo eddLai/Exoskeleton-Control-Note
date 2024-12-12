@@ -122,5 +122,7 @@ eigenvalues are in the left half complex plane.
 
 ---
 ## DTFT
+known
+$$X_S(\omega)$$
 
 ## DFT
