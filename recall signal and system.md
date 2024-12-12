@@ -14,7 +14,7 @@ $$ \delta(t-t_0) = \int_{-\infty}^{\infty}\delta(t-t_0)e^{-2\pi jkt}dt= e^{-2\p
 
 ---
 ## Sampling
-$$\delta_T(t)=$$
+$$\delta_T(t)=\sum_{k=-\infty}$$
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
 很直觀的數學意義
