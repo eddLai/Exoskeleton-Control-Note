@@ -2,6 +2,7 @@
 ## Sampling
 $$x_s(t)=x(t)\delta_T(t)$$
 $$\omega_0 = 2\pi/T$$
+很直觀的數學意義
 $$\left\{ \begin{aligned} 
 \mathscr{F}\{\delta_T(t)\}=\sum_{k=-\infty}^\infty c_ke^{-jk\omega_0t}
 \\ 
