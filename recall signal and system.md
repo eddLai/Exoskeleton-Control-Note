@@ -52,8 +52,8 @@ $$X_S(\omega)= \frac{1}{T}\sum_{k=-\infty}^\infty X(\omega-k\omega_0)$$
 
 ---
 ## Signal classification
-Power Signal
-
+Power Signal:
+Energy Signal
 ## 
 A continous time-invariant system
 $$\left\{ \begin{aligned} 
