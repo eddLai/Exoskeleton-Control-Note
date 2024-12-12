@@ -1,5 +1,5 @@
 ## Fourier Series
-$$f(x) =\sum_{n=-\infty}^\infty c_n \cdot e^\frac{nx\pi}{p}$$
+$$f(x) =\sum_{n=-\infty}^\infty c_n \cdot e^{\frac{nx\pi}{p}j}$$
 
 ---
 # Fourier Transform
