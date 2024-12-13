@@ -135,3 +135,4 @@ $$InverseDTFT: x[n]=\frac{1}{2\pi}\int_{\Omega_1}^{\Omega_1+2\pi}X(\Omega)e^{j\O
 
 ---
 ## DFT
+對於一個有限的
