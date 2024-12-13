@@ -141,4 +141,5 @@ $$x_0[k]=\left\{ \begin{aligned}
 \\ 
 &0,\ otherwise
 \end{aligned} \right.$$
-對頻譜再做一次r
+對頻譜再做一次sampling
+
