@@ -136,6 +136,7 @@ $$InverseDTFT: x[n]=\frac{1}{2\pi}\int_{\Omega_1}^{\Omega_1+2\pi}X(\Omega)e^{j\O
 
 ---
 ## DFT
+ref. [离散信号（七）| 离散傅里叶变换（DFT）推导_dft的推导-CSDN博客](https://blog.csdn.net/SanyHo/article/details/107102250)
 對頻譜再做一次sampling, 
 對於一個有限(finite time duration)的信號
 $$x_0[k]=\left\{ \begin{aligned} 
