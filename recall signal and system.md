@@ -148,7 +148,7 @@ $$x[k]=x_0[k] \ast \delta_N(k)=\sum_{n=-\infty}^\infty x_0[m]\delta(k-m)$$
 known: 
 $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)=\frac{1}{T}\sum_{k=-\infty}^\infty e^{jk\omega_0t}$$
 discrete:
-
+$$\delta_T(t)=\sum_{n=-\infty}^\infty \delta(k-nN)=\frac{1}{T}\sum_{k=-\infty}^\infty e^{jk\omega_0t}$$
 $$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}$=X_0(\Omega)\sum_{k=-\infty}^\infty\mathrm{F}_{DT}\{ \delta(k-nN)\}$$
 
 $$X_S(\Omega)=X_0(\Omega)\sum_{k=-\infty}^\infty\sum_{n=-\infty}^\infty\delta(k-nN)e^{-j\Omega k}$$
