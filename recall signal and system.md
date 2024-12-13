@@ -157,3 +157,7 @@ m-nN)=x[k]$$
 $$D_N(\Omega)=\sum_{n=-\infty}^\infty e^-j\Omega (nN)$$
 
 $$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}=X_0(\Omega)D_N(\Omega)=X_0(\Omega)\sum_{n=-\infty}^\infty e^-j\Omega (nN)$$
+
+---
+## FFT
+[FFT原理——详细推导理解FFT变换-CSDN博客](https://blog.csdn.net/weixin_40106401/article/details/106128194)
