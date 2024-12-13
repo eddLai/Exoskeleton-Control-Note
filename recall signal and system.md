@@ -143,5 +143,5 @@ $$x_0[k]=\left\{ \begin{aligned}
 &0,\ otherwise
 \end{aligned} \right.$$
 $$x[k]=x_0[k] \ast \delta_N(k)=x_0[k]\sum_{k=-\infty}^\infty \delta(k-nT)$$
-\mathsym{}
+$$\mathrm{F_DT}$$
 $$DTFT:X_S(\Omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\Omega k}$$
