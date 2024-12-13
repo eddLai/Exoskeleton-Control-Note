@@ -143,7 +143,7 @@ $$x_0[k]=\left\{ \begin{aligned}
 \\ 
 &0,\ otherwise
 \end{aligned} \right.$$
-$$x[k]=x_0[k] \ast \delta_N(k)=\sum_{n=-\infty}^\infty x_0[m]\delta(k-m)$$
+$$x[k]=x_0[k] \ast \delta_N(k)=\sum_{m=-\infty}^\infty x_0[m]\delta(k-m)$$
 
 known: 
 $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)=\frac{1}{T}\sum_{k=-\infty}^\infty e^{jk\omega_0t}$$
