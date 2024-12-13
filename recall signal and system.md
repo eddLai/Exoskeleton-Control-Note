@@ -148,5 +148,5 @@ $$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}$=X_0(\Omega)\sum_{k=-\infty}^\infty\mathrm
 known: 
 $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)=\frac{1}{T}\sum_{k=-\infty}^\infty e^{jk\omega_0t}$$
 $$X_S(\Omega)=X_0(\Omega)\sum_{k=-\infty}^\infty\sum_{n=-\infty}^\infty\delta(k-nN)e^{-j\Omega k}$$
-$$N\delta_T(t)=N\sum_{k=-\infty}^\infty \delta(t-kT)=\sum_{k=-\infty}^\infty e^{jk\omega_0t}$$
+$$N\delta_T(t)=N\sum_{k=-\infty}^\infty \delta(t-kT)=\sum_{k=-\infty}^\infty e^{jk\frac{t}{T}}$$
 $$=\sum_{n=-\infty}^\infty\delta(k-nN)\sum_{k=-\infty}^\infty\delta(k-nN)$$
