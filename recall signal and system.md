@@ -153,7 +153,7 @@ $$\sum_{n=-\infty}^\infty x_0[m]\delta(k-m)=\sum_{m=-\infty}^\infty x_0[m]\delta
 $$=\sum_{m=0}^{N-1} x_0[m]\sum_{m=-\infty}^\infty\delta(k-
 m-nN)=x[k]$$
 
-$$D_N(\Omg$$
+$$D_N(\Omega)=$$
 $$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}=X_0(\Omega)\sum_{k=-\infty}^\infty\mathrm{F}_{DT}\{ \delta(k-nN)\}$$
 
 $$X_S(\Omega)=X_0(\Omega)\sum_{k=-\infty}^\infty\sum_{n=-\infty}^\infty\delta(k-nN)e^{-j\Omega k}$$
