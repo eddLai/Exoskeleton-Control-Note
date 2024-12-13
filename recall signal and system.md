@@ -127,7 +127,7 @@ known
 $$X_S(\omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\omega kT}$$
 如果對freqency domain也進行抽象
 $$\Omega=\omega T$$
-$$X_S(\Omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\Omega k}$$
+$$DTFT:X_S(\Omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\Omega k}$$
 $$InverseDTFT:\int_{\Omega_1}^{\Omega_1+2\pi}X(\Omega)e^{j\Omega n}d\Omega=\sum_{k=-\infty}^\infty x[k]\int_{\Omega_1}^{\Omega_1+2\pi}e^{-j\Omega k}\cdot e^{j\Omega n} d\Omega$$
 only when $k=n$,
 $$2\pi \cdot x[n] $$
