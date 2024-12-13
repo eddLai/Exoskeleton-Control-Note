@@ -142,4 +142,5 @@ $$x_0[k]=\left\{ \begin{aligned}
 \\ 
 &0,\ otherwise
 \end{aligned} \right.$$
-
+$$x[k]=x_0[k] \$$
+$$DTFT:X_S(\Omega)=\sum_{k=-\infty}^\infty x[k]e^{-j\Omega k}$$
