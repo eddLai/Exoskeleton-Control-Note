@@ -137,7 +137,6 @@ $$InverseDTFT: x[n]=\frac{1}{2\pi}\int_{\Omega_1}^{\Omega_1+2\pi}X(\Omega)e^{j\O
 ## DFT
 對於一個有限(finite time duration)的信號
 $$\left\{ \begin{aligned} 
-&A_T=e^{AT}
-\\ 
+&x_N[k], 0 \leq k\\ 
 &B_T=\int_{0}^{T} e^{A(T-\alpha)}b d\alpha
 \end{aligned} \right.$$
