@@ -157,7 +157,7 @@ m-nN)=x[k]$$
 $$D_N(\Omega)=\sum_{n=-\infty}^\infty e^-j\Omega (nN)$$
 
 $$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}=X_0(\Omega)D_N(\Omega)=X_0(\Omega)\sum_{n=-\infty}^\infty e^-j\Omega (nN)$$
-
+==從缺==
 $$X[k] = \sum_{n=0}^{N-1} x[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, K-1$$
 
 ---
