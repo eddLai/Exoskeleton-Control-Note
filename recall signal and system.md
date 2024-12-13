@@ -154,7 +154,7 @@ $$=\sum_{m=0}^{N-1} x_0[m]\sum_{m=-\infty}^\infty\delta(k-
 m-nN)=x[k]$$
 
 
-$$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}$=X_0(\Omega)\sum_{k=-\infty}^\infty\mathrm{F}_{DT}\{ \delta(k-nN)\}$$
+$$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}=X_0(\Omega)\sum_{k=-\infty}^\infty\mathrm{F}_{DT}\{ \delta(k-nN)\}$$
 
 $$X_S(\Omega)=X_0(\Omega)\sum_{k=-\infty}^\infty\sum_{n=-\infty}^\infty\delta(k-nN)e^{-j\Omega k}$$
 $$T\delta_T(t)=T\sum_{k=-\infty}^\infty \delta(t-kT)=\sum_{k=-\infty}^\infty e^{j\Omega k\frac{t}{T}}$$
