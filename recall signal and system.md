@@ -150,7 +150,8 @@ $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)=\frac{1}{T}\sum_{k=-\infty}^\
 discrete:
 $$\delta_N(t)=\sum_{n=-\infty}^\infty \delta(k-nN)=\frac{1}{N}\sum_{n=-\infty}^\infty e^{jk\omega_0k}$$
 $$\sum_{n=-\infty}^\infty x_0[m]\delta(k-m)=\sum_{m=-\infty}^\infty x_0[m]\delta(k-m-nN)$$
-$$=\sum_{m=-\infty}^\infty x_0[m]\delta(k-m-nN)$$
+$$=\sum_{m=0}^N-1 x_0[m]\sum_{m=-\infty}^\infty\delta(k-
+m-nN)$$
 
 
 $$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}$=X_0(\Omega)\sum_{k=-\infty}^\infty\mathrm{F}_{DT}\{ \delta(k-nN)\}$$
