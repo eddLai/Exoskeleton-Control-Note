@@ -144,6 +144,9 @@ $$x_0[k]=\left\{ \begin{aligned}
 &0,\ otherwise
 \end{aligned} \right.$$
 $$x[k]=x_0[k] \ast \delta_N(k)=x_0[k]\sum_{n=-\infty}^\infty \delta(k-nN)$$
+
+
+
 $$X_S(\Omega)=\mathrm{F}_{DT}\{x[k]\}$=X_0(\Omega)\sum_{k=-\infty}^\infty\mathrm{F}_{DT}\{ \delta(k-nN)\}$$
 known: 
 $$\delta_T(t)=\sum_{k=-\infty}^\infty \delta(t-kT)=\frac{1}{T}\sum_{k=-\infty}^\infty e^{jk\omega_0t}$$
