@@ -143,7 +143,7 @@ $$x_0[k]=\left\{ \begin{aligned}
 \\ 
 &0,\ otherwise
 \end{aligned} \right.$$
-$$x[k]=x_0[k] \ast \delta_N(k)=x_0[k]\sum_{n=-\infty}^\infty \delta(k-nN)$$
+$$x[k]=x_0[k] \ast \delta_N(k)=\sum_{n=-\infty}^\infty x_0[m]\delta(k-m)$$
 
 
 
