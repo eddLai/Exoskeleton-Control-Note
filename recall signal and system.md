@@ -139,5 +139,5 @@ $$InverseDTFT: x[n]=\frac{1}{2\pi}\int_{\Omega_1}^{\Omega_1+2\pi}X(\Omega)e^{j\O
 $$\left\{ \begin{aligned} 
 &x_N[k],\ 0 \leq k\leq N-1
 \\ 
-&B_T=\int_{0}^{T} e^{A(T-\alpha)}b d\alpha
+&0,\ otherwise
 \end{aligned} \right.$$
