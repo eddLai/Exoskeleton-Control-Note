@@ -190,3 +190,6 @@ window可以做選擇
 
 ![[STFT flowchart.png]]
 不同的窗函數，[深入理解短时傅里叶变换 STFT + Python 代码详解_stft python-CSDN博客](https://blog.csdn.net/weixin_44618906/article/details/116356081)
+
+- 主瓣（main lobe）：分辨率
+- 旁瓣（Side Lobe）：一系列小波z/
