@@ -167,3 +167,8 @@ $$X[k] = \sum_{n=0}^{N-1} x[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \do
 $$W_N^{kn}=e^{-j \frac{2\pi}{K} k n},W=e^{-j \frac{2\pi}{N}}$$
 利用其週期性及對稱性，進行縮放
 $$W_N^{kn}=W_{N/k}^{n}$$
+
+---
+## STFT
+[短时傅里叶变换STFT原理-CSDN博客](https://blog.csdn.net/m0_71709005/article/details/132247518)
+[Lecture-3-STFT.dvi](https://ocw.nthu.edu.tw/ocw/upload/130/1603/10410%E5%8A%89%E5%A5%95%E6%96%87%E6%95%99%E6%8E%88%E6%95%B8%E4%BD%8D%E6%95%B8%E4%BD%8D%E8%81%B2%E8%A8%8A%E5%88%86%E6%9E%90%E8%88%87%E5%90%88%E6%88%90L3_Lecture-3-STFT.pdf)
