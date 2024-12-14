@@ -176,3 +176,4 @@ $$W_N^{kn}=W_{N/k}^{n}$$
 因為overlap問題，所以跟整個總共的資料輸入也有關係。
 $$X(\omega,n_0) = \sum_{n=-N}^{N-1} \omega[n] x[n+n_0]e^{-j \omega n}$$
 $$overlap=n_{0b}-{n_{0a}+N}$$
+window可以做選擇
