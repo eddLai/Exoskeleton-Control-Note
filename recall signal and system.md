@@ -133,7 +133,7 @@ $$InverseDTFT:\int_{\Omega_1}^{\Omega_1+2\pi}X(\Omega)e^{j\Omega n}d\Omega=\sum_
 only when $k=n$,
 $$2\pi \cdot x[n] $$
 $$InverseDTFT: x[n]=\frac{1}{2\pi}\int_{\Omega_1}^{\Omega_1+2\pi}X(\Omega)e^{j\Omega n}d\Omega$$
->notice the cyclin 
+>notice the cycling convolution
 
 ---
 ## DFT
