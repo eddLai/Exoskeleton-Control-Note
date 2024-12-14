@@ -177,3 +177,4 @@ $$W_N^{kn}=W_{N/k}^{n}$$
 $$X(\omega,n_0) = \sum_{n=-N}^{N-1} \omega[n] x[n+n_0]e^{-j \omega n}$$
 $$overlap=N-(n_{0b}-{n_{0a}})*2+n_{0b}-{n_{0a}}=N-n_{0b}-{n_{0a}}$$
 window可以做選擇
+![[window and resolution.png]]
