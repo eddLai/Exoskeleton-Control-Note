@@ -185,3 +185,5 @@ window可以做選擇
 對於截取片段之訊號
 - 除了起點不同，window所截取
 - 因為overlap問題，所以跟整個總共的資料輸入也有關係。
+
+不同的窗函數，[深入理解短时傅里叶变换 STFT + Python 代码详解_stft python-CSDN博客](https://blog.csdn.net/weixin_44618906/article/details/116356081)
