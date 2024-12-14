@@ -174,4 +174,4 @@ $$W_N^{kn}=W_{N/k}^{n}$$
 [Lecture-3-STFT.dvi](https://ocw.nthu.edu.tw/ocw/upload/130/1603/10410%E5%8A%89%E5%A5%95%E6%96%87%E6%95%99%E6%8E%88%E6%95%B8%E4%BD%8D%E6%95%B8%E4%BD%8D%E8%81%B2%E8%A8%8A%E5%88%86%E6%9E%90%E8%88%87%E5%90%88%E6%88%90L3_Lecture-3-STFT.pdf)
 除了起點不同，window所截取
 因為overlap問題，所以跟整個總共的資料輸入也有關係。
-$$X(\omega,n_0) = \sum_{n=-N}^{N-1} \omega[n] x[n+n_0]e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, K-1$$
+$$X(\omega,n_0) = \sum_{n=-N}^{N-1} \omega[n] x[n+n_0]e^{-j \omega n}$$
