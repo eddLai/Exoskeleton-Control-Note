@@ -176,7 +176,8 @@ $$W_N^{kn}=W_{N/k}^{n}$$
 
 $$X(\omega,n_0) = \sum_{n=-N}^{N-1} \omega[n] x[n+n_0]e^{-j \omega n}$$
 $$overlap=N-(n_{0b}-{n_{0a}})*2+n_{0b}-{n_{0a}}=N-n_{0b}-{n_{0a}}$$
-$$num\_windows=\frac{N_x-length(window)}{length(window)-noverlap}$$
+$$num\_windows=\frac{N_x-length(window)}{length(window)-noverlap(窗口重疊之樣本數)
+}$$
 window可以做選擇
 ![[window and resolution.png]]
 提高頻率分辨率的方法:
