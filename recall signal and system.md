@@ -180,4 +180,4 @@ window可以做選擇
 ![[window and resolution.png]]
 提高頻率分辨率的方法:
 - threshold
-- 
+- 頻率譜集中
