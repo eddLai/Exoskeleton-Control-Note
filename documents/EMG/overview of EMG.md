@@ -63,3 +63,4 @@ signal characteristics
 - % Maximum EMG Amplitude
 
 
+https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2
