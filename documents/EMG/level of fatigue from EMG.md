@@ -125,7 +125,7 @@ Multiscale Entropy, MSE
 ---
 - https://journal.gerontechnology.org/archives/2109-2424-1-SM.pdf
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf
-- file:///home/eddlai/Downloads/Denoising_electromyogram_and_electroencephalogram_.pdf
+- Denoising_electromyogra
 
 ---
 Movement angles
