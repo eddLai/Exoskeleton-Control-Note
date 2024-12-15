@@ -97,11 +97,10 @@ SD $\uparrow$ ，肌肉的運動模式變得不一致
 - ==RF和BF 會趨於不穩定，SD上升==
 - 透過SE and CI去分辨是否是具備統計學意義的肌肉疲勞與補償
 
-$$\mu_x = \frac{1}{n} \sum_{i=1}^{n} x_i$$
-
-$$SE_x = \frac{SD_x}{\sqrt{n}}$$
-, but n should be a constant
+$$\mu_x = \frac{1}{n} \sum_{i=1}^{n} x_i$$,
+$$SE_x = \frac{SD_x}{\sqrt{n}}$$, but n should be a constant
 $$CI_x = \mu_x \pm t_{\alpha/2} \cdot SE_x$$
+
 用來判斷處於CI的範圍內，才合理
 - 用tukey判斷同一個體各時間段落是否出現顯著差異
 - 使用ANOVA：速度與持續時間
