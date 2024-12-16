@@ -108,11 +108,8 @@ Detailed staged of using OpenSim API
 
 ---
 ## Opensim建置流程之討論
-"real-time inverse kinematics (IK) and inverse dynamics (ID) performed using the OpenSim API"
-"The IK problem in OpenSim is solved via static optimization"
-root mean squared error (RMSE) to check marker between virtual and MOCAP
->=="Kalman filter to process IK-generated joint angles"==
->>parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
->
-
-6 lower extremity DOFs defining the kine matics of the 13 selected MTUs
+- "real-time inverse kinematics (IK) and inverse dynamics (ID) performed using the OpenSim API"
+- "The IK problem in OpenSim is solved via static optimization"
+- root mean squared error (RMSE) to check marker between virtual and MOCAP
+	- =="Kalman filter to process IK-generated joint angles"==, parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
+- 6 lower extremity DOFs defining the kine matics of the 13 selected MTUs
