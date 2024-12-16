@@ -1,4 +1,15 @@
-.headers-font {
+.headers-font{
+    --h1-style: 'Times New Roman', '標楷體';
+    --h1-color: black;
+    --h2-style: 'Times New Roman', '標楷體';
+    --h2-color: black;
+    --h3-style: 'Times New Roman', '標楷體';
+    --h4-style: 'Times New Roman', '標楷體';
+    --h5-style: 'Times New Roman', '標楷體';
+    --h6-style: 'Times New Roman', '標楷體';
+}
+
+/* .headers-font {
     --header-style: 'Times New Roman', '標楷體';
     --header-color: black;
 }
@@ -6,4 +17,4 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--header-style);
     color: var(--header-color);
-}
+} */
