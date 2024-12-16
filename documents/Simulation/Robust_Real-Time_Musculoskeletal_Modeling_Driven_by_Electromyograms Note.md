@@ -18,6 +18,7 @@ cssclasses:
 	.with-border{
 		border: 1px solid red;
 	}
+	.headers_f
 </style>
 <grid drag="70 10" drop="-3 40">
 level of fatigue from EMG
