@@ -67,7 +67,8 @@ real-time modeling在嵌入式系統上的可行性
 - CEINMS
 
 ---
-## 
+## Modeling Framework
+[[Modeling framework I of real-time s]]
 
 ---
 ## Hardwares
