@@ -51,6 +51,10 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 ==螢光筆表示目前我們沒有的技術==
 
 ---
+## 主要成果
+![[Real-time ID results]]
+
+---
 ## software components:
 使用ANSI C++
 - external recording devices
