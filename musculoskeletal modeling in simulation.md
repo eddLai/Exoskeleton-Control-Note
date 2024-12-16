@@ -11,7 +11,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 components:
 - external recording devices
 - OpenSim API
-- 
+- computation of musculotendon kinematics
 
 ### Terms
 - physiological electromechanical delay (EMDs).
