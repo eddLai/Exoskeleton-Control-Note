@@ -96,7 +96,7 @@ real-time modeling在嵌入式系統上的可行性
 ---
 Detailed staged of using OpenSim API
 
-[[corrected the pipeline]]
+附件: [[corrected the pipeline]]
 
 1. BSpline coefficients necessary for the estimation of Lmt and MA
 2) Lmt nominal values for all MTUs spanning the anklesubtalar-flexion, ankle flexion-extension andkneeflexion extension DOFs.
