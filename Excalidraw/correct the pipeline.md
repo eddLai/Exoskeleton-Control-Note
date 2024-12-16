@@ -323,12 +323,17 @@ New ^XtZaS16p
 			"opacity": 100,
 			"roundness": null,
 			"seed": 3269,
-			"version": 155,
-			"versionNonce": 1699641549,
-			"updated": 1734332111229,
+			"version": 156,
+			"versionNonce": 671808781,
+			"updated": 1734332296947,
 			"isDeleted": false,
 			"groupIds": [],
-			"boundElements": [],
+			"boundElements": [
+				{
+					"id": "tP2fgsFad7l83Zkhn-Xw-",
+					"type": "arrow"
+				}
+			],
 			"link": "[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]",
 			"locked": false,
 			"scale": [
@@ -368,11 +373,16 @@ New ^XtZaS16p
 			"frameId": null,
 			"roundness": null,
 			"seed": 1579294861,
-			"version": 123,
-			"versionNonce": 1797398829,
+			"version": 124,
+			"versionNonce": 969858509,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1734332091239,
+			"boundElements": [
+				{
+					"id": "tP2fgsFad7l83Zkhn-Xw-",
+					"type": "arrow"
+				}
+			],
+			"updated": 1734332296947,
 			"link": null,
 			"locked": false,
 			"text": "New",
@@ -387,12 +397,12 @@ New ^XtZaS16p
 			"lineHeight": 1.25
 		},
 		{
-			"id": "-EErfKD23ugAeqoN2TLvk",
+			"id": "tP2fgsFad7l83Zkhn-Xw-",
 			"type": "arrow",
-			"x": 136.55588883722316,
-			"y": -389.7198781202309,
-			"width": 135.03891380344908,
-			"height": 27.995849390584965,
+			"x": -242.2116050001681,
+			"y": 197.36988432891832,
+			"width": 91.3982552053418,
+			"height": 501.45532976516455,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -406,12 +416,12 @@ New ^XtZaS16p
 			"roundness": {
 				"type": 2
 			},
-			"seed": 216694093,
-			"version": 127,
-			"versionNonce": 587639949,
+			"seed": 1902763363,
+			"version": 212,
+			"versionNonce": 1428280173,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1734332267411,
+			"updated": 1734332296947,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -420,13 +430,21 @@ New ^XtZaS16p
 					0
 				],
 				[
-					-135.03891380344908,
-					27.995849390584965
+					91.3982552053418,
+					-501.45532976516455
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
+			"startBinding": {
+				"elementId": "2c8NMJmu",
+				"focus": -1.0181604859195459,
+				"gap": 13.776620267798364
+			},
+			"endBinding": {
+				"elementId": "XtZaS16p",
+				"focus": 1.2840719517789432,
+				"gap": 13.997943541599057
+			},
 			"startArrowhead": null,
 			"endArrowhead": "diamond"
 		},
@@ -793,6 +811,66 @@ New ^XtZaS16p
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "diamond"
+		},
+		{
+			"id": "-EErfKD23ugAeqoN2TLvk",
+			"type": "arrow",
+			"x": 148.90700440551257,
+			"y": -377.3687625519415,
+			"width": 218.20306683485558,
+			"height": 146.56659653877693,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 216694093,
+			"version": 338,
+			"versionNonce": 131763651,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1734332289302,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					41.99379293218408,
+					95.5153062923095
+				],
+				[
+					141.62615031146106,
+					24.702231136578916
+				],
+				[
+					59.28535472778924,
+					-51.05129024646743
+				],
+				[
+					-50.22781972089251,
+					-7.410669340973641
+				],
+				[
+					-76.57691652339452,
+					28.819244530933133
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "diamond"
 		}
 	],
 	"appState": {
@@ -810,8 +888,8 @@ New ^XtZaS16p
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "diamond",
-		"scrollX": 800.893782795945,
-		"scrollY": 519.9340997122034,
+		"scrollX": 902.1729304559182,
+		"scrollY": 454.0614519374819,
 		"zoom": {
 			"value": 0.8096434645688404
 		},
