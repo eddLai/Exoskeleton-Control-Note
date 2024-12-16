@@ -495,6 +495,50 @@ New ^XtZaS16p
 			"lineHeight": 1.25
 		},
 		{
+			"id": "xAWwU_TARU8g8s1svWq84",
+			"type": "arrow",
+			"x": -468.64881170157184,
+			"y": 325.8214485465149,
+			"width": 130.67897310504372,
+			"height": 71.27484798328157,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 928509923,
+			"version": 214,
+			"versionNonce": 250311501,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1734332402403,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-130.67897310504372,
+					-71.27484798328157
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "diamond"
+		},
+		{
 			"id": "LBwWm_tSGGW14IdU8oO-R",
 			"type": "arrow",
 			"x": -482.64671755055804,
@@ -669,10 +713,10 @@ New ^XtZaS16p
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "diamond",
-		"scrollX": 834.6535112468069,
-		"scrollY": 371.7206940464235,
+		"scrollX": 1179.8009932550467,
+		"scrollY": 278.34147324973964,
 		"zoom": {
-			"value": 0.8096434645688404
+			"value": 0.8596434645688404
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
