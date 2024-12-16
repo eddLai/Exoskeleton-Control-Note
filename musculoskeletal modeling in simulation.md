@@ -13,6 +13,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 - external recording devices
 - OpenSim API
 >"real-time inverse kinematics (IK) and inverse dynamics (ID) performed using the OpenSim API"
+>"The IK problem in OpenSim is solved via static optimization"
 - computation of musculotendon kinematics(Multidimensional Cubic BSpline (MCBS) method)
 - CEINMS
 
