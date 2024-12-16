@@ -2,9 +2,7 @@
 bg: "[[NTKLab_white bg.png]]"
 autoSlide: 
 cssclasses:
-  - reveal
-  - .head-font
-css:
+  - headers-font
 ---
 ---
 
