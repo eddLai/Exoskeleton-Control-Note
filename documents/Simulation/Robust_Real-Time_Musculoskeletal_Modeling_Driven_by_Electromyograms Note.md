@@ -69,7 +69,9 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 - different threads within a multi-stage pipeline
 	- Computation time histograms是執行real-time運算需要考量的
 
-## 結論與討論
+---
+
+## Disscu
 - 預測踝部屈伸力矩方面優於膝部屈伸力矩，這是由於膝部有更多的主動肌肉參與，而踝部的肌肉數量較少。
 - EMG激發與產生力量之間的非比例關係
 - "real-time multi-DOF modeling formulation provides a unique MTU force solution that satisfies all DOFs simultaneously and is therefore more generalizable across novel conditions." 解決傳統模型上一次只考慮單一DOF會導致的多模擬MTU解之問題。
@@ -82,3 +84,11 @@ Detailed staged of using OpenSim API
 3) subject-specific val ues of optimal fiber length and tendon slack length, each MTU
 4) constraint optimization -> EMG-to-activation shape factor parameter
 >Parameters are varied using a simulated annealing procedure
+
+>"real-time inverse kinematics (IK) and inverse dynamics (ID) performed using the OpenSim API"
+>"The IK problem in OpenSim is solved via static optimization"
+>root mean squared error (RMSE) to check marker between virtual and MOCAP
+>=="Kalman filter to process IK-generated joint angles"==
+>>parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
+>
+>6 lower extremity DOFs defining the kine matics of the 13 selected MTUs
