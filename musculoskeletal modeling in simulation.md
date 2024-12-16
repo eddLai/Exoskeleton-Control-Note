@@ -32,6 +32,9 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 - different threads within a multi-stage pipeline
 
 ---
+## De
+
+---
 ### Terms
 - physiological electromechanical delay (EMDs).
 
