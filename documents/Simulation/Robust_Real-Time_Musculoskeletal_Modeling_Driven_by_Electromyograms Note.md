@@ -96,8 +96,8 @@ real-time modeling在嵌入式系統上的可行性
 ---
 Detailed staged of using OpenSim API
 
-附件: [[comparison of our pipeline to others]]
-![[data generated from the pipeline.png]]
+附件: 請點選[[comparison of our pipeline to others]]
+![[data generated from the pipeline.png|900]]
 
 ---
 1. BSpline coefficients necessary for the estimation of Lmt and MA
