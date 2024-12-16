@@ -41,7 +41,9 @@ Guillaume Durandau , Student Member, IEEE, Dario Farina, Senior Member, IEEE, an
 
 ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]] 
 
-6DOF下肢模型，比較實時和離線方法的結果
+6DOF下肢模型
+- 比較IK, ID實時和離線方法的結果
+- 比較modeling的EMG與真實的sEMG結果
 >"predicting joint moments from motor tasks"
 >"framework can operate online on low power embedded systems"
 
