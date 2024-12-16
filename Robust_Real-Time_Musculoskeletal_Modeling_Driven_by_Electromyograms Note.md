@@ -24,7 +24,7 @@ level of fatigue from EMG
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
-<!-- slide bg="NTKLab_white bg_cover_resize.png"-->
+<!-- slide bg=""D:\Notes\Exoskeleton-Control-Note\documents\EMG\NTKLab_white bg_cover_resize.png""-->
 
 ---
 
