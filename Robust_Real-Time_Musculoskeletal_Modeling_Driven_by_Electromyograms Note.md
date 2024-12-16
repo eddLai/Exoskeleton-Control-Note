@@ -2,6 +2,7 @@
 bg: "[[NTKLab_white bg.png]]"
 autoSlide: 
 cssclasses:
+  - Times New Roman
 ---
 
 ---
