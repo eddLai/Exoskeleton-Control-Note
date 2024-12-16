@@ -1,6 +1,3 @@
----
-progress: true
----
 
 <style>
     .reveal {
