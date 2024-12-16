@@ -7,6 +7,10 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 >"predicting joint moments from motor tasks"
 >"framework can operate online on low power embedded systems"
 
+使用ANSI C++
+components:
+- 
+
 ### Terms
 - physiological electromechanical delay (EMDs).
 
