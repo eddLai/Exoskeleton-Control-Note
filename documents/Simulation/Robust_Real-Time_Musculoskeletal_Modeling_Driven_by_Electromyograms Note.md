@@ -43,7 +43,8 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 6DOF下肢模型，比較實時和離線方法
 >"predicting joint moments from motor tasks"
 >"framework can operate online on low power embedded systems"
-==表示目前沒有的技術成分==
+
+==螢光筆表示目前沒有的技術成分==
 
 ---
 ## software components:
