@@ -68,7 +68,7 @@ real-time modeling在嵌入式系統上的可行性
 
 ---
 ## Modeling Framework
-[[Modeling framework I of real-time s]]
+![[Modeling framework I of real-time system modeling.png|900]]
 
 ---
 ## Hardwares
