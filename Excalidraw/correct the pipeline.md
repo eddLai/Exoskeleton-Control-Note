@@ -12,6 +12,8 @@ muscle tendon length ^5kQ2tl0P
 
 moment ^Cno7xY53
 
+muscle tendon length ^mHWKEEW0
+
 
 # Embedded files
 23d4088c71abdc500666c6b760d0b74f5c655456: [[Pasted Image 20241216144750_785.png]]
@@ -222,6 +224,43 @@ moment ^Cno7xY53
 			"originalText": "moment",
 			"lineHeight": 1.25,
 			"baseline": 14
+		},
+		{
+			"type": "text",
+			"version": 98,
+			"versionNonce": 166789069,
+			"isDeleted": false,
+			"id": "mHWKEEW0",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": -4.038743021989205,
+			"y": -64.38921648762667,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 114.7066650390625,
+			"height": 14.254856506038823,
+			"seed": 1442440163,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1734331815725,
+			"link": null,
+			"locked": false,
+			"fontSize": 11.40388520483106,
+			"fontFamily": 1,
+			"text": "muscle tendon length",
+			"rawText": "muscle tendon length",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "muscle tendon length",
+			"lineHeight": 1.25,
+			"baseline": 10
 		}
 	],
 	"appState": {
@@ -239,8 +278,8 @@ moment ^Cno7xY53
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 162.2890853152444,
-		"scrollY": 189.93934973458096,
+		"scrollX": 178.9432313863781,
+		"scrollY": 205.24315963778565,
 		"zoom": {
 			"value": 2.2216689971352612
 		},
