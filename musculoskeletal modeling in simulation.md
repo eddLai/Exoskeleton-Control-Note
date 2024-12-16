@@ -33,10 +33,10 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
 ## Detailed staged of using OpenSim API
-2. BSpline coefficients necessary for the estimation of Lmt and MA
-3. 
-4. subject-specific val ues of optimal fiber length and tendon slack length, each MTU
-5. constraint optimization
+1. BSpline coefficients necessary for the estimation of Lmt and MA
+2. Lmt nominal values for all MTUs spanning the anklesubtalar-flexion, ankle flexion-extension andkneeflexion extension DOFs.
+3. subject-specific val ues of optimal fiber length and tendon slack length, each MTU
+4. constraint optimization
 
 ---
 ### Terms
