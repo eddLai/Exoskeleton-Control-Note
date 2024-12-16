@@ -1,3 +1,6 @@
+---
+
+---
 
 <style>
     .reveal {
@@ -8,7 +11,6 @@
         background-image: url('NTKLab_white bg.png');
         background-size: cover;
         background-position: center;
-        template="[[tpl-footer]]";
     }
 	.with-border{
 		border: 1px solid red;
