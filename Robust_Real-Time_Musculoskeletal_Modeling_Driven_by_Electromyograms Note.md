@@ -8,7 +8,6 @@
         background-image: url('NTKLab_white bg.png');
         background-size: cover;
         background-position: center;
-        slide template="[[tpl-footer]]"
     }
 	.with-border{
 		border: 1px solid red;
@@ -23,6 +22,8 @@ level of fatigue from EMG
 </grid>
 
 <!-- slide bg="NTKLab_white bg_cover_resize.png"-->
+```
+<!-- slide template="[[tpl-footer]]" -->
 
 ---
 
