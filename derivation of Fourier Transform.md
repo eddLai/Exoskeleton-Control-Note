@@ -21,6 +21,6 @@ $$f(x+2\pi)=f(x)$$
 $$f(x) = \frac{a_0}{2} + \sum_{n=1}^{\infty} \left( a_n \cos\frac{n\pi x}{p} + b_n \sin\frac{n\pi x}{p} \right), \, n \in \mathbb{N}$$
 Known in a period:
 $$\int_{-p}^p f(x) \, dx=a_0p + \sum_{n=1}^{\infty} \left( a_n \cos\frac{n\pi x}{p} + b_n \sin\frac{n\pi x}{p} \right), \, n \in \mathbb{N}$$
-$$a_0 = \frac{a_0}{}\int_{-p}^p f(x) \, dx$$
+$$a_0 = \frac{a_0}{2}+\frac{}{}\int_{-p}^p f(x) \, dx$$
 $$a_0 = \frac{1}{p} \int_{-p}^p f(x) \, dx
 $$
