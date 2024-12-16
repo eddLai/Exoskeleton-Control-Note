@@ -19,12 +19,12 @@ cssclasses:
 		border: 1px solid red;
 	}
 	.headers-font{
-		--h1-style	H1 font style
-		--h2-style	H2 font style
-		--h3-style	H3 font style
-		--h4-style	H4 font style
-		--h5-style	H5 font style
-		--h6-style
+		--h1-style: 'Times New Roman', '標楷體';
+		--h2-style: 'Times New Roman', '標楷體';
+		--h3-style: 'Times New Roman', '標楷體';
+		--h4-style: 'Times New Roman', '標楷體';
+		--h5-style: 'Times New Roman', '標楷體';
+		--h6-style: 'Times New Roman', '標楷體';
 	}
 </style>
 <grid drag="70 10" drop="-3 40">
@@ -56,6 +56,8 @@ ref. Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf,
 >6 lower extremity DOFs defining the kine matics of the 13 selected MTUs
 - computation of musculotendon kinematics(Multidimensional Cubic BSpline (MCBS) method) [nihms342948.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3264840/pdf/nihms342948.pdf)
 - CEINMS
+
+---
 ## Hardwares
 - TCP/IP direct connection to external EMG amplifiers -> ~~amplitude-normalized linear envelopes~~(一致) -> filter沒有用帶通，其它都一樣
 	- ~~high-pass filtering, full-wave rectification, and low-pass filtering~~
