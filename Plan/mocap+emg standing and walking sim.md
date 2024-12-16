@@ -212,13 +212,11 @@ eddlai
 	- 頻率
 
 ---
-用線上資料庫
 討論
-一模一樣的方案以及流程，重新審思
-[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 1. 利用新的EMG概念重新理解SCONE生成的結果
-2. 重新按照這個文獻[IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7927483), https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2的做法做一次
+2. 用線上資料庫測試
+3. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2 的做法做一次
 	- Calibration procedure
 	- BSpline coefficients
 	- 確認Kalman filter to process IK-generated joint angles
