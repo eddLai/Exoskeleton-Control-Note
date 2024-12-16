@@ -19,8 +19,6 @@ moment ^QUkyeg7J
 
 New ^XtZaS16p
 
-[Excalidraw Libraries](https://libraries.excalidraw.com/?target=_blank&referrer=app://obsidian.md&useHash=true&token=ZzMyTIlb-ZKCARgr9APQz&theme=dark&version=2) ^WnnR5TqI
-
 [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]] ^2c8NMJmu
 
 
@@ -457,141 +455,6 @@ New ^XtZaS16p
 			},
 			"startArrowhead": null,
 			"endArrowhead": "diamond"
-		},
-		{
-			"text": "🌐[[Excalidraw Libraries]]",
-			"fontSize": 36,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 31,
-			"id": "WnnR5TqI",
-			"type": "text",
-			"x": 635.9526365199837,
-			"y": 120.79293011291037,
-			"width": 474.44549560546875,
-			"height": 45,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"roundness": null,
-			"seed": 69722,
-			"version": 3,
-			"versionNonce": 974473197,
-			"updated": 1734332379172,
-			"isDeleted": false,
-			"groupIds": [],
-			"boundElements": [],
-			"link": "https://libraries.excalidraw.com/?target=_blank&referrer=app://obsidian.md&useHash=true&token=ZzMyTIlb-ZKCARgr9APQz&theme=dark&version=2",
-			"locked": false,
-			"containerId": null,
-			"originalText": "🌐[[Excalidraw Libraries]]",
-			"rawText": "[Excalidraw Libraries](https://libraries.excalidraw.com/?target=_blank&referrer=app://obsidian.md&useHash=true&token=ZzMyTIlb-ZKCARgr9APQz&theme=dark&version=2)",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "line",
-			"version": 878,
-			"versionNonce": 485212291,
-			"isDeleted": true,
-			"id": "jpSDratkOMmCZZEWIJ024",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 80,
-			"angle": 0,
-			"x": -693.1283765281694,
-			"y": -131.21745855370386,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 102.95404895253068,
-			"height": 98.19215468747154,
-			"seed": 262403117,
-			"groupIds": [
-				"B5sFD7PVnxfanpevMTl-Z"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1734332532252,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.3759156430037365,
-					60.37295808721399
-				],
-				[
-					54.58954101281756,
-					98.19215468747154
-				],
-				[
-					102.8267215907565,
-					60.73117425017426
-				],
-				[
-					102.95404895253068,
-					0.7385631877812102
-				],
-				[
-					0,
-					0
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 281,
-			"versionNonce": 1225833773,
-			"isDeleted": true,
-			"id": "PJI3mRcAlTDZ_xG2ypGpy",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 80,
-			"angle": 0,
-			"x": -682.1681422748431,
-			"y": -115.1197700316236,
-			"strokeColor": "#c2255c",
-			"backgroundColor": "transparent",
-			"width": 78.62739167691734,
-			"height": 41.557855548965705,
-			"seed": 1221518989,
-			"groupIds": [
-				"B5sFD7PVnxfanpevMTl-Z"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1734332532252,
-			"link": null,
-			"locked": false,
-			"fontSize": 16.623142219586274,
-			"fontFamily": 1,
-			"text": "Off-page\nConnector",
-			"rawText": "",
-			"textAlign": "center",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Off-page\nConnector",
-			"lineHeight": 1.25,
-			"baseline": 35
 		}
 	],
 	"appState": {
@@ -609,8 +472,8 @@ New ^XtZaS16p
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "diamond",
-		"scrollX": 1217.8013380413113,
-		"scrollY": 446.6283543718516,
+		"scrollX": 608.8009208822829,
+		"scrollY": 424.649838954153,
 		"zoom": {
 			"value": 0.8596434645688404
 		},
