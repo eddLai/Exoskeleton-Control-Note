@@ -52,7 +52,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
 ## 主要成果
-![[Real-time ID results]]
+![[Real-time ID results.png]]
 
 ---
 ## software components:
