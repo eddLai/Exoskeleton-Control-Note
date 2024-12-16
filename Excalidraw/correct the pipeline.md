@@ -70,7 +70,7 @@ FqjWs6wF: [[documents/EMG/paper/Muscle Fatigue Analysis Using OpenSim.pdf]]
 
 3ddef38741c9db218fac00f74b6381374f350557: [[Comparison of EMG-excitation from sEMG and modeling.png]]
 
-d3118990775155f28da26084d00c304a97bdbaad: [[Pasted Image 20241216220530_771.png]]
+d3118990775155f28da26084d00c304a97bdbaad: [[computing time of real-time modeling system.png]]
 
 23d4088c71abdc500666c6b760d0b74f5c655456: [[pipeline of building Digital Twins.png]]
 
