@@ -21,7 +21,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 >6 lower extremity DOFs defining the kine matics of the 13 selected MTUs
 - computation of musculotendon kinematics(Multidimensional Cubic BSpline (MCBS) method) [nihms342948.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3264840/pdf/nihms342948.pdf)
 - CEINMS
-
+![[Pasted Image 20241216215357_262.png]]
 ## Hardwares
 - TCP/IP direct connection to external EMG amplifiers -> ~~amplitude-normalized linear envelopes~~(一致) -> filter沒有用帶通，其它都一樣
 	- ~~high-pass filtering, full-wave rectification, and low-pass filtering~~
