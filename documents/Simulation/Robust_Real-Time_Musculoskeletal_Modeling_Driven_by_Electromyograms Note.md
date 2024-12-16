@@ -56,6 +56,11 @@ real-time modeling在嵌入式系統上的可行性
 ![[Real-time ID results.png|800]]
 
 ---
+![[Comparison of EMG-excitation from sEMG and modeling.png]]
+
+---
+
+
 ---
 ## software components:
 使用ANSI C++
