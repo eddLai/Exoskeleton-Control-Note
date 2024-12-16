@@ -2,10 +2,6 @@
 ### STFT
 ref. [深入理解短时傅里叶变换 STFT + Python 代码详解_stft python-CSDN博客](https://blog.csdn.net/weixin_44618906/article/details/116356081)
 
-### Median Frequency
-
-==步行速度的增加，脛前肌(TA)的肌電圖中值頻率會顯著下降==
-ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
 $$Z_{xx}(f,t) = \mathcal{F} \left\{ x(t) w(t - \tau) \right\}$$
 $$P(f,t) = |Z_{xx}(f,t)|^2
 $$
