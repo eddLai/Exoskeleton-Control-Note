@@ -25,6 +25,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 		- isometric maximal voluntary contractions (MVCs)
 		- dynamic trials
 - TCP/IP direct connec tion to MOCAP
+- different threads within a multi-stage pipeline
 
 ---
 ### Terms
