@@ -107,7 +107,7 @@ Detailed staged of using OpenSim API
 	- Parameters are varied using a simulated annealing procedure
 
 ---
-
+## Opensim建置流程之討論
 "real-time inverse kinematics (IK) and inverse dynamics (ID) performed using the OpenSim API"
 "The IK problem in OpenSim is solved via static optimization"
 root mean squared error (RMSE) to check marker between virtual and MOCAP
