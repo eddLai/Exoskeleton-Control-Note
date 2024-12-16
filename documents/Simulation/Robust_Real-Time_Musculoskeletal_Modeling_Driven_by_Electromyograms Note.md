@@ -14,6 +14,9 @@ cssclasses:
         color: black;
         background-size: cover;
         background-position: center;
+        --h1-style: 'Times New Roman', '標楷體';
+        --h1-color: black; --h2-style: 'Times New Roman', '標楷體'; 
+        --h2-color: black; --h3-style: 'Times New Roman', '標楷體'; --h3-color: black; --h4-style: 'Times New Roman', '標楷體'; --h4-color: black; --h5-style: 'Times New Roman', '標楷體'; --h5-color: black; --h6-style: 'Times New Roman', '標楷體'; --h6-color: black;
     }
 	.with-border{
 		border: 1px solid red;
