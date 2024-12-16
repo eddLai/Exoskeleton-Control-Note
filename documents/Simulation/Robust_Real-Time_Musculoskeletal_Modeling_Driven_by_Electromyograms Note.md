@@ -35,7 +35,7 @@ level of fatigue from EMG
 
 ---
 
-ref. Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf, 
+ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]] 
 6DOF下肢模型，比較實時和離線方法
 >"predicting joint moments from motor tasks"
 >"framework can operate online on low power embedded systems"
