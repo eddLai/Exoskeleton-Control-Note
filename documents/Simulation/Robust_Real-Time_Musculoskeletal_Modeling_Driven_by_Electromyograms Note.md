@@ -4,7 +4,7 @@ autoSlide:
 cssclasses:
   - reveal
   - .head-font
-css: _local/font.css
+css: header-font
 ---
 ---
 
