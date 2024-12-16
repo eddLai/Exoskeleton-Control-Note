@@ -1,6 +1,6 @@
 ---
 bg: "[[NTKLab_white bg.png]]"
-autoSlide: "5"
+autoSlide: 
 enableTimeBar: "true"
 timeForPresentation: "300"
 ---
