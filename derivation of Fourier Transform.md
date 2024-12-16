@@ -12,7 +12,7 @@ $$
 $$=\sum_{m=0}^{\infty} (m+2)(m+1) a_{m+2} x^m + \sum_{m=0}^{\infty} p(x)(m+1) a_{m+1} x^m + \sum_{m=0}^{\infty} q(x) a_m x^m = 0$$
 $$=\sum_{m=0}^{\infty} \left[ (m+2)(m+1) a_{m+2} + p(x)(m+1) a_{m+1} + q(x) a_m \right] x^m = 0
 $$
-$$可以找出a_m$$
+$$可以找出a_m之解，(m+2)(m+1) a_{m+2} + p(x)(m+1) a_{m+1} + q(x) a_m=0$$
 
 ---
 ## Fourier Series
