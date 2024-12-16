@@ -9,6 +9,8 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 使用ANSI C++
 components:
+- external recording devices
+- OpenSim API
 - 
 
 ### Terms
