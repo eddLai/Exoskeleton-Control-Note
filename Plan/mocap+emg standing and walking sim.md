@@ -221,5 +221,6 @@ https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2
 利用新的EMG概念，重新
 - Calibration procedure
 - BSpline coefficients
-- >=="Kalman filter to process IK-generated joint angles"==
->>parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
+- 確認Kalman filter to process IK-generated joint angles
+>parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
+
