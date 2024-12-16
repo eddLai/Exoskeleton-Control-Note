@@ -21,7 +21,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 	- amplitude normalization: ==peak-processed values== for ==musculotendon unit (MTU) force-production modeling==
 		- isometric maximal voluntary contractions (MVCs)
 		- dynamic trials
-- 
+- TCP/IP direct connec tion to MOCAP
 
 ---
 ### Terms
