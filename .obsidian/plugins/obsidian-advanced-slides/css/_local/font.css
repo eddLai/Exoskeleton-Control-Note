@@ -1,0 +1,28 @@
+@import url('https://npm.elemecdn.com/lxgw-wenkai-screen-webfont/style.css');
+:root { --r-main-font: 'LXGW WenKai Screen', "Microsoft YaHei", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif }
+
+.reveal h1, 
+.reveal h2, 
+.reveal h3, 
+.reveal h4, 
+.reveal h5,
+.reveal h6 {
+	text-transform: none;
+	font-family: "LXGW WenKai Screen";
+}
+
+.gradient-text {
+	font-size: 48px;
+	/* 根据需要调整字体大小 */
+	font-weight: bold;
+	/* 可选，增加字体的粗细 */
+	background: linear-gradient(to right, #ff006e, #ee0979, #8a03fc);
+	/* 渐变背景色 */
+	-webkit-background-clip: text;
+	background-clip: text;
+	/* 背景裁剪到文本 */
+	color: transparent;
+	/* 文字颜色设为透明，实现镂空效果 */
+	display: inline-block;
+	/* 使背景仅限于文字范围 */
+}
