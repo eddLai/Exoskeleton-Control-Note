@@ -1,0 +1,9 @@
+.headers-font {
+    --header-style: 'Times New Roman', '標楷體';
+    --header-color: black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--header-style);
+    color: var(--header-color);
+}
