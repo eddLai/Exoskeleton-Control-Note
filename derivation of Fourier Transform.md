@@ -25,3 +25,7 @@ $$a_0 = a_0p+\sum_{n=1}^{\infty}[\int_{-p}^p a_ncos(\frac{n\pi x}{p})\, dx+\int_
 週期內cos, sin積分=0
 $$a_0 = \frac{1}{p} \int_{-p}^p f(x) \, dx
 $$
+
+---
+求$a_n$
+求$b_n$
