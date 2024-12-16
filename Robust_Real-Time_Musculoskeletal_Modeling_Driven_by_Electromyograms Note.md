@@ -1,8 +1,7 @@
 ---
-autoSlide: "false"
+bg: "[[NTKLab_white bg.png]]"
 ---
 
-autoSlide
 ---
 
 <style>
