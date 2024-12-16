@@ -214,7 +214,7 @@ eddlai
 ---
 1. 利用新的EMG概念重新理解SCONE生成的結果
 2. 用線上資料庫測試fatigue方案
-3. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2 的做法做一次
+3. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2 的做法做一次，至少會完成inversed-problem的整合
 	- Calibration procedure
 	- BSpline coefficients
 	- 確認Kalman filter to process IK-generated joint angles
