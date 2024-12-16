@@ -1,3 +1,6 @@
+.test .cm-header-2{
+    color: red;
+}
 .headers-font{
     --h1-style: 'Times New Roman', '標楷體';
     --h1-color: black;
