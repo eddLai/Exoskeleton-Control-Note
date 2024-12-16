@@ -1,5 +1,4 @@
-tools: [[SCONE]]用來RL training, [[overview of opensim]]用來進行IK推測, [[CEINMS app.]]
-musculoskeletal 
+[[musculoskeletal modeling in simulation]]
 
 7 Days ~ 10/3 (Thursday)
 1. make model fit an object
