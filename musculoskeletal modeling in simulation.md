@@ -30,6 +30,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 		- dynamic trials
 - TCP/IP direct connection to MOCAP(retroreflectives markers)
 - different threads within a multi-stage pipeline
+	- Computation time histograms是執行real-time運算需要考量的
 
 ---
 ## Detailed staged of using OpenSim API
