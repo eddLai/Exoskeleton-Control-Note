@@ -36,7 +36,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 1. BSpline coefficients necessary for the estimation of Lmt and MA
 2. Lmt nominal values for all MTUs spanning the anklesubtalar-flexion, ankle flexion-extension andkneeflexion extension DOFs.
 3. subject-specific val ues of optimal fiber length and tendon slack length, each MTU
-4. constraint optimization
+4. constraint optimization -> EMG-to-activation shape factor parameterParameters are varied using a simulated annealing procedure
 
 ---
 ### Terms
