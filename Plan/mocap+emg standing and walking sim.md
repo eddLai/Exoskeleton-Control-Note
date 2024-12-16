@@ -218,7 +218,9 @@ eddlai
 [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2
-利用新的EMG概念，重新按照這個文獻[IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7927483)的做法做一次
+利用新的EMG概念重新理解SCONE生成的結果
+
+重新按照這個文獻[IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7927483)的做法做一次
 - Calibration procedure
 - BSpline coefficients
 - 確認Kalman filter to process IK-generated joint angles
