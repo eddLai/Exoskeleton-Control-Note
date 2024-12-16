@@ -27,8 +27,9 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 	- ~~high-pass filtering, full-wave rectification, and low-pass filtering~~
 		- 256-channelEMGamplifier (OTBioelettronica, Italy)
 		- SR: 2048Hz
-		- high-passfilter: second-order Butterworthfilter30Hz cut-off
-		- low-pass filter: second-order Butterworth with a 4Hz cut-off
+		- high-passfilter: second-order Butterworthfilter; 30Hz cut-off
+		- low-pass filter: second-order Butterworth with; 4Hz cut-off
+		- EMG signals channels: 10 muscle groups
 	- amplitude normalization: ==peak-processed values== for ==musculotendon unit (MTU) force-production modeling==
 		- isometric maximal voluntary contractions (MVCs)
 		- dynamic trials
