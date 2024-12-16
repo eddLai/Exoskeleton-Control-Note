@@ -12,6 +12,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 使用ANSI C++
 - external recording devices
 - OpenSim API
+>"real-time inverse kinematics (IK) and inverse dynamics (ID) performed using the OpenSim API"
 - computation of musculotendon kinematics(Multidimensional Cubic BSpline (MCBS) method)
 - CEINMS
 
