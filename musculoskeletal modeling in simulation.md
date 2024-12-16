@@ -37,6 +37,8 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 - different threads within a multi-stage pipeline
 	- Computation time histograms是執行real-time運算需要考量的
 
+另外，EMG激發與產生力量之間的非比例關係
+
 ---
 ## Detailed staged of using OpenSim API
 1. BSpline coefficients necessary for the estimation of Lmt and MA
