@@ -8,6 +8,7 @@
         background-image: url('NTKLab_white bg.png');
         background-size: cover;
         background-position: center;
+        progress: true;
     }
 	.with-border{
 		border: 1px solid red;
