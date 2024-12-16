@@ -12,7 +12,7 @@ components:
 - external recording devices
 - OpenSim API
 - computation of musculotendon kinematics(Multidimensional Cubic BSpline (MCBS) method)
-- 
+- CEINMS
 
 ### Terms
 - physiological electromechanical delay (EMDs).
