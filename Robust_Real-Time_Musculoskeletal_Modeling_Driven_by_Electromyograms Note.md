@@ -1,6 +1,7 @@
 ---
 bg: "[[NTKLab_white bg.png]]"
-autoSlide:
+autoSlide: 
+cssclasses:
 ---
 
 ---
