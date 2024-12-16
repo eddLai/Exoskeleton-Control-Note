@@ -64,7 +64,7 @@ real-time的EMG生成效果看來影響不大
 FqjWs6wF: [[documents/EMG/paper/Muscle Fatigue Analysis Using OpenSim.pdf]]
 
 ## Embedded Files
-4fedbb905cef21a72455d959d94a268b64d7316e: [[pipeline of real-time system from.png]]
+4fedbb905cef21a72455d959d94a268b64d7316e: [[odeling framework I of real-time system modeling.png]]
 
 67be9c97a52404f8b97abdb0a78661279a508fb8: [[Pasted Image 20241216215357_262.png]]
 
