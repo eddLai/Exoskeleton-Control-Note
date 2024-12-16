@@ -1,3 +1,9 @@
+---
+autoSlide: "0"
+---
+
+autoSlide
+---
 
 <style>
     .reveal {
