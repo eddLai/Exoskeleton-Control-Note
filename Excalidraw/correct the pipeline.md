@@ -318,10 +318,10 @@ moment ^QUkyeg7J
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 123.12933644528097,
-		"scrollY": 119.7218690022335,
+		"scrollX": 423.3987173478554,
+		"scrollY": 265.0084989036521,
 		"zoom": {
-			"value": 2.2216689971352612
+			"value": 1.3134516998933443
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
