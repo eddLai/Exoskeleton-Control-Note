@@ -1,5 +1,6 @@
 ---
 bg: "[[NTKLab_white bg.png]]"
+tags:
 ---
 
 ---
