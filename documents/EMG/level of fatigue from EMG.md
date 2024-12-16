@@ -146,7 +146,7 @@ Connection with Exoskeleton
 生理數據資料庫
 - WFDB application
 - MIT-BIH database
-- EMG Pattern Recognition: LibEMG toolbox
+- EMG Pattern Recognition: [LibEMG/TMR_ShirleyRyanAbilityLab](https://github.com/LibEMG/TMR_ShirleyRyanAbilityLab)
 
 6 subjects provided data before and after targeted muscle reinervation (TMR). An array of 32 surface bipolar pre-gelled silver/silver chloride EMG electrodes were placed on each subjects’ residual forearm. Individuals were asked to perform various hand muscle contractions including hand open, 9 different grasp patterns (lateral, power, pinch with the remaining fingers opened and closed, 3 jaw chuck with the remaining fingers opened and closed, index point, hook, and tool), 8 different individual finger and thumb movements (thumb flexion/extension, thumb abduction/adduction, index flexion, middle flexion, ring flexion, and pinky flexion), and rest. Muscle contractions were held for 2 seconds and repeated 8 times for a total of 16 seconds per movement.
 Datasets: https://lnkd.in/gKDerZxR
