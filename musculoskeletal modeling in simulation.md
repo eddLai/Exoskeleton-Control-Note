@@ -1,4 +1,5 @@
 ![[pipeline of building Digital Twins.png]]
+## New Me
 ![[correct the pipeline]]
 tools: [[SCONE]]用來RL training, [[overview of opensim]]用來進行IK推測, [[CEINMS app.]], EMG-informed methods or EMG-driven methods?
 target: [[mocap+emg standing and walking sim]], [[level of fatigue from EMG]]
@@ -40,7 +41,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 ## 結論與討論
 - 預測踝部屈伸力矩方面優於膝部屈伸力矩，這是由於膝部有更多的主動肌肉參與，而踝部的肌肉數量較少。
 - EMG激發與產生力量之間的非比例關係
-- "real-time multi-DOF modeling formulation provides a unique MTU force solution that satisfies all DOFs simultaneously and is therefore more generalizable across novel conditions."
+- "real-time multi-DOF modeling formulation provides a unique MTU force solution that satisfies all DOFs simultaneously and is therefore more generalizable across novel conditions."解決傳統模猩上
 
 ---
 ## Detailed staged of using OpenSim API
