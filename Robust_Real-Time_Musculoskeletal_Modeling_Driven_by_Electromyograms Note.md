@@ -1,8 +1,8 @@
 ---
 bg: "[[NTKLab_white bg.png]]"
-autoSlide: 
+autoSlide: "5"
 enableTimeBar: "true"
-timeForPresentation:
+timeForPresentation: "300"
 ---
 
 ---
@@ -13,7 +13,6 @@ timeForPresentation:
         font-size: 30px;
         text-align: left;
         color: black;
-        background-image: url('NTKLab_white bg.png');
         background-size: cover;
         background-position: center;
     }
