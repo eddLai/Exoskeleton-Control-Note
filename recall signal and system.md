@@ -1,5 +1,5 @@
 ## Fourier Series
-[[recall fourier transfr]]
+[[recall fourier transform]]
 $$f(x) =\sum_{n=-\infty}^\infty C_n \cdot e^{\frac{nx\pi}{p}j}$$
 $$C_n=\frac{1}{2p}\int_{-p}^p f(x)e^{\frac{-nx\pi}{p}j}dx$$
 
