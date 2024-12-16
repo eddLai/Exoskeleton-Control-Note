@@ -13,7 +13,9 @@
 	}
 </style>
 
-<% content %> <grid drag="100 6" drop="bottom"> ###### © 2023 Powered by twotwo<!-- element style="font-weight:300" --> </grid>
+<% content %>
+<grid drag="100 6" drop="bottom"> 
+###### © 2023 Powered by twotwo<!-- element style="font-weight:300" --> </grid>
 
 <grid drag="70 10" drop="-3 40">
 level of fatigue from EMG
