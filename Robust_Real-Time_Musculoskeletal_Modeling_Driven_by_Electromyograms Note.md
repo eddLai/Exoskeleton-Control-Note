@@ -3,6 +3,7 @@ bg: "[[NTKLab_white bg.png]]"
 autoSlide: 
 enableTimeBar: "true"
 timeForPresentation: "300"
+progress: "true"
 ---
 
 ---
