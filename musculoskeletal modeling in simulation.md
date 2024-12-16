@@ -15,6 +15,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 >"real-time inverse kinematics (IK) and inverse dynamics (ID) performed using the OpenSim API"
 >"The IK problem in OpenSim is solved via static optimization"
 >root mean squared error (RMSE) to check marker between virtual and MOCAP
+>"Kalman filter [29] to process IK-generated joint angles"
 - computation of musculotendon kinematics(Multidimensional Cubic BSpline (MCBS) method)
 - CEINMS
 
