@@ -18,7 +18,14 @@ cssclasses:
 	.with-border{
 		border: 1px solid red;
 	}
-	.headers_f
+	.headers-font{
+		--h1-style	H1 font style
+		--h2-style	H2 font style
+		--h3-style	H3 font style
+		--h4-style	H4 font style
+		--h5-style	H5 font style
+		--h6-style
+	}
 </style>
 <grid drag="70 10" drop="-3 40">
 level of fatigue from EMG
