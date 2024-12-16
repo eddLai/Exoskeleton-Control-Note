@@ -20,7 +20,9 @@ cssclasses:
 	}
 	.headers-font{
 		--h1-style: 'Times New Roman', '標楷體';
+		--h1-color: black;
 		--h2-style: 'Times New Roman', '標楷體';
+		--h2-color: black;
 		--h3-style: 'Times New Roman', '標楷體';
 		--h4-style: 'Times New Roman', '標楷體';
 		--h5-style: 'Times New Roman', '標楷體';
