@@ -7,6 +7,7 @@ target: [[mocap+emg standing and walking sim]], [[level of fatigue from EMG]]
 ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 >"predicting joint moments from motor tasks"
 >"framework can operate online on low power embedded systems"
+==表示目前沒有的技術成分==
 ## software components:
 使用ANSI C++
 - external recording devices
