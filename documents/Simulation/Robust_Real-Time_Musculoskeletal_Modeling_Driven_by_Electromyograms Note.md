@@ -20,16 +20,6 @@ css: _local/font.css
 	.with-border{
 		border: 1px solid red;
 	}
-	.headers-font{
-		--h1-style: 'Times New Roman', '標楷體';
-		--h1-color: black;
-		--h2-style: 'Times New Roman', '標楷體';
-		--h2-color: black;
-		--h3-style: 'Times New Roman', '標楷體';
-		--h4-style: 'Times New Roman', '標楷體';
-		--h5-style: 'Times New Roman', '標楷體';
-		--h6-style: 'Times New Roman', '標楷體';
-	}
 </style>
 <grid drag="70 10" drop="-3 40">
 level of fatigue from EMG
