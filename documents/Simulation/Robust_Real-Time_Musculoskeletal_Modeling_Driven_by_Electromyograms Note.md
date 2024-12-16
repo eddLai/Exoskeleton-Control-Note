@@ -21,7 +21,7 @@ cssclasses:
 	.reveal h4,
 	.reveal h5,
 	.reveal h6 {
-	  font-family: "Fira Sans";
+	  font-family: 'Times New Roman', '標楷體';
 	  color: black;
 	}
 	.with-border{
