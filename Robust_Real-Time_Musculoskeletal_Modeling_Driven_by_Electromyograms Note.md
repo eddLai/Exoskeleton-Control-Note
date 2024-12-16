@@ -9,6 +9,7 @@
         background-size: cover;
         background-position: center;
         progress: true;
+        rtl: true;
     }
 	.with-border{
 		border: 1px solid red;
