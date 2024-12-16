@@ -92,6 +92,13 @@ ref. [[Characterization of muscle fatigue in the lower limb by sEMG and angular
 系統需要能夠理解代償，或者要想辦法fit回去
 
 ---
+Median Frequency
+
+==步行速度的增加，脛前肌(TA)的肌電圖中值頻率會顯著下降==
+
+ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
+
+---
 Statistics Application
 SD $\uparrow$ ，肌肉的運動模式變得不一致
 - ==RF和BF 會趨於不穩定，SD上升==
