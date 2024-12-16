@@ -387,12 +387,12 @@ New ^XtZaS16p
 			"lineHeight": 1.25
 		},
 		{
-			"id": "P8NYa60hh4D7869FKknX4",
+			"id": "-EErfKD23ugAeqoN2TLvk",
 			"type": "arrow",
-			"x": -215.86258358289308,
-			"y": 231.1295185482469,
-			"width": 191.0306125846189,
-			"height": 43.6405832128803,
+			"x": 136.55588883722316,
+			"y": -389.7198781202309,
+			"width": 135.03891380344908,
+			"height": 27.995849390584965,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -406,12 +406,12 @@ New ^XtZaS16p
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1173241379,
-			"version": 136,
-			"versionNonce": 1674660813,
+			"seed": 216694093,
+			"version": 127,
+			"versionNonce": 587639949,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1734332231520,
+			"updated": 1734332267411,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -420,8 +420,8 @@ New ^XtZaS16p
 					0
 				],
 				[
-					-191.0306125846189,
-					-43.6405832128803
+					-135.03891380344908,
+					27.995849390584965
 				]
 			],
 			"lastCommittedPoint": null,
@@ -749,6 +749,50 @@ New ^XtZaS16p
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "P8NYa60hh4D7869FKknX4",
+			"type": "arrow",
+			"x": -215.86258358289308,
+			"y": 231.1295185482469,
+			"width": 191.0306125846189,
+			"height": 43.6405832128803,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1173241379,
+			"version": 137,
+			"versionNonce": 1864065773,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1734332237478,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-191.0306125846189,
+					-43.6405832128803
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "diamond"
 		}
 	],
 	"appState": {
