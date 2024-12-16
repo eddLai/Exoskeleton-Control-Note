@@ -1,5 +1,5 @@
 ---
-autoSlide: "0"
+autoSlide: "false"
 ---
 
 autoSlide
