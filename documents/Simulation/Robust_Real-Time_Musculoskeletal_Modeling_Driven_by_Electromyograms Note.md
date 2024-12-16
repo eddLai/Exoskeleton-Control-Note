@@ -71,7 +71,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
 
-## Disscu
+## Discussion  and Conclusion
 - 預測踝部屈伸力矩方面優於膝部屈伸力矩，這是由於膝部有更多的主動肌肉參與，而踝部的肌肉數量較少。
 - EMG激發與產生力量之間的非比例關係
 - "real-time multi-DOF modeling formulation provides a unique MTU force solution that satisfies all DOFs simultaneously and is therefore more generalizable across novel conditions." 解決傳統模型上一次只考慮單一DOF會導致的多模擬MTU解之問題。
