@@ -24,6 +24,7 @@ cssclasses:
 	.reveal h5,
 	.reveal h6 {
 	  font-family: "Fira Sans";
+	  color: black;
 	}
 	.with-border{
 		border: 1px solid red;
