@@ -17,7 +17,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 ## Hardwares
 - TCP/IP direct connection to external EMG amplifiers -> ~~amplitude-normalized linear envelopes~~(一致) -> filter沒有用帶通，其它都一樣
 	- ~~high-pass filtering, full-wave rectification, and low-pass filtering~~
-	- amplitude normalpeak-processed values
+	- amplitude normalization: ==peak-processed values== for ==musculotendon unit (MTU) force-production modeling==
 		- isometric maximal voluntary contractions (MVCs)
 		- dynamic trials
 - 
