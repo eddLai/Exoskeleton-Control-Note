@@ -32,7 +32,9 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 - different threads within a multi-stage pipeline
 
 ---
-## De
+## Detailed staged of using OpenSim API
+2. 
+3. constraint optimization
 
 ---
 ### Terms
