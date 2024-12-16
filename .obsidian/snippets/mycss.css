@@ -17,16 +17,14 @@
     --h6-color: black;
 }
 
-.reveal {
-    --header-font: 'Times New Roman', '標楷體';
-    --header-color: black;
-}
-
-.headers-font {
-    h1, h2, h3, h4, h5, h6 {
-        font-family: var(--header-font);
-        color: var(--header-color);
-    }
+.reveal,
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  font-family: "Fira Sans";
 }
 
 /* .headers-font {

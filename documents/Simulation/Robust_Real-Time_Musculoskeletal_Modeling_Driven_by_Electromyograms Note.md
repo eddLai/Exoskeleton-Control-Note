@@ -15,19 +15,16 @@ cssclasses:
         color: black;
         background-size: cover;
         background-position: center;
-        --h1-font: 'Times New Roman', '標楷體';
-	    --h1-color: black;
-	    --h2-font: 'Times New Roman', '標楷體';
-	    --h2-color: black;
-	    --h3-font: 'Times New Roman', '標楷體';
-	    --h3-color: black;
-	    --h4-font: 'Times New Roman', '標楷體';
-	    --h4-color: black;
-	    --h5-font: 'Times New Roman', '標楷體';
-	    --h5-color: black;
-	    --h6-font: 'Times New Roman', '標楷體';
-	    --h6-color: black;
     }
+    .reveal,
+	.reveal h1,
+	.reveal h2,
+	.reveal h3,
+	.reveal h4,
+	.reveal h5,
+	.reveal h6 {
+	  font-family: "Fira Sans";
+	}
 	.with-border{
 		border: 1px solid red;
 	}
