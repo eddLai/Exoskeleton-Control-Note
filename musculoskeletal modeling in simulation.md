@@ -38,7 +38,9 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 	- Computation time histograms是執行real-time運算需要考量的
 
 ## 結論與討論
-EMG激發與產生力量之間的非比例關係
+- 預測踝部屈伸力矩方面優於膝部屈伸力矩，這是由於膝部有更多的主動肌肉參與，而踝部的肌肉數量較少。
+- EMG激發與產生力量之間的非比例關係
+- 
 
 ---
 ## Detailed staged of using OpenSim API
