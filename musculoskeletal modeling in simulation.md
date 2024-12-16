@@ -10,3 +10,5 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 ### Terms
 - physiological electromechanical delay (EMDs).
 
+
+需要muscle-tendon kinematics
