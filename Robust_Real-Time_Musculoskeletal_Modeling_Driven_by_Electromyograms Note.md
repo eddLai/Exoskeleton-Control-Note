@@ -5,23 +5,6 @@ cssclasses:
   - reveal
 ---
 
----
-
-<style>
-    .reveal {
-        font-family: 'Times New Roman', '標楷體';
-        font-size: 30px;
-        text-align: left;
-        color: black;
-        background-size: cover;
-        background-position: center;
-    }
-	.with-border{
-		border: 1px solid red;
-	}
-</style>
-
----
 
 <grid drag="70 10" drop="-3 40">
 level of fatigue from EMG
@@ -29,7 +12,6 @@ level of fatigue from EMG
 </grid>
 
 <!-- slide bg="NTKLab_white bg_cover_resize.png"-->
-<!-- slide template="[[tpl-footer]]" -->
 
 ---
 
