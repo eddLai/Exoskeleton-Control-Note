@@ -52,9 +52,10 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
 ## 主要成果
-real-time modeling在
-![[Real-time ID results.png]]
+real-time modeling在嵌入式系統上的可行性
+![[Real-time ID results.png|800]]
 
+---
 ---
 ## software components:
 使用ANSI C++
