@@ -1,12 +1,31 @@
 
-css: 
-- _local/font.css 
-- _local/navigation.css 
-- _local/MoreHighlightStyle.css 
+<style>
+    .reveal {
+        font-family: 'Times New Roman', '標楷體';
+        font-size: 30px;
+        text-align: left;
+        color: black;
+        background-image: url('NTKLab_white bg.png');
+        background-size: cover;
+        background-position: center;
+    }
+	.with-border{
+		border: 1px solid red;
+	}
+</style>
 
 ---
 
-ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], 
+<grid drag="70 10" drop="-3 40">
+level of fatigue from EMG
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+</grid>
+
+<!-- slide bg="NTKLab_white bg_cover_resize.png"-->
+
+---
+
+ref. Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf, 
 6DOF下肢模型，比較實時和離線方法
 >"predicting joint moments from motor tasks"
 >"framework can operate online on low power embedded systems"
