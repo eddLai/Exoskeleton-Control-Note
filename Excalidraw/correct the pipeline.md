@@ -10,6 +10,8 @@ tags: [excalidraw]
 # Text Elements
 muscle tendon length ^5kQ2tl0P
 
+moment ^Cno7xY53
+
 
 # Embedded files
 23d4088c71abdc500666c6b760d0b74f5c655456: [[Pasted Image 20241216144750_785.png]]
@@ -152,8 +154,8 @@ muscle tendon length ^5kQ2tl0P
 			"type": "text",
 			"x": -114.73522174136141,
 			"y": 1.6137531360948074,
-			"width": 114.74583080962623,
-			"height": 14.254856506038827,
+			"width": 114.7066650390625,
+			"height": 14.254856506038823,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -179,10 +181,47 @@ muscle tendon length ^5kQ2tl0P
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 10.000000000000004,
+			"baseline": 10,
 			"containerId": null,
 			"originalText": "muscle tendon length",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 185,
+			"versionNonce": 1372293379,
+			"isDeleted": false,
+			"id": "Cno7xY53",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"angle": 0,
+			"x": 198.9422113381706,
+			"y": 65.97138033446396,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 54.38397216796875,
+			"height": 20,
+			"seed": 507580771,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1734331787927,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 1,
+			"text": "moment",
+			"rawText": "moment",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "moment",
+			"lineHeight": 1.25,
+			"baseline": 14
 		}
 	],
 	"appState": {
@@ -200,8 +239,8 @@ muscle tendon length ^5kQ2tl0P
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 294.6220297723618,
-		"scrollY": 205.69327169376209,
+		"scrollX": 162.2890853152444,
+		"scrollY": 189.93934973458096,
 		"zoom": {
 			"value": 2.2216689971352612
 		},
