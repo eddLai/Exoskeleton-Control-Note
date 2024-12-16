@@ -213,8 +213,10 @@ eddlai
 
 ---
 用線上資料庫
-討論[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
+討論
 一模一樣的方案以及流程，重新審思
+[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
+
 https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2
 利用新的EMG概念，重新
 - Calibration procedure
