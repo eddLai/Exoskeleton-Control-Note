@@ -216,3 +216,4 @@ eddlai
 一模一樣的方案以及流程，重新審思
 https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2
 利用新的EMG概念，重新
+- Calibration procedure and the BSpline coefficients
