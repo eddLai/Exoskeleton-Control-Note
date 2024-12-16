@@ -1,9 +1,13 @@
-markdown:
-  gfm: true
-  mangle: true
-  pedantic: false
-  smartLists: false
-  smartypants: false
+---
+
+---
+---
+css: 
+- _local/font.css 
+- _local/navigation.css 
+- _local/MoreHighlightStyle.css 
+
+---
 
 ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], 
 6DOF下肢模型，比較實時和離線方法
