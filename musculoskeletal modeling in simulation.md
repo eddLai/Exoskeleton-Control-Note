@@ -33,8 +33,10 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
 ## Detailed staged of using OpenSim API
-2. 
-3. constraint optimization
+2. BSpline coefficients necessary for the estimation of Lmt and MA
+3. 
+4. subject-specific val ues of optimal fiber length and tendon slack length, each MTU
+5. constraint optimization
 
 ---
 ### Terms
