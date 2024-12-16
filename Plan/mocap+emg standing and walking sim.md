@@ -193,7 +193,7 @@ eddlai
 - [ ] 小波分析, hilbert轉換 eddlai
 - [ ] Muscle Fatigue Analysis Using OpenSim.pdf sean可以先看，eddlai
 - [ ] 回到多自由度的模型，加進halpe26手臂的模型，IK部份進opensim sean
-- [ ] 上肢的controller要survey，找到看過用SCONE的文 eddlai, sean
+- [x] 上肢的controller要survey，找到看過用SCONE的文 eddlai, sean
 - [x] 研究一下RMS envelope，不行，因為最後要走到real-time
 
 >以後多注意：
@@ -226,3 +226,4 @@ https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2
 - 確認Kalman filter to process IK-generated joint angles
 >parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
 
+EMG-dependent forces for 13 MTUs spanning the knee and ankle joints
