@@ -47,5 +47,3 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 
 需要muscle-tendon kinematics
-
-同樣加上一個層，但是互動所得到的
