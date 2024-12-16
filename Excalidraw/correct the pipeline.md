@@ -68,7 +68,7 @@ FqjWs6wF: [[documents/EMG/paper/Muscle Fatigue Analysis Using OpenSim.pdf]]
 
 67be9c97a52404f8b97abdb0a78661279a508fb8: [[Real-time ID results.png]]
 
-3ddef38741c9db218fac00f74b6381374f350557: [[Pasted Image 20241216215808_954.png]]
+3ddef38741c9db218fac00f74b6381374f350557: [[Comparison of EMG-excitation from.png]]
 
 d3118990775155f28da26084d00c304a97bdbaad: [[Pasted Image 20241216220530_771.png]]
 
