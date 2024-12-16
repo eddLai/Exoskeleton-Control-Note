@@ -90,6 +90,8 @@ Detailed staged of using OpenSim API
 4) constraint optimization -> EMG-to-activation shape factor parameter
 >Parameters are varied using a simulated annealing procedure
 
+---
+
 >"real-time inverse kinematics (IK) and inverse dynamics (ID) performed using the OpenSim API"
 >"The IK problem in OpenSim is solved via static optimization"
 >root mean squared error (RMSE) to check marker between virtual and MOCAP
