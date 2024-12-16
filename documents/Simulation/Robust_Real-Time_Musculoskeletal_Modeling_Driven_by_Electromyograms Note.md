@@ -39,6 +39,7 @@ Guillaume Durandau , Student Member, IEEE, Dario Farina, Senior Member, IEEE, an
 
 ---
 
+## 摘要
 ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]] 
 
 6DOF下肢模型
