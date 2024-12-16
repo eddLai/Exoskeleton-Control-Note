@@ -59,15 +59,15 @@ real-time modeling在嵌入式系統上的可行性
 ![[Comparison of EMG-excitation from sEMG and modeling.png]]
 
 ---
-
-
----
 ## software components:
 使用ANSI C++
 - external recording devices
 - OpenSim API
 - computation of musculotendon kinematics(Multidimensional Cubic BSpline (MCBS) method) [nihms342948.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3264840/pdf/nihms342948.pdf)
 - CEINMS
+
+---
+## 
 
 ---
 ## Hardwares
