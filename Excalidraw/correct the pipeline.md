@@ -8,6 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
+muscle tendon length ^5kQ2tl0P
+
 
 # Embedded files
 23d4088c71abdc500666c6b760d0b74f5c655456: [[Pasted Image 20241216144750_785.png]]
@@ -144,6 +146,43 @@ tags: [excalidraw]
 					65.45397254024799
 				]
 			]
+		},
+		{
+			"id": "5kQ2tl0P",
+			"type": "text",
+			"x": -114.73522174136141,
+			"y": 1.6137531360948074,
+			"width": 114.74583080962623,
+			"height": 14.254856506038827,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2030684259,
+			"version": 96,
+			"versionNonce": 1855702659,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1734331757854,
+			"link": null,
+			"locked": false,
+			"text": "muscle tendon length",
+			"rawText": "muscle tendon length",
+			"fontSize": 11.40388520483106,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 10.000000000000004,
+			"containerId": null,
+			"originalText": "muscle tendon length",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -157,14 +196,14 @@ tags: [excalidraw]
 		"currentItemRoughness": 2,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 276.1055066177863,
-		"scrollY": 255.552148059705,
+		"scrollX": 294.6220297723618,
+		"scrollY": 205.69327169376209,
 		"zoom": {
-			"value": 2.0777959644294
+			"value": 2.2216689971352612
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
