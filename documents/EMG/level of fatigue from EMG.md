@@ -96,6 +96,8 @@ Median Frequency
 
 ==步行速度的增加，脛前肌(TA)的肌電圖中值頻率會顯著下降==
 
+>multiplied by the Ham ming window. The window size was 512 ms. The sam pling interval in the time domain was 75% of the window length. The average value of median frequency in each short-time segment was used as a fatigue index of mus cles in each walking condition.
+
 ref. [[Effects of various walking intensities on leg muscle fatigue and plantar pressure distributions.pdf]]
 
 ---
