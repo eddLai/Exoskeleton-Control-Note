@@ -66,7 +66,7 @@ FqjWs6wF: [[documents/EMG/paper/Muscle Fatigue Analysis Using OpenSim.pdf]]
 ## Embedded Files
 4fedbb905cef21a72455d959d94a268b64d7316e: [[odeling framework I of real-time system modeling.png]]
 
-67be9c97a52404f8b97abdb0a78661279a508fb8: [[Pasted Image 20241216215357_262.png]]
+67be9c97a52404f8b97abdb0a78661279a508fb8: [[Real-time ID results.png]]
 
 3ddef38741c9db218fac00f74b6381374f350557: [[Pasted Image 20241216215808_954.png]]
 
