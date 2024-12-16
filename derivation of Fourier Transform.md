@@ -18,5 +18,3 @@ $$
 對於一週期為p之函數，可拆解成cos and sin。
 $$f(x+2\pi)=f(x)$$
 $$f(x) = \frac{a_0}{2} + \sum_{n=1}^{\infty} \left( a_n \cos\frac{n\pi x}{p} + b_n \sin\frac{n\pi x}{p} \right), \, n \in \mathbb{N}$$
-
-
