@@ -164,6 +164,7 @@ $$X[k] = \sum_{n=0}^{N-1} x[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \do
 ---
 ## FFT
 [FFT原理——详细推导理解FFT变换-CSDN博客](https://blog.csdn.net/weixin_40106401/article/details/106128194)
+[離散餘弦變換、傅立葉變換、快速傅立葉變換 - iT 邦幫忙::一起幫忙解決難題，拯救 IT 人的一天](https://ithelp.ithome.com.tw/articles/10231357)
 將DFT中的
 $$W_N^{kn}=e^{-j \frac{2\pi}{K} k n},W=e^{-j \frac{2\pi}{N}}$$
 利用其週期性及對稱性，進行縮放
