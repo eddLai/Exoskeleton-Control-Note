@@ -12,3 +12,8 @@ $$
 $$=\sum_{m=0}^{\infty} (m+2)(m+1) a_{m+2} x^m + \sum_{m=0}^{\infty} p(x)(m+1) a_{m+1} x^m + \sum_{m=0}^{\infty} q(x) a_m x^m = 0$$
 $$=\sum_{m=0}^{\infty} \left[ (m+2)(m+1) a_{m+2} + p(x)(m+1) a_{m+1} + q(x) a_m \right] x^m = 0
 $$
+
+---
+## Fourier Series
+$$f(x) = a_0 + \sum_{n=1}^{\infty} \left( a_n \cos\frac{n\pi x}{p} + b_n \sin\frac{n\pi x}{p} \right), \, n \in \mathbb{N}$$
+
