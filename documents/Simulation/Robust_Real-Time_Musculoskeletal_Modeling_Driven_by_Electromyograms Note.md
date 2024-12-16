@@ -16,7 +16,6 @@ cssclasses:
         background-size: cover;
         background-position: center;
     }
-    .reveal,
 	.reveal h1,
 	.reveal h2,
 	.reveal h3,
