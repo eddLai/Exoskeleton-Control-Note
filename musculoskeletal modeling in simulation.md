@@ -25,7 +25,10 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 ## Hardwares
 - TCP/IP direct connection to external EMG amplifiers -> ~~amplitude-normalized linear envelopes~~(一致) -> filter沒有用帶通，其它都一樣
 	- ~~high-pass filtering, full-wave rectification, and low-pass filtering~~
-		- 256-channelEMGamplifier (OTBioelettronica, Italy)at2048Hz
+		- 256-channelEMGamplifier (OTBioelettronica, Italy)
+		- SR: 2048Hz
+		- high-passfilter: second-order Butterworthfilter with 30Hz
+		- 
 	- amplitude normalization: ==peak-processed values== for ==musculotendon unit (MTU) force-production modeling==
 		- isometric maximal voluntary contractions (MVCs)
 		- dynamic trials
