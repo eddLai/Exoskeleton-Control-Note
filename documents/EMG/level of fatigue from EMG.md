@@ -14,10 +14,6 @@
 </style>
 
 ---
-css: 
-- _local/font.css - _local/navigation.css - _local/MoreHighlightStyle.css 
-
----
 
 <grid drag="70 10" drop="-3 40">
 level of fatigue from EMG
