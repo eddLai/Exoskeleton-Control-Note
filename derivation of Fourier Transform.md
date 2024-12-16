@@ -20,5 +20,6 @@ $$可以找出a_m之解，(m+2)(m+1) a_{m+2} + p(x)(m+1) a_{m+1} + q(x) a_m=0$$
 $$f(x+2\pi)=f(x)$$
 $$f(x) = \frac{a_0}{2} + \sum_{n=1}^{\infty} \left( a_n \cos\frac{n\pi x}{p} + b_n \sin\frac{n\pi x}{p} \right), \, n \in \mathbb{N}$$
 Known in a period:
+$$\int_{-p}^p f(x) \, dx=\frac{a_0}{2} + \sum_{n=1}^{\infty} \left( a_n \cos\frac{n\pi x}{p} + b_n \sin\frac{n\pi x}{p} \right), \, n \in \mathbb{N}$$
 $$a_0 = \frac{1}{p} \int_{-p}^p f(x) \, dx
 $$
