@@ -17,7 +17,9 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 ## Hardwares
 - TCP/IP direct connection to external EMG amplifiers -> ~~amplitude-normalized linear envelopes~~(一致) -> filter沒有用帶通，其它都一樣
 	- ~~high-pass filtering, full-wave rectification, and low-pass filtering~~
-	- peak-processed values: isometric maximal voluntary contractions (MVCs) and dynamic trials
+	- peak-processed values
+		- isometric maximal voluntary contractions (MVCs)
+		- dynamic trials
 - 
 
 ---
