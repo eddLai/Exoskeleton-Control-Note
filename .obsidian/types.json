@@ -24,6 +24,6 @@
     "excalidraw-export-embed-scene": "checkbox",
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
-    "autoSlide": "number"
+    "autoSlide": "text"
   }
 }
