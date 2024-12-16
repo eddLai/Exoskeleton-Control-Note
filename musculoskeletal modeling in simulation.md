@@ -15,7 +15,7 @@ ref. [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 - CEINMS
 
 ## Hardwares
-- TCP/IP direct connection to external EMG amplifiers
+- TCP/IP direct connection to external EMG amplifiers -> ~~amplitude-normalized linear envelopes~~(一致)
 - 
 
 ---
