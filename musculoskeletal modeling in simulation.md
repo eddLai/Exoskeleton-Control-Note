@@ -13,6 +13,7 @@ Ref.
 ---
 ### Terms
 - physiological electromechanical delay (EMDs).
+- Digital human modeling
 
 
 需要muscle-tendon kinematics
