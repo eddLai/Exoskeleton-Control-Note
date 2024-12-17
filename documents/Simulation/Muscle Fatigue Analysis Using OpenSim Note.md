@@ -103,4 +103,6 @@ Simulation setup
 - 20 body segments, 19 joints and 92 muscle actuators
 - inertial parameters for body segments based on average anthropometric data 
 	- obtained from five subjects 
-		- age 26 3 years, height 177 3 cm, and weight 70.1 7.8 kg)
+		- age 26 3 years
+		- height 177 3 cm
+		- weight 70.1 7.8 kg
