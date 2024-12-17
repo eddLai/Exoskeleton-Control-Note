@@ -69,7 +69,8 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 Force-load muscle fatigue model
 - workload on each muscle along the motion
 	- muscle force generation phase
-		- activation dynamics
-		- contraction dynamics
+		1. activation dynamics:
+		2.
+		3. contraction dynamics
 - the maximal muscle capability
 
