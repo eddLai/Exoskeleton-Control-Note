@@ -80,6 +80,7 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 		>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
 		
 		1. contraction dynamics
+			1. 
 
 ---
 - the maximal muscle capability
