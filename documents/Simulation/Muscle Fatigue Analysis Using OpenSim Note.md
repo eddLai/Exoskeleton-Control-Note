@@ -83,7 +83,7 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 			- force-length($l_m$)-velocity relationship$f_v$
 			- elastic properties+tendon($l_mt$)
 			
-			$$\frac{dl_m}{t}=f_v$$
+			$$\frac{dl_m}{t}=f_v^{-1}(l_m, l_{mt},a)$$
 
 ---
 - the maximal muscle capability
