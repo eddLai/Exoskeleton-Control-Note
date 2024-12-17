@@ -80,8 +80,8 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 		>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
 		
 		1. contraction dynamics
-			- force-length-velocity
-			- elastic properties+tendon
+			- force-length($l_m$)-velocity
+			- elastic properties+tendon($l_mt$)
 			$$\frac{dl_m}{t}$$
 
 ---
