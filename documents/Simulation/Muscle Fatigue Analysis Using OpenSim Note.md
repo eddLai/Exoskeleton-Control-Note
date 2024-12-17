@@ -12,7 +12,7 @@ autoSlide:
         background-size: cover;
         background-position: center;
 	}
-	%% .reveal h1,
+	.reveal h1,
 	.reveal h2,
 	.reveal h3,
 	.reveal h4,
@@ -23,7 +23,7 @@ autoSlide:
 	}
 	.with-border{
 		border: 1px solid red;
-	} %%
+	}
 </style>
 <grid drag="70 10" drop="-3 40">
 Muscle Fatigue Analysis Using OpenSim
@@ -38,7 +38,7 @@ Jing Chang1, Damien Chablat[1], Fouad Bennis[1], and Liang Ma[2][1]
 <!-- slide bg="[[NTKLab_white bg_cover_resize.png]]"element style="font-size: 25px"-->
 
 ---
-
+## 摘要
 ref. [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 - muscle capability的資料很重要: ***OpenSim*** and ***AnyBody*** 才有
 - 加入accumulation effect的opensim plug-in
