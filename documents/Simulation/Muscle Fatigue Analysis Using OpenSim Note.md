@@ -79,7 +79,7 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 		>$$assume:Ca^+ \propto activation$$;
 		>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
 		
-		1. contraction dynamics
+		2. contraction dynamics
 			- force-length($l_m$)-velocity relationship$f_v$
 			- elastic properties+tendon($l_mt$)
 			
