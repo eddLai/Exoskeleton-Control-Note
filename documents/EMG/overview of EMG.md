@@ -63,6 +63,3 @@ signal characteristics
 - Period of time
 - % Maximum Voluntary Contraction
 - % Maximum EMG Amplitude
-
-
-[The Hilbert-Huang Transform — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/02_spectrum_analysis/emd_tutorial_02_spectrum_01_hilberthuang.html)
