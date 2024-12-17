@@ -88,12 +88,12 @@ muscle force generation phase
 
 Opensim之CMC是用來推算series of muscles activation，得到Forward Dynamic Simulation
 
+---
 recall
 - IK得到角度
 - ==ID得到的關節總力會distribute joint force among a series of muscles==
+### the maximal muscle capability
+基於muscle force increases with muscle activation.
+Full activation會被用於作為Fatigue計算之$F_{max}$
 
 ---
-### the maximal muscle capability
-muscle force increases with muscle activation.
-
-Full activation會被用於作為Fatigue計算之$F_{max}$
