@@ -1,3 +1,14 @@
+# Recall system and signals
+- $h(t)_{系統衝擊響應}$，為$\delta(x)_{Dirac\ delta單位脈衝函數}$輸入$LTI$系統所得到的響應
+- LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
+- 系統響應：標準信號的輸出
+- 系統輸出是信號與系統函數的卷積
+$$y(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
+$$
+- [[Analytic signal and Hilbert Transform]]
+
+ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
+瞬時頻率：透過analytic signal
 # Frequency analysis
 ### STFT
 ref. [深入理解短时傅里叶变换 STFT + Python 代码详解_stft python-CSDN博客](https://blog.csdn.net/weixin_44618906/article/details/116356081)
@@ -28,19 +39,6 @@ Fourier transform存在問題
 
 App. [[Feature Extraction and Reduction of Wavelet Transform Coefficients for EMG Pattern Classification.pdf]]
 
-
----
-# Recall system and signals
-- $h(t)_{系統衝擊響應}$，為$\delta(x)_{Dirac\ delta單位脈衝函數}$輸入$LTI$系統所得到的響應
-- LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
-- 系統響應：標準信號的輸出
-- 系統輸出是信號與系統函數的卷積
-$$y(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
-$$
-- [[Analytic signal and Hilbert Transform]]
-
-ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
-瞬時頻率：透過analytic signal
 
 ---
 # Signal Decomposition
