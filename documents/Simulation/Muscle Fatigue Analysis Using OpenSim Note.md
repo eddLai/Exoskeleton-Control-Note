@@ -41,7 +41,7 @@ Jing Chang1, Damien Chablat[1], Fouad Bennis[1], and Liang Ma[2][1]
 
 ref. [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 muscle capability的資料很重要
-accumulation effect
+加入accumulation effect的opensim plug-in
 residual reduction algorithm用來使model接近真實實驗數據
 
 ---
@@ -57,6 +57,4 @@ Some characteristic
 - females are found to be more fatigue-resistant than males
 - older, much less force loss than the younger group after a certain exercises
 ref. Sex differences with aging in the fatigability of dynamic contractions
-
----
 
