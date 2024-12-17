@@ -89,5 +89,6 @@ Opensim之CMC是用來推算series of muscles activation，得到Forward Dynamic
 
 ---
 ### the maximal muscle capability
+muscle force increases with muscle activation.
 
-
+What if Full activation?
