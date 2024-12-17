@@ -66,7 +66,3 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 
 ---
 ## Apply in Opensim
-- 腦科所,陽志節
-- 線性代數
-- 計算神經科學
-[The Hilbert-Huang Transform — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/02_spectrum_analysis/emd_tutorial_02_spectrum_01_hilberthuang.html)
