@@ -80,7 +80,7 @@ ref.
 python庫解決方案: [PyEMD包安装导入踩坑 - 哔哩哔哩](https://www.bilibili.com/opus/781745878429859881)
 
 ---
-### Wavelet transform
+# Wavelet transform
 [小波变换（Wavelet Transform）-CSDN博客](https://blog.csdn.net/Forlogen/article/details/88535027)
 波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數
 ![[wavelet.png]]
