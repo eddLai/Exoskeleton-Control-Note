@@ -66,24 +66,24 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 
 ---
 ## Apply in Opensim
+Force-load muscle fatigue model
 
 ---
-### Force-load muscle fatigue model
-- workload on each muscle along the motion
-	- muscle force generation phase
-		1. activation dynamics:
-		>"calcium release, diffusion and uptake from the sarcoplasmic reticulum",
+### workload on each muscle along the motion
+- muscle force generation phase
+	1. activation dynamics:
+>"calcium release, diffusion and uptake from the sarcoplasmic reticulum",
+	
+	u is excitation
+>
+>$$assume:Ca^+ \propto activation$$;
+>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
+
+1. contraction dynamics
+	- force-length($l_m$)-velocity relationship$f_v$
+	- elastic properties+tendon($l_mt$)
 		
-		u is excitation
-		>
-		>$$assume:Ca^+ \propto activation$$;
-		>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
-		
-		2. contraction dynamics
-			- force-length($l_m$)-velocity relationship$f_v$
-			- elastic properties+tendon($l_mt$)
-			
-			$$\frac{dl_m}{t}=f_v^{-1}(l_m, l_{mt},a)$$
+		$$\frac{dl_m}{t}=f_v^{-1}(l_m, l_{mt},a)$$
 Opensim之CMC是用來推算series of muscles activation，得到Forward Dynamic Simulation
 
 ---
