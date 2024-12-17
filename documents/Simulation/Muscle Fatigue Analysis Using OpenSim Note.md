@@ -106,3 +106,7 @@ Simulation setup
 		- age 26 3 years
 		- height 177 3 cm
 		- weight 70.1 7.8 kg
+- Subject: 
+	- healthy male subject (height 1.83 m, mass 65.9 kg)
+	- running (treadmill at 3.96 m/s.)
+	- 
