@@ -126,3 +126,5 @@ Proof that simulation能得到真實的情況
 疲勞度 k 代表肌肉疲勞的傾向
 k值需要calibration
 一般肌肉群的 k 值範圍從 0.87 min⁻¹ 到 2.15 min⁻¹
+
+![[Pasted image 20241217172336.png]]
