@@ -40,7 +40,7 @@ Jing Chang1, Damien Chablat[1], Fouad Bennis[1], and Liang Ma[2][1]
 ---
 
 ref. [[Muscle Fatigue Analysis Using OpenSim.pdf]]
-- muscle capability的資料很重要OpenSim and 
+- muscle capability的資料很重要: ***OpenSim*** and ***AnyBody*** 才有
 - 加入accumulation effect的opensim plug-in
 - recall: residual reduction algorithm用來使model接近真實實驗數據
 
