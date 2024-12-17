@@ -10,6 +10,8 @@ target: [[mocap+emg standing and walking sim]], [[level of fatigue from EMG]]
 ### Terms
 - physiological electromechanical delay (EMDs).
 - Digital human modeling
+- mannequin 人體模型
+- 
 
 ---
 Ref.
