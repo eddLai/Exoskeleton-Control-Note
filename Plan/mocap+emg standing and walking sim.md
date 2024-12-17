@@ -184,7 +184,7 @@ eddlai
 - [x] opensim moco 完全擬合，不能用
 - [x] 把中間有休息的寫進簡報的圖裡 sean
 - [x] time_difference問題有待商榷，trc都從0.33..開始 sean再次確認
-- [ ] 線上資料庫的量化資料（有需要），比較我們的資料是否正確（標準是？）振幅；頻譜 sean
+- [x] 線上資料庫的量化資料（有需要），比較我們的資料是否正確（標準是？）振幅；頻譜 sean
 - CENIMS等看完User Guide，再開始編譯 eddlai
 	- [ ] [[CEINMS User Guide 0.9.pdf]]
 - [x] [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]] sean, eddlai 找時間一起看
@@ -213,7 +213,7 @@ eddlai
 
 ---
 1. 利用新的EMG概念重新理解SCONE生成的結果，以及收到的資料(資料分析中)
-	1. 初步的分析方法實施(從數學到coding)
+	1. 初步的分析方法實施(需要從數學到coding)
 	2. 建立EMG手部資料之實驗建置以活用`libemg`工具(1~2天)，[Feature Extraction — libemg 1.0.0 documentation](https://libemg.github.io/libemg/documentation/features/features.html)
 2. 用線上資料庫測試fatigue方案，回報LibEMG的使用結果
 3. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2 的做法做一次，至少會完成inversed-problem的整合
