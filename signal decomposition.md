@@ -28,6 +28,7 @@ ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 ---
 # Signal Decomposition
 用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合
+也因此EMD並不直接產生頻譜圖
 ### intrinsic mode function:
 - 局部極值，與過零點數量相等
 - 上下包絡線對於時間軸對稱（平均值為零）
