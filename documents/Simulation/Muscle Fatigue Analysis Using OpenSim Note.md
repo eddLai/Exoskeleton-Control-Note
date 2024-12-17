@@ -130,3 +130,7 @@ k值需要calibration
 一般肌肉群的 k 值範圍從 0.87 min⁻¹ 到 2.15 min⁻¹
 
 ![[muscle force capabilities with different k.png]]
+
+---
+erector spinae, 
+- who loses 39.2% of its maximal capability, is found to be more fatigue exposed than the others
