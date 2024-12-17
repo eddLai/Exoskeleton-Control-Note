@@ -132,5 +132,6 @@ k值需要calibration
 ![[muscle force capabilities with different k.png]]
 
 ---
-erector spinae, 
-- who loses 39.2% of its maximal capability, is found to be more fatigue exposed than the others
+- erector spinae 最疲乏的
+	- who loses 39.2% of its maximal capability
+- torso-core，也並不少w9
