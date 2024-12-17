@@ -66,3 +66,6 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 
 ---
 ## Apply in Opensim
+腦科所,陽志節
+線性代數
+計算神經科學
