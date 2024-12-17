@@ -222,4 +222,4 @@ eddlai
 
 4. 想辦法結合Muscle Fatigue Analysis Using OpenSim
 
-沒有近ID就沒有關節角度阿
+沒有近ID就沒有關節力量阿
