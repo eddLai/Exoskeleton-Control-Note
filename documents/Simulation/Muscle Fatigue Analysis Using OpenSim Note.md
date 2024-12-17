@@ -114,6 +114,6 @@ Full activation會被用於作為Fatigue計算之$F_{max}$
 	- 10 muscles are selected from the three muscle groups
 
 ---
-Proof that simulation會得到真實的情j;d
-- the fatigability is set to 1.0 min 1. 
+Proof that simulation能得到真實的情況
+- the fatigability is set to $$1.0 min^{-1}$$. 
 - Generally, the muscles capabilities reduce to 60% to 70% of their maximum after running for 10 min.
