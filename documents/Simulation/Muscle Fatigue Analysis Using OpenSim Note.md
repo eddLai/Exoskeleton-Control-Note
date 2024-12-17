@@ -51,12 +51,15 @@ $$static\ MET\ models:\frac{dF_{cem}(t)}{dt}=-k\frac{F_{cem}(t)}{F_{max}}F_{Load
 ref. **A new simple dynamic muscle fatigue model and its validation.**
 
 ---
-definition of fatigability includes intrinsic human attribute
+### definition of fatigability 
+includes intrinsic human attribute
 >***"Muscle fatigability describes a tendency of a muscle from a given subject to get tired or exhausted, and it should only be determined by the physical and psychological properties of the individual subject"***
 >>ref. Measurement of subject-speci c local muscle fatigabiltity
 
-Some characteristic
+---
+### Some characteristic
 - females are found to be more fatigue-resistant than males
 - older, much less force loss than the younger group after a certain exercises
+
 ref. Sex differences with aging in the fatigability of dynamic contractions
 
