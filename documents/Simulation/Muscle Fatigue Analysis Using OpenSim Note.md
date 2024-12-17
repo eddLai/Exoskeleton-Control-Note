@@ -78,10 +78,13 @@ muscle force generation phase
 >u is excitation; $$assume:Ca^+ \propto activation$$;
 >$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
 
-
+---
 2. contraction dynamics
 	- force-length($l_m$)-velocity relationship$f_v$
-	- elastic properties+tendon($l_mt$)	$$\frac{dl_m}{t}=f_v^{-1}(l_m, l_{mt},a)$$
+	- elastic properties+tendon($l_mt$)	
+	
+	>$$\frac{dl_m}{t}=f_v^{-1}(l_m, l_{mt},a)$$
+
 Opensim之CMC是用來推算series of muscles activation，得到Forward Dynamic Simulation
 
 ---
