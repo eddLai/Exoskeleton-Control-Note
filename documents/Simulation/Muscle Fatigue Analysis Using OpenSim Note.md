@@ -72,7 +72,7 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 - workload on each muscle along the motion
 	- muscle force generation phase
 		1. activation dynamics:
-		>calcium release, diffusion and uptake from the sarcoplasmic reticulum,
+		>"calcium release, diffusion and uptake from the sarcoplasmic reticulum",
 		>u is excitation
 		>
 		>$$assume:Ca^+ \propto activation$$
@@ -80,7 +80,7 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 		>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
 		
 		1. contraction dynamics
-			1. 
+			- 
 
 ---
 - the maximal muscle capability
