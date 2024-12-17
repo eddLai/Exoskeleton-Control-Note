@@ -34,7 +34,7 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 # Analysis methods
 background: [[recall signal and system]]
 list: https://web.ntnu.edu.tw/~algo/Signal.html
-- [[fr]]
+- [[frequency analysis]]
 - [[signal decomposition]]
 - [[statistics methods]]
 - [[entropy]]
