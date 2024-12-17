@@ -1,7 +1,41 @@
 ---
-
+bg: "[[NTKLab_white bg.png]]"
 ---
 
+<style>
+    .reveal {
+        font-family: 'Times New Roman', '標楷體';
+        font-size: 30px;
+        text-align: left;
+        color: black;
+        background-size: cover;
+        background-position: center;
+    }
+	.reveal h1,
+	.reveal h2,
+	.reveal h3,
+	.reveal h4,
+	.reveal h5,
+	.reveal h6 {
+	  font-family: 'Times New Roman', '標楷體';
+	  color: black;
+	}
+	.with-border{
+		border: 1px solid red;
+	}
+</style>
+<grid drag="70 10" drop="-3 40">
+Robust Real-Time Musculoskeletal Modeling Driven by Electromyograms 
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+</grid>
+
+<grid drag="70 10" drop="-3 70">
+Guillaume Durandau , Student Member, IEEE, Dario Farina, Senior Member, IEEE, and Massimo Sartori
+</grid>
+
+<!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
+
+---
 
 ref. [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 muscle capability的資料很重要
