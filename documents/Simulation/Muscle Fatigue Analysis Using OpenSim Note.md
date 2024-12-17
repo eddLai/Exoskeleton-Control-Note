@@ -88,7 +88,7 @@ muscle force generation phase
 Opensim之CMC是用來推算series of muscles activation，得到Forward Dynamic Simulation
 
 recall
-- I
+- IK得到角度
 - ==ID得到的關節總力會distribute joint force among a series of muscles==
 
 ---
