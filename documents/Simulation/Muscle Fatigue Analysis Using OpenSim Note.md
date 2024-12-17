@@ -11,8 +11,8 @@ autoSlide:
         color: black;
         background-size: cover;
         background-position: center;
-    }
-	.reveal h1,
+	}
+	%% .reveal h1,
 	.reveal h2,
 	.reveal h3,
 	.reveal h4,
@@ -23,7 +23,7 @@ autoSlide:
 	}
 	.with-border{
 		border: 1px solid red;
-	}
+	} %%
 </style>
 <grid drag="70 10" drop="-3 40">
 Muscle Fatigue Analysis Using OpenSim
