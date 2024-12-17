@@ -73,11 +73,10 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 	- muscle force generation phase
 		1. activation dynamics:
 		>"calcium release, diffusion and uptake from the sarcoplasmic reticulum",
-		>u is excitation
-		>
-		>$$assume:Ca^+ \propto activation$$
-		>
-		>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
+		
+		u is excitation
+		
+		$$assume:Ca^+ \propto activation$$$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
 		
 		1. contraction dynamics
 			- force-length($l_m$)-velocity relationship$f_v$
