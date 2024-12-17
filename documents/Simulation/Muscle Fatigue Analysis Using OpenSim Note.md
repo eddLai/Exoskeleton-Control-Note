@@ -95,4 +95,4 @@ recall
 ### the maximal muscle capability
 muscle force increases with muscle activation.
 
-Full activation會被用於作為Fati
+Full activation會被用於作為Fatigue計算之$F_{max}$
