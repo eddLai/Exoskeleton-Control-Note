@@ -191,7 +191,7 @@ eddlai
 - [x] MSE:可以拿來量化pattern
 - [x] 正在深入了解各種entropy的關係
 - [ ] 小波分析, hilbert轉換 eddlai
-- [ ] Muscle Fatigue Analysis Using OpenSim.pdf sean可以先看，eddlai
+- [x] Muscle Fatigue Analysis Using OpenSim.pdf sean可以先看，eddlai
 - [ ] 回到多自由度的模型，加進halpe26手臂的模型，IK部份進opensim sean
 - [x] 上肢的controller要survey，找到看過用SCONE的文 eddlai, sean
 - [x] 研究一下RMS envelope，不行，因為最後要走到real-time
