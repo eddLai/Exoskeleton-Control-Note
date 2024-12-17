@@ -74,6 +74,7 @@ ref.
 - [[A Novel Noise Reduction Method of UAV Magnetic Survey Data Based on CEEMDAN, Permutation Entropy, Correlation Coefficient and Wavelet Threshold Denoising.pdf]]
 
 ![[flowchart of EEMD.png|400]]
+![[flowchart of CEEMDAN.png]]
 python庫解決方案: [PyEMD包安装导入踩坑 - 哔哩哔哩](https://www.bilibili.com/opus/781745878429859881)
 
 ---
