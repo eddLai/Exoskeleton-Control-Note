@@ -109,4 +109,4 @@ Simulation setup
 - Subject: 
 	- healthy male subject (height 1.83 m, mass 65.9 kg)
 	- running (treadmill at 3.96 m/s.)
-	- 
+	- 10 muscles are selected from the three muscle groups
