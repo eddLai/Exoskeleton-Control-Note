@@ -29,7 +29,7 @@ Muscle Fatigue Analysis Using OpenSim
 </grid>
 
 <grid drag="70 10" drop="-3 70">
-Guillaume Durandau , Student Member, IEEE, Dario Farina, Senior Member, IEEE, and Massimo Sartori
+Jing Chang1, Damien Chablat1, Fouad Bennis1, and Liang Ma2 1 Laboratoire des Sciences du Numerique de Nantes (LS2N), Ecole Centrale de Nantes, 44321 Cedex 3, Nantes, France 2 Department of Industrial Engineering, Tsinghua University, Beijing, 100084, P.R.China
 </grid>
 
 <!-- slide bg="[[NTKLab_white bg_cover_resize.png]]"-->
