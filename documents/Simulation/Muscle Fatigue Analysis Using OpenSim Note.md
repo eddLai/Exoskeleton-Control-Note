@@ -86,6 +86,7 @@ muscle force generation phase
 	>$$\frac{dl_m}{t}=f_v^{-1}(l_m, l_{mt},a)$$
 
 Opensim之CMC是用來推算series of muscles activation，得到Forward Dynamic Simulation
+distribute joint force among a series of muscles
 
 ---
 ### the maximal muscle capability
