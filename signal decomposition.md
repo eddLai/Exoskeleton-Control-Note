@@ -12,6 +12,23 @@ $$
 $$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
 把動態放大
 
+# Wavelet transform
+[小波变换（Wavelet Transform）-CSDN博客](https://blog.csdn.net/Forlogen/article/details/88535027)
+波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數
+![[wavelet.png]]
+Fourier transform存在問題
+![[problem of fourier transform.png|400]]
+不包含時序資訊
+大尺度因子，分辨率高，小頻率
+![[Wavelet families.png|400]]
+[Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
+多種小波，有階數子集
+
+數學證明:[小波变换——公式整理和简单介绍_离散小波变换公式-CSDN博客](https://blog.csdn.net/qq_32071849/article/details/103963394)
+
+App. [[Feature Extraction and Reduction of Wavelet Transform Coefficients for EMG Pattern Classification.pdf]]
+
+
 ---
 # Recall system and signals
 - $h(t)_{系統衝擊響應}$，為$\delta(x)_{Dirac\ delta單位脈衝函數}$輸入$LTI$系統所得到的響應
@@ -78,20 +95,3 @@ ref.
 ![[flowchart of EEMD.png|400]]
 ![[flowchart of CEEMDAN.png|400]]
 python庫解決方案: [PyEMD包安装导入踩坑 - 哔哩哔哩](https://www.bilibili.com/opus/781745878429859881)
-
----
-# Wavelet transform
-[小波变换（Wavelet Transform）-CSDN博客](https://blog.csdn.net/Forlogen/article/details/88535027)
-波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數
-![[wavelet.png]]
-Fourier transform存在問題
-![[problem of fourier transform.png|400]]
-不包含時序資訊
-大尺度因子，分辨率高，小頻率
-![[Wavelet families.png|400]]
-[Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
-多種小波，有階數子集
-
-數學證明:[小波变换——公式整理和简单介绍_离散小波变换公式-CSDN博客](https://blog.csdn.net/qq_32071849/article/details/103963394)
-
-App. [[Feature Extraction and Reduction of Wavelet Transform Coefficients for EMG Pattern Classification.pdf]]
