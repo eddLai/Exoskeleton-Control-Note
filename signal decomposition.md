@@ -5,7 +5,7 @@
 - 系統輸出是信號與系統函數的卷積
 $$y(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
 $$
-- [[Analytic signal and Hilbert Transform]]
+- [[instantaneous frequency-Analytic signal and Hilbert Transform]]
 
 ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 瞬時頻率：透過analytic signal
