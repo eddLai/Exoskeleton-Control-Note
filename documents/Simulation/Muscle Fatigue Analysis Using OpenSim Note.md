@@ -44,7 +44,7 @@ ref. [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 - 加入accumulation effect的opensim plug-in
 - recall: residual reduction algorithm用來使model接近真實實驗數據
 - 不需要肌電圖的肌肉疲乏模擬
-- 仍然需要
+- 仍然需要fatigability($k$值)的calibration
 
 ---
 ## Muscle fatigue mathematics description
