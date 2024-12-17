@@ -101,4 +101,6 @@ Full activation會被用於作為Fatigue計算之$F_{max}$
 Simulation setup
 - 29 degree-of-freedom human model developed by Stanford
 - 20 body segments, 19 joints and 92 muscle actuators
-- inertial parameters for 
+- inertial parameters for body segments based on average anthropometric data 
+	- obtained from five subjects 
+		- age 26 3 years, height 177 3 cm, and weight 70.1 7.8 kg)
