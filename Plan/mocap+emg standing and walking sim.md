@@ -233,6 +233,7 @@ eddlai
 - MSE下降趨勢
 - STFT時頻中位下降
 - ankle flexion來判斷腳底的先後+疲乏分析
+	- 腳踝的背屈角度變小
 
 - [ ] 如何取得SCONE座標，分析每條肌肉
 SCONE分析項目
