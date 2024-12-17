@@ -115,9 +115,11 @@ Full activation會被用於作為Fatigue計算之$F_{max}$
 
 ---
 Proof that simulation能得到真實的情況
-- the fatigability is set to $$1.0 min^{-1}$$. 
+- the fatigability is set to $1.0 min^{-1}$. 
 - Generally, the muscles capabilities reduce to 60% to 70% of their maximum after running for 10 min.
 - torso-core muscle group fatigues no less than the pelvis-femur or the lower knee group
 - 另外可以得到Workload
 
-![[General informationofmuscleforcecapabilities.png]]
+![[General information of muscle force capabilities.png]]
+
+---
