@@ -122,7 +122,7 @@ Proof that simulation能得到真實的情況
 - torso-core muscle group fatigues no less than the pelvis-femur or the lower knee group
 - 另外可以得到Workload
 
-![[General information of muscle force capabilities.png]]
+![[General information of muscle force capabilities.png|600]]
 
 ---
 疲勞度 k 代表肌肉疲勞的傾向
