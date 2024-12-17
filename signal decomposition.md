@@ -33,7 +33,7 @@ ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 - 局部極值，與過零點數量相等
 - 上下包絡線對於時間軸對稱（平均值為零）
 
-### Empirical Mode Decomposition EMD
+## Empirical Mode Decomposition EMD
 data-driven method，一個signal由多個IMF組成，IMF可以是線性或者非線性的
 $$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
 $$
