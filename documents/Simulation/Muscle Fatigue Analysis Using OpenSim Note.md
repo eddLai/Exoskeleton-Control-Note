@@ -71,7 +71,7 @@ Force-load muscle fatigue model
 	- muscle force generation phase
 		1. activation dynamics:
 		>calcium release, diffusion and uptake from the sarcoplasmic reticulum,
-		>u is 
+		>u is excitation
 		>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
 		
 		1. contraction dynamics
