@@ -49,7 +49,7 @@ ref. [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 $$\frac{dF_{cem}(t)}{dt}=-k\frac{F_{cem}(t)}{F_{max}}F_{Load}(t)$$
 
 ref. **A new simple dynamic muscle fatigue model and its validation.**
-Validated by static MET models.
+Validated by static MET models.一個關注代謝的模型
 
 ---
 ### definition of fatigability 
