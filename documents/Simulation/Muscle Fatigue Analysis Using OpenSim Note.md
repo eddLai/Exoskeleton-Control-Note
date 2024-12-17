@@ -64,3 +64,5 @@ ref. Measurement of subject-speci c local muscle fatigabiltity
 
 ref. Sex differences with aging in the fatigability of dynamic contractions
 
+---
+## Apply in Opensim
