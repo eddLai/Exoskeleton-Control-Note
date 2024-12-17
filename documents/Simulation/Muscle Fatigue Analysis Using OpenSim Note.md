@@ -31,7 +31,7 @@ Muscle Fatigue Analysis Using OpenSim
 <grid drag="70 10" drop="-3 70">
 Jing Chang1, Damien Chablat1, Fouad Bennis1, and Liang Ma2 1 Laboratoire des Sciences du Numerique de Nantes (LS2N), Ecole Centrale de Nantes, 44321 Cedex 3, Nantes, France 2 Department of Industrial Engineering, Tsinghua University, Beijing, 100084, P.R.China
 </grid>
-<!-- slide bg="[[NTKLab_white bg_cover_resize.png]]"-->
+<!-- slide bg="[[NTKLab_white bg_cover_resize.png]]"element style="font-size: 25px"-->
 
 ---
 
