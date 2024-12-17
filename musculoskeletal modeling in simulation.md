@@ -15,7 +15,7 @@ target: [[mocap+emg standing and walking sim]], [[level of fatigue from EMG]]
 ---
 Ref.
 - [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms Note]] MTU model
-- [[Muscle Fatigue Analysis Using OpenSim Note]] MET model
+- [[Muscle Fatigue Analysis Using OpenSim Note]] 透過fatigability($k$值)透過empirical maximal endurance models，可以相互確認sEMG計算所得是否正確
 
 ---
 
