@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "enabledCssSnippets": [
     "mycss"
   ]
