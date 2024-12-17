@@ -95,4 +95,4 @@ recall
 ### the maximal muscle capability
 muscle force increases with muscle activation.
 
-What if Full activation?
+Full activation會被用於IK
