@@ -88,5 +88,6 @@ muscle force generation phase
 Opensim之CMC是用來推算series of muscles activation，得到Forward Dynamic Simulation
 
 ---
-- the maximal muscle capability
+### the maximal muscle capability
+
 
