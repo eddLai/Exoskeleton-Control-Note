@@ -9,11 +9,11 @@ $$
 
 ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 瞬時頻率：透過analytic signal
+"本征模式函数(Intrinsic Mode Function，IMF)的新概念，基于这类函数的局部特性，使函数的任何一点瞬时频率都有意义。"
 
 ---
 # Signal Decomposition
 用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合
-"本征模式函数(Intrinsic Mode Function，IMF)的新概念，基于这类函数的局部特性，使函数的任何一点瞬时频率都有意义。"
 也因此EMD並不直接產生頻譜圖
 ### intrinsic mode function:
 - 局部極值，與過零點數量相等
