@@ -73,7 +73,7 @@ Force-load muscle fatigue model
 		>calcium release, diffusion and uptake from the sarcoplasmic reticulum,
 		>u is excitation
 		>
-		>$$assume:Ca^+ \po$$
+		>$$assume:Ca^+ \propto acti$$
 		>$$\frac{da}{dt}=\frac{u-a}{\tau(u,a)}$$
 		
 		1. contraction dynamics
