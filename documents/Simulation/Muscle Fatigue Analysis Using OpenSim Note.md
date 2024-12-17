@@ -70,7 +70,8 @@ Force-load muscle fatigue model
 - workload on each muscle along the motion
 	- muscle force generation phase
 		1. activation dynamics:
-		2.
-		3. contraction dynamics
+		>calcium release, diffusion and uptake from the sarcoplasmic reticulum
+		>
+		1. contraction dynamics
 - the maximal muscle capability
 
