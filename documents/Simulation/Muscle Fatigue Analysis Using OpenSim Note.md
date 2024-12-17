@@ -32,7 +32,7 @@ Robust Real-Time Musculoskeletal Modeling Driven by Electromyograms
 Guillaume Durandau , Student Member, IEEE, Dario Farina, Senior Member, IEEE, and Massimo Sartori
 </grid>
 
-<!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
+<!-- slide bg="[[NTKLab_white bg_cover_resize.png]]"-->
 
 ---
 
