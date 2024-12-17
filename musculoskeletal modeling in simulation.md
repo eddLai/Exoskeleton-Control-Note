@@ -14,7 +14,7 @@ target: [[mocap+emg standing and walking sim]], [[level of fatigue from EMG]]
 ---
 Ref.
 - [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms Note]]
-- [[muscle]]
+- [[Muscle Fatigue Analysis Using OpenSim Note]]
 
 ---
 
