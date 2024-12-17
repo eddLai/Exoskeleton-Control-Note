@@ -5,7 +5,7 @@ autoSlide:
 
 <style>
     .reveal {
-        font-family: 'Times New Roman', '標楷體';
+        font-family: 'Arial', '標楷體';
         font-size: 30px;
         text-align: left;
         color: black;
@@ -54,7 +54,8 @@ ref. **A new simple dynamic muscle fatigue model and its validation.**
 ### definition of fatigability 
 includes intrinsic human attribute
 >***"Muscle fatigability describes a tendency of a muscle from a given subject to get tired or exhausted, and it should only be determined by the physical and psychological properties of the individual subject"***
->>ref. Measurement of subject-speci c local muscle fatigabiltity
+
+ref. Measurement of subject-speci c local muscle fatigabiltity
 
 ---
 ### Some characteristic
