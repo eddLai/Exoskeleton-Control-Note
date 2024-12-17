@@ -221,3 +221,5 @@ eddlai
 >	parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
 
 4. 想辦法結合Muscle Fatigue Analysis Using OpenSim
+
+沒有近ID就沒有關節角度阿
