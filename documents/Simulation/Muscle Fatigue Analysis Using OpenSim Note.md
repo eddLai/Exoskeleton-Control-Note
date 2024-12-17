@@ -44,7 +44,7 @@ ref. [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 - 加入accumulation effect的opensim plug-in
 - recall: residual reduction algorithm用來使model接近真實實驗數據
 - 不需要肌電圖的肌肉疲乏模擬
-- fatigability($k$值)的calibration，可以依據sEMG?
+- fatigability($k$值)透過empirical maximal endurance models，可以確認sEMG計算所得之力量是否正確
 
 ---
 ## Muscle fatigue mathematics description
