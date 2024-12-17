@@ -11,3 +11,6 @@ more info: **A new simple dynamic muscle fatigue model and its validation.**
 definition of fatigability includes intrinsic human attribute
 >***"Muscle fatigability describes a tendency of a muscle from a given subject to get tired or exhausted, and it should only be determined by the physical and psychological properties of the individual subject"***
 
+Measurement of subject-speci c local muscle fatigabil ity
+
+females are found to be more fatigue-resistant than males
