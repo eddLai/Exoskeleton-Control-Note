@@ -69,6 +69,7 @@ ref.
 - [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
 - [CEEMDAN：一种优化的集合经验模态分解算法](https://cloud.baidu.com/article/3253447)
 - [IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5947265)
+- [[A Novel Noise Reduction Method of UAV Magnetic Survey Data Based on CEEMDAN, Permutation Entropy, Correlation Coefficient and Wavelet Threshold Denoising.pdf]]
 
 python庫解決方案: [PyEMD包安装导入踩坑 - 哔哩哔哩](https://www.bilibili.com/opus/781745878429859881)
 
