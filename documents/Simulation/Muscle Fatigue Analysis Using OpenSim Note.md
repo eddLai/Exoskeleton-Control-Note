@@ -134,4 +134,5 @@ k值需要calibration
 ---
 - erector spinae 最疲乏的
 	- who loses 39.2% of its maximal capability
-- torso-core，也並不少w9
+- torso-core，也並不少太多
+	- contributing to body accelerating例如counterbalancing the vertical angular momentum of the legs
