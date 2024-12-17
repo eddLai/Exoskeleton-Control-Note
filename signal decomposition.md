@@ -27,6 +27,7 @@ ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 
 ---
 # Signal Decomposition
+用來改進bj
 ### intrinsic mode function:
 - 局部極值，與過零點數量相等
 - 上下包絡線對於時間軸對稱（平均值為零）
