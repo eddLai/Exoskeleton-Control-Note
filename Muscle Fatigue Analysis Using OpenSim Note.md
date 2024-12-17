@@ -12,5 +12,10 @@ definition of fatigability includes intrinsic human attribute
 >***"Muscle fatigability describes a tendency of a muscle from a given subject to get tired or exhausted, and it should only be determined by the physical and psychological properties of the individual subject"***
 >>ref. Measurement of subject-speci c local muscle fatigabiltity
 
-females are found to be more fatigue-resistant than males
+Some characteristic
+- females are found to be more fatigue-resistant than males
+- older, much less force loss than the younger group after a certain exercises
 ref. Sex differences with aging in the fatigability of dynamic contractions
+
+---
+
