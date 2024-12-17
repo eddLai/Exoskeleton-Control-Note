@@ -84,7 +84,7 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 			- elastic properties+tendon($l_mt$)
 			
 			$$\frac{dl_m}{t}=f_v^{-1}(l_m, l_{mt},a)$$
-Opensim之CMC是用來推算series of muscles activation
+Opensim之CMC是用來推算series of muscles activation，得到Forward Dynamic Simulation
 
 ---
 - the maximal muscle capability
