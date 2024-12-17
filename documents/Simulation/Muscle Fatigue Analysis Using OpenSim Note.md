@@ -82,6 +82,7 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 		1. contraction dynamics
 			- force-length-velocity
 			- elastic properties+tendon
+			$$\frac{dl_m}{t}$$
 
 ---
 - the maximal muscle capability
