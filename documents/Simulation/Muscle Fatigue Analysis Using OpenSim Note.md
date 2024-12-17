@@ -44,7 +44,7 @@ ref. [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 - 加入accumulation effect的opensim plug-in
 - recall: residual reduction algorithm用來使model接近真實實驗數據
 - 不需要肌電圖的肌肉疲乏模擬
-- 仍然需要fatigability($k$值)的calibration，可以依據sEMG?
+- fatigability($k$值)的calibration，可以依據sEMG?
 
 ---
 ## Muscle fatigue mathematics description
@@ -127,7 +127,7 @@ Proof that simulation能得到真實的情況
 ---
 疲勞度 k 代表肌肉疲勞的傾向
 k值需要calibration
-Fatigability k has been determined by comparing the Force-Load muscle fatigue model with the empirical maximal endurance models
+"Fatigability k has been determined by comparing the Force-Load muscle fatigue model with the empirical maximal endurance models"
 一般肌肉群的 k 值範圍從 0.87 min⁻¹ 到 2.15 min⁻¹
 
 ![[muscle force capabilities with different k.png]]
