@@ -5,7 +5,7 @@ autoSlide:
 
 <style>
     .reveal {
-        font-family: 'Arial', '標楷體';
+        font-family: 'Times New Roman', '標楷體';
         font-size: 30px;
         text-align: left;
         color: black;
