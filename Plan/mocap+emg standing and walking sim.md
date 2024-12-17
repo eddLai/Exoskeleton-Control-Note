@@ -222,4 +222,4 @@ eddlai
 
 4. 想辦法結合Muscle Fatigue Analysis Using OpenSim
 
-沒有進ID就沒有關節力量阿，那怎麼做CEINMS的
+沒有進ID就沒有關節力量，也沒有肌肉(還是可以直接從IK進CMC?)，那怎麼做CEINMS的cali
