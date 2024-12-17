@@ -68,5 +68,8 @@ ref. Sex differences with aging in the fatigability of dynamic contractions
 ## Apply in Opensim
 Force-load muscle fatigue model
 - workload on each muscle along the motion
+	- muscle force generation
+		- activation dynamics
+		- contraction dynamics
 - the maximal muscle capability
 
