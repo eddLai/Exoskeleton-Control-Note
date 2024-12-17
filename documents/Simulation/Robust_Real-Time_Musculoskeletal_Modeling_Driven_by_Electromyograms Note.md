@@ -2,7 +2,6 @@
 bg: "[[NTKLab_white bg.png]]"
 autoSlide:
 ---
----
 
 <style>
     .reveal {
