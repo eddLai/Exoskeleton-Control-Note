@@ -123,3 +123,5 @@ Proof that simulation能得到真實的情況
 ![[General information of muscle force capabilities.png]]
 
 ---
+疲勞度 k 代表肌肉疲勞的傾向
+k值需要calibration
