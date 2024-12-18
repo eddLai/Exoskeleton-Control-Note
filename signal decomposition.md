@@ -107,10 +107,8 @@ $$d(t)=v(t)-m(t)$$
 ### CEEMDAN
 原始論文：[[A_complete_ensemble_empirical_mode_decomposition_with_adaptive_noise.pdf]]
 ref. 
-- [[Denoising_electromyogram_and_electroencephalogram_.pdf]]
-- [CEEMDAN：一种优化的集合经验模态分解算法](https://cloud.baidu.com/article/3253447)
-- [IEEE Xplore Full-Text PDF:](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5947265)
-- [[A Novel Noise Reduction Method of UAV Magnetic Survey Data Based on CEEMDAN, Permutation Entropy, Correlation Coefficient and Wavelet Threshold Denoising.pdf]]
+- 科普：[CEEMDAN：一种优化的集合经验模态分解算法](https://cloud.baidu.com/article/3253447)
+- 應用：[[A Novel Noise Reduction Method of UAV Magnetic Survey Data Based on CEEMDAN, Permutation Entropy, Correlation Coefficient and Wavelet Threshold Denoising.pdf]]
 
 ![[flowchart of EEMD.png|400]]
 ![[flowchart of CEEMDAN.png|400]]
