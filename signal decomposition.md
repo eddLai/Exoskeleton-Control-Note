@@ -44,7 +44,8 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 ## Hilbert transform from IMFs
 FT decomposition of a signal
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
-FT會有低頻訊號被轉換為多個高頻seperate Harmonics 
+FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
+而EMF則
 
 頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
 
