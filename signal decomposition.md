@@ -222,7 +222,7 @@ ref. http://arxiv.org/abs/1709.05547
 
 ---
 automatic methods, use the first two modes as frequency
-
+![[automatic masked test signal.png]]
 
 ---
 # MEMD
