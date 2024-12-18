@@ -176,6 +176,7 @@ instantaneous frequency
 ![[instantaneous frequency.png|450]]
 
 ---
+對於只有一個IMF的結果
 ![[hilbert-huang transform.png|450]]
 不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號。
 
