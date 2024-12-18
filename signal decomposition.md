@@ -58,6 +58,10 @@ $$ppy_k=ppy[k], k=specific\ frequency,e.g.\ 50, 100Hz$$
 $$A=2\times |ppy|$$
 $$\phi_{ppy_k}=tan^{-1}{\frac{Im(ppy_k)}{Rm(ppy_k)}}$$
 
+```python
+comp1 = comp1_amp * np.cos(2*np.pi*5*time_vect + comp1_phase)
+```
+
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
 
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
