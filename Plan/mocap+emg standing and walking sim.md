@@ -247,4 +247,7 @@ SCONE分析項目
 - [ ] COM穩定度，MSE？？， https://chatgpt.com/g/g-L2HknCZTC-scholar-ai/c/675512a8-533c-8013-8fbb-c547cc75485c
 
 
-測試是否可以用EMD取代DTFT
+測試是否可以用EMD方案取代
+- DTFT
+- Filter
+- Wavelet
