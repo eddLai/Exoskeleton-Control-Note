@@ -20,6 +20,7 @@ autoSlide:
 	.reveal h6 {
 	  font-family: 'Times New Roman', '標楷體';
 	  color: black;
+	  text-transform: capitalize;
 	}
 	.with-border{
 		border: 1px solid red;
