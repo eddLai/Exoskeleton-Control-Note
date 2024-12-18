@@ -222,7 +222,11 @@ ref. http://arxiv.org/abs/1709.05547
 
 ---
 automatic methods, use the first two modes as frequency
+```python
+emd.sift.iterated_mask_sift(x, sample_rate=sample_rate, max_imfs=3)
+```
 ![[automatic masked test signal.png]]
+![[Pasted image 20241218231252.png]]
 
 ---
 # MEMD
