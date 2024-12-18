@@ -186,6 +186,9 @@ IP瞬時相位,、IF瞬時頻率、IA瞬時振幅，
 不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號。
 
 ---
+對於多
+
+---
 ### Application
 對於一個週期性震盪的複雜訊號
 我們需要不同的windows來比較出哪種resolution會比較好
