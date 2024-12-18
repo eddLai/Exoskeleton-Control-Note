@@ -88,6 +88,7 @@ plt.ylabel('Frequency (Hz)')
 ### Application
 對於一個週期性震盪的複雜訊號
 我們需要不同的windows來比較出哪種resolution會比較好
+![[STFT vs HHT.png|300]]
 
 ---
 ### MEMD
