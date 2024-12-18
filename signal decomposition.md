@@ -74,6 +74,9 @@ max_locs, max_mag = emd.sift.get_padded_extrema(x, mode='peaks', **ext_opts)
 
 $$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
 $$
+![[Pasted image 20241218221615.png]]
+
+---
 用局部極值找到包絡線
 `emd.sift.interp_envelope()`
 $$e_{\text{max}}(t), \quad e_{\text{min}}(t)$$
