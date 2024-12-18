@@ -58,7 +58,7 @@ $$
 - 上下包絡線對於時間軸對稱（平均值為零）
 
 ---
-## Empirical Mode Decomposition EMD
+## Empirical Mode Decomposition, EMD
 data-driven method，一個signal由多個IMF組成，IMF可以是線性或者非線性的
 
 $$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
@@ -73,7 +73,7 @@ $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 取得分量，減去均值包絡線
 $$p(t) = r(t) - m(t)\quad \text{(2)}$$
 $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
-
+![[EMD step3,4.png|500]]
 多次迭代
 $$r_k(n) = r_{k-1}(n) - \sum_{k=1}^{K} IMF_k(n)$$
 
@@ -83,8 +83,6 @@ $$r_k(n) = r_{k-1}(n) - \sum_{k=1}^{K} IMF_k(n)$$
 2. r必須是單方向的$$\text{If } r(t) \text{ is not monotonic, then go back to step (2) and set } k = k + 1$$
 $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
-
-![[EMD step3,4.png|500]]
 
 ---
 ## Hilbert transform from IMFs
