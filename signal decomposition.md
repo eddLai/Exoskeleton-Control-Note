@@ -187,8 +187,8 @@ instantaneous frequency
 
 ---
 噪音和瞬態信號的結合可能導致 EMD 分解效果不佳，出現信號分散在多個 IMF 的問題
-![[signal with manual bursting.png]]
-![[Pasted image 20241218222254.png]]
+![[signal with manual bursting.png|400]]
+![[IMF of signal with manual bursting.png|400]]
 
 ---
 ### MEMD
