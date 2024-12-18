@@ -210,7 +210,9 @@ imf = emd.sift.ensemble_sift(burst+n, max_imfs=5, nensembles=24, nprocesses=6, e
 ![[unmasked signal.png|300]]![[unmasked signal EMD.png|500]]
 
 ---
-![[masked signal.png|300]]![[masked signal EMD.png|400]]
+<split no-margin>
+![[masked signal.png|400]]![[masked signal EMD.png|400]]
+</split>
 
 ---
 # MEMD
