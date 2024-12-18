@@ -196,7 +196,8 @@ instantaneous frequency
 ---
 ![[flowchart of EEMD.png|450]]
 
-
+---
+![[result of EEMD.png|500]]
 
 ---
 # MEMD
