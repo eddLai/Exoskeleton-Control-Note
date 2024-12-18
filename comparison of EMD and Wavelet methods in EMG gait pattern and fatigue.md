@@ -36,3 +36,5 @@ comparison of EMD and Wavelet methods in EMG gait pattern and fatigue
 </grid>
 
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
+
+---
