@@ -45,7 +45,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[statistics methods]]
 - [[entropy]]
 
-### 比較EMD以及Wavelet方案:
+comparison of EMD and Wavelet methods in EMG gait
 
 
 ---
