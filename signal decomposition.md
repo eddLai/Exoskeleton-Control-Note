@@ -186,7 +186,7 @@ IP瞬時相位,、IF瞬時頻率、IA瞬時振幅，
 不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號。
 
 ---
-對於一個多IMF的訊號(bin是為了離散化頻譜，決定re)
+對於一個多IMF的訊號(bin是為了離散化頻譜，決定resolution)
 ```python
 freq_edges, freq_centres = emd.spectra.define_hist_bins(0, 100, 128, 'linear')
 # Amplitude weighted HHT per IMF
