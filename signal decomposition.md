@@ -221,6 +221,9 @@ emd.sift.mask_sift(xy, mask_freqs=30/sample_rate, ret_mask_freq=True, max_imfs=4
 ref. http://arxiv.org/abs/1709.05547
 
 ---
+automatic methods, use the 
+
+---
 # MEMD
 ref. [nihms439498.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf)
 multivariate data，用於local minimum不好找的情況。
