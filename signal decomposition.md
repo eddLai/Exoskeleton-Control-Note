@@ -40,7 +40,8 @@ signal decomposition
 - 系統輸出是信號與系統函數的卷積
 $$y(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
 $$
-- [[instantaneous frequency-Analytic signal and Hilbert Transform]]，然而這個傳統的數學方法在複雜的波形會有巨大的飄移，他只能用在單純的波形上，透過使用在IMF使其有用武之地
+
+[[instantaneous frequency-Analytic signal and Hilbert Transform]]，然而這個傳統的數學方法在複雜的波形會有巨大的飄移，他只能用在單純的波形上，透過使用在IMF使其有用武之地
 
 ---
 科普文章連結 https://blog.csdn.net/ARM_qiao/article/details/108482457
@@ -48,7 +49,7 @@ $$
 
 ---
 # Signal Decomposition
-用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合
+**目的**：用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合
 也因此EMD並不直接產生頻譜圖
 ### intrinsic mode function:
 - 局部極值，與過零點數量相等
