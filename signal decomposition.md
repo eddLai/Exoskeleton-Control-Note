@@ -5,7 +5,7 @@
 - 系統輸出是信號與系統函數的卷積
 $$y(t) = x(t) \ast h(t) = \int_{-\infty}^{\infty} x(\tau) h(t - \tau) \, d\tau.
 $$
-- [[instantaneous frequency-Analytic signal and Hilbert Transform]]，然而這個傳統的數學方法在複雜的波形會有巨大的飄移，他只能用
+- [[instantaneous frequency-Analytic signal and Hilbert Transform]]，然而這個傳統的數學方法在複雜的波形會有巨大的飄移，他只能用在單純的波形上，透過使用在IMF使其有用武之地
 
 ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
 瞬時頻率：透過analytic signal
