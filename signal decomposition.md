@@ -76,7 +76,7 @@ $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 ![[EMD step1,2.png|500]]
 
 ---
-取得分量，減去均值包絡線
+取得分量，減去均值包絡線，==這樣就能得到最快的分量==
 $$p(t) = r(t) - m(t)\quad \text{(2)}$$
 $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
 ![[EMD step3,4.png|500]]
