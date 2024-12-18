@@ -1,3 +1,37 @@
+<style>
+    .reveal {
+        font-family: 'Times New Roman', '標楷體';
+        font-size: 30px;
+        text-align: left;
+        color: black;
+        background-size: cover;
+        background-position: center;
+    }
+	.reveal h1,
+	.reveal h2,
+	.reveal h3,
+	.reveal h4,
+	.reveal h5,
+	.reveal h6 {
+	  font-family: 'Times New Roman', '標楷體';
+	  color: black;
+	}
+	.with-border{
+		border: 1px solid red;
+	}
+</style>
+<grid drag="70 10" drop="-3 40">
+Robust Real-Time Musculoskeletal Modeling Driven by Electromyograms 
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+</grid>
+
+<grid drag="70 10" drop="-3 70">
+Guillaume Durandau , Student Member, IEEE, Dario Farina, Senior Member, IEEE, and Massimo Sartori
+</grid>
+
+<!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
+
+---
 # Recall system and signals
 - $h(t)_{系統衝擊響應}$，為$\delta(x)_{Dirac\ delta單位脈衝函數}$輸入$LTI$系統所得到的響應
 - LTI系統：線性響應, 時不變性（系統輸出與響應有相同位移）
