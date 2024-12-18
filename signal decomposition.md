@@ -42,7 +42,8 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
 ---
 ## Hilbert transform from IMFs
-![[Pasted image 20241218152534.png]]
+![[a signal spectrum.png|400]]
+
 
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
