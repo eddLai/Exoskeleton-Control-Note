@@ -83,8 +83,8 @@ $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
 
 ---
 <split no-margin>
-![[emd example 1.png|400]]
-![[emd example 2.png]]
+![[emd example 1.png|450]]
+![[emd example 2.png|450]]
 </split>
 
 多次迭代
