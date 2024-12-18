@@ -1,8 +1,3 @@
----
-
----
----
-
 
 # 現在方案
 1. Cygnus, protocol:BT 
