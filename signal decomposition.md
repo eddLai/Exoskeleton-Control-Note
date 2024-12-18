@@ -90,6 +90,7 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 ---
 ### recall FT
 頻譜科普： https://blog.maxkit.com.tw/2021/02/blog-post.html
+假設一信號
 ![[a signal spectrum.png|400]]
 $$ppy[k] = \sum_{n=0}^{N-1} y[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, N-1$$
 ```python
