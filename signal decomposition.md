@@ -185,11 +185,15 @@ instantaneous frequency
 我們需要不同的windows來比較出哪種resolution會比較好
 ![[STFT vs HHT 1.png|350]]![[STFT vs HHT 2.png|350]]
 
+
 ---
+### EEMD
 噪音和瞬態信號的結合可能導致 EMD 分解效果不佳，出現信號分散在多個 IMF 的問題
 <split no-margin>
 ![[signal with manual bursting.png|450]]![[IMF of signal with manual bursting.png|450]]
 </split>
+
+---
 
 ---
 ### MEMD
