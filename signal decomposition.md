@@ -197,6 +197,10 @@ f, spec_unweighted = emd.spectra.hilberthuang(IF, np.ones_like(IA), freq_edges, 
 ![[hilbert-huang transform more IMFs.png]]
 
 ---
+2D-transform
+![[Pasted image 20241218234704.png]]
+
+---
 ### Application
 對於一個週期性震盪的複雜訊號
 我們需要不同的windows來比較出哪種resolution會比較好
