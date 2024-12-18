@@ -46,33 +46,10 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 - Filter: [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085)
 
 ---
-很棒的工具庫
+很棒的工具庫`emd`
 
 用`emd.sift.get_padded_extrema()`來抓peak??一樣是用`from scipy.signal import argrelextrema`的實現
 [[Speed_analysis]]中的做法接近
 ![[peak from emd tool.png]]
-
----
-```python
-import emd
-import matplotlib.pyplot as plt  # 修正 matplotlib 的正確導入
-import numpy as np
-
-# 確保 x 是 Numpy 陣列
-x = Neck["Y"].to_numpy()  # 如果 Neck["X"] 是 pandas.Series，轉換為 Numpy 陣列
-
-# 獲取極值點
-peak_locs, peak_mags = emd.sift.get_padded_extrema(x, pad_width=0, mode='peaks')
-trough_locs, trough_mags = emd.sift.get_padded_extrema(x, pad_width=0, mode='troughs')
-
-# 繪圖
-plt.figure()  # 呼叫 pyplot 的 figure() 函數來創建圖形
-plt.plot(x, 'k', label='Signal')
-plt.plot(peak_locs, peak_mags, 'ro', label='Peaks')
-plt.plot(trough_locs, trough_mags, 'bo', label='Troughs')
-# plt.xlim(300, 340)
-plt.legend()
-plt.show()
-```
 
 ---
