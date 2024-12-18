@@ -80,7 +80,11 @@ $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 $$p(t) = r(t) - m(t)\quad \text{(2)}$$
 $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
 ![[EMD step3,4.png|500]]
+
+---
+emd example 1
 ![[emd example 1.png]]
+![[Pasted image 20241218215621.png]]
 多次迭代
 $$r_k(n) = r_{k-1}(n) - \sum_{k=1}^{K} IMF_k(n)$$
 
