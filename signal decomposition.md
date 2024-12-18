@@ -66,6 +66,8 @@ comp1 = comp1_amp * np.cos(2*np.pi*5*time_vect + comp1_phase)
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
 
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
+
+---
 ### EMF hilbert
 ```python
 IP, IF, IA = emd.spectra.frequency_transform(imf, sample_rate, 'hilbert')
@@ -81,6 +83,10 @@ plt.ylabel('Frequency (Hz)')
 ```
 ![[instantaneous frequency.png|350]]![[hilbert-huang transform.png|350]]
 不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號。
+
+---
+### Application
+
 
 ---
 ### MEMD
