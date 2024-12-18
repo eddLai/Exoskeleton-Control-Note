@@ -45,6 +45,9 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[statistics methods]]
 - [[entropy]]
 
+### 比較EMD以及Wavelet方案:
+
+
 ---
 # App.
 - [[neurologic disorders and sEMG]]
