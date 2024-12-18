@@ -122,7 +122,10 @@ comp1 = comp1_amp * np.cos(2*np.pi*5*time_vect + comp1_phase)
 
 ---
 
-![[FT decomposition of a signal.png]]![[EMD decomposition of a signal.png|500]]
+FT decomposition
+![[FT decomposition of a signal.png|500]]
+EMD decomposition
+![[EMD decomposition of a signal.png|500]]
 
 ---
 但是FT會有低頻訊號被轉換為多個高頻**separate harmonics**的問題。
