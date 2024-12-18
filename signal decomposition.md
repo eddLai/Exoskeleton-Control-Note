@@ -91,8 +91,11 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 ### recall FT
 頻譜科普： https://blog.maxkit.com.tw/2021/02/blog-post.html
 假設兩信號
-`x = np.cos(2*np.pi*freq*time_vect)`
-`y = np.cos(2*np.pi*freq*time_vect) + 0.25*np.cos(2*np.pi*freq*2*time_vect-np.pi)`
+```python
+x = np.cos(2*np.pi*freq*time_vect)
+y = np.cos(2*np.pi*freq*time_vect) + 0.25*np.cos(2*np.pi*freq*2*time_vect-np.pi)
+```
+
 ![[a signal spectrum.png|400]]
 $$ppy[k] = \sum_{n=0}^{N-1} y[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, N-1$$
 ```python
