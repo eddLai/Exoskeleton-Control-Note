@@ -48,3 +48,25 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 ---
 用`emd`來抓peak??更改原本maurice的code
 [[Speed_analysis]]
+```python
+import emd
+import matplotlib.pyplot as plt  # 修正 matplotlib 的正確導入
+import numpy as np
+
+# 確保 x 是 Numpy 陣列
+x = Neck["Y"].to_numpy()  # 如果 Neck["X"] 是 pandas.Series，轉換為 Numpy 陣列
+
+# 獲取極值點
+peak_locs, peak_mags = emd.sift.get_padded_extrema(x, pad_width=0, mode='peaks')
+trough_locs, trough_mags = emd.sift.get_padded_extrema(x, pad_width=0, mode='troughs')
+
+# 繪圖
+plt.figure()  # 呼叫 pyplot 的 figure() 函數來創建圖形
+plt.plot(x, 'k', label='Signal')
+plt.plot(peak_locs, peak_mags, 'ro', label='Peaks')
+plt.plot(trough_locs, trough_mags, 'bo', label='Troughs')
+# plt.xlim(300, 340)
+plt.legend()
+plt.show()
+
+```
