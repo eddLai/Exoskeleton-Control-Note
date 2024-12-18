@@ -213,7 +213,7 @@ e.g., with a linear spacing: `define_hist_bins(1, 25, 24, 'log')`
 對於一個週期性震盪的複雜訊號
 我們需要不同的windows來比較出哪種resolution會比較好
 ![[STFT vs HHT 1.png|350]]![[STFT vs HHT 2.png|350]]
-HHT可以用各種頻率的波來看
+HHT可以把**同瞬間頻率的點連起來看**
 
 ---
 # EEMD
