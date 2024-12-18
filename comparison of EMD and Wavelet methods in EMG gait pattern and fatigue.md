@@ -47,4 +47,4 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 
 ---
 用`emd`來抓peak??更改原本maurice的code
-[[speed]]
+[[Speed_analysis]]
