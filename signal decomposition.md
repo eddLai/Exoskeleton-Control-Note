@@ -266,3 +266,22 @@ ref.
 - python庫解決方案: [PyEMD包安装导入踩坑 - 哔哩哔哩](https://www.bilibili.com/opus/781745878429859881)
 - [EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/index.html)
 - [3.7 HHT ( Hilbert-Huang Transform)](http://www.ancad.com.tw/VS_Online_Help/ch03s07.html)
+
+---
+Custi
+```python
+import emd
+# Create a mask sift config object and customise some options
+config = emd.sift.get_config('mask_sift')
+config['max_imfs'] = 5
+config['mask_amp_mode'] = 'ratio_sig'
+config['envelope_opts/interp_method'] = 'mono_pchip'
+
+# Create a partial function - my_mask_sift is now a function with the arguments
+# in config fixed as defaults.
+from functools import partial
+my_mask_sift = partial(emd.sift.mask_sift, **config)
+
+# my_mask_sift can then be called with the input data as the only argument.
+imfs = my_mask_sift(x)
+```
