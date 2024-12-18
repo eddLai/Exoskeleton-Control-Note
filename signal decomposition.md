@@ -187,6 +187,13 @@ IP瞬時相位,、IF瞬時頻率、IA瞬時振幅，
 
 ---
 對於一個多IMF的訊號
+```python
+freq_edges, freq_centres = emd.spectra.define_hist_bins(0, 100, 128, 'linear')
+# Amplitude weighted HHT per IMF
+f, spec_weighted = emd.spectra.hilberthuang(IF, IA, freq_edges, sum_imfs=False)
+# Unweighted HHT per IMF - we replace the instantaneous amplitude values with ones
+f, spec_unweighted = emd.spectra.hilberthuang(IF, np.ones_like(IA), freq_edges, sum_imfs=False)
+```
 ![[hilbert-huang transform more IMFs.png]]
 
 ---
