@@ -64,10 +64,12 @@ $$
 ---
 ## Empirical Mode Decomposition, EMD
 data-driven method，一個signal由多個IMF組成，IMF可以是線性或者非線性的
+`emd.sift.get_padded_extrema()`
 
 $$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
 $$
 用局部極值找到包絡線
+`emd.sift.interp_envelope()`
 $$e_{\text{max}}(t), \quad e_{\text{min}}(t)$$
 $$m(t) = \frac{e_{\text{max}}(t) + e_{\text{min}}(t)}{2}$$
 
