@@ -198,6 +198,9 @@ instantaneous frequency
 
 ---
 ![[result of EEMD.png|500]]
+```python
+emd.sift.ensemble_sift()
+```
 
 ---
 # MEMD
