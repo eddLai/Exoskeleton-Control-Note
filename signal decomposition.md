@@ -226,8 +226,8 @@ automatic methods, use the first two modes as frequency
 emd.sift.iterated_mask_sift(x, sample_rate=sample_rate, max_imfs=3)
 ```
 <split no-margin>
-![[automatic masked test signal.png|300]]
-![[automated masking spectrum.png]]
+![[automatic masked test signal.png|400]]
+![[automated masking spectrum.png|400]]
 </split>
 
 ---
