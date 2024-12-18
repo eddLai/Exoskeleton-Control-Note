@@ -43,8 +43,7 @@ $$
 - [[instantaneous frequency-Analytic signal and Hilbert Transform]]，然而這個傳統的數學方法在複雜的波形會有巨大的飄移，他只能用在單純的波形上，透過使用在IMF使其有用武之地
 
 ref. https://blog.csdn.net/ARM_qiao/article/details/108482457
-瞬時頻率：透過analytic signal
-"本征模式函数(Intrinsic Mode Function，IMF)的新概念，基于这类函数的局部特性，使函数的任何一点瞬时频率都有意义。"
+>瞬時頻率：透過analytic signal，"本征模式函数(Intrinsic Mode Function，IMF)的新概念，基于这类函数的局部特性，使函数的任何一点瞬时频率都有意义。"
 
 ---
 # Signal Decomposition
