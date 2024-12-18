@@ -176,6 +176,8 @@ $$d(t)=v(t)-m(t)$$
 
 ---
 ### CEEMDAN
+透過加入噪聲，解決雜訊的問題。
+
 原始論文：[[A_complete_ensemble_empirical_mode_decomposition_with_adaptive_noise.pdf]]
 ref. 
 - 科普：[CEEMDAN：一种优化的集合经验模态分解算法](https://cloud.baidu.com/article/3253447)
