@@ -190,5 +190,9 @@ ref.
 ![[flowchart of EEMD.png|400]]
 ![[flowchart of CEEMDAN.png|400]]
 </split>
-python庫解決方案: [PyEMD包安装导入踩坑 - 哔哩哔哩](https://www.bilibili.com/opus/781745878429859881)
 
+
+---
+工具庫
+- python庫解決方案: [PyEMD包安装导入踩坑 - 哔哩哔哩](https://www.bilibili.com/opus/781745878429859881)
+- 
