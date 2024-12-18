@@ -187,8 +187,8 @@ ref.
 
 ---
 <split even>
-![[flowchart of EEMD.png]]
-![[flowchart of CEEMDAN.png]]
+![[flowchart of EEMD.png|500]]
+![[flowchart of CEEMDAN.png|450]]
 </split>
 
 
