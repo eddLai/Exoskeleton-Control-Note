@@ -42,7 +42,7 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
 ---
 ## Hilbert transform from IMFs
-traditional 
+FT decomposition 
 ins
 
 頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
