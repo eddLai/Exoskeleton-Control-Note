@@ -132,6 +132,7 @@ EMD decomposition
 ---
 但是FT會有低頻訊號被轉換為多個高頻**separate harmonics**的問題。
 ![[separate harmonics.png|600]]
+影響到我們觀察高頻信號
 
 ---
 ### EMF hilbert
@@ -147,7 +148,8 @@ plt.plot(time_vect[:sample_rate], IF[:sample_rate, 0])
 plt.title('IMF-1 Instantaneous Frequency')
 plt.ylabel('Frequency (Hz)')
 ```
-![[instantaneous frequency.png|350]]![[hilbert-huang transform.png|350]]
+![[instantaneous frequency.png|350]]
+![[hilbert-huang transform.png|350]]
 不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號。
 
 ---
