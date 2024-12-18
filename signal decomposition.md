@@ -49,7 +49,7 @@ pyy = np.fft.fft(y) / len(x)
 ```
 
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
-ppy[specific ]
+$$ppy[k], k=specific\ frequency$$
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
 而EMF則
 
