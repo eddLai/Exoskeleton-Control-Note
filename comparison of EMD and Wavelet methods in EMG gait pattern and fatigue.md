@@ -48,6 +48,9 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 ---
 用`emd`來抓peak??更改原本maurice的code
 [[Speed_analysis]]
+![[peak from emd tool.png]]
+
+---
 ```python
 import emd
 import matplotlib.pyplot as plt  # 修正 matplotlib 的正確導入
