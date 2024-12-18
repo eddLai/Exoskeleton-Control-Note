@@ -223,7 +223,7 @@ emd.plotting.plot_hilberthuang(hht, time_centres, freq_centres,
 
                                cmap='viridis', time_lims=(750, 1500),  log_y=True)
 ```
-![[Pasted image 20241218235600.png]]
+![[HHT standard plotting.png]]
 
 ---
 # EEMD
