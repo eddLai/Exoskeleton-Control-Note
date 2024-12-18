@@ -284,4 +284,16 @@ my_mask_sift = partial(emd.sift.mask_sift, **config)
 
 # my_mask_sift can then be called with the input data as the only argument.
 imfs = my_mask_sift(x)
+
+```
+
+```python
+# Create a temporary file OR specify your own file path
+import tempfile
+config_file = tempfile.NamedTemporaryFile(prefix="ExampleSiftConfig_").name
+# Or uncomment the following line and specify your own file
+#config_file = '/path/to/my/file'
+
+# Save the config into yaml format
+config.to_yaml_file(config_file)
 ```
