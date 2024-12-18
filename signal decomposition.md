@@ -49,10 +49,11 @@ pyy = np.fft.fft(y) / len(x)
 ```
 
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
+
 $$ppy_k=ppy[k], k=specific\ frequency,e.g.\ 50, 100Hz$$
 $$A=2\times |ppy|$$
 $$\phi_{ppy_k}=tan^{-1}{\frac{Im(ppy_k)}{Rm(ppy_k)}}$$
-$$f(x) =\sum_{n=-\infty}^\infty C_n \cdot e^{\frac{nx\pi}{p}j}=C_0 + \sum_{n=1}^\infty 2 |C_n| \cos\left( \frac{n\pi}{p} x + \phi_n \right)$$
+
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
 而EMF則
 
