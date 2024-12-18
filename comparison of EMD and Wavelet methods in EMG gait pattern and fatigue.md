@@ -46,6 +46,8 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 - Filter: [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085)
 
 ---
+很棒的工具庫
+
 用`emd.sift.get_padded_extrema()`來抓peak??一樣是用`from scipy.signal import argrelextrema`的實現
 [[Speed_analysis]]中的做法接近
 ![[peak from emd tool.png]]
