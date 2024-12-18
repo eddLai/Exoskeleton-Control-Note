@@ -186,6 +186,9 @@ instantaneous frequency
 ![[STFT vs HHT 1.png|350]]![[STFT vs HHT 2.png|350]]
 
 ---
+噪音和瞬態信號的結合可能導致 EMD 分解效果不佳，出現信號分散在多個 IMF 的問題
+
+---
 ### MEMD
 ref. [nihms439498.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf)
 multivariate data，用於local minimum不好找的情況。
