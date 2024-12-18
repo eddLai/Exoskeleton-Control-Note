@@ -85,10 +85,10 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
 
 ---
-# 
+# Example
 
 ---
-### recall FT
+## recall FT
 頻譜科普： https://blog.maxkit.com.tw/2021/02/blog-post.html
 假設兩信號
 ```python
@@ -103,6 +103,7 @@ pyy = np.fft.fft(y) / len(x)
 ```
 
 ---
+## Reconstruct the signal from 
 $$f(x) =\sum_{n=-\infty}^\infty C_n \cdot e^{\frac{nx\pi}{p}j}=C_0 + \sum_{n=1}^\infty 2 |C_n| \cos\left( \frac{n\pi}{p} x + \phi_n \right)$$
 $$|C_n| = \sqrt{\text{Re}(C_n)^2 + \text{Im}(C_n)^2}, \quad \phi_n = \arctan\left( \frac{\text{Im}(C_n)}{\text{Re}(C_n)} \right)$$
 
