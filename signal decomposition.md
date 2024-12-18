@@ -1,3 +1,7 @@
+---
+bg: "[[NTKLab_white bg.png]]"
+---
+
 <style>
     .reveal {
         font-family: 'Times New Roman', '標楷體';
@@ -21,12 +25,8 @@
 	}
 </style>
 <grid drag="70 10" drop="-3 40">
-Robust Real-Time Musculoskeletal Modeling Driven by Electromyograms 
+signal decomposition
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
-</grid>
-
-<grid drag="70 10" drop="-3 70">
-Guillaume Durandau , Student Member, IEEE, Dario Farina, Senior Member, IEEE, and Massimo Sartori
 </grid>
 
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
