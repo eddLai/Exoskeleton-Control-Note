@@ -205,7 +205,7 @@ f, spec_unweighted = emd.spectra.hilberthuang(IF, np.ones_like(IA), freq_edges, 
 ---
 Bin determines the resolution
 
-with a linear spacing: `define_hist_bins(1, 25, 24, 'log')`
+e.g., with a linear spacing: `define_hist_bins(1, 25, 24, 'log')`
 ![[bin resolution.png]]
 
 ---
