@@ -31,9 +31,9 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
-<grid drag="80 10" drop="-3 70">
+<grid drag="80 10" drop="30 70">
 賴宏達
-<!-- element style="font-size: 40px;align: right; text-align: left"-->
+<!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
 
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
