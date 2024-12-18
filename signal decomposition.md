@@ -215,6 +215,7 @@ imf = emd.sift.ensemble_sift(burst+n, max_imfs=5, nensembles=24, nprocesses=6, e
 </split>
 
 一個頻率為 $f Hz$ 的掩膜預期會去除低於 $0.7 \times fHz$ 的頻率成分。
+emd.sift.mask_sift(xy, mask_freqs=30/sample_rate, ret_mask_freq=True, max_imfs=4)
 ref. http://arxiv.org/abs/1709.05547
 
 ---
