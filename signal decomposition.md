@@ -200,6 +200,7 @@ instantaneous frequency
 ![[result of EEMD.png|500]]
 ```python
 emd.sift.ensemble_sift()
+imf = emd.sift.ensemble_sift(burst+n, max_imfs=5, nensembles=24, nprocesses=6, ensemble_noise=1, imf_opts=imf_opts)
 ```
 `noise_variance from `0.25` to `1`.
 
