@@ -87,6 +87,7 @@ plt.ylabel('Frequency (Hz)')
 ---
 ### Application
 對於一個週期性震盪的複雜訊號
+我們需要
 
 ---
 ### MEMD
