@@ -199,7 +199,8 @@ f, spec_unweighted = emd.spectra.hilberthuang(IF, np.ones_like(IA), freq_edges, 
 ---
 2D-hilbert-huang transform
 
-![[2D HHT.png|700]]
+![[2D HHT.png|600]]
+透過上圖可以嘗試理解IF瞬間頻率的意義
 
 ---
 ### Application
