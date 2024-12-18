@@ -41,7 +41,8 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 ![[EMD step3,4.png|500]]
 
 ---
-## 
+## Hilbert transform from our IMFs
+ins
 
 頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
 
