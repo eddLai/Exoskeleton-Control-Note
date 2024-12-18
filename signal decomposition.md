@@ -80,7 +80,7 @@ plt.title('IMF-1 Instantaneous Frequency')
 plt.ylabel('Frequency (Hz)')
 ```
 ![[instantaneous frequency.png|350]]![[hilbert-huang transform.png|350]]
-不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號
+不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號。
 
 ---
 ### MEMD
