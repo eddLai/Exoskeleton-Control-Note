@@ -34,6 +34,9 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 # Analysis methods
 background: [[recall signal and system]]
 注意是否為==EMG is dynamic or non-sinusoidal signals.==
+儘管傅立葉能夠拆解，但是harmonics, can create interpretation issues
+>ref. [EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/index.html)
+
 list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[frequency analysis]]
 - [[signal decomposition]]
