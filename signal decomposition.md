@@ -204,7 +204,8 @@ f, spec_unweighted = emd.spectra.hilberthuang(IF, np.ones_like(IA), freq_edges, 
 
 ---
 Bin determines the resolution
-![[Pasted image 20241218235006.png]]
+with a linear spacing
+![[bin resolution.png]]
 
 ---
 ### Application
