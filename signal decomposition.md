@@ -43,7 +43,7 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 ---
 ## Hilbert transform from IMFs
 ![[a signal spectrum.png|400]]
-$$ppy[k] = \sum_{n=0}^{N-1} y[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, K-1$$
+$$ppy[k] = \sum_{n=0}^{N-1} y[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, N-1$$
 ```python
 pyy = np.fft.fft(y) / len(x)
 ```
