@@ -221,7 +221,8 @@ emd.sift.mask_sift(xy, mask_freqs=30/sample_rate, ret_mask_freq=True, max_imfs=4
 ref. http://arxiv.org/abs/1709.05547
 
 ---
-automatic methods, use the 
+automatic methods, use the first two modes as frequency
+
 
 ---
 # MEMD
