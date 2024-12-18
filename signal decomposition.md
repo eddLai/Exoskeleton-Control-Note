@@ -201,6 +201,7 @@ instantaneous frequency
 ```python
 emd.sift.ensemble_sift()
 ```
+`noise_variance from `0.25` to `1`.
 
 ---
 # MEMD
