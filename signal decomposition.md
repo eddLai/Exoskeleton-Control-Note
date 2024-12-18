@@ -196,6 +196,8 @@ instantaneous frequency
 ---
 ![[flowchart of EEMD.png|450]]
 
+
+
 ---
 # MEMD
 ref. [nihms439498.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf)
