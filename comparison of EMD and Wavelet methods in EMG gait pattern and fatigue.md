@@ -46,4 +46,5 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 - Filter: [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085)
 
 ---
-用`emd`來抓peak
+用`emd`來抓peak??更改原本maurice的code
+[[speed]]
