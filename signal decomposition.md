@@ -43,6 +43,7 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 ---
 ## Hilbert transform from IMFs
 ### recall FT
+頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
 ![[a signal spectrum.png|400]]
 $$ppy[k] = \sum_{n=0}^{N-1} y[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, N-1$$
 ```python
@@ -79,7 +80,6 @@ plt.title('IMF-1 Instantaneous Frequency')
 plt.ylabel('Frequency (Hz)')
 ```
 
-頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
 
 ---
 ### MEMD
