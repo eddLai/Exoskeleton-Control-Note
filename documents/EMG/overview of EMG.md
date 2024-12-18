@@ -45,11 +45,9 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[statistics methods]]
 - [[entropy]]
 
-comparison of EMD and Wavelet methods in EMG gait
-
-
 ---
 # App.
+- [[comparison of EMD and Wavelet methods in EMG gait pattern and fatigue]]
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
 - [[musculoskeletal modeling in simulation]]
