@@ -287,6 +287,7 @@ imfs = my_mask_sift(x)
 
 ```
 
+---
 ```python
 # Create a temporary file OR specify your own file path
 import tempfile
