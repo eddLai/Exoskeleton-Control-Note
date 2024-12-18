@@ -80,6 +80,7 @@ plt.title('IMF-1 Instantaneous Frequency')
 plt.ylabel('Frequency (Hz)')
 ```
 ![[instantaneous frequency.png|500]]
+![[Pasted image 20241218160336.png]]
 
 ---
 ### MEMD
