@@ -42,7 +42,7 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
 ---
 ## Hilbert transform from IMFs
-### recall FT:
+### recall FT
 ![[a signal spectrum.png|400]]
 $$ppy[k] = \sum_{n=0}^{N-1} y[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, N-1$$
 ```python
@@ -65,7 +65,7 @@ comp1 = comp1_amp * np.cos(2*np.pi*5*time_vect + comp1_phase)
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
 
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
-而EMF則
+### EMF hilbert
 
 頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
 
