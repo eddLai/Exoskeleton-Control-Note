@@ -81,7 +81,7 @@ $$r_k(n) = r_{k-1}(n) - \sum_{k=1}^{K} IMF_k(n)$$
 2. r必須是單方向的$$\text{If } r(t) \text{ is not monotonic, then go back to step (2) and set } k = k + 1$$
 $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 
-![[EMD step1,2.png|500]]
+
 ![[EMD step3,4.png|500]]
 
 ---
