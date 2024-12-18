@@ -103,7 +103,7 @@ pyy = np.fft.fft(y) / len(x)
 ```
 
 ---
-## Reconstruct the signal from 
+## Reconstruct the signal from freq. domain
 $$f(x) =\sum_{n=-\infty}^\infty C_n \cdot e^{\frac{nx\pi}{p}j}=C_0 + \sum_{n=1}^\infty 2 |C_n| \cos\left( \frac{n\pi}{p} x + \phi_n \right)$$
 $$|C_n| = \sqrt{\text{Re}(C_n)^2 + \text{Im}(C_n)^2}, \quad \phi_n = \arctan\left( \frac{\text{Im}(C_n)}{\text{Re}(C_n)} \right)$$
 
@@ -115,6 +115,8 @@ $$comp(t)=Acos(2\pi k\cdot t+\phi)$$
 ```python
 comp1 = comp1_amp * np.cos(2*np.pi*5*time_vect + comp1_phase)
 ```
+
+---
 
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
 
