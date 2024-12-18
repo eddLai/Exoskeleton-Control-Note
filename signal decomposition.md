@@ -66,6 +66,8 @@ $$
 data-driven method，一個signal由多個IMF組成，IMF可以是線性或者非線性的
 `emd.sift.get_padded_extrema()`，可以用這種方式修改設定
 ```python
+ext_opts = config['extrema_opts']
+ext_opts['method'] = 'numpypad'
 ext_opts['pad_width'] = 5
 max_locs, max_mag = emd.sift.get_padded_extrema(x, mode='peaks', **ext_opts)
 ```
