@@ -74,7 +74,9 @@ max_locs, max_mag = emd.sift.get_padded_extrema(x, mode='peaks', **ext_opts)
 
 $$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
 $$
-![[extreme padding method.png|400]]
+
+---
+![[extreme padding method.png]]
 
 ---
 用局部極值找到包絡線
