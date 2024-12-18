@@ -66,7 +66,19 @@ comp1 = comp1_amp * np.cos(2*np.pi*5*time_vect + comp1_phase)
 
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
 ### EMF hilbert
+```python
 IP, IF, IA = emd.spectra.frequency_transform(imf, sample_rate, 'hilbert')
+plt.figure(figsize=(10, 6))
+plt.subplots_adjust(hspace=0.4)
+plt.subplot(211)
+plt.plot(time_vect[:sample_rate], imf[:sample_rate, 0])
+plt.title('IMF-1')
+plt.subplot(212)
+plt.plot(time_vect[:sample_rate], IF[:sample_rate, 0])
+plt.title('IMF-1 Instantaneous Frequency')
+plt.ylabel('Frequency (Hz)')
+```
+
 頻譜： https://blog.maxkit.com.tw/2021/02/blog-post.html
 
 ---
