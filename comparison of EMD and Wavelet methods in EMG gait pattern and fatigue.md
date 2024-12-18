@@ -71,6 +71,6 @@ plt.plot(trough_locs, trough_mags, 'bo', label='Troughs')
 # plt.xlim(300, 340)
 plt.legend()
 plt.show()
-
 ```
 
+---
