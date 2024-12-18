@@ -83,7 +83,7 @@ $$\text{SD} = \frac{1}{N} \sum_{t=1}^{N} \left| p(t) - m(t) \right|$$
 
 ---
 <split even>
-![[emd example 1.png]]
+![](emd example 1.png)
 ![[emd example 2.png]]
 </split>
 
