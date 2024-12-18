@@ -51,7 +51,7 @@ pyy = np.fft.fft(y) / len(x)
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
 $$ppy[k], k=specific\ frequency,e.g.\ 50, 100Hz$$
 $$A=2\times |ppy|$$
-
+$$\phi=tan^{-1}{}$$
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
 而EMF則
 
