@@ -31,6 +31,10 @@ signal decomposition Note
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
+<grid drag="80 10" drop="-3 70">
+賴宏達
+</grid>
+
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
 
 ---
