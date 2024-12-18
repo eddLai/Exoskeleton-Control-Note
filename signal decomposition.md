@@ -216,6 +216,16 @@ e.g., with a linear spacing: `define_hist_bins(1, 25, 24, 'log')`
 HHT可以把**同瞬間頻率的點連起來看**
 
 ---
+Plotting
+```python
+emd.plotting.plot_hilberthuang(hht, time_centres, freq_centres)
+emd.plotting.plot_hilberthuang(hht, time_centres, freq_centres,
+
+                               cmap='viridis', time_lims=(750, 1500),  log_y=True)
+```
+![[Pasted image 20241218235600.png]]
+
+---
 # EEMD
 噪音和瞬態信號的結合可能導致 EMD 分解效果不佳，出現信號分散在多個 IMF 的問題
 <split no-margin>
