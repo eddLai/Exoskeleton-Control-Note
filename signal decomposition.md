@@ -52,9 +52,11 @@ $$
 **目的**：用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合
 也因此EMD並不直接產生頻譜圖
 ### intrinsic mode function:
+定義：
 - 局部極值，與過零點數量相等
 - 上下包絡線對於時間軸對稱（平均值為零）
 
+---
 ## Empirical Mode Decomposition EMD
 data-driven method，一個signal由多個IMF組成，IMF可以是線性或者非線性的
 $$r(t) = x(t), \quad i = 0, \quad k = 1, \quad \text{SD} < \delta, \quad \delta \in [0.2, 0.3]
