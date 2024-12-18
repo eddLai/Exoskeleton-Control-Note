@@ -19,6 +19,7 @@ bg: "[[NTKLab_white bg.png]]"
 	.reveal h6 {
 	  font-family: 'Times New Roman', '標楷體';
 	  color: black;
+	  text-transform: lowercase;
 	}
 	.with-border{
 		border: 1px solid red;
