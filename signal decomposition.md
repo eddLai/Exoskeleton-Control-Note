@@ -44,6 +44,7 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 ## Hilbert transform from IMFs
 FT decomposition of a signal
 ![[FT decomposition of a signal.png|500]]
+![[EMD decomposition of a signal.png|500]]
 
 ins
 
