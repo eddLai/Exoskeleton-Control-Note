@@ -187,16 +187,17 @@ instantaneous frequency
 
 
 ---
-### EEMD
+# EEMD
 噪音和瞬態信號的結合可能導致 EMD 分解效果不佳，出現信號分散在多個 IMF 的問題
 <split no-margin>
 ![[signal with manual bursting.png|450]]![[IMF of signal with manual bursting.png|450]]
 </split>
 
 ---
+![[flowchart of EEMD.png|450]]
 
 ---
-### MEMD
+# MEMD
 ref. [nihms439498.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf)
 multivariate data，用於local minimum不好找的情況。
 projections along different directions in $(n−1)$dimensional spaces
@@ -209,7 +210,7 @@ $e_k(t)$為上邊界
 $$d(t)=v(t)-m(t)$$
 
 ---
-### CEEMDAN
+# CEEMDAN
 透過加入噪聲，解決雜訊的問題。
 
 原始論文：[[A_complete_ensemble_empirical_mode_decomposition_with_adaptive_noise.pdf]]
