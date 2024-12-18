@@ -199,7 +199,7 @@ f, spec_unweighted = emd.spectra.hilberthuang(IF, np.ones_like(IA), freq_edges, 
 ---
 2D-hilbert-huang transform
 
-![[2D HHT.png|500]]
+![[2D HHT.png|700]]
 
 ---
 ### Application
