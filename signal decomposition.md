@@ -206,7 +206,7 @@ imf = emd.sift.ensemble_sift(burst+n, max_imfs=5, nensembles=24, nprocesses=6, e
 
 ---
 ## Mask
-w.
+加入一個想要分離的頻率，用以解決資料被
 
 ---
 # MEMD
