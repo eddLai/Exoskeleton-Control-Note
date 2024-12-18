@@ -80,7 +80,7 @@ plt.title('IMF-1 Instantaneous Frequency')
 plt.ylabel('Frequency (Hz)')
 ```
 ![[instantaneous frequency.png|350]]![[hilbert-huang transform.png|350]]
-不同於
+不同於FT，Hilbert-Huang用
 
 ---
 ### MEMD
