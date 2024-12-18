@@ -194,6 +194,7 @@ f, spec_weighted = emd.spectra.hilberthuang(IF, IA, freq_edges, sum_imfs=False)
 # Unweighted HHT per IMF - we replace the instantaneous amplitude values with ones
 f, spec_unweighted = emd.spectra.hilberthuang(IF, np.ones_like(IA), freq_edges, sum_imfs=False)
 ```
+bin是為了離散化頻譜
 ![[hilbert-huang transform more IMFs.png]]
 
 ---
