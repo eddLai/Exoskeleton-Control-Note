@@ -44,7 +44,10 @@ $$x(t) = c_1(t) + c_2(t) + \cdots + c_n(t) + r_n(t)$$
 ## Hilbert transform from IMFs
 ![[a signal spectrum.png|400]]
 $$X[k] = \sum_{n=0}^{N-1} x[n] e^{-j \frac{2\pi}{K} k n}, \quad k = 0, 1, 2, \dots, K-1$$
+```
+pyy = np.fft.fft(y) / len(x)
 
+```
 
 ![[FT decomposition of a signal.png|350]]![[EMD decomposition of a signal.png|350]]
 FT會有低頻訊號被轉換為多個高頻**seperate harmonics**的問題。
