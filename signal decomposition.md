@@ -179,7 +179,7 @@ instantaneous frequency
 ```python
 IP, IF, IA = emd.spectra.frequency_transform(imf, sample_rate, 'nht')
 ```
-IP順石像jp
+IP瞬時相位,、IF瞬時頻率、IA瞬時振幅
 對於只有一個IMF的結果
 ![[hilbert-huang transform.png|450]]
 不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號。
