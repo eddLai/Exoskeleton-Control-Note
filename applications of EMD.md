@@ -167,3 +167,5 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
     - 信號有規律的波形（例如單一非正弦振盪），每個週期重複，沒有次要極值。
 - **不良的諧波結構**：
     - 波形中存在額外的次要極值（secondary extrema），或每個週期波形不一致。
+
+應用上可以用來確保LFP所得正確[Brain Oscillations and the Importance of Waveform Shape - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364661316302182?via%3Dihub)
