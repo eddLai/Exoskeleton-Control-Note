@@ -152,9 +152,7 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 ![[HHT AM phase bin.png]]
 
 ---
-### EMD 用於分離Harmonic
-傅立葉轉換一定會出現諧波，而EMD也會，但是可以分離
-
+## IF的意義
 - IF較低，代表waveform shape較平緩
 - IF應該要是正值
 - **良好的諧波結構**：
@@ -173,6 +171,8 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 </split>
 
 ---
+### EMD 用於分離Harmonic
+傅立葉轉換一定會出現諧波，而EMD也會，但是可以分離
 Harmonic的數學定義：
 $$x(t)=\sum_{n=1}^Na_ncos(\omega_nt+\phi_n)$$
 因此
