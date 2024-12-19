@@ -377,7 +377,12 @@ Cycle class
 - **屬性穩定性**： 如果當前週期的屬性（如振幅、頻率）與前一個週期相似（例如，變化在允許範圍內），則繼續加入當前鏈。
 - **不連續或屬性不穩定**：
     - 如果上述條件不滿足，則新建一條鏈，鏈的編號遞增。
-`C.compute_chain_timings()`
+
+---
+- `C.pick_cycle_subset(['max_amp>1', 'duration>12', 'is_good==1'])`
+- print(C.subset_vect)
+- `C.chain_vect`:只剩下存在的cycle
+- `C.compute_chain_timings()`
 ![[cycle chain.png]]
 
 
