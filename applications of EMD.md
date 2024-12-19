@@ -150,3 +150,6 @@ freq_edges, freq_centres = emd.spectra.define_hist_bins(10, 75, 75, 'log')
 f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time=False)
 ```
 ![[HHT AM phase bin.png]]
+
+---
+### EMD
