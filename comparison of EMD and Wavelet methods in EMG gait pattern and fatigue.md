@@ -96,5 +96,4 @@ imf2 = emd.sift.mask_sift_second_layer(IA, masks, sift_args=config)
 跨頻相位-振幅耦合 (PAC)
 
 例如:
-在 5 Hz 信號的峰值或谷值時，特定高頻信號（如 32 Hz）的振幅可能更強。
-- 這種現象表明 5 Hz 信號的特定相位對高頻振幅具有調制效果，這是一種。
+在 5 Hz 信號的峰值或谷值時，特定高頻信號（如 32 Hz）的振幅可能更強。這種現象表明 5 Hz 信號的**特定相位對高頻振幅具有調制(modulation)效果**
