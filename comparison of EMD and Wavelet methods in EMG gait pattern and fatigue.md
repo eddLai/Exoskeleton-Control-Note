@@ -111,5 +111,7 @@ hht_by_phase, _, _ = emd.cycles.bin_by_phase(IP[:, 3], hht.T)
 [On Holo-Hilbert spectral analysis: a full informational spectral representation for nonlinear and non-stationary data | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0206)
 
 ---
+高頻載波到底多寬多窄，如何量化
+
 ![[phase bin of AM.png]]
 x軸為phase，來自低頻訊號，透過`shft`取得
