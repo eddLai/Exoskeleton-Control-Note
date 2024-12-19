@@ -218,6 +218,8 @@ it would be valid to add IMF-2 and IMF-3.
 
 definition of good cycle
 
+$$\frac{dIP(t)}{dt}>0$$確保沒有相位倒退
+
 
 ---
 # EMD vs FT based methods
