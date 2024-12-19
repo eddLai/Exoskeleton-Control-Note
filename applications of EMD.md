@@ -307,7 +307,9 @@ mask_cycles = emd.cycles.get_cycle_vector(IP, return_good=True, mask=mask)
 
 ---
 ### Comparison between masked and unmasked
-![[Pasted image 20241219225453.png]]
+![[Comparison between masked and unmasked.png]]
+
+
 
 ---
 more description of cycles
