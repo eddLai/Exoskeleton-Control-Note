@@ -54,7 +54,7 @@ ref.[EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/st
 ![[simple singals for EMD.png|450]]
 ![[EMD of nonlinear system output.png|450]]
 </split>
-This is as the non-linear system makes the peaks larger and the troughs smaller which shifts the mean of the signal away from zero, see
+This is as the non-linear system makes the peaks larger and the troughs smaller which shifts the mean of the signal away from zero, see IMF2
 
 ---
 ## Application: AM
