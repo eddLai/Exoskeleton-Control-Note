@@ -366,7 +366,7 @@ Cycle class
 - `get_cycle_vect(phase, mode='augmented'))`-> cycle_vect，可以透過參數增加一個週期範圍
 - `get_inds_of_cycle(circle的序號)`
 - `C.compute_cycle_metric('max_ampORdurationORampSD', IA[:, 2], func=np.max)`對於每個cycle根據IA計算
-- `C.metrics.keys()` -> `df = C.get_metric_dataframe()`
+- `C.metrics.keys()` -> `df = C.get_metric_dataframe(conditions=['is_good==1', 'duration>12', 'max_amp>1'])`
 
 用於快速的**對一個複雜訊號拆解出來的一個IMF其中每個週期做分析**
 
