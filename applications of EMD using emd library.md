@@ -372,6 +372,9 @@ Cycle class
 
 用於快速的**對一個複雜訊號拆解出來的一個IMF其中每個週期做分析**
 
+---
+![[Pasted image 20241220013110.png]]
+
 
 ---
 # EMD vs FT based methods
