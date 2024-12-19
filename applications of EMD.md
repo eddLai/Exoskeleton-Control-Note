@@ -309,6 +309,8 @@ mask_cycles = emd.cycles.get_cycle_vector(IP, return_good=True, mask=mask)
 more description of cycles
 ```python
 emd.cycles.get_cycle_stat
+cycle_amp = emd.cycles.get_cycle_stat(all_cycles[:, 2], IA[:, 2], out='samples', func=np.max)
+
 ```
 
 
