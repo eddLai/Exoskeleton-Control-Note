@@ -1,0 +1,46 @@
+---
+bg: "[[NTKLab_white bg.png]]"
+---
+
+<style>
+    .reveal {
+        font-family: 'Times New Roman', '標楷體';
+        font-size: 30px;
+        text-align: left;
+        color: black;
+        background-size: cover;
+        background-position: center;
+    }
+	.reveal h1,
+	.reveal h2,
+	.reveal h3,
+	.reveal h4,
+	.reveal h5,
+	.reveal h6 {
+	  font-family: 'Times New Roman', '標楷體';
+	  color: black;
+	  %%text-transform: lowercase%%;
+	  text-transform: capitalize;
+	}
+	.with-border{
+		border: 1px solid red;
+	}
+</style>
+<grid drag="70 10" drop="-3 40">
+Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods for EMG Gait Pattern and Fatigue Analysis
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+</grid>
+
+<grid drag="50 10" drop="40 70">
+賴宏達
+<!-- element style="font-size: 20px;align: right; text-align: right"-->
+</grid>
+
+<!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
+
+---
+## 測試是否可以用EMD方案取代以下幾點：
+- Fatigue分析中的
+	- 取代STFT: [Mean frequency derived via Hilbert-Huang transform with application to fatigue EMG signal analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0169260706000472?ref=pdf_download&fr=RR-2&rr=8f3e26022ac98454), [EMG Mean Power Frequency Determination Using Wavelet Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=757017)
+	- Wavelet: [Frontiers | Comparison of Empirical Mode Decomposition, Wavelets, and Different Machine Learning Approaches for Patient-Specific Seizure Detection Using Signal-Derived Empirical Dictionary Approach](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.738996/full)
+- Filter: [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085)
