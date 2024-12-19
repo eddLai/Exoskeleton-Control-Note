@@ -280,6 +280,7 @@ plt.xlabel('Time (seconds)')
 
 ---
 ![[result of good cycle API.png|500]]
+y軸代表第幾個環
 ```python
 In:
 percent = np.round(100*(good_count/all_count), 1)
