@@ -330,6 +330,7 @@ plt.legend(['All-cycles', 'Masked-cycles', 'Amp thresh'])
 ```
 
 ---
+### Degree of Non-linearity, DoN of cycles
 
 
 ---
