@@ -112,4 +112,4 @@ hht_by_phase, _, _ = emd.cycles.bin_by_phase(IP[:, 3], hht.T)
 
 ---
 ![[phase bin of AM.png]]
-x軸為phase，來自低頻訊號，
+x軸為phase，來自低頻訊號，透過`shft`取得
