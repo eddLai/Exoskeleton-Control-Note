@@ -94,6 +94,7 @@ imf2 = emd.sift.mask_sift_second_layer(IA, masks, sift_args=config)
 
 ---
 ![[HHT complex standard plotting.png]]
+Carrier Frequency, 
 
 ---
 emd.spectra.holospectrum()
