@@ -61,6 +61,9 @@ Application: AM
 - 高頻carrier wave
 - 低頻Baseband Signal or Modulating Signal
 
+跨腦區資訊之判讀:
+[[波中有波─談腦電波的跨頻跨腦區.pdf]]
+
 ```python
 # Helper function for the second level sift
 def mask_sift_second_layer(IA, masks, config={}):
