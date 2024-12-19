@@ -362,7 +362,7 @@ more info. [Within-cycle instantaneous frequency profiles report oscillatory wav
 Cycle class
 
 `C = emd.cycles.Cycles(IP[:, 2])`，已經初始化
-- `get_cycle_vect(phase, mode='augmented'))`-> cycle_vect
+- `get_cycle_vect(phase, mode='augmented'))`-> cycle_vect，可以透過參數增加一個週期範圍
 - `get_inds_of_cycle(circle的序號)`
 
 
