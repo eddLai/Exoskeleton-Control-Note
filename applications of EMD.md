@@ -248,6 +248,7 @@ Cycle  0 - [0 5 8 13 16]
 ...
 Cycle 19 - [0 2 4 nan 6]
 ```
+![[good cycle step3 with bad one.png]]
 
 ---
 lib已經寫好，可以透過增加一個參數就做到
