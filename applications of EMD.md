@@ -313,10 +313,11 @@ cycle_amp = emd.cycles.get_cycle_stat(all_cycles[:, 2], IA[:, 2], out='samples',
 ```
 ![[cycle_amp stat.png]]
 
+---
 ```python
 cycle_mean_freq = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], out='samples', func=np.mean)
 ```
-
+![[cycle_mean_freq stat.png]]
 
 more info. [Within-cycle instantaneous frequency profiles report oscillatory waveform dynamics | Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00201.2021)
 
