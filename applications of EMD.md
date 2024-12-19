@@ -237,6 +237,7 @@ definition of good cycle
 </split>
 
 ---
+這是只顯示前10的cycle
 ```python
 ctrl = emd.cycles.get_control_points(imf[:, 2], all_cycles[:, 2])
 ```
