@@ -54,7 +54,7 @@ $$
 
 ---
 # Signal Decomposition
-**目的**：用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合，因為原本的FT會在
+**目的**：用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合，因為原本的FT會將產生Harmonic，
 ### intrinsic mode function:
 定義：
 - 局部極值，與過零點數量相等
