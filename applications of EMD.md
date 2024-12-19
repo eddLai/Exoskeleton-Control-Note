@@ -288,6 +288,7 @@ Output:
 IMF-3 contains 150 cycles of which  70 (46.7%) are good
 IMF-4 contains  99 cycles of which  77 (77.8%) are good
 ```
+more info. [Within-cycle instantaneous frequency profiles report oscillatory waveform dynamics | Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00201.2021)
 
 ---
 # EMD vs FT based methods
