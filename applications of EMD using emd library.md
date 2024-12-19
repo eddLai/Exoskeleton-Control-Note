@@ -359,6 +359,9 @@ more application
 more info. [Within-cycle instantaneous frequency profiles report oscillatory waveform dynamics | Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00201.2021)
 
 ---
+Cycle class
+
+---
 # EMD vs FT based methods
 
 ---
