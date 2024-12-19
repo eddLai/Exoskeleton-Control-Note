@@ -233,6 +233,11 @@ definition of good cycle
 ![[good cycle step1.png]]
 ![[good cycle step2.png]]
 
+---
+```python
+ctrl = emd.cycles.get_control_points(imf[:, 2], all_cycles[:, 2])
+```
+
 
 ---
 # EMD vs FT based methods
