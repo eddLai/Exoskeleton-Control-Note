@@ -364,7 +364,7 @@ Cycle class
 `C = emd.cycles.Cycles(IP[:, 2])`，已經初始化
 - `get_cycle_vect(phase, mode='augmented'))`-> cycle_vect，可以透過參數增加一個週期範圍
 - `get_inds_of_cycle(circle的序號)`
-- `C.compute_cycle_metric('max_ampORdurationOR', IA[:, 2], func=np.max)`對於每個cycle根據IA計算
+- `C.compute_cycle_metric('max_ampORdurationORampSD', IA[:, 2], func=np.max)`對於每個cycle根據IA計算
 
 
 ---
