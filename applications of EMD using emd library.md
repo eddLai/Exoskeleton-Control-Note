@@ -362,8 +362,9 @@ more info. [Within-cycle instantaneous frequency profiles report oscillatory wav
 Cycle class
 
 `C = emd.cycles.Cycles(IP[:, 2])`，已經初始化
-- `get_cycle_vect()`-> cycle_vect
+- `get_cycle_vect(phase, mode='augmented'))`-> cycle_vect
 - `get_inds_of_cycle(circle的序號)`
+
 
 ---
 # EMD vs FT based methods
