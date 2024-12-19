@@ -382,6 +382,9 @@ Cycle class
 ---
 ### Cycle疊合的功用
 ![[hard to tell IMFs.png]]
+IF幾乎看不出差異
+
+---
 
 ---
 ### Cycle chain
