@@ -58,8 +58,9 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 Application: AM
 
 高頻載波信號的振幅，實現低頻調製信號的嵌入，從而達成訊息傳輸的目的。
-高頻carrier wave
+- 高頻carrier wave
 - 低頻Baseband Signal or Modulating Signal
+
 ```python
 # Helper function for the second level sift
 def mask_sift_second_layer(IA, masks, config={}):
