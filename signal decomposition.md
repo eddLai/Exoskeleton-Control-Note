@@ -287,7 +287,7 @@ plt.xticks([.1, .5, 1, 2, 4, 8, 16], [.1, .5, 1, 2, 4, 8, 16])
 </split>
 
 ---
-![[flowchart of EEMD.png|450]]
+![[flowchart of EEMD.png]]
 
 ---
 ![[result of EEMD.png|500]]
