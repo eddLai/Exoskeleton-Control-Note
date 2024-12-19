@@ -161,4 +161,4 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
     - 結合低頻相位與高頻振幅的關係，檢查是否存在真實的跨頻交互。
 
 ---
-IF較低，代表waveform shape
+IF較低，代表waveform shape較平緩
