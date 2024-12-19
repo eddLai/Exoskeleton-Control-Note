@@ -39,14 +39,14 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
 
 ---
-測試是否可以用EMD方案取代以下幾點：
+## 測試是否可以用EMD方案取代以下幾點：
 - Fatigue分析中的
 	- 取代STFT: [Mean frequency derived via Hilbert-Huang transform with application to fatigue EMG signal analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0169260706000472?ref=pdf_download&fr=RR-2&rr=8f3e26022ac98454), [EMG Mean Power Frequency Determination Using Wavelet Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=757017)
 	- Wavelet: [Frontiers | Comparison of Empirical Mode Decomposition, Wavelets, and Different Machine Learning Approaches for Patient-Specific Seizure Detection Using Signal-Derived Empirical Dictionary Approach](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.738996/full)
 - Filter: [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085)
 
 ---
-很棒的工具庫`emd`
+## 很棒的工具庫`emd`
 
 用`emd.sift.get_padded_extrema()`來抓peak??一樣是用`from scipy.signal import argrelextrema`的實現
 [[Speed_analysis]]中的做法接近
@@ -55,7 +55,7 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 透過IA可以得到envelope
 
 ---
-Application: AM
+## Application: AM
 
 高頻載波信號的振幅，實現低頻調製信號的嵌入，從而達成訊息傳輸的目的。
 - 高頻carrier wave
@@ -93,7 +93,7 @@ imf2 = emd.sift.mask_sift_second_layer(IA, masks, sift_args=config)
 [[HHT complex AM plotting code]]
 
 ---
-跨頻相位-振幅耦合 (PAC)
+## 跨頻相位-振幅耦合 (PAC)
 
 有哪些信號是跨頻率的溝通。
 例如:
