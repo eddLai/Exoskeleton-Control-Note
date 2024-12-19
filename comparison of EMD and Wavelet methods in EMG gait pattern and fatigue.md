@@ -27,11 +27,12 @@ bg: "[[NTKLab_white bg.png]]"
 	}
 </style>
 <grid drag="70 10" drop="-3 40">
-Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods for EMG Gait Pattern and Fatigue Analysis
+application of EMD on gait analysis
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
 <grid drag="80 10" drop="40 70">
+Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods for EMG Gait Pattern and Fatigue Analysis
 賴宏達
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
