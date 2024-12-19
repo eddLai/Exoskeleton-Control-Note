@@ -214,7 +214,10 @@ it would be valid to add IMF-2 and IMF-3.
 
 ---
 ## Cycle detection
-使用IP之間差距大於1.5\pi
+>使用IP之間差距大於$1.5\pi$則為一個新的週期
+
+definition of good cycle
+
 
 ---
 # EMD vs FT based methods
