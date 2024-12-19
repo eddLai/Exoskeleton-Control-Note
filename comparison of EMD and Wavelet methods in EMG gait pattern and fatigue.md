@@ -62,6 +62,9 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 - 高頻carrier wave
 - 低頻Baseband Signal or Modulating Signal
 
+![[AM of IMFs.png|500]]
+
+---
 跨腦區資訊之判讀:
 [[波中有波─談腦電波的跨頻跨腦區.pdf]]
 
