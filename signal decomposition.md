@@ -54,7 +54,8 @@ $$
 
 ---
 # Signal Decomposition
-**目的**：用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合，因為原本的FT會將產生Harmonic，
+**目的**：用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合，因為原本的FT會將產生Harmonic
+>可能導致錯誤的跨頻連結 (Cross-Frequency Coupling, CFC) 結果，例如將諧波錯誤地解釋為真實的跨頻交互。
 ### intrinsic mode function:
 定義：
 - 局部極值，與過零點數量相等
