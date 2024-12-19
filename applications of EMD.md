@@ -269,6 +269,11 @@ plt.xlabel('Time (seconds)')
 
 ---
 ![[result of good cycle API.png]]
+```python
+percent = np.round(100*(good_count/all_count), 1)
+IMF-3 contains 150 cycles of which  70 (46.7%) are good
+IMF-4 contains  99 cycles of which  77 (77.8%) are good
+```
 
 ---
 # EMD vs FT based methods
