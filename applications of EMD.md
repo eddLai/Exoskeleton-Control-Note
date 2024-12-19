@@ -298,7 +298,14 @@ customise the parts of the signal in which we look for cycles by defining a mask
 
 example
 
-對於特定預直
+對於特定域值以下去除
+```python
+thresh = np.percentile(IA[:, 2], 33)
+mask = IA[:, 2] > thresh
+mask_cycles = emd.cycles.get_cycle_vector(IP, return_good=True, mask=mask)
+
+```
+
 
 more info. [Within-cycle instantaneous frequency profiles report oscillatory waveform dynamics | Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00201.2021)
 
