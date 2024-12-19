@@ -173,4 +173,5 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 應用上可以用來確保LFP所得正確[Brain Oscillations and the Importance of Waveform Shape - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1364661316302182?via%3Dihub)
 
 ---
-![[Pasted image 20241219175523.png]]
+![[non-linearity 0.6.png]]
+![[Pasted image 20241219175600.png]]
