@@ -230,8 +230,10 @@ definition of good cycle
 	- **谷值（Trough）**
 
 ---
-![[good cycle step1.png]]
-![[good cycle step2.png]]
+<split no-margin>
+![[good cycle step1.png|450]]
+![[good cycle step2.png|450]]
+</split>
 
 ---
 ```python
