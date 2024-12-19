@@ -291,6 +291,20 @@ IMF-4 contains  99 cycles of which  77 (77.8%) are good
 
 ---
 ### Statistics meaning of cycles
+description of cycles
+```python
+emd.cycles.get_cycle_stat
+cycle_amp = emd.cycles.get_cycle_stat(all_cycles[:, 2], IA[:, 2], out='samples', func=np.max)
+```
+![[cycle_amp stat.png]]
+
+---
+```python
+cycle_mean_freq = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], out='samples', func=np.mean)
+```
+![[cycle_mean_freq stat.png]]
+
+---
 customise the parts of the signal in which we look for cycles by defining a mask
 - signal with artefacts
 - ==limit cycle detection to a specific period during a task==
@@ -344,22 +358,6 @@ all_cycle_freq_don = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], func=
 - **遮罩週期與所有週期的比較**：
     - 遮罩後的週期分佈更集中，反映信號的主要振盪特徵。
     - 被排除的低振幅週期通常表現出更高的非線性度，可能包含更多噪聲。
-
-
-
----
-more description of cycles
-```python
-emd.cycles.get_cycle_stat
-cycle_amp = emd.cycles.get_cycle_stat(all_cycles[:, 2], IA[:, 2], out='samples', func=np.max)
-```
-![[cycle_amp stat.png]]
-
----
-```python
-cycle_mean_freq = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], out='samples', func=np.mean)
-```
-![[cycle_mean_freq stat.png]]
 
 ---
 more application
