@@ -98,6 +98,13 @@ Holospectrum: Carrier Frequency, AM frequency, 能量分佈(集中好)
 
 ---
 emd.spectra.holospectrum()
+- **`fcarrier`**：
+    
+    - 載波頻率的中心點，即頻率軸的取樣點。
+- **`fam`**：
+    
+    - 振幅調製頻率的中心點。
+- **`holo`**：三維矩陣，表示每個載波頻率與振幅調製頻率組合處的平均功率（在整段時間內）。
 ```python
 # Carrier frequency histogram definition
 carrier_hist = (1, 100, 128, 'log')
