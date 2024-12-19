@@ -200,7 +200,8 @@ df = emd.imftools.assess_harmonic_criteria(IP, IF, IA, num_segments=20, base_imf
 ```
 
 ---
-
+it would be valid to add IMF-2 and IMF-3.
+![[sum of harmonic.png]]
 
 ---
 - **時域分析**：
