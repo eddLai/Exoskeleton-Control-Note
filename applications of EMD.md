@@ -179,8 +179,17 @@ $$\frac{d\phi_n}{dt}=0$$
 由於其組成穩定，因此$IF \geq 0$
 
 ---
-極值計數（extrema counting）
+1. 極值計數（extrema counting）
+2. IMF方法可以判斷
 $$Amplitude\ Ratio \times Frequency\ Ratio \leq 1$$
+```python
+
+| IMF   |   Phase DistCorr |   p-value |   InstFreq Ratio |     p-value |   af Ratio |     p-value |
+|-------+------------------+-----------+------------------+-------------+------------+-------------|
+| IMF-0 |        0.0108423 |  0.555227 |          5.14905 | 6.73923e-05 |   1.19987  | 1           |
+| IMF-1 |        0.394492  |  0        |          2.05304 | 1.03951e-06 |   0.449171 | 1.83191e-32 |
+```
+
 - **時域分析**：
     - 檢查信號的波形結構，確定是否存在多個極值。
 - **波形形狀指標**：
