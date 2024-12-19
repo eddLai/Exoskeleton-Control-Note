@@ -47,6 +47,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 
 ---
 # App.
+- [[Comparison between EMD and Transforms]]
 - [[applications of EMD]]
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
