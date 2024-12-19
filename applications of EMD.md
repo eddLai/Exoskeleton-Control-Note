@@ -157,7 +157,7 @@ Harmonic的數學定義：
 $$x(t)=\sum_{n=1}^Na_ncos(\omega_nt+\phi_n)$$
 $$\omega_n=n\omega_0$$
 $$\frac{d\phi_n}{dt}=0$$
-u
+由於其組成穩定，因此IF$\req$ 
 
 - **時域分析**：
     - 檢查信號的波形結構，確定是否存在多個極值。
