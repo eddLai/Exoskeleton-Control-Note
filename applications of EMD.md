@@ -155,6 +155,7 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 ### EMD 用於分離Harmonic
 Harmonic的數學定義：
 $$x(t)=\sum_{n=1}^Na_ncos(\omega_nt+\phi_n)$$
+$$\omega_n=n\omega_0$$
 
 - **時域分析**：
     - 檢查信號的波形結構，確定是否存在多個極值。
