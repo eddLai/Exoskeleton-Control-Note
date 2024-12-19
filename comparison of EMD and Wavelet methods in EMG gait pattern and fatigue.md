@@ -103,5 +103,5 @@ hht_by_phase, _, _ = emd.cycles.bin_by_phase(IP[:, 3], hht.T)
 ```
 
 ---
-![[Pasted image 20241219111602.png]]
+![[hht_by_phase.png|600]]
 [On Holo-Hilbert spectral analysis: a full informational spectral representation for nonlinear and non-stationary data | Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences](https://royalsocietypublishing.org/doi/10.1098/rsta.2015.0206)
