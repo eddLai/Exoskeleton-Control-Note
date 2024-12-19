@@ -380,9 +380,9 @@ Cycle class
 
 ---
 - `C.pick_cycle_subset(['max_amp>1', 'duration>12', 'is_good==1'])`
-- `C.subset_vect`
-- `C.chain_vect`:只剩下存在的cycle
+- `C.subset_vect` ->`C.chain_vect`:只剩下存在的cycle
 - `C.compute_chain_timings()`:引入原本訊號的時間屬性
+- `C.compute_chain_metric('chain_max_amp', IA[:, 2], np.max)`
 
 ![[cycle chain.png]]
 
