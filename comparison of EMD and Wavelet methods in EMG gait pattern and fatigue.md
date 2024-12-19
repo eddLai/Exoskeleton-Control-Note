@@ -55,3 +55,6 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 透過IA可以得到envelope
 
 ---
+Application: AM
+
+高頻載波信號的振幅，實現低頻調製信號的嵌入，從而達成訊息傳輸的目的。
