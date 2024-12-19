@@ -230,8 +230,8 @@ definition of good cycle
 	- **谷值（Trough）**
 
 ---
-![[Pasted image 20241219220014.png]]
-
+![[good cycle step1.png]]
+![[good cycle step.png]]
 ---
 # EMD vs FT based methods
 
