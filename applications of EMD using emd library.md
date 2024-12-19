@@ -49,7 +49,9 @@ ref.[EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/st
 透過IA可以得到envelope
 
 ---
-## 解讀I
+## 解讀IMFs
+![[Pasted image 20241220014956.png]]
+This is as the non-linear system makes the peaks larger and the troughs smaller which shifts the mean of the signal away from zero
 
 ---
 ## Application: AM
