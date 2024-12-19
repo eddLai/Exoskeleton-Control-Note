@@ -422,7 +422,7 @@ ctrl_nonlinear = emd.cycles.get_control_points(imf_nonlinear[:, 1], cycles_nonli
 - `C.compute_chain_timings()`:引入原本訊號的時間屬性
 - `C.compute_chain_metric('chain_max_amp', IA[:, 2], np.max)`
 
-![[cycle chain.png]]
+![[cycle chain.png|500]]
 
 
 ---
