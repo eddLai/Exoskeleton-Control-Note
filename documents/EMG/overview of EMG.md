@@ -47,7 +47,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 
 ---
 # App.
-- [[comparison of EMD and Wavelet methods in EMG gait pattern and fatigue]]
+- [[applications of EMD]]
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
 - [[musculoskeletal modeling in simulation]]
