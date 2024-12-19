@@ -157,7 +157,7 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 - IF應該要是正值
 - **良好的諧波結構**：
     - 信號有規律的波形（例如單一非正弦振盪），每個週期重複，沒有次要極值。
-- **不良的諧波結構**：
+- **不良的結構**：
     - 波形中存在額外的次要極值（secondary extrema），或每個週期波形不一致。
 
 ---
@@ -169,6 +169,7 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 ![[non-linearity 0.6.png|450]]
 ![[non-linearity 1.5.png|450]]
 </split>
+紅色代表不良的非線性結構
 
 ---
 ### EMD 用於分離Harmonic
