@@ -212,7 +212,7 @@ it would be valid to add IMF-2 and IMF-3.
 ![[sum of harmonic.png]]
 
 ---
-# EMD vs transforms
+# EMD vs FT based methods
 
 ---
 
