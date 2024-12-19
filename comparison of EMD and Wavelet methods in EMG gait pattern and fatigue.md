@@ -58,6 +58,29 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 Application: AM
 
 高頻載波信號的振幅，實現低頻調製信號的嵌入，從而達成訊息傳輸的目的。
+```python
+# Helper function for the second level sift
+def mask_sift_second_layer(IA, masks, config={}):
+    imf2 = np.zeros((IA.shape[0], IA.shape[1], config['max_imfs']))
+    for ii in range(IA.shape[1]):
+        config['mask_freqs'] = masks[ii:]
+        tmp = emd.sift.mask_sift(IA[:, ii], **config)
+        imf2[:, ii, :tmp.shape[1]] = tmp
+    return imf2
+
+
+# Define sift parameters for the second level
+masks = np.array([25/2**ii for ii in range(12)])/sample_rate
+config = emd.sift.get_config('mask_sift')
+config['mask_amp_mode'] = 'ratio_sig'
+config['mask_amp'] = 2
+config['max_imfs'] = 5
+config['imf_opts/sd_thresh'] = 0.05
+config['envelope_opts/interp_method'] = 'mono_pchip'
+
+# Sift the first 5 first level IMFs
+imf2 = emd.sift.mask_sift_second_layer(IA, masks, sift_args=config)
+```
 
 ---
 ![[HHT complex standard plotting.png]]
