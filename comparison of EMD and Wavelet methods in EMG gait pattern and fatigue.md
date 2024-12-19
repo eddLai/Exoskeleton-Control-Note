@@ -115,3 +115,12 @@ hht_by_phase, _, _ = emd.cycles.bin_by_phase(IP[:, 3], hht.T)
 
 ![[phase bin of AM.png]]
 x軸為phase，來自低頻訊號，透過`shft`取得
+```python
+ia_by_phase, ia_by_phase_var, phase_bins = emd.cycles.bin_by_phase(IP[:, 4], IA[:, 0], nbins=24)
+```
+
+---
+```python
+freq_edges, freq_centres = emd.spectra.define_hist_bins(10, 75, 75, 'log')
+f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time=False)
+```
