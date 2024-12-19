@@ -296,6 +296,10 @@ customise the parts of the signal in which we look for cycles by defining a mask
 - ==limit cycle detection to a specific period during a task==
 - limit cycle detection to periods where there is a high amplitude oscillation.
 
+example
+
+對於特定預直
+
 more info. [Within-cycle instantaneous frequency profiles report oscillatory waveform dynamics | Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00201.2021)
 
 ---
