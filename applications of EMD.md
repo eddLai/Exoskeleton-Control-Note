@@ -242,6 +242,12 @@ ctrl = emd.cycles.get_control_points(imf[:, 2], all_cycles[:, 2])
 ![[good cycle step3.png]]
 
 ---
+lib已經寫好，可以透過增加一個參數就做到
+```python
+good_cycles = emd.cycles.get_cycle_vector(IP, return_good=True, phase_step=np.pi)
+```
+
+---
 # EMD vs FT based methods
 
 ---
