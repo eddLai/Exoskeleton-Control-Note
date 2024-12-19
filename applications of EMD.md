@@ -213,6 +213,10 @@ it would be valid to add IMF-2 and IMF-3.
 ![[sum of harmonic.png]]
 
 ---
+## Cycle detection
+使用IP之間差距大於1.5\pi
+
+---
 # EMD vs FT based methods
 
 ---
