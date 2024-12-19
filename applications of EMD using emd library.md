@@ -386,6 +386,30 @@ IF幾乎看不出差異
 
 ---
 
+
+---
+```python
+waveform_linear = np.zeros((30, cycles_linear.max()))*np.nan
+instfreq_linear = np.zeros((30, cycles_linear.max()))*np.nan
+
+for ii in range(1, cycles_linear.max()+1):
+    inds = cycles_linear[:, 1] == ii
+    waveform_linear[:np.sum(inds), ii-1] = imf_linear[inds, 1]
+    instfreq_linear[:np.sum(inds), ii-1] = IF_linear[inds, 1]
+
+ctrl_linear = emd.cycles.get_control_points(imf_linear[:, 1], cycles_linear[:, 1])
+
+waveform_nonlinear = np.zeros((30, cycles_nonlinear.max()))*np.nan
+instfreq_nonlinear = np.zeros((30, cycles_nonlinear.max()))*np.nan
+
+for ii in range(1, cycles_nonlinear.max()+1):
+    inds = cycles_nonlinear[:, 1] == ii
+    waveform_nonlinear[:np.sum(inds), ii-1] = imf_nonlinear[inds, 1]
+    instfreq_nonlinear[:np.sum(inds), ii-1] = IF_nonlinear[inds, 1]
+
+ctrl_nonlinear = emd.cycles.get_control_points(imf_nonlinear[:, 1], cycles_nonlinear[:, 1])
+```
+
 ---
 ### Cycle chain
 - **時間連續性**： 如果當前週期與前一個週期在時間上連續（例如，時間差小於一個閾值），則將它分配到同一條鏈。
