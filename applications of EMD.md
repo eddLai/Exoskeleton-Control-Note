@@ -245,6 +245,26 @@ ctrl = emd.cycles.get_control_points(imf[:, 2], all_cycles[:, 2])
 lib已經寫好，可以透過增加一個參數就做到
 ```python
 good_cycles = emd.cycles.get_cycle_vector(IP, return_good=True, phase_step=np.pi)
+
+plt.figure(figsize=(10, 8))
+plt.subplots_adjust(hspace=.3)
+plt.subplot(311)
+plt.plot(t[:sample_rate*4], imf[:sample_rate*4, 2], 'k')
+plt.gca().set_xticklabels([])
+plt.title('IMF-3')
+plt.subplot(312)
+plt.plot(t[:sample_rate*4], IP[:sample_rate*4, 2], 'b')
+plt.gca().set_xticklabels([])
+plt.plot((0, 4), (0, 0), label='0')
+plt.plot((0, 4), (np.pi*2, np.pi*2), label='2pi')
+plt.plot((0, 4), (np.pi*2-np.pi/12, np.pi*2-np.pi/12), ':', label='Upper Thresh')
+plt.plot((0, 4), (np.pi/12, np.pi/12), ':', label='Lower Thresh')
+plt.title('Instantanous Phase')
+plt.ylabel('Radians')
+plt.subplot(313)
+plt.plot(t[:sample_rate*4], good_cycles[:sample_rate*4, 2])
+plt.title('Good cycles')
+plt.xlabel('Time (seconds)')
 ```
 
 ---
