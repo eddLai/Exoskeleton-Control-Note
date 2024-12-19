@@ -319,6 +319,9 @@ cycle_mean_freq = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], out='sam
 ```
 ![[cycle_mean_freq stat.png]]
 
+---
+more app
+
 more info. [Within-cycle instantaneous frequency profiles report oscillatory waveform dynamics | Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00201.2021)
 
 ---
