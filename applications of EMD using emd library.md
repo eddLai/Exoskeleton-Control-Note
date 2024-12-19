@@ -373,6 +373,7 @@ Cycle class
 用於快速的**對一個複雜訊號拆解出來的一個IMF其中每個週期做分析**
 
 ---
+`C.compute_chain_timings()`
 ![[Pasted image 20241220013110.png]]
 
 
