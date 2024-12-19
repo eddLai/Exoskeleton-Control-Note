@@ -175,6 +175,7 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 ### EMD 用於分離Harmonic
 傅立葉轉換一定會出現諧波，而EMD也會，但是可以分離
 Harmonic的數學定義：
+ref.[Understanding Harmonic Structures Through Instantaneous Frequency | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/9854188)
 
 $$x(t)=\sum_{n=1}^Na_ncos(\omega_nt+\phi_n)$$
 
