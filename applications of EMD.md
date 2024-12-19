@@ -220,8 +220,11 @@ definition of good cycle
 
 1. $$\frac{dIP(t)}{dt}>0$$確保沒有相位倒退
 2. 相位包含完整的$2\pi$
-3. 
-
+3. 擁有 4 個控制點
+	-  **上升零交點（Ascending Zero-Crossing）**
+	- **峰值（Peak）**
+	- **下降零交點（Descending Zero-Crossing）**
+	- **谷值（Trough）**
 ---
 # EMD vs FT based methods
 
