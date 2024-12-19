@@ -192,6 +192,7 @@ df = emd.imftools.assess_harmonic_criteria(IP, IF, IA, num_segments=20, base_imf
 | IMF-1 |        0.394492  |  0        |          2.05304 | 1.03951e-06 |   0.449171 | 1.83191e-32 |
 ```
 $$Phase DistCorr >> 0, p<0.05$$
+$$f_{Ratio}\$$
 
 ---
 - **時域分析**：
