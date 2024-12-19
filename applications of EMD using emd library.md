@@ -374,7 +374,7 @@ Cycle class
 
 ---
 `C.compute_chain_timings()`
-![[Pasted image 20241220013110.png]]
+![[cycle chain.png]]
 
 
 ---
