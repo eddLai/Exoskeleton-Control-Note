@@ -380,9 +380,10 @@ Cycle class
 
 ---
 - `C.pick_cycle_subset(['max_amp>1', 'duration>12', 'is_good==1'])`
-- print(C.subset_vect)
+- `C.subset_vect`
 - `C.chain_vect`:只剩下存在的cycle
 - `C.compute_chain_timings()`
+
 ![[cycle chain.png]]
 
 
