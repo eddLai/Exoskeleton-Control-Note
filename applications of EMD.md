@@ -225,6 +225,7 @@ definition of good cycle
 	- **峰值（Peak）**
 	- **下降零交點（Descending Zero-Crossing）**
 	- **谷值（Trough）**
+
 ---
 # EMD vs FT based methods
 
