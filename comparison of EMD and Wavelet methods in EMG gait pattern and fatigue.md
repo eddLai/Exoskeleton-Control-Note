@@ -27,7 +27,7 @@ bg: "[[NTKLab_white bg.png]]"
 	}
 </style>
 <grid drag="70 10" drop="-3 40">
-Application of EMD on gait analysis
+Application of EMD on Gait Analysis
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
