@@ -310,7 +310,11 @@ more description of cycles
 ```python
 emd.cycles.get_cycle_stat
 cycle_amp = emd.cycles.get_cycle_stat(all_cycles[:, 2], IA[:, 2], out='samples', func=np.max)
+```
+![[cycle_amp stat.png]]
 
+```python
+cycle_mean_freq = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], out='samples', func=np.mean)
 ```
 
 
