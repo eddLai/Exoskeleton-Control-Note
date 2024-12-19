@@ -385,7 +385,7 @@ Cycle class
 IF幾乎看不出差異
 
 ---
-![[IF in cycle.png]]
+![[IMF in cycle.png]]
 
 ---
 ```python
