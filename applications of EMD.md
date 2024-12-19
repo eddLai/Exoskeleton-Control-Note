@@ -180,7 +180,7 @@ $$\frac{d\phi_n}{dt}=0$$
 
 ---
 極值計數（extrema counting）
-$$Amplitude Ratio$$
+$$Amplitude\ Ratio \times Frequency\ Ratio \leq 1$$
 - **時域分析**：
     - 檢查信號的波形結構，確定是否存在多個極值。
 - **波形形狀指標**：
