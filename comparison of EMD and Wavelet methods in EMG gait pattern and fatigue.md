@@ -120,6 +120,7 @@ ia_by_phase, ia_by_phase_var, phase_bins = emd.cycles.bin_by_phase(IP[:, 4], IA[
 ```
 
 ---
+也可
 ```python
 freq_edges, freq_centres = emd.spectra.define_hist_bins(10, 75, 75, 'log')
 f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time=False)
