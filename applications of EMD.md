@@ -303,7 +303,11 @@ example
 thresh = np.percentile(IA[:, 2], 33)
 mask = IA[:, 2] > thresh
 mask_cycles = emd.cycles.get_cycle_vector(IP, return_good=True, mask=mask)
+```
 
+---
+```python
+emd.cycles.get_cycle_stat
 ```
 
 
