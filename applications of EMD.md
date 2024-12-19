@@ -335,7 +335,12 @@ plt.legend(['All-cycles', 'Masked-cycles', 'Amp thresh'])
 def degree_nonlinearity(x): return np.std((x - x.mean()) / x.mean())
 all_cycle_freq_don = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], func=degree_nonlinearity)
 ```
-
+- **高振幅週期與非線性度的關係**：
+    - 高振幅週期的頻率通常穩定（較低的非線性度）。
+    - 非線性度可能隨頻率或噪聲的變化而增加。
+- **遮罩週期與所有週期的比較**：
+    - 遮罩後的週期分佈更集中，反映信號的主要振盪特徵。
+    - 被排除的低振幅週期通常表現出更高的非線性度，可能包含更多噪聲。
 
 ---
 more description of cycles
