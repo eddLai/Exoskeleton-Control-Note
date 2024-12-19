@@ -331,6 +331,7 @@ plt.legend(['All-cycles', 'Masked-cycles', 'Amp thresh'])
 
 ---
 ### Degree of Non-linearity, DoN of cycles
+all_cycle_freq_don = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], func=degree_nonlinearity)
 
 
 ---
