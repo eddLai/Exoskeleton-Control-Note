@@ -292,6 +292,9 @@ IMF-4 contains  99 cycles of which  77 (77.8%) are good
 ---
 ### Statistics meaning of cycles
 customise the parts of the signal in which we look for cycles by defining a mask
+- signal with artefacts
+- ==limit cycle detection to a specific period during a task==
+- limit cycle detection to periods where there is a high amplitude oscillation.
 
 more info. [Within-cycle instantaneous frequency profiles report oscillatory waveform dynamics | Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00201.2021)
 
