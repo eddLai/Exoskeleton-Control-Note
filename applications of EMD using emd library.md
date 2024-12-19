@@ -377,7 +377,7 @@ Cycle class
 - `C.compute_cycle_metric('max_ampORdurationORampSD', IA[:, 2], func=np.max)`對於每個cycle根據IA計算
 - `C.metrics.keys()` -> `df = C.get_metric_dataframe(conditions=['is_good==1', 'duration>12', 'max_amp>1'])`
 
-用於快速的**對一個複雜訊號拆解出來的一個IMF其中每個週期做分析**
+用於快速的**對一個複雜訊號拆解出來的一個IMF其中每個週期做分析**，並且透過`phase-alignment`可以對齊不同cycle進行比較
 
 ---
 ### Cycle chain
