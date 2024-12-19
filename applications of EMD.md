@@ -231,7 +231,9 @@ definition of good cycle
 
 ---
 ![[good cycle step1.png]]
-![[good cycle step.png]]
+![[good cycle step2.png]]
+
+
 ---
 # EMD vs FT based methods
 
