@@ -152,4 +152,12 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 ![[HHT AM phase bin.png]]
 
 ---
-### EMD
+### EMD 用於分離Harmonic
+- **時域分析**：
+    - 檢查信號的波形結構，確定是否存在多個極值。
+- **波形形狀指標**：
+    - 使用指標（如尖銳程度、非正弦指數）來量化信號的非正弦性。
+- **相位-振幅耦合分析**：
+    - 結合低頻相位與高頻振幅的關係，檢查是否存在真實的跨頻交互。
+
+---
