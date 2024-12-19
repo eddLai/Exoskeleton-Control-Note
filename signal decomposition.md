@@ -190,6 +190,9 @@ IP瞬時相位,、IF瞬時頻率、IA瞬時振幅，
 以下對於只有一個IMF的結果
 ![[hilbert-huang transform.png|450]]
 不同於FT，Hilbert-Huang用一個連續的波段就表示了這樣一個訊號。
+
+---
+![[hilbert-huang transform nearsight.png]]
 >瞬時頻率的波動使 HHT 的能量分布擴展到該範圍內（spread the power within this range），不再集中於單一頻率，反應了非線性的要素
 
 ---
