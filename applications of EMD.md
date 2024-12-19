@@ -309,7 +309,25 @@ mask_cycles = emd.cycles.get_cycle_vector(IP, return_good=True, mask=mask)
 ### Comparison between masked and unmasked
 ![[Comparison between masked and unmasked.png]]
 
+---
+```python
+# Compute cycle average frequency for all cycles and masked cycles
+all_cycle_freq = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], func=np.mean)
+mask_cycle_freq = emd.cycles.get_cycle_stat(mask_cycles[:, 2], IF[:, 2], func=np.mean)
 
+# Compute cycle frequency range for all cycles and for masked cycles
+all_cycle_amp = emd.cycles.get_cycle_stat(all_cycles[:, 2], IA[:, 2], func=np.mean)
+mask_cycle_amp = emd.cycles.get_cycle_stat(mask_cycles[:, 2], IA[:, 2], func=np.mean)
+
+# Make a summary figures
+plt.figure()
+plt.plot(all_cycle_freq, all_cycle_amp, 'o')
+plt.plot(mask_cycle_freq, mask_cycle_amp, 'o')
+plt.xlabel('Cycle average frequency (Hz)')
+plt.ylabel('Cycle average amplitude')
+plt.plot((9, 22), (thresh, thresh), 'k:')
+plt.legend(['All-cycles', 'Masked-cycles', 'Amp thresh'])
+```
 
 ---
 more description of cycles
