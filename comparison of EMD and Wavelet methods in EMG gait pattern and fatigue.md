@@ -85,6 +85,6 @@ imf2 = emd.sift.mask_sift_second_layer(IA, masks, sift_args=config)
 ---
 ![[HHT complex standard plotting.png]]
 [[HHT complex AM plotting code]]
-高頻carrier wave vs 低頻
+高頻carrier wave vs Baseband Signa低頻
 
 ---
