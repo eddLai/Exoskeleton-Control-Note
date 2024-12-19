@@ -242,6 +242,8 @@ definition of good cycle
 ctrl = emd.cycles.get_control_points(imf[:, 2], all_cycles[:, 2])
 ```
 ![[good cycle step3.png]]
+
+---
 第20
 ```
 Cycle  0 - [0 5 8 13 16]
