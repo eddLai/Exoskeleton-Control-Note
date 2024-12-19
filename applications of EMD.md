@@ -306,6 +306,10 @@ mask_cycles = emd.cycles.get_cycle_vector(IP, return_good=True, mask=mask)
 ```
 
 ---
+### Comparison between masked and unmasked
+![[Pasted image 20241219225453.png]]
+
+---
 more description of cycles
 ```python
 emd.cycles.get_cycle_stat
@@ -323,8 +327,6 @@ cycle_mean_freq = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], out='sam
 more application
 ![[HHT with cycle threshold.png]]
 
----
-### Comparison  between 
 more info. [Within-cycle instantaneous frequency profiles report oscillatory waveform dynamics | Journal of Neurophysiology](https://journals.physiology.org/doi/full/10.1152/jn.00201.2021)
 
 ---
