@@ -366,6 +366,8 @@ Cycle class
 - `get_inds_of_cycle(circle的序號)`
 - `C.compute_cycle_metric('max_ampORdurationORampSD', IA[:, 2], func=np.max)`對於每個cycle根據IA計算
 
+用於快速的對一個複雜訊號拆解出來的每個週期做分析
+
 
 ---
 # EMD vs FT based methods
