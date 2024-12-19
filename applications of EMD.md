@@ -230,6 +230,7 @@ definition of good cycle
 	- **谷值（Trough）**
 
 ---
+放大看
 <split no-margin>
 ![[good cycle step1.png|450]]
 ![[good cycle step2.png|450]]
