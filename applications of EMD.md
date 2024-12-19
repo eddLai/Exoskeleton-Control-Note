@@ -268,6 +268,9 @@ plt.xlabel('Time (seconds)')
 ```
 
 ---
+![[result of good cycle API.png]]
+
+---
 # EMD vs FT based methods
 
 ---
