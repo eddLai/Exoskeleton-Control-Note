@@ -218,8 +218,9 @@ it would be valid to add IMF-2 and IMF-3.
 
 definition of good cycle
 
-$$\frac{dIP(t)}{dt}>0$$確保沒有相位倒退
-
+1. $$\frac{dIP(t)}{dt}>0$$確保沒有相位倒退
+2. 相位包含完整的$2\pi$
+3. 
 
 ---
 # EMD vs FT based methods
