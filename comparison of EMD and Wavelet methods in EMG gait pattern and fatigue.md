@@ -94,7 +94,23 @@ imf2 = emd.sift.mask_sift_second_layer(IA, masks, sift_args=config)
 
 ---
 ![[HHT complex standard plotting.png]]
-```p
+
+
+```python
+# Carrier frequency histogram definition
+carrier_hist = (1, 100, 128, 'log')
+# AM frequency histogram definition
+am_hist = (1e-2, 32, 64, 'log')
+# Compute the 1d Hilbert-Huang transform (power over carrier frequency)
+fcarrier, spec = emd.spectra.hilberthuang(IF, IA, carrier_hist, sum_imfs=False)
+# Compute the 2d Hilbert-Huang transform (power over time x carrier frequency)
+fcarrier, hht = emd.spectra.hilberthuang(IF, IA, carrier_hist, sum_time=False)
+shht = ndimage.gaussian_filter(hht, 2)
+
+# Compute the 3d Holospectrum transform (power over time x carrier frequency x AM frequency)
+# Here we return the time averaged Holospectrum (power over carrier frequency x AM frequency)
+fcarrier, fam, holo = emd.spectra.holospectrum(IF, IF2, IA2, carrier_hist, am_hist)
+sholo = ndimage.gaussian_filter(holo, 1)
 ```
 [[HHT complex AM plotting code]]
 
