@@ -182,6 +182,7 @@ $$\frac{d\phi_n}{dt}=0$$
 1. 極值計數（extrema counting）
 2. IMF方法可以判斷
 $$Amplitude\ Ratio \times Frequency\ Ratio \leq 1$$
+
 ```python
 df = emd.imftools.assess_harmonic_criteria(IP, IF, IA, num_segments=20, base_imf=2)
 
