@@ -50,7 +50,8 @@ ref.[EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/st
 
 ---
 ## 解讀IMFs
-![[Pasted image 20241220014956.png]]
+![[simple singals for EMD.png]]
+![[Pasted image 20241220015026.png]]
 This is as the non-linear system makes the peaks larger and the troughs smaller which shifts the mean of the signal away from zero
 
 ---
