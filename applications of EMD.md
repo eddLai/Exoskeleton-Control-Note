@@ -162,3 +162,4 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 
 ---
 IF較低，代表waveform shape較平緩
+IF應該要是
