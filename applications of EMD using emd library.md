@@ -49,6 +49,9 @@ ref.[EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/st
 透過IA可以得到envelope
 
 ---
+## 解讀I
+
+---
 ## Application: AM
 
 高頻載波信號的振幅，實現低頻調製信號的嵌入，從而達成訊息傳輸的目的。
