@@ -61,7 +61,7 @@ $$
 >- [Non-Sinusoidal Activity Can Produce Cross-Frequency Coupling in Cortical Signals in the Absence of Functional Interaction between Neural Sources | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167351)
 
 ---
-![[Pasted image 20241219173714.png]]
+![[nonsinusoidal waveforms harmonics.png]]
 ### intrinsic mode function:
 定義：
 - 局部極值，與過零點數量相等
