@@ -174,6 +174,8 @@ f, hht = emd.spectra.hilberthuang(IF, IA, freq_edges, mode='amplitude', sum_time
 
 ---
 <split no-margin>
-![[non-linearity 0.6.png]]
-![[non-linearity 1.5.png]]
+![[non-linearity 0.6.png|450]]
+![[non-linearity 1.5.png|450]]
 </split>
+
+---
