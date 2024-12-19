@@ -40,6 +40,7 @@ Application of EMD on Gait Analysis
 
 ---
 ## 很棒的工具庫`emd`
+ref.[EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/index.html)
 
 用`emd.sift.get_padded_extrema()`來抓peak??一樣是用`from scipy.signal import argrelextrema`的實現
 [[Speed_analysis]]中的做法接近
