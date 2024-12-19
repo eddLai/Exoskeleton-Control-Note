@@ -324,6 +324,11 @@ emd.sift.iterated_mask_sift(x, sample_rate=sample_rate, max_imfs=3)
 </split>
 
 ---
+操作上
+1. 先得到1-layer IMFs
+2. 2-layer IMFs
+
+---
 # MEMD
 ref. [nihms439498.pdf](https://pmc.ncbi.nlm.nih.gov/articles/PMC3831372/pdf/nihms439498.pdf)
 multivariate data，用於local minimum不好找的情況。
