@@ -305,6 +305,7 @@ cycle_mean_freq = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], out='sam
 ![[cycle_mean_freq stat.png]]
 
 ---
+### Masking
 customise the parts of the signal in which we look for cycles by defining a mask
 - signal with artefacts
 - ==limit cycle detection to a specific period during a task==
@@ -349,7 +350,7 @@ plt.legend(['All-cycles', 'Masked-cycles', 'Amp thresh'])
 def degree_nonlinearity(x): return np.std((x - x.mean()) / x.mean())
 all_cycle_freq_don = emd.cycles.get_cycle_stat(all_cycles[:, 2], IF[:, 2], func=degree_nonlinearity)
 ```
-![[DoN of cycles.png]]
+![[DoN of cycles.png|500]]
 
 ---
 - **高振幅週期與非線性度的關係**：
