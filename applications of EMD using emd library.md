@@ -368,11 +368,15 @@ Cycle class
 - `C.pick_cycle_subset(['max_amp>1', 'duration>12', 'is_good==1'])`
 - `C.compute_cycle_metric('max_ampORdurationORampSD', IA[:, 2], func=np.max)`對於每個cycle根據IA計算
 - `C.metrics.keys()` -> `df = C.get_metric_dataframe(conditions=['is_good==1', 'duration>12', 'max_amp>1'])`
-- `C.chain_vect`:只剩下存在的cycle
 
 用於快速的**對一個複雜訊號拆解出來的一個IMF其中每個週期做分析**
 
 ---
+### Cycle chain
+- **時間連續性**： 如果當前週期與前一個週期在時間上連續（例如，時間差小於一個閾值），則將它分配到同一條鏈。
+- **屬性穩定性**： 如果當前週期的屬性（如振幅、頻率）與前一個週期相似（例如，變化在允許範圍內），則繼續加入當前鏈。
+- **不連續或屬性不穩定**：
+    - 如果上述條件不滿足，則新建一條鏈，鏈的編號遞增。
 `C.compute_chain_timings()`
 ![[cycle chain.png]]
 
