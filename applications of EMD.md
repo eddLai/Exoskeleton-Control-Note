@@ -179,6 +179,11 @@ $$\frac{d\phi_n}{dt}=0$$
 由於其組成穩定，因此$IF \geq 0$
 
 ---
+Example of Harmonic
+
+![[Example of Harmonic.png]]
+
+---
 1. 極值計數（extrema counting）
 	$$Phase DistCorr >> 0, p<0.05$$
 $$f_{Ratio}\approx n$$
@@ -193,6 +198,9 @@ df = emd.imftools.assess_harmonic_criteria(IP, IF, IA, num_segments=20, base_imf
 | IMF-0 |        0.0108423 |  0.555227 |          5.14905 | 6.73923e-05 |   1.19987  | 1           |
 | IMF-1 |        0.394492  |  0        |          2.05304 | 1.03951e-06 |   0.449171 | 1.83191e-32 |
 ```
+
+---
+
 
 ---
 - **時域分析**：
