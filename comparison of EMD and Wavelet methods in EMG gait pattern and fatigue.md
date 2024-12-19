@@ -52,4 +52,6 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 [[Speed_analysis]]中的做法接近
 ![[peak from emd tool.png]]
 
+透過IA可以得到envelope
+
 ---
