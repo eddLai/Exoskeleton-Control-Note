@@ -56,6 +56,9 @@ $$
 # Signal Decomposition
 **目的**：用來改進如Fourier Transform需要的基底函數組成假設cos+sin的組合，因為原本的FT會將產生Harmonic
 >可能導致錯誤的跨頻連結 (Cross-Frequency Coupling, CFC) 結果，例如將諧波錯誤地解釋為真實的跨頻交互。
+>ref. 
+>- [Brain Oscillations and the Importance of Waveform Shape - ScienceDirect](https://ww
+>- [Non-Sinusoidal Activity Can Produce Cross-Frequency Coupling in Cortical Signals in the Absence of Functional Interaction between Neural Sources | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0167351)w.sciencedirect.com/science/article/pii/S1364661316302182?via%3Dihub)
 ### intrinsic mode function:
 定義：
 - 局部極值，與過零點數量相等
