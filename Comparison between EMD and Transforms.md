@@ -57,4 +57,4 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 - autoregressive moving average (ARMA)
 
 ---
-$$MIF(j)=\frac{\sum_{i=1}^m\omega_}{}$$
+$$MIF(j)=\frac{\sum_{i=1}^m\omega_j(i)a_j^2(i)}{}$$
