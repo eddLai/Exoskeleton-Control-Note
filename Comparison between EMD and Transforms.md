@@ -50,6 +50,8 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 >ref. Enhancement of spectral analysis of myoelectric signals during static contractions using wavelet methods
 
 "It does not require any quasi-stationarity and linear assump tions"
+>
+
 - autoregressive(AR)
 - movingaverage (MA)
 - autoregressive moving average (ARMA)
