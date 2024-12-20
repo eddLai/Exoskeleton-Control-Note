@@ -92,6 +92,6 @@ WT: 選用與 MUAP 相似的波形
 $$CoV=\frac{\sigma}{\mu}$$
 
 分散$\rightarrow$不穩定
-![[CoV result of different spectrum analysis.png|400]]
+![[CoV result of different spectrum analysis.png|350]]
 
 ---
