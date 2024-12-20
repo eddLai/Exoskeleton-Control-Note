@@ -107,3 +107,4 @@ $$CoV=\frac{\sigma}{\mu}$$
 
 ---
 ## Noise problem of EMG, and EMD solution
+[5] If the type of noise present in a signal is known a priori then optimal filters, e.g. the Wiener filter, may be applied to attenuate its presence.
