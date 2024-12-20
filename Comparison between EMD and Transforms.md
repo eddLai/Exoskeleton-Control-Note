@@ -71,7 +71,7 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 ---
 穩定性量化between HHT, AR, Wavelet transform
 - $\sigma$標準差代表離散程度
-- $\mu$
+- $\mu$提供中心值
 
 $$CoV=\frac{\sigma}{\mu}$$
 
