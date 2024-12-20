@@ -52,11 +52,10 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 "It does not require any quasi-stationarity and linear assumptions"[1]
 >ref. [Fatigue analysis of the surface EMG signal in isometric constant force contractions using the averaged instantaneous frequency - PubMed](https://pubmed.ncbi.nlm.nih.gov/12665043/)
 
-- autoregressive(AR), movingaverage (MA)
-- autoregressive moving average (ARMA)
+一些自回歸方法[1] :autoregressive(AR), movingaverage (MA), autoregressive moving average (ARMA)
 
 ---
-mean instantaneous frequency of isometric contraction
+mean instantaneous frequency of isometric contraction[1]
 
 IF=$\omega$, IA=$a$
 
@@ -68,7 +67,7 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 
 
 ---
-穩定性量化between HHT, AR, Wavelet transform
+穩定性量化between HHT, AR, Wavelet transform[1]
 - $\sigma$標準差代表離散程度
 - $\mu$提供中心值
 
