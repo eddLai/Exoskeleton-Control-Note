@@ -74,6 +74,7 @@ $$W(s, t) = \int_{-\infty}^{\infty} x(\tau) \psi^*\left(\frac{\tau - t}{s}\right
 $$
 
 $$P(s,t)=|W(s, t)|^2$$
+兩者其實概念接近
 
 ---
 ## Review of Wavelet transform on EMG
