@@ -61,7 +61,7 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 ---
 mean instantaneous frequency of isometric contraction[1]
 
-IF=$\omega$, IA=$a$, IPower=a
+IF=$\omega$, IA=$a$, IPower=$a^2$
 
 $$MIF(j)=\frac{\sum_{i=1}^m\omega_j(i)a_j^2(i)}{\sum_{i=1}^ma_j^2(i)}$$
 
@@ -69,6 +69,7 @@ $$||a_j||=\sqrt{\sum_{i=1}^ma_j^2(i)}$$
 
 $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 
+whereas
 $$W(s, t) = \int_{-\infty}^{\infty} x(\tau) \psi^*\left(\frac{\tau - t}{s}\right) d\tau
 $$
 
