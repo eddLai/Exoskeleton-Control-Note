@@ -49,7 +49,7 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 - Filter: \[5\] [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085)
 
 ---
-"the EMG is a non-stationary signal, especially for contraction levels higher than 50% of maximum voluntary contraction(MVC)"[1]
+"***the EMG is a non-stationary signal, especially for contraction levels higher than 50% of maximum voluntary contraction(MVC)***"[1]
 - more info. [Enhancement of spectral analysis of myoelectric signals during static contractions using wavelet methods | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/764944)
 
 "***It does not require any quasi-stationarity and linear assumptions***"[1]
