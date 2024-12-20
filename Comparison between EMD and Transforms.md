@@ -106,4 +106,4 @@ $$CoV=\frac{\sigma}{\mu}$$
 ## Is Possible to combine DWT and EMD?
 
 ---
-## Noise problem of EMG
+## Noise problem of EMG, and EMD solution
