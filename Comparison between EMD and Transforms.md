@@ -76,3 +76,4 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 相除以剔除量級因素
 $$CoV=\frac{\sigma}{\mu}$$
 
+分散$\rightarrow$不穩定
