@@ -50,10 +50,10 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 
 ---
 "the EMG is a non-stationary signal, especially for contraction levels higher than 50% of maximum voluntary contraction(MVC)"[1]
-more info. [Enhancement of spectral analysis of myoelectric signals during static contractions using wavelet methods | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/764944)
+- more info. [Enhancement of spectral analysis of myoelectric signals during static contractions using wavelet methods | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/764944)
 
-"It does not require any quasi-stationarity and linear assumptions"[1]
->ref. [Fatigue analysis of the surface EMG signal in isometric constant force contractions using the averaged instantaneous frequency - PubMed](https://pubmed.ncbi.nlm.nih.gov/12665043/)
+"***It does not require any quasi-stationarity and linear assumptions***"[1]
+- more info. [Fatigue analysis of the surface EMG signal in isometric constant force contractions using the averaged instantaneous frequency - PubMed](https://pubmed.ncbi.nlm.nih.gov/12665043/)
 
 一些自回歸方法[1] :autoregressive(AR), movingaverage (MA), autoregressive moving average (ARMA)
 
