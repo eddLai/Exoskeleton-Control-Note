@@ -60,4 +60,4 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 IF=$\omega$, IA=$a$
 
 $$MIF(j)=\frac{\sum_{i=1}^m\omega_j(i)a_j^2(i)}{\sum_{i=1}^ma_j^2(i)}$$
-$$MIF=\frac{\sum_{j=1}^m\norma}{\sum_{j=1}^ma_j^2(i)}$$
+$$MIF=\frac{\sum_{j=1}^m||a||}{\sum_{j=1}^ma_j^2(i)}$$
