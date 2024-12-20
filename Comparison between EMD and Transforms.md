@@ -91,7 +91,7 @@ WT: 選用與 MUAP 相似的波形
 去噪：Daubechies 小波（db2、db8 和 db6）和正交 Meyer 小波
 
 ---
-### Comparison
+## Comparison
 穩定性量化between HHT, AR, Wavelet transform[1]
 - $\sigma$標準差代表離散程度
 - $\mu$提供中心值
