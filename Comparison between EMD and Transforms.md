@@ -71,6 +71,8 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 ---
 ## Review of Wavelet transform on EMG
 與 MUAP 相似的波形
+- "the typical MUAP shape can be approximated as the second-order derivative of a Gaussian distribution"
+
 
 ---
 ### Comparison
