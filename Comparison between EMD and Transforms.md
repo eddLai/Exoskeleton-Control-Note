@@ -72,6 +72,8 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 $$W(s, t) = \int_{-\infty}^{\infty} x(\tau) \psi^*\left(\frac{\tau - t}{s}\right) d\tau
 $$
 
+$$P(s,t)$$
+
 ---
 ## Review of Wavelet transform on EMG
 [4] 頻譜分析：
