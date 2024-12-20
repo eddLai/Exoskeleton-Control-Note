@@ -103,4 +103,5 @@ $$CoV=\frac{\sigma}{\mu}$$
 ![[CoV result of different spectrum analysis.png|350]]
 
 ---
-Is Possible to combine DWT and EMD?
+## Is Possible to combine DWT and EMD?
+
