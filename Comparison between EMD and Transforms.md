@@ -70,9 +70,13 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 
 ---
 ## Review of Wavelet transform on EMG
-頻譜分析：
-- 短時傅立葉轉換 (STFT)、Wigner-Ville 分佈 (WVD)、Choi-Williams 分佈 (CWD) 和小波轉換 (WT
-與 MUAP 相似的波形
+[頻譜分析：
+- 短時傅立葉轉換 (STFT)
+- Wigner-Ville 分佈 (WVD)
+- Choi-Williams 分佈 (CWD) 
+- 小波轉換 (WT)
+
+WT: 選用與 MUAP 相似的波形
 - "**the typical MUAP shape can be approximated as the second-order derivative of a Gaussian distribution**"
 - "**Mexican hat wavelet, which is indeed the second-order derivative of a Gaussian distribution**"
 
