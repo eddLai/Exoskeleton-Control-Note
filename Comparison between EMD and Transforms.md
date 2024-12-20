@@ -49,7 +49,6 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 		- \[4\] [[Analysis of EMG Signals Based on Wavelet.pdf]]
 - Filter: \[5\] [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085)
 
-
 ---
 ## Review of Wavelet transform on EMG
 [4] 頻譜分析：
@@ -65,6 +64,7 @@ WT: 選用與 MUAP 相似的波形
 去噪：Daubechies 小波（db2、db8 和 db6）和正交 Meyer 小波
 
 ---
+## Comparison to EMD and WT
 "***the EMG is a non-stationary signal, especially for contraction levels higher than 50% of maximum voluntary contraction(MVC)***"[1]
 - more info. [Enhancement of spectral analysis of myoelectric signals during static contractions using wavelet methods | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/764944)
 
@@ -92,7 +92,6 @@ $$P(s,t)=|W(s, t)|^2$$
 兩者其實概念接近
 
 ---
-## Comparison
 穩定性量化between HHT, AR, Wavelet transform[1]
 - $\sigma$標準差代表離散程度
 - $\mu$提供中心值
