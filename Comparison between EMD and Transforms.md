@@ -70,7 +70,7 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 
 ---
 ## Review of Wavelet transform on EMG
-[頻譜分析：
+[4] 頻譜分析：
 - 短時傅立葉轉換 (STFT)
 - Wigner-Ville 分佈 (WVD)
 - Choi-Williams 分佈 (CWD) 
