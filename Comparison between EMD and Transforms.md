@@ -69,7 +69,8 @@ $$||a_j||=\sqrt{\sum_{i=1}^ma_j^2(i)}$$
 $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 
 ---
-##
+## Review of Wavelet transform on EMG
+
 
 ---
 ### Comparison
