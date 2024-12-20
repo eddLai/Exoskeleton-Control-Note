@@ -74,6 +74,8 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 - "**the typical MUAP shape can be approximated as the second-order derivative of a Gaussian distribution**"
 - "**Mexican hat wavelet, which is indeed the second-order derivative of a Gaussian distribution**"
 
+去噪：Daubechies 小波（db2、db8 和 db6）和正交 Meyer 小波
+
 ---
 ### Comparison
 穩定性量化between HHT, AR, Wavelet transform[1]
