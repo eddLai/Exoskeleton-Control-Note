@@ -68,8 +68,11 @@ $$||a_j||=\sqrt{\sum_{i=1}^ma_j^2(i)}$$
 
 $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 
+---
+##
 
 ---
+### Comparison
 穩定性量化between HHT, AR, Wavelet transform[1]
 - $\sigma$標準差代表離散程度
 - $\mu$提供中心值
