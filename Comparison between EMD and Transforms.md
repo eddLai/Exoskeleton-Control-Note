@@ -77,4 +77,6 @@ $$MIF=\frac{\sum_{j=1}^m||a_j||MIF(j)}{\sum_{j=1}^m||a_j||}$$
 $$CoV=\frac{\sigma}{\mu}$$
 
 分散$\rightarrow$不穩定
-![[CoV result of different spectrum analysis.png]]
+![[CoV result of different spectrum analysis.png|400]]
+
+---
