@@ -22,7 +22,8 @@ $$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
 $$F(w) = \int_{-\infty}^\infty f(t) e^{-iwt} dt \quad \Rightarrow \quad 
 WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - \tau}{a}\right) dt$$
 
-Fourier transform存在問題
+---
+解決：Fourier transform存在問題
 ![[problem of fourier transform.png|400]]
 不包含時序資訊
 大尺度因子，分辨率高，小頻率
