@@ -87,7 +87,7 @@ $$\int_{-\infty}^\infty \left| \psi\left(\frac{t - a}{b}\right) \right|^2 dt = 1
 
 
 ---
-More info.
+對於DiscreteWT存在
 
 - 數學證明:[小波变换——公式整理和简单介绍_离散小波变换公式-CSDN博客](https://blog.csdn.net/qq_32071849/article/details/103963394)
 - App. [[Feature Extraction and Reduction of Wavelet Transform Coefficients for EMG Pattern Classification.pdf]]
