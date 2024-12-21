@@ -79,6 +79,7 @@ ref. [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/e
 
 ---
 resolution
+continuous
 ref.[連續小波轉換 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E8%BF%9E%E7%BB%AD%E5%B0%8F%E6%B3%A2%E5%8F%98%E6%8D%A2)
 
 ![[resolution of WT.png]]
