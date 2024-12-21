@@ -63,7 +63,7 @@ $$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
 波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數，更符合複雜系統。
 ![[wavelet.png]]
 $$F(w) = \int_{-\infty}^\infty f(t) e^{-iwt} dt \quad \Rightarrow \quad 
-WT(b, a) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - \tau}{a}\right) dt$$
+WT(b, a) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - b}{a}\right) dt$$
 
 尺度$b$, 平移量 $a$
 
@@ -82,7 +82,7 @@ resolution of continuous WT
 
 ref.[連續小波轉換 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E8%BF%9E%E7%BB%AD%E5%B0%8F%E6%B3%A2%E5%8F%98%E6%8D%A2)
 ![[resolution of WT.png]]
-$$\int_{-\infty}^\infty \left| \psi\left(\frac{t - b}{a}\right) \right|^2 dt = 1$$，低頻信號則a(時間尺度)較大
+$$\int_{-\infty}^\infty \left| \psi\left(\frac{t - b}{a}\right) \right|^2 dt = 1$$，低頻信號則b(時間尺度)較大
 
 
 ---
