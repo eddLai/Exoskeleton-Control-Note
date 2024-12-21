@@ -1,5 +1,4 @@
-
-# 現在方案
+# Summary
 1. Cygnus, protocol:BT 
 >Cygnus version: 0.28.0.7
 >Operative system: Windows
@@ -16,6 +15,7 @@
 4. Get the envelope using low-pass filter: `envelope = self.l_filter.filtfilt(rect_emg)`
 5. normalize_data to `[0,1]`==標準差不會是1==
 
+---
 # Data collection
 硬體突破：
 - [無線EMG貼片](https://www.bio-translational-exoskeleton.com/)
