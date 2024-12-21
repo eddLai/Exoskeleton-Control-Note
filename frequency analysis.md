@@ -31,10 +31,11 @@ frequency analysis
 </grid>
 
 <grid drag="50 10" drop="40 70">
-background knowledge: FT可以[[recall signal and system]]
 賴宏達
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
+
+background knowledge: [[recall signal and system]]
 
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
 
