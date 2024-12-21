@@ -183,3 +183,6 @@ Conclusion
 - 誤差平均值：EMD 濾波器明顯較小
 - 標準差：EMD較大，可能對雜訊更敏感
 - Kolmogorov-Smirnov 檢定：小波分析的 CDF 可以視為相同，且與 EMD 方法的 CDF 有顯著差異
+
+---
+![[Pasted image 20241221203524.png]]
