@@ -247,4 +247,4 @@ SCONE分析項目
 - [x] 熟悉EMD[EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/index.html)+[The Hilbert-Huang Transform — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/02_spectrum_analysis/emd_tutorial_02_spectrum_01_hilberthuang.html) -> MEMD -> CEEMDAN, 
 - [ ] COM穩定度，MSE？？， https://chatgpt.com/g/g-L2HknCZTC-scholar-ai/c/675512a8-533c-8013-8fbb-c547cc75485c
 
-確認EMG-driven
+確認EMG-driven的model
