@@ -167,3 +167,5 @@ Filter resulting IMFs
 ---
 performance index
 - level of the total power of the window of noise should decrease after filtering.
+- power of info. regions is expected to be preserved.
+
