@@ -34,16 +34,13 @@ frequency analysis
 賴宏達
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
-\
-\
-\
-
-background knowledge: [[recall signal and system]]
 
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
 
 ---
-# STFT
+
+background knowledge: [[recall signal and system]]
+## STFT
 ref. [深入理解短时傅里叶变换 STFT + Python 代码详解_stft python-CSDN博客](https://blog.csdn.net/weixin_44618906/article/details/116356081)
 
 $$Z_{xx}(f,t) = \mathcal{F} \left\{ x(t) w(t - \tau) \right\}$$
@@ -54,7 +51,7 @@ $$
 
 
 ---
-# TKEO operator
+## TKEO operator
 $$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
 把動態放大
 
