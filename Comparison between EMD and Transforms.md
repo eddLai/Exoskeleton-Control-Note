@@ -122,6 +122,8 @@ wavelet filtering procedure
 2. detail coefficients thresholding
 3. signal reconstruction
 
+Three different Daubechy (db) wavelet prototypes or mother wavelets were analysed (db2, db3 and
+
 detail coefficients代表高頻成分
 
 $$D_j(t) = \sum_{k} d_{j,k} \cdot \psi_{j,k}(t)$$
