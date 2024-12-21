@@ -179,3 +179,5 @@ $$P_o=\int PS(f)df$$
 
 ---
 Conclusion
+- 誤差平均值：EMD 濾波器明顯較小
+- 
