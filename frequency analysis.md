@@ -79,7 +79,8 @@ ref. [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/e
 
 ---
 resolution
-![[Pasted image 20241221161902.png]]
+
+![[resolution of WT.png]]
 ---
 More info.
 
