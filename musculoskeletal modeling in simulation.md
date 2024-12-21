@@ -61,5 +61,7 @@ Ref.
 
 ---
 
-
-需要muscle-tendon kinematics
+正在確認
+- BSpline
+- EMG-driven的model
+- 需要muscle-tendon kinematics
