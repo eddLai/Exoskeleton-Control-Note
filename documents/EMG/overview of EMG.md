@@ -20,7 +20,7 @@
 new hardware options
 - [ultimaterobotics/uMyo](https://github.com/ultimaterobotics/uMyo)
 - Intan RHD2000 series
-- 
+- [Delsys – Wearable Sensors for Movement Sciences - Delsys](https://delsys.com/)
 
 ---
 # Models
