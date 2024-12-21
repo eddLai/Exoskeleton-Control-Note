@@ -69,9 +69,9 @@ WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t 
 
 ---
 解決：Fourier transform存在問題
-
+- 不包含時序資訊
 ![[problem of fourier transform.png|400]]
-不包含時序資訊
+
 大尺度因子，分辨率高，小頻率
 ![[Wavelet families.png|400]]
 
