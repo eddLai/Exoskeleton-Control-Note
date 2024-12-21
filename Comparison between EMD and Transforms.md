@@ -39,7 +39,7 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
 
 ---
-## 是否可以用EMD方案取代以下幾點：
+## 是否可以用EMD方案取代以下：
 - Fatigue分析中的
 	- 取代STFT: 
 		- \[1\] [Mean frequency derived via Hilbert-Huang transform with application to fatigue EMG signal analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0169260706000472?ref=pdf_download&fr=RR-2&rr=8f3e26022ac98454)
