@@ -91,6 +91,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 ---
 # Fundamental Understanding of EMG :onset detection
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
+ref. 
 
 ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 採用的signal characteristics
