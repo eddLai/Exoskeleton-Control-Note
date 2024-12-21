@@ -130,7 +130,7 @@ ref. [[Review of electromyography onset detection methods for real-time control 
 
 ---
 新的Modeling方向
-1. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms Note]], [EMG video](https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2) 的做法做一次，至少會完成inversed-problem的整合
+1. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms Note]](影片在Linux本機上), [EMG video](https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2) 的做法做一次，至少會完成inversed-problem的整合
 	- Calibration procedure
 	- BSpline coefficients
 	- EMG-data driven
