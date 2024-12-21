@@ -92,14 +92,6 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 ---
 # review of EMG
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
-
-
----
-# App.
-- [[neurologic disorders and sEMG]]
-- [[level of fatigue from EMG]]
-- [[musculoskeletal modeling in simulation]]
-
 ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 
 EMG偵測動作的啟動，會比實際動作早。
@@ -118,3 +110,10 @@ signal characteristics
 - Period of time
 - % Maximum Voluntary Contraction
 - % Maximum EMG Amplitude
+
+
+---
+# App.
+- [[neurologic disorders and sEMG]]
+- [[level of fatigue from EMG]]
+- [[musculoskeletal modeling in simulation]]
