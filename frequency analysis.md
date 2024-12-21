@@ -82,7 +82,7 @@ resolution of continuous WT
 
 ref.[連續小波轉換 - Wikiwand](https://www.wikiwand.com/zh-hk/articles/%E8%BF%9E%E7%BB%AD%E5%B0%8F%E6%B3%A2%E5%8F%98%E6%8D%A2)
 ![[resolution of WT.png]]
-母波能量不變則子波能量不變
+母波能量$\rightarrow$子波能量不變
 $$\int_{-\infty}^\infty \left| \psi\left(\frac{t - a}{b}\right) \right|^2 dt = 1$$，低頻信號則b(時間尺度)較大
 
 
