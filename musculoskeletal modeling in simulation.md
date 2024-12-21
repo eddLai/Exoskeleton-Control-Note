@@ -60,7 +60,6 @@ Ref.
 - [[Muscle Fatigue Analysis Using OpenSim Note]] 透過fatigability($k$值)透過empirical maximal endurance models，可以相互確認sEMG計算所得是否正確
 
 ---
-
 正在確認
 - BSpline
 - EMG-driven的model
