@@ -174,5 +174,5 @@ $$P_o=\int PS(f)df$$
 ---
 <split no-margin>
 ![[result of g0.png]]
-![[Pasted image 20241221202929.png]]
+![[result of g5.png]]
 </split>
