@@ -22,6 +22,7 @@ $$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
 ![[wavelet.png]]
 $$F(w) = \int_{-\infty}^\infty f(t) e^{-iwt} dt \quad \Rightarrow \quad 
 WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - \tau}{a}\right) dt$$
+尺度a和平移量 τ
 
 ---
 解決：Fourier transform存在問題
