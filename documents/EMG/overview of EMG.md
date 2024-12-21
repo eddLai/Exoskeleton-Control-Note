@@ -17,8 +17,9 @@
 >Bandpass filter: None
 >Notch filter: None
 
-硬體突破Intan晶片：
-- [無線EMG貼片](https://www.bio-translational-exoskeleton.com/)
+new hardware options
+- [ultimaterobotics/uMyo](https://github.com/ultimaterobotics/uMyo)
+- Intan
 
 ---
 # Models
