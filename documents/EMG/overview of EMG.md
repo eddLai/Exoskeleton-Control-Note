@@ -90,7 +90,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - CEEMDAN
 
 ---
-# Models
+# review of EMG
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 
 
