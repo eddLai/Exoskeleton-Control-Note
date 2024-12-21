@@ -110,4 +110,4 @@ $$CoV=\frac{\sigma}{\mu}$$
 [5] 理想情況："If the type of noise(例如統計特性) present in a signal is known a priori(先驗已知) then optimal filters, e.g. the Wiener filter, may be applied to attenuate its presence."
 
 common LPD filter Usui and Amido: 
-$$y_k=\sum_{n=1}^N(x_{k+n}-x_k-n$$
+$$y_k=\sum_{n=1}^N(x_{k+n}-x_{k-n})$$
