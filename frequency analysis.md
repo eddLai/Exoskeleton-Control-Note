@@ -1,3 +1,4 @@
+FT可以[[recall signal and system]]
 # STFT
 ref. [深入理解短时傅里叶变换 STFT + Python 代码详解_stft python-CSDN博客](https://blog.csdn.net/weixin_44618906/article/details/116356081)
 
