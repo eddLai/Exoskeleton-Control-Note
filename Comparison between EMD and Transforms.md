@@ -116,7 +116,7 @@ $$y_k=\sum_{n=1}^N(x_{k+n}-x_{k-n})$$
 ,N will determine the cut-off frequency
 
 ---
-waveprocedure
+wavelet filtering procedure
 1. signal decomposition
 2. detail coefficients thresholding
 3. signal reconstruction
