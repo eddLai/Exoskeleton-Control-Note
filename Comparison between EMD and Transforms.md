@@ -113,4 +113,6 @@ common LPD filter Usui and Amido:
 $$y_k=\sum_{n=1}^N(x_{k+n}-x_{k-n})$$
 ,N will determine the cut-off frequency
 
-: signal decomposition, detail coefficients thresh olding and signal reconstruction
+1. signal decomposition
+2. detail coefficients thresholding
+3. signal reconstruction
