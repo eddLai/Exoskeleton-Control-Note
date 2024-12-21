@@ -144,3 +144,5 @@ EMD，對於threshold $t_n$
 
 $$tIMF_n = \text{sign}(IMF_n) \cdot (\lvert IMF_n \rvert - t_n)_+
 $$
+
+![[Pasted image 20241221201137.png]]
