@@ -165,3 +165,5 @@ Filter resulting IMFs
 ![[Filter resulting IMFs.png]]
 
 ---
+比較指標
+- level of the total power of the window of noise should decrease after filtering.
