@@ -90,7 +90,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - CEEMDAN
 
 ---
-# review of EMG
+# activation of EMG
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 
 ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
@@ -112,7 +112,7 @@ ref. [[Review of electromyography onset detection methods for real-time control 
 - ML
 
 ---
-# 更進一步的pattern方西
+# 更進一步的pattern分析
 目前分成三個面向在研究中 2024/12/21
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
