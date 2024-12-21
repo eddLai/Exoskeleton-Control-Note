@@ -132,3 +132,7 @@ x - \lambda, & \text{若 } x > \lambda, \\
 x + \lambda, & \text{若 } x < -\lambda.
 \end{cases}$$
 
+
+EMD，對於
+$$tIMF_n = \text{sign}(IMF_n) \cdot (\lvert IMF_n \rvert - t_n)_+
+$$
