@@ -133,6 +133,9 @@ x - \lambda, & \text{若 } x > \lambda, \\
 0, & \text{若 } |x| \leq \lambda, \\
 x + \lambda, & \text{若 } x < -\lambda.
 \end{cases}$$
+parameters
+- Three different Daubechy (db) wavelet prototypes or mother wavelets were analysed (db2, db3 and db4) 
+- signals were decomposed into five levels when employing wavelets.
 
 ---
 EMD，對於threshold $t_n$
