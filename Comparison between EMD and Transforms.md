@@ -158,4 +158,7 @@ experiment of EMD filter
 ![[EMD filter input signals.png|500]]
 
 ---
-Filter resulting 
+Filter resulting IMFs
+![[Filter resulting IMFs.png]]
+
+---
