@@ -188,4 +188,4 @@ Conclusion
 ![[EMD filter  Cumulative distribution functions for windows noise.png]]
 
 ---
-![[Pasted image 20241221203601.png]]
+![[EMD filter  Cumulative distribution functions for windows signal.png]]
