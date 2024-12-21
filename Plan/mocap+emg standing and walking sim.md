@@ -219,6 +219,7 @@ eddlai
 3. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2 的做法做一次，至少會完成inversed-problem的整合
 	- Calibration procedure
 	- BSpline coefficients
+	- EMG-data driven
 	- 確認Kalman filter to process IK-generated joint angles
 >	parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
 
