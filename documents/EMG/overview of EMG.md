@@ -36,7 +36,7 @@ MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 background: [[recall signal and system]]
 list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[frequency analysis]]
-- [[signal decomposition]]
+- [[signal decomposition]] -> [[applications of EMD using emd library]]
 - [[statistics methods]]
 - [[entropy]]
 
@@ -47,7 +47,6 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 
 ---
 # App.
-- [[applications of EMD using emd library]]
 - [[Comparison between EMD and Transforms]]
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
