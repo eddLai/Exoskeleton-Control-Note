@@ -26,11 +26,12 @@ bg: "[[NTKLab_white bg.png]]"
 	}
 </style>
 <grid drag="70 10" drop="-3 40">
-Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods for EMG Gait Pattern and Fatigue Analysis
+frequency analysis
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
 <grid drag="50 10" drop="40 70">
+background knowledge: FT可以[[recall signal and system]]
 賴宏達
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
@@ -38,7 +39,6 @@ Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods f
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
 
 ---
-FT可以[[recall signal and system]]
 # STFT
 ref. [深入理解短时傅里叶变换 STFT + Python 代码详解_stft python-CSDN博客](https://blog.csdn.net/weixin_44618906/article/details/116356081)
 
