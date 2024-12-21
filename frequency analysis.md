@@ -56,10 +56,11 @@ $$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
 把動態放大
 
 ---
-# Wavelet transform
+## Wavelet transform
 - [小波变换（Wavelet Transform）-CSDN博客](https://blog.csdn.net/Forlogen/article/details/88535027)
 - [数学基础-小波变换的原理及其应用_小波变换原理-CSDN博客](https://blog.csdn.net/weixin_37801695/article/details/80652113)
-波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數
+
+波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數，更符合複雜系統。
 ![[wavelet.png]]
 $$F(w) = \int_{-\infty}^\infty f(t) e^{-iwt} dt \quad \Rightarrow \quad 
 WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - \tau}{a}\right) dt$$
