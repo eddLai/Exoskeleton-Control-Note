@@ -83,7 +83,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 
 
 ---
-### Denoise Methods
+### Denoising Methods
 - muscle artifact (MA)
 - ocular artifacts
 - Baseline wander
