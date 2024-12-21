@@ -1,4 +1,6 @@
 這是為什麼要做FT的原因，對於「一個信號進入一個系統」，的這個系統，可以轉成以頻域表達的系統函式，並用相乘來代表「一個信號進入一個系統」這件事情
+$$y(t) = \int_{-\infty}^\infty x(\tau) h(t - \tau) \, d\tau
+$$
 
 ## Fourier Series
 [[derivation of Fourier Transform]]
