@@ -152,5 +152,7 @@ $$
 
 ---
 experiment of EMD filter
-雜訊
-![[EMD filter input signals.png]]
+
+雜訊為人工加入的Gassian noise
+
+![[EMD filter input signals.png|500]]
