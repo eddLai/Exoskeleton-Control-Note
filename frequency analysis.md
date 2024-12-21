@@ -34,6 +34,9 @@ frequency analysis
 賴宏達
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
+\
+\
+\
 
 background knowledge: [[recall signal and system]]
 
