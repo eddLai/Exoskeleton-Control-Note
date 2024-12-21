@@ -171,3 +171,7 @@ performance index
 
 $$P_o=\int PS(f)df$$
 
+---
+<split no-margin>
+![[result of g0.png]]
+<
