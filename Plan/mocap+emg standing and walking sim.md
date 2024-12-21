@@ -226,8 +226,8 @@ eddlai
 
 待討論：
 - ==沒有進ID就沒有關節力量，也沒有肌肉(還是可以直接從IK進CMC?)，那怎麼做CEINMS的calibration沒有對應的生成阿?==
-- 我其實很不確定要不要換成用EMD來做，可以跟YY討論
-- 兩篇論文
+- 我其實很不確定要不要換成用EMD來做，可以跟YY討論 [[Comparison between EMD and Transforms]]
+- [[musculoskeletal modeling in simulation]]
 待辦：
 - 找找看fatigue的資料庫
 
