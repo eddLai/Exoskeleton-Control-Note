@@ -63,9 +63,9 @@ $$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
 波的basis由多個有限長會衰減的小波組成；相比傅立葉由無限長的三角函數，更符合複雜系統。
 ![[wavelet.png]]
 $$F(w) = \int_{-\infty}^\infty f(t) e^{-iwt} dt \quad \Rightarrow \quad 
-WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - \tau}{a}\right) dt$$
+WT(b, a) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - \tau}{a}\right) dt$$
 
-尺度$a$, 平移量 $\tau$
+尺度$b$, 平移量 $a$
 
 ---
 解決：Fourier transform不包含原始波的時序資訊的問題
