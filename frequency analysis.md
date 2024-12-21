@@ -78,7 +78,7 @@ ref. [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/e
 ![[Wavelet families.png|600]]
 
 ---
-
+More info.
 
 數學證明:[小波变换——公式整理和简单介绍_离散小波变换公式-CSDN博客](https://blog.csdn.net/qq_32071849/article/details/103963394)
 
