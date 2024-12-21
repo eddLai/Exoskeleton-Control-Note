@@ -1,3 +1,43 @@
+---
+bg: "[[NTKLab_white bg.png]]"
+---
+<style>
+    .reveal {
+        font-family: 'Times New Roman', '標楷體';
+        font-size: 30px;
+        text-align: left;
+        color: black;
+        background-size: cover;
+        background-position: center;
+    }
+	.reveal h1,
+	.reveal h2,
+	.reveal h3,
+	.reveal h4,
+	.reveal h5,
+	.reveal h6 {
+	  font-family: 'Times New Roman', '標楷體';
+	  color: black;
+	  %%text-transform: lowercase%%;
+	  text-transform: capitalize;
+	}
+	.with-border{
+		border: 1px solid red;
+	}
+</style>
+<grid drag="70 10" drop="-3 40">
+Comparison of Empirical Mode Decomposition (EMD) and Wavelet Transform Methods for EMG Gait Pattern and Fatigue Analysis
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+</grid>
+
+<grid drag="50 10" drop="40 70">
+賴宏達
+<!-- element style="font-size: 40px;align: right; text-align: right"-->
+</grid>
+
+<!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
+
+---
 FT可以[[recall signal and system]]
 # STFT
 ref. [深入理解短时傅里叶变换 STFT + Python 代码详解_stft python-CSDN博客](https://blog.csdn.net/weixin_44618906/article/details/116356081)
