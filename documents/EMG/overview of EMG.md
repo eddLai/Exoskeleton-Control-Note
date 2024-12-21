@@ -91,9 +91,8 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 ---
 # Fundamental Understanding of EMG :onset detection
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
-ref. 
+ref. [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085?ref=pdf_download&fr=RR-2&rr=8f55c59e1863843f)
 
-ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
 採用的signal characteristics
 - Standard Deviation (SD)
 - Period of time
