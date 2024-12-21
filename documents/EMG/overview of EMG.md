@@ -73,7 +73,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[entropy]]
 
 ---
-注意：==EMG is dynamic or non-sinusoidal signals.==
+==EMG is dynamic or non-sinusoidal signals.==
 
 [[Comparison between EMD and Transforms]]
 
