@@ -2,6 +2,7 @@
 $$y(t) = \int_{-\infty}^\infty x(\tau) h(t - \tau) \, d\tau
 $$
 $$Y(f)=X(f)\cdot H(f)$$
+所以我們有需要把時域轉換成頻域
 
 ---
 ## Fourier Series
