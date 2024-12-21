@@ -69,10 +69,11 @@ WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t 
 
 ---
 解決：Fourier transform不包含原始波的時序資訊的問題
-![[problem of fourier transform.png|450]]
+![[problem of fourier transform.png|600]]
 
+---
 大尺度因子，分辨率高，小頻率
-![[Wavelet families.png|450]]
+![[Wavelet families.png|600]]
 
 ---
 [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
