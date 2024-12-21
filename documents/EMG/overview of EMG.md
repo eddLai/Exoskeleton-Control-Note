@@ -58,7 +58,7 @@ overview of EMG
 >- Bandpass filter: None
 >- Notch filter: None
 
-new hardware options
+New hardware options
 - [ultimaterobotics/uMyo](https://github.com/ultimaterobotics/uMyo)
 - Intan RHD2000 series
 - 大型儀器：[Delsys – Wearable Sensors for Movement Sciences - Delsys](https://delsys.com/)
@@ -80,7 +80,6 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 儘管傅立葉能夠拆解，但是harmonics, can create interpretation issues
 >ref. [EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/index.html)
 >傅立葉轉換會為了還原某些信號而產生低頻信號的諧波，卻無法跟高頻波分離
-
 
 ---
 ### Denoising Methods
