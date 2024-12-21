@@ -68,9 +68,8 @@ WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t 
 尺度$a$, 平移量 $\tau$
 
 ---
-解決：Fourier transform存在問題
-- 不包含原始波的時序資訊
-![[problem of fourier transform.png|500]]
+解決：Fourier transform不包含原始波的時序資訊的問題
+![[problem of fourier transform.png|450]]
 
 大尺度因子，分辨率高，小頻率
 ![[Wavelet families.png|450]]
