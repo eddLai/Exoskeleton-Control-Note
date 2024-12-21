@@ -1,3 +1,7 @@
+---
+bg: "[[NTKLab_white bg.png]]"
+---
+
 <style>
     .reveal {
         font-family: 'Times New Roman', '標楷體';
@@ -34,6 +38,7 @@ overview of EMG
 
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
 
+---
 # Summary
 1. Cygnus, protocol:BT 
 2. high-pass filter: `filted_emg = self.h_filter.filtfilt(signal)`
