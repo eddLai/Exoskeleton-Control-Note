@@ -15,12 +15,10 @@
 3. Rectification: `rect_emg = np.abs(filted_emg)`
 4. Get the envelope using low-pass filter: `envelope = self.l_filter.filtfilt(rect_emg)`
 5. normalize_data to `[0,1]`==標準差不會是1==
-6. 
+
 # Data collection
 硬體突破：
 - [無線EMG貼片](https://www.bio-translational-exoskeleton.com/)
-
-可能要用來配合建立DQN的模型
 
 ---
 # Models
