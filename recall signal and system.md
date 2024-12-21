@@ -59,7 +59,7 @@ $$X_S(\omega) = \int_{-\infty}^{\infty} \sum_{k=-\infty}^\infty x(kT)\delta(t-kT
 $$=\sum_{k=-\infty}^\infty x(kT)\int_{-\infty}^{\infty} \delta(t-kT)\cdot e^{-j\omega t}dt=\sum_{k=-\infty}^\infty x(kT)e^{-j\omega kT}$$
 配合離散形式系統
 $$z=e^{jwk}, X(z)=\sum_{k=0}^\infty x[k]z^{-k}$$
-把
+把信號離散之後再進行傅立葉轉換
 
 ---
 ## Signal classification
