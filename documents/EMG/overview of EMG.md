@@ -68,14 +68,14 @@ new hardware options
 background: [[recall signal and system]]
 list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[frequency analysis]]
-- [[signal decomposition]] -> [[applications of EMD using emd library]]
+- [[signal decomposition]] -> [[applications of EMD using emd library]] <!-- element class="with-border"-->
 - [[statistics methods]]
 - [[entropy]]
 
 ---
 ==EMG is dynamic or non-sinusoidal signals.==
 
-[[Comparison between EMD and Transforms]]
+[[Comparison between EMD and Transforms]]<!-- element class="with-border"-->
 
 儘管傅立葉能夠拆解，但是harmonics, can create interpretation issues
 >ref. [EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/index.html)
