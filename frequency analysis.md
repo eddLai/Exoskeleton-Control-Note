@@ -64,14 +64,18 @@ $$\psi_d[x(n)] = x^2(n) - x(n+1) x(n-1)$$
 ![[wavelet.png]]
 $$F(w) = \int_{-\infty}^\infty f(t) e^{-iwt} dt \quad \Rightarrow \quad 
 WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - \tau}{a}\right) dt$$
+
 尺度$a$, 平移量 $\tau$
 
 ---
 解決：Fourier transform存在問題
+
 ![[problem of fourier transform.png|400]]
 不包含時序資訊
 大尺度因子，分辨率高，小頻率
 ![[Wavelet families.png|400]]
+
+---
 [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
 多種小波，有階數子集
 
