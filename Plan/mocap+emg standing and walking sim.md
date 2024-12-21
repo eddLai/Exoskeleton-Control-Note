@@ -248,3 +248,4 @@ SCONE分析項目
 - [ ] COM穩定度，MSE？？， https://chatgpt.com/g/g-L2HknCZTC-scholar-ai/c/675512a8-533c-8013-8fbb-c547cc75485c
 
 確認EMG-driven的model
+BSpline
