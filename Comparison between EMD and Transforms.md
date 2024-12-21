@@ -185,4 +185,7 @@ Conclusion
 - Kolmogorov-Smirnov 檢定：小波分析的 CDF 可以視為相同，且與 EMD 方法的 CDF 有顯著差異
 
 ---
-![[Pasted image 20241221203524.png]]
+![[EMD filter  Cumulative distribution functions for windows noise.png]]
+
+---
+![[Pasted image 20241221203601.png]]
