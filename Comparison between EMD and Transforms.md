@@ -122,11 +122,10 @@ wavelet filtering procedure
 2. detail coefficients thresholding
 3. signal reconstruction
 
-detail coefficients代表
-D_j(t) = \sum_{k} d_{j,k} \cdot \psi_{j,k}(t)
+detail coefficients代表高頻成分
 
+$$D_j(t) = \sum_{k} d_{j,k} \cdot \psi_{j,k}(t)$$
 
----
 soft-thresholding
 $$S_{\lambda}(x) =
 \begin{cases} 
@@ -135,7 +134,7 @@ x - \lambda, & \text{若 } x > \lambda, \\
 x + \lambda, & \text{若 } x < -\lambda.
 \end{cases}$$
 
-
+---
 EMD，對於threshold $t_n$
 
 $$tIMF_n = \text{sign}(IMF_n) \cdot (\lvert IMF_n \rvert - t_n)_+
