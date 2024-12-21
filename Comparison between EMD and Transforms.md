@@ -122,3 +122,13 @@ wavelet filtering procedure
 2. detail coefficients thresholding
 3. signal reconstruction
 
+
+---
+soft-thresholding
+$$S_{\lambda}(x) =
+\begin{cases} 
+x - \lambda, & \text{若 } x > \lambda, \\
+0, & \text{若 } |x| \leq \lambda, \\
+x + \lambda, & \text{若 } x < -\lambda.
+\end{cases}$$
+
