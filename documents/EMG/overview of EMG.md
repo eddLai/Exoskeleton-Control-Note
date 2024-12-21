@@ -91,7 +91,6 @@ ref.
 
 ---
 # App.
-- [[Comparison between EMD and Transforms]]
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
 - [[musculoskeletal modeling in simulation]]
