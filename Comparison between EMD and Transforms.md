@@ -133,6 +133,7 @@ x + \lambda, & \text{若 } x < -\lambda.
 \end{cases}$$
 
 
-EMD，對於
+EMD，對於threshold $t_n$
+
 $$tIMF_n = \text{sign}(IMF_n) \cdot (\lvert IMF_n \rvert - t_n)_+
 $$
