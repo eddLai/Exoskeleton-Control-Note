@@ -63,6 +63,8 @@ WT: 選用與 MUAP 相似的波形
 
 去噪：Daubechies 小波（db2、db8 和 db6）和正交 Meyer 小波
 
+[Wavelet Toolbox User's Guide](http://cda.psych.uiuc.edu/matlab_pdf/wavelet_ug.pdf)
+
 ---
 ## Comparison of EMD and WT
 "***the EMG is a non-stationary signal, especially for contraction levels higher than 50% of maximum voluntary contraction(MVC)***"[1]
