@@ -73,12 +73,12 @@ WT(a, \tau) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t 
 大$a$，分辨率高，小頻率
 
 ---
-
+ref. [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
+多種小波，有階數子集
 ![[Wavelet families.png|600]]
 
 ---
-[Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
-多種小波，有階數子集
+
 
 數學證明:[小波变换——公式整理和简单介绍_离散小波变换公式-CSDN博客](https://blog.csdn.net/qq_32071849/article/details/103963394)
 
