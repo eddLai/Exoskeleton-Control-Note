@@ -151,4 +151,6 @@ $$
 ![[EMD t_n.png]]
 
 ---
-ex
+experiment of EMD filter
+雜訊
+![[EMD filter input signals.png]]
