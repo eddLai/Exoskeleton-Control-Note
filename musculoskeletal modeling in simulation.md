@@ -1,8 +1,47 @@
+
+<style>
+    .reveal {
+        font-family: 'Times New Roman', '標楷體';
+        font-size: 30px;
+        text-align: left;
+        color: black;
+        background-size: cover;
+        background-position: center;
+    }
+	.reveal h1,
+	.reveal h2,
+	.reveal h3,
+	.reveal h4,
+	.reveal h5,
+	.reveal h6 {
+	  font-family: 'Times New Roman', '標楷體';
+	  color: black;
+	  %%text-transform: lowercase%%;
+	  text-transform: capitalize;
+	}
+	.with-border{
+		border: 1px solid red;
+	}
+</style>
+<grid drag="70 10" drop="-3 40">
+overview of EMG
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+</grid>
+
+<grid drag="50 10" drop="40 70">
+賴宏達、劉智翔
+<!-- element style="font-size: 40px;align: right; text-align: right"-->
+</grid>
+
+<!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
+
+---
 ![[pipeline of building Digital Twins.png]]
 
 ---
 ## Comparison to other research
-[[comparison of our pipeline to others]]
+[[comparison of our pipeline to others]]<!-- element class="with-border"-->
+
 tools: [[SCONE]]用來RL training, [[overview of opensim]]用來進行IK推測, [[CEINMS app.]], EMG-informed methods or EMG-driven methods?
 target: [[mocap+emg standing and walking sim]], [[level of fatigue from EMG]]
 
