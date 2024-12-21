@@ -78,13 +78,14 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 >傅立葉轉換會為了還原某些信號而產生低頻信號的諧波，卻無法跟高頻波分離
 
 ---
-# Models
-MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 ### Denoise Methods
 - muscle artifact (MA)
 - ocular artifacts
 - Baseline wander
 - CEEMDAN
+
+# Models
+MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 
 ---
 # App.
