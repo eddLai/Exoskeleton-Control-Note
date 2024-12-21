@@ -189,3 +189,4 @@ Conclusion
 
 ---
 ![[EMD filter  Cumulative distribution functions for windows signal.png]]
+
