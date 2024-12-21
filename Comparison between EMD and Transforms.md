@@ -176,3 +176,6 @@ $$P_o=\int PS(f)df$$
 ![[result of g0.png]]
 ![[result of g5.png]]
 </split>
+
+---
+Conclusion
