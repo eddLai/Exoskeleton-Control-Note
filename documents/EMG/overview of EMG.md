@@ -92,7 +92,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 ---
 # Models
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
-ref. 
+
 
 ---
 # App.
