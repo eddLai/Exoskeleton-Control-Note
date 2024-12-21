@@ -118,3 +118,19 @@ ref. [[Review of electromyography onset detection methods for real-time control 
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
 - [[musculoskeletal modeling in simulation]] <!-- element class="with-border"-->
+
+
+---
+目前開發方向
+1. 利用新的EMG概念重新理解SCONE生成的結果，以及收到的資料(資料分析中)
+	1. 初步的分析方法實施(需要從數學到coding)
+	2. 建立EMG手部資料之實驗建置以活用`libemg`工具(1~2天)，[Feature Extraction — libemg 1.0.0 documentation](https://libemg.github.io/libemg/documentation/features/features.html)
+2. 用線上資料庫測試fatigue方案，回報LibEMG的使用結果
+3. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2 的做法做一次，至少會完成inversed-problem的整合
+	- Calibration procedure
+	- BSpline coefficients
+	- EMG-data driven
+	- 確認Kalman filter to process IK-generated joint angles
+>	parameters: [Kalman smoothing improves the estimation of joint kinematics and kinetics in marker-based human gait analysis - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0021929008004685)
+
+4. 想辦法結合Muscle Fatigue Analysis Using OpenSim
