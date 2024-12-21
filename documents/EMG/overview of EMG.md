@@ -99,6 +99,8 @@ ref. [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect
 - % Maximum Voluntary Contraction
 - % Maximum EMG Amplitude
 
+ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
+
 ---
 
 對於從訊號到動作的轉換：用EMG偵測動作的啟動，會比實際動作早。
