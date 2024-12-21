@@ -61,7 +61,7 @@ overview of EMG
 new hardware options
 - [ultimaterobotics/uMyo](https://github.com/ultimaterobotics/uMyo)
 - Intan RHD2000 series
-- [Delsys – Wearable Sensors for Movement Sciences - Delsys](https://delsys.com/)
+- 大型儀器：[Delsys – Wearable Sensors for Movement Sciences - Delsys](https://delsys.com/)
 
 ---
 # Analysis methods
@@ -87,7 +87,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 ---
 # Models
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
-ref. [[]]
+ref. 
 
 ---
 # App.
