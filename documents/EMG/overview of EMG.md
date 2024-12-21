@@ -49,12 +49,12 @@ overview of EMG
 
 ---
 # Data collection
->Cygnus version: 0.28.0.7
->Operative system: Windows
->Device ID: STEEG_DG819202
->Device bandwidth: DC to 131 Hz
->Device sampling rate: 1000 samples/second
->Data type / unit: non-EEG / micro-volt (uV)
+>- Cygnus version: 0.28.0.7
+>- Operative system: Windows
+>- Device ID: STEEG_DG819202
+>- Device bandwidth: DC to 131 Hz
+>- Device sampling rate: 1000 samples/second
+>- Data type / unit: non-EEG / micro-volt (uV)
 >Bandpass filter: None
 >Notch filter: None
 
