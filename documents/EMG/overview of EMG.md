@@ -72,10 +72,15 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[statistics methods]]
 - [[entropy]]
 
+---
 注意：==EMG is dynamic or non-sinusoidal signals.==
+
+[[Comparison between EMD and Transforms]]
+
 儘管傅立葉能夠拆解，但是harmonics, can create interpretation issues
 >ref. [EMD Tutorials — emd 0.6.2 documentation](https://emd.readthedocs.io/en/stable/emd_tutorials/index.html)
 >傅立葉轉換會為了還原某些信號而產生低頻信號的諧波，卻無法跟高頻波分離
+
 
 ---
 ### Denoise Methods
