@@ -135,14 +135,15 @@ x + \lambda, & \text{若 } x < -\lambda.
 \end{cases}$$
 
 ---
-設定$t_n$
-1. 從原始訊號中選擇一段雜訊窗口。
-2. 使用這個窗口的邊界，從各個 IMF 中提取對應的雜訊區域。
-3. 計算每個雜訊區域的標準差，並將其作為所需的閾值 (t1, ..., tN)
-
 EMD，對於threshold $t_n$
 
 $$tIMF_n = \text{sign}(IMF_n) \cdot (\lvert IMF_n \rvert - t_n)_+
 $$
 
-![[Pasted image 20241221201137.png]]
+![[EMD filter framework.png]]
+
+---
+設定$t_n$
+1. 從原始訊號中選擇一段雜訊窗口。
+2. 使用這個窗口的邊界，從各個 IMF 中提取對應的雜訊區域。
+3. 計算每個雜訊區域的標準差，並將其作為所需的閾值 (t1, ..., tN)
