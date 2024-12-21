@@ -94,8 +94,13 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 
 ref. [[Review of electromyography onset detection methods for real-time control of robotic exoskeletons.pdf]]
+採用的signal characteristics
+- Standard Deviation (SD)
+- Period of time
+- % Maximum Voluntary Contraction
+- % Maximum EMG Amplitude
 
-對於從訊號到動作：EMG偵測動作的啟動，會比實際動作早。
+對於從訊號到動作的轉換：用EMG偵測動作的啟動，會比實際動作早。
 - Visual inspection
 - threshold: SNR or energy value
 	- Single Threshold (ST)
@@ -105,13 +110,6 @@ ref. [[Review of electromyography onset detection methods for real-time control 
 	- Approximated Generalized Likelihood Ratio (AGLR)
 	- Cumulative Sum (CUSUM)
 - ML
-
-signal characteristics
-- Standard Deviation (SD)
-- Period of time
-- % Maximum Voluntary Contraction
-- % Maximum EMG Amplitude
-
 
 ---
 # App.
