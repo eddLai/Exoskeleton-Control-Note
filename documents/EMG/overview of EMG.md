@@ -129,6 +129,7 @@ ref. [[Review of electromyography onset detection methods for real-time control 
 3. 嘗試用EMD這個新的數學工具
 
 ---
+新的建模方向
 1. 重新按照這個文獻[[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]], https://youtu.be/W168hIQggFs?si=Bp_D66jkOJBNaAu2 的做法做一次，至少會完成inversed-problem的整合
 	- Calibration procedure
 	- BSpline coefficients
