@@ -70,7 +70,7 @@ WT(b, a) = \frac{1}{\sqrt{a}} \int_{-\infty}^\infty f(t) \psi^*\left(\frac{t - \
 ---
 解決：Fourier transform不包含原始波的時序資訊的問題
 ![[problem of fourier transform.png|600]]
-大$a$，分辨率高，小頻率
+大$b$，分辨率高，小頻率
 
 ---
 ref. [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/en/latest/ref/wavelets.html)
@@ -78,9 +78,11 @@ ref. [Wavelets — PyWavelets Documentation](https://pywavelets.readthedocs.io/e
 ![[Wavelet families.png|600]]
 
 ---
+resolution
+![[Pasted image 20241221161902.png]]
+---
 More info.
 
-數學證明:[小波变换——公式整理和简单介绍_离散小波变换公式-CSDN博客](https://blog.csdn.net/qq_32071849/article/details/103963394)
-
-App. [[Feature Extraction and Reduction of Wavelet Transform Coefficients for EMG Pattern Classification.pdf]]
+- 數學證明:[小波变换——公式整理和简单介绍_离散小波变换公式-CSDN博客](https://blog.csdn.net/qq_32071849/article/details/103963394)
+- App. [[Feature Extraction and Reduction of Wavelet Transform Coefficients for EMG Pattern Classification.pdf]]
 
