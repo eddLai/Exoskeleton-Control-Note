@@ -33,7 +33,6 @@ overview of EMG
 
 <grid drag="50 10" drop="40 70">
 賴宏達、劉智翔
-<!--class="with-border"-->
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
 
