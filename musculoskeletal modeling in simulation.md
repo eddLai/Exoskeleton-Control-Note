@@ -1,3 +1,6 @@
+---
+bg: "[[NTKLab_white bg.png]]"
+---
 
 <style>
     .reveal {
@@ -24,7 +27,7 @@
 	}
 </style>
 <grid drag="70 10" drop="-3 40">
-overview of EMG
+musculoskeletal modeling in simulation
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
