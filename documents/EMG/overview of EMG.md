@@ -19,7 +19,8 @@
 
 new hardware options
 - [ultimaterobotics/uMyo](https://github.com/ultimaterobotics/uMyo)
-- Intan
+- Intan RHD2000 series
+- 
 
 ---
 # Models
