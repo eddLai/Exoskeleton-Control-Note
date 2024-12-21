@@ -55,22 +55,13 @@ overview of EMG
 >- Device bandwidth: DC to 131 Hz
 >- Device sampling rate: 1000 samples/second
 >- Data type / unit: non-EEG / micro-volt (uV)
->Bandpass filter: None
->Notch filter: None
+>- Bandpass filter: None
+>- Notch filter: None
 
 new hardware options
 - [ultimaterobotics/uMyo](https://github.com/ultimaterobotics/uMyo)
 - Intan RHD2000 series
 - [Delsys – Wearable Sensors for Movement Sciences - Delsys](https://delsys.com/)
-
----
-# Models
-MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
-### Denoise Methods
-- muscle artifact (MA)
-- ocular artifacts
-- Baseline wander
-- CEEMDAN
 
 ---
 # Analysis methods
