@@ -110,5 +110,7 @@ $$
 - $f_P(l_m)$: 被動力-長度關係函數
 - $F_{\text{max}}$: 最大等長肌肉力
 
+tool: [RehabEngGroup/mcbs: Multidimensional Cubic Bspline Library](https://github.com/RehabEngGroup/mcbs/tree/master)
+
 ---
 ref. [[EMG-DrivenForward-DynamicEstimationofMuscle.pdf]]
