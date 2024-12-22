@@ -94,6 +94,9 @@ check<!-- element class="with-border"-->
 ---
 ### Activation dynamics
 preprocessing 流程跟我們不一樣
+- zero-lag fourth-order recursive Butter worthfilter(30Hz)
+- full wave rectified 
+- filtered usingaButterworthlow-passfilterwitha6Hzcutoff frequency
 ### contraction dynamics
 
 ---
