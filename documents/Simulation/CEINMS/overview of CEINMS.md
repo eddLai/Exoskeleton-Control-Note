@@ -100,7 +100,8 @@ preprocessing 流程跟我們不一樣
 
 ---
 muscle’s twitch response in the activation dy namicmodel
-- $critically\ damped\ linear differential system^2$
+- $critically\ damped\ linear\ differential\ system^2$
+- discrete form by using backward differences
 
 
 ref.
