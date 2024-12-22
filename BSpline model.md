@@ -1,3 +1,7 @@
+---
+bg: "[[NTKLab_white bg.png]]"
+---
+
 <style>
     .reveal {
         font-family: 'Times New Roman', '標楷體';
@@ -21,7 +25,7 @@
 	}
 </style>
 <grid drag="70 10" drop="-3 40">
-BSpline model and  neuralmuscle modeling
+BSpline model and  muscle modeling
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
