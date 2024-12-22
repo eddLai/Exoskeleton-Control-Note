@@ -100,4 +100,9 @@ $\%\varepsilon_c$則用來計算一些統計分析
 都是透過Hill-type muscle model
 $$F^{mt} = F_t = F_m \cos(\phi(t)) = \left[a(t) f(l_m) f(v_m) + f_P(l_m)\right] F_{\text{max}} \cos(\phi(t)),
 $$
-$$$$
+- $F^{mt}$: 肌腱力（musculotendon force）
+- $F_t$: 肌腱總力
+- $F_m$: 肌肉產生的總力
+- $\phi(t)$: 隨著纖維長度變化的羽角（pennation angle)
+- $a(t)$: 肌肉激活信號
+- $f(l_m)$: 力-長度關係函數。 \item $f(v_m)$: 力-速度關係函數。 \item $f_P(l_m)$: 被動力-長度關係函數。 \item $F_{\text{max}}$: 最大等長肌肉力。
