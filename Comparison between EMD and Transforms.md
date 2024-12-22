@@ -121,6 +121,9 @@ $$
 透過validation資料集，找出最能代表Seizure**分類**的atom
 
 ---
+特5p
+
+---
 pattern detection:
 - linear:
 	- signal variance
