@@ -64,9 +64,13 @@ ref.
 
 ---
 ## Calibration
-parameters for each musculotendon unit.
-- musculotendon unit’s activation dynamics: excitation $\rightarrow$ activation
-- musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force
+non-linearly optimization for different individuals: Simulated Annealing
+- close tracking
+	- experimental joint moments
+	- excitations derived from EMG signals
+
+minimize maximum activation, minimize maximum joint contact forces etc
+with predefined boundaries
 
 ---
 ![[CEINMS Calibration.png]]
@@ -80,13 +84,9 @@ $$F_{\text{obj}} = \alpha \cdot \sum_{k \in DOFs}(\tau_k - \tilde{\tau}_k) ^2+\b
 - excitation for MTU $e$
 
 ---
-non-linearly optimization for different individuals: Simulated Annealing
-- close tracking
-	- experimental joint moments
-	- excitations derived from EMG signals
-
-minimize maximum activation, minimize maximum joint contact forces etc
-with predefined boundaries
+parameters for each musculotendon unit.
+- musculotendon unit’s activation dynamics: excitation $\rightarrow$ activation
+- musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force
 
 ---
 check
