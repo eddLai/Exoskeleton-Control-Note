@@ -111,7 +111,7 @@ $$CoV=\frac{\sigma}{\mu}$$
 
 Dictionary Learning
 
-IMFs 或分解成分 作為原始字典的原子，
+IMFs(7 層分解) 或WT分解成分 作為原始字典的原子，
 第t次迭代
 $$r_i^{(t)}=\min_{D, R} \sum_{i=1}^K \left( \|x_i - D r_i\|_2^2 + \lambda \|r_i\|_1 \right)$$
 
