@@ -71,7 +71,12 @@ parameters for each musculotendon unit.
 ---
 ![[CEINMS Calibration.png]]
 objective function:
+$$F_{\text{obj}} = \alpha \cdot \sum_{k \in DOFs} \left( \tau_k - \tilde{\tau}_k \right)^2 
++ \beta \cdot \sum_{j \in MTUs} \left( e_j - \tilde{e}_j \right)^2 
++ \gamma \cdot \sum_{j \in MTUs} \left( e_j^2 \right)
+$$
 
+---
 non-linearly optimization for different individuals: Simulated Annealing
 - close tracking
 	- experimental joint moments
