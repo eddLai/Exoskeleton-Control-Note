@@ -140,6 +140,10 @@ $$
 - 接收者操作特徵曲線下面積 (AUC)：評估分類器整體性能的一個指標。
 
 ---
+![[Pasted image 20241222125300.png]]
+
+
+---
 pattern detection:
 - linear:
 	- signal variance
