@@ -107,6 +107,13 @@ $$u_j(t) = \alpha e_j(t - d) - \beta_1 u_j(t - 1) - \beta_2 u_j(t - 2) \tag{1.1}
 $$
 
 ---
+Constraints
+$$
+\beta_1 &= C_1 + C_2$$
+\beta_2 &= C_1 \cdot C_2,
+$$
+
+
 ref.
 - Neuromusculoskeletal modeling: estimation of muscle forces and joint moments and movements from measurements of neural command
 - An emg-driven musculoskeletal model to estimate muscle forces and knee joint moments in vivo
