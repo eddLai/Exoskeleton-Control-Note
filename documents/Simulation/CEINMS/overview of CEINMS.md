@@ -45,7 +45,8 @@ ref.
 
 ---
 ## Modes
-- Full-predictive open-loop mode: EMG signals and 3D joint angles input
+- Full-predictive open-loop mode: 
+	- EMG signals and 3D joint angles input $\rightarrow$drive the computations of the musculotendon forces
 - Hybrid mode
 - EMG-assisted mode
 - Static optimisation mode
