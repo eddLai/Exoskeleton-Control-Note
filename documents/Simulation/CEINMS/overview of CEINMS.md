@@ -103,7 +103,10 @@ muscle’s twitch response in the activation dy namicmodel
 - $critically\ damped\ linear\ differential\ system^2$
 - discrete form (backward differences)
 
+$$u_j(t) = \alpha e_j(t - d) - \beta_1 u_j(t - 1) - \beta_2 u_j(t - 2) \tag{1.1}
+$$
 
+---
 ref.
 - Neuromusculoskeletal modeling: estimation of muscle forces and joint moments and movements from measurements of neural command
 - An emg-driven musculoskeletal model to estimate muscle forces and knee joint moments in vivo
