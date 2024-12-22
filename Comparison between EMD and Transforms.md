@@ -105,60 +105,6 @@ $$CoV=\frac{\sigma}{\mu}$$
 ![[CoV result of different spectrum analysis.png|350]]
 
 ---
-## connect DWT and EMD to classifier or decoder
-- [Microsoft Word - 09論文~第三章.doc](https://pmcl.mt.ntnu.edu.tw/Laboratory/paper/%E4%BD%99%E5%8B%9D%E6%99%BA/ch3.pdf)，WT to BNN
-- [[Comparison of Empirical Mode Decomposition, Wavelets, and Different Machine Learning Approaches for Patient-Specific Seizure Detection Using Signal-Derived Empirical Dictionary Approach.pdf]]
-
-Dictionary Learning
-
-EEG 訊號片段變為IMFs(7 層分解) 或WT分解成分 作為原始字典的原子，
-第t次迭代
-$$r_i^{(t)}=\min_{D, R} \sum_{i=1}^K \left( \|x_i - D r_i\|_2^2 + \lambda \|r_i\|_1 \right)$$
-
-$$D^{(t+1)} = \arg\min_{D} \sum_{i=1}^K \|x_i - D r_i^{(t)}\|_2^2
-$$
-
-透過validation資料集，找出最能代表Seizure**分類**的atom
-
----
-特徵輸入
-- 投影係數 (F1)：訊號在字典原子上的投影值。
-- 係數向量 (F2)：訊號在字典中的稀疏表示。
-- 重建誤差 (F3)：使用字典原子重建訊號時的誤差。
-
-分類器
-- 線性判別分析 (LDA)：一種線性的分類方法。
-- 支持向量機 (SVM)：使用徑向基函數核函數，是一種非線性的分類方法，被認為是癲癇檢測的常用選擇。
-- 樸素貝葉斯 (NB)：一種基於貝葉斯定理的機率分類器。
-- k 近鄰 (k-NN)：基於距離的分類器 (k=1)。
-- 分類樹 (CT)：一種基於樹狀結構的分類器
-
----
-評估指標
-- 準確率 (Accuracy)：分類正確的樣本比例。
-- 靈敏度 (Sensitivity)：正確分類為癲癇發作的樣本比例 (真陽性率)。
-- 特異度 (Specificity)：正確分類為非癲癇發作的樣本比例 (真陰性率)。
-- 接收者操作特徵曲線下面積 (AUC)：評估分類器整體性能的一個指標。
-
----
-<split no-margin>
-![[classifiers for EMD and DWT.png|600]]
-![[classifiers for EMD and DWT CI.png|600]]
-</split>
-result
-
----
-pattern detection:
-- linear:
-	- signal variance
-	- signal autocorrelation function
-	- time-frequency
-- non-linear:
-	- fractal dimension
-	- Lyapunov exponent
-	- information theory, different forms of entropy
-
----
 ## Denoising of EMG, EMD solution
 [5] 理想情況："If the type of noise(例如統計特性) present in a signal is known a priori(先驗已知) then optimal filters, e.g. the Wiener filter, may be applied to attenuate its presence."
 
@@ -240,3 +186,56 @@ Conclusion
 ---
 ![[EMD filter  Cumulative distribution functions for windows signal.png]]
 
+---
+## connect DWT and EMD to classifier or decoder
+- [Microsoft Word - 09論文~第三章.doc](https://pmcl.mt.ntnu.edu.tw/Laboratory/paper/%E4%BD%99%E5%8B%9D%E6%99%BA/ch3.pdf)，WT to BNN
+- [[Comparison of Empirical Mode Decomposition, Wavelets, and Different Machine Learning Approaches for Patient-Specific Seizure Detection Using Signal-Derived Empirical Dictionary Approach.pdf]]
+
+Dictionary Learning
+
+EEG 訊號片段變為IMFs(7 層分解) 或WT分解成分 作為原始字典的原子，
+第t次迭代
+$$r_i^{(t)}=\min_{D, R} \sum_{i=1}^K \left( \|x_i - D r_i\|_2^2 + \lambda \|r_i\|_1 \right)$$
+
+$$D^{(t+1)} = \arg\min_{D} \sum_{i=1}^K \|x_i - D r_i^{(t)}\|_2^2
+$$
+
+透過validation資料集，找出最能代表Seizure**分類**的atom
+
+---
+特徵輸入
+- 投影係數 (F1)：訊號在字典原子上的投影值。
+- 係數向量 (F2)：訊號在字典中的稀疏表示。
+- 重建誤差 (F3)：使用字典原子重建訊號時的誤差。
+
+分類器
+- 線性判別分析 (LDA)：一種線性的分類方法。
+- 支持向量機 (SVM)：使用徑向基函數核函數，是一種非線性的分類方法，被認為是癲癇檢測的常用選擇。
+- 樸素貝葉斯 (NB)：一種基於貝葉斯定理的機率分類器。
+- k 近鄰 (k-NN)：基於距離的分類器 (k=1)。
+- 分類樹 (CT)：一種基於樹狀結構的分類器
+
+---
+評估指標
+- 準確率 (Accuracy)：分類正確的樣本比例。
+- 靈敏度 (Sensitivity)：正確分類為癲癇發作的樣本比例 (真陽性率)。
+- 特異度 (Specificity)：正確分類為非癲癇發作的樣本比例 (真陰性率)。
+- 接收者操作特徵曲線下面積 (AUC)：評估分類器整體性能的一個指標。
+
+---
+<split no-margin>
+![[classifiers for EMD and DWT.png|600]]
+![[classifiers for EMD and DWT CI.png|600]]
+</split>
+result
+
+---
+pattern detection:
+- linear:
+	- signal variance
+	- signal autocorrelation function
+	- time-frequency
+- non-linear:
+	- fractal dimension
+	- Lyapunov exponent
+	- information theory, different forms of entropy
