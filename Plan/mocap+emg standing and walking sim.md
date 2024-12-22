@@ -258,3 +258,5 @@ SCONE分析項目
 
 informed vs driven
 為什麼不用CEINMS工具
+
+現有模型怎麼去延展資料??
