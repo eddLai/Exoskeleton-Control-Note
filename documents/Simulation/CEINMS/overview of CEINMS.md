@@ -100,7 +100,8 @@ preprocessing 流程跟我們不一樣
 
 ---
 muscle’s twitch response in the activation dy namicmodel
-- critically damped linear second-orderdifferentialsystem
+- $critically\ damped\ linear differential system^2$
+
 
 ref.
 - Neuromusculoskeletal modeling: estimation of muscle forces and joint moments and movements from measurements of neural command
