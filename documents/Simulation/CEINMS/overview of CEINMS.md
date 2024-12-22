@@ -52,6 +52,7 @@ ref.
 	- excitation patterns of 不可能有的深層資料
 	- 再第一點的資料
 - EMG-assisted mode
+	- optimization to 全部資料
 - Static optimisation mode
 
 ---
