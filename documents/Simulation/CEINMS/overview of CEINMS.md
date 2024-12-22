@@ -109,9 +109,13 @@ $$
 ---
 Constraints
 $$
-\beta_1 &= C_1 + C_2$$
-\beta_2 &= C_1 \cdot C_2,
+\beta_1 = C_1 + C_2$$
+
+$$\beta_2 = C_1 \cdot C_2,
 $$
+$$|C_1| < 1, |C_2| < 1,$$
+
+
 
 
 ref.
