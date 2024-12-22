@@ -113,7 +113,7 @@ detection:
 - linear:
 	- signal variance
 	- signal autocorrelation function
-	- time-frequency techniques
+	- time-frequency
 - non-linear:fractal dimension, Lyapunov exponent,or measures derived from information theory such as different forms of entropy
 
 
