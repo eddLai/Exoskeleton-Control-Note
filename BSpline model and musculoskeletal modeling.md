@@ -97,3 +97,4 @@ $\%\varepsilon_c$則用來計算一些統計分析
 
 ---
 ## 整合EMG-driven model
+都是透過Hill type
