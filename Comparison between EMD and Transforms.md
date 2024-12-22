@@ -142,8 +142,8 @@ $$
 
 ---
 <split no-margin>
-![[classifiers for EMD and DWT.png]]
-![[classifiers for EMD and DWT CI.png]]
+![[classifiers for EMD and DWT.png|600]]
+![[classifiers for EMD and DWT CI.png|600]]
 </split>
 
 ---
