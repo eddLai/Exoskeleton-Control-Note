@@ -54,6 +54,7 @@ ref.
 - EMG-assisted mode
 	- optimization to 全部資料
 - Static optimisation mode
+	- 不需要recorded資料
 
 ---
 ## Data Description
