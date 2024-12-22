@@ -82,3 +82,6 @@ $$
 
 ---
 performance index
+
+$$\text{MFE} = \frac{1}{N} \sum_{i=1}^{N} |\hat{X}_i - X_i|,$$
+
