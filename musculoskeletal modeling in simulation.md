@@ -45,7 +45,7 @@ musculoskeletal modeling in simulation
 ## Comparison to other research
 [[comparison of our pipeline to others]]<!-- element class="with-border"-->
 
-tools: [[SCONE]]用來RL training, [[overview of opensim]]用來進行IK推測, [[CEINMS app.]], EMG-informed methods or EMG-driven methods?
+tools: [[SCONE]]用來RL training, [[overview of opensim]]用來進行IK推測, [[overview of CEINMS]], EMG-informed methods or EMG-driven methods?
 target: [[mocap+emg standing and walking sim]], [[level of fatigue from EMG]]
 
 ---
@@ -63,5 +63,5 @@ Ref.
 正在確認
 - BSpline
 - EMG-driven的model
-- [[CEINMS app.]]
+- [[overview of CEINMS]]
 - 需要muscle-tendon kinematics
