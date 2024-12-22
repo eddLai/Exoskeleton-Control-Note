@@ -144,7 +144,7 @@ $$
 <split no-margin>
 ![[classifiers for EMD and DWT.png|600]]
 ![[classifiers for EMD and DWT CI.png|600]]
-</split>
+</split>result
 
 ---
 pattern detection:
