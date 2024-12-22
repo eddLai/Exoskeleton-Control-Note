@@ -98,12 +98,13 @@ preprocessing 流程跟我們不一樣
 - full wave rectified 
 - Butterworth low-pass filter with 6Hz cutoff  frequency
 
+---
 muscle’s twitch response in the activation dy namicmodel
 
 ref.
 - Neuromusculoskeletal modeling: estimation of muscle forces and joint moments and movements from measurements of neural command
 - An emg-driven musculoskeletal model to estimate muscle forces and knee joint moments in vivo
-- 
+- Neuromusculoskeletal modelling and simulation of tissue load in the lower extremities
 
 ---
 ### contraction dynamics
