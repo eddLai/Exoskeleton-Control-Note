@@ -100,6 +100,9 @@ preprocessing 流程跟我們不一樣
 
 muscle’s twitch response in the activation dy namicmodel
 
+ref.
+- Neuromusculoskeletal modeling: estimation of muscle forces and joint moments and movements from measurements of neural command
+
 ---
 ### contraction dynamics
 
