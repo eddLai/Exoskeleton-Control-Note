@@ -69,6 +69,8 @@ non-linearly optimization for different individuals: Simulated Annealing
 	- experimental joint moments
 	- excitations derived from EMG signals
 
+minimize maximum activation, minimize maximum joint contact forces etc
+
 ---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
