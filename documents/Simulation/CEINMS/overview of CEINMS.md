@@ -98,7 +98,7 @@ preprocessing 流程跟我們不一樣
 - full wave rectified 
 - Butterworth low-pass filter with 6Hz cutoff  frequency
 
-modellingthemuscle’stwitchresponseintheactivationdy namicmodel,
+muscle’s twitch response in the activation dy namicmodel
 
 ---
 ### contraction dynamics
