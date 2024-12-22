@@ -25,7 +25,7 @@ bg: "[[NTKLab_white bg.png]]"
 	}
 </style>
 <grid drag="70 10" drop="-3 40">
-BSpline model and  muscle modeling
+BSpline model and  musculoskeletal modeling
 <!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
@@ -52,7 +52,7 @@ ref. [[Estimation of musculotendon kinematics in large musculoskeletal models us
 spline 方法只需要 MTU 長度資訊，就可以估計 MTU 長度和力臂，相較之下，Peq則需要不同的方程式來計算 MTU 長度和力臂
 - 傳統上Peq：肌肉肌腱長度 $('mt)$ + 三維力臂 $(r)$ $\rightarrow$ 預測肌肉肌腱力 (Fmt)
 >獨立的 'mt Peq 和 r Peq，需要手動輸入係數
-- MB-spline:只用$'mt\ nominal\ value$
+- MB-spline:只用$$'mt\ nominal\ value$$
 
 ---
 ## 肌肉模擬的複雜性
