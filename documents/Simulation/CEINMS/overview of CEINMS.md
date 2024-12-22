@@ -129,8 +129,8 @@ ref.
 ### contraction dynamics
 
 ---
-### Tendon model
-Tendon models
+### Tendon models
+
 
 ---
 ## Data Description
