@@ -81,3 +81,4 @@ $$r_{q_i} = \frac{\partial \ell^{mt}(q_1, \dots, q_d)}{\partial q_i} = \frac{\pa
 $$
 
 ---
+performance index
