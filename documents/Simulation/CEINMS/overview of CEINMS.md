@@ -51,11 +51,11 @@ ref.
 ![[CEINMS Full-predictive open-loop mode.png]]
 
 ---
-- Hybrid mode(EMG-driven):
+- Hybrid mode(EMG-driven+SO):
 	- optimization algorithms
 	- excitation patterns of 不可能有的深層資料
 	- 再第一點的資料
-- EMG-assisted mode
+- EMG-assisted mode(EMG-informed)
 	- optimization to 全部資料
 - Static optimisation mode
 	- 不需要recorded資料
