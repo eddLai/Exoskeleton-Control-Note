@@ -1,6 +1,3 @@
----
-bg: "[[NTKLab_white bg.png]]"
----
 
 <style>
     .reveal {
@@ -24,11 +21,6 @@ bg: "[[NTKLab_white bg.png]]"
 		border: 1px solid red;
 	}
 </style>
-
-<grid drag="70 10" drop="-3 40">
-Robust Real-Time Musculoskeletal Modeling Driven by Electromyograms 
-<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
-</grid>
 
 
 <!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
