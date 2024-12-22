@@ -88,9 +88,11 @@ parameters for each musculotendon unit.
 - musculotendon unit’s activation dynamics: excitation $\rightarrow$ activation
 - musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force
 
-![[dataprocessingflowshowingactivationdynamicsandcontractiondynamics.png]]
----
+![[data processing flow showing dynamics.png]]
 check
+
+---
+checheck
 
 ---
 ## Data Description
