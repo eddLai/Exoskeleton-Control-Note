@@ -94,3 +94,4 @@ $$\%\varepsilon_c = \frac{\text{MFE}}{\mathbb{E}[\hat{X}]} \times 100$$
 - 肌腱單位力$F^{mt}$
 
 $\%\varepsilon_c$則用來計算一些統計分析
+
