@@ -65,6 +65,9 @@ parameters for each musculotendon unit.
 - musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force
 
 non-linearly optimization for different individuals: Simulated Annealing
+- close tracking
+	- experimental joint moments
+	- excitations derived from EMG signals
 
 ---
 ## Data Description
