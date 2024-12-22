@@ -1,5 +1,5 @@
 EMG-informed method
->Fundamental to these calibrated methods was the ability to validate the outputs against other data not used for calibra tion.
+>"***Fundamental to these calibrated methods was the ability to validate the outputs against other data not used for calibra tion.***"
 
 ref.
 - [[documents/Simulation/papers/CEINMS User Guide 0.9.pdf|CEINMS User Guide 0.9]]
