@@ -71,6 +71,8 @@ non-linearly optimization for different individuals: Simulated Annealing
 
 minimize maximum activation, minimize maximum joint contact forces etc
 
+predefined boundaries
+
 ---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
