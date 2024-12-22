@@ -63,4 +63,5 @@ Ref.
 正在確認
 - BSpline
 - EMG-driven的model
+- [[CE]]
 - 需要muscle-tendon kinematics
