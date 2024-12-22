@@ -11,3 +11,5 @@ spline function per muscle
 - MB-spline:只用$'mt\ nominal\ value$
 
 肌肉和肌腱的路徑並非簡單的直線，而是會繞過骨骼或其他組織結構。為了模擬這種情況，研究者會使用點或曲面來表示這些阻礙物。
+- 不連續性
+- 
