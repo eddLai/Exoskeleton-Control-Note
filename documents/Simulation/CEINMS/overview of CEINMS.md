@@ -45,13 +45,13 @@ ref.
 
 ---
 ## Modes
-- Full-predictive open-loop mode: 
+- Full-predictive open-loop mode(EMG-driven): 
 	- EMG signals and 3D joint angles input $\rightarrow$musculotendon forces
 
 ![[CEINMS Full-predictive open-loop mode.png]]
 
 ---
-- Hybrid mode:
+- Hybrid mode(EMG-driven):
 	- optimization algorithms
 	- excitation patterns of 不可能有的深層資料
 	- 再第一點的資料
