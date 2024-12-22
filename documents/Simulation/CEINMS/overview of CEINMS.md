@@ -50,7 +50,7 @@ ref.
 - Hybrid mode:
 	- optimization algorithms
 	- excitation patterns of 不可能有的深層資料
-	- 再加上以上的資料
+	- 再第一點的資料
 - EMG-assisted mode
 - Static optimisation mode
 
