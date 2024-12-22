@@ -77,6 +77,11 @@ minimize maximum activation, minimize maximum joint contact forces etc
 with predefined boundaries
 
 ---
+
+
+---
+
+---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
 - _musculo-tendon lengths_ 肌腱-肌肉單位的長度
