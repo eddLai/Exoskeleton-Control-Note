@@ -1,3 +1,5 @@
+
+
 ref. [[Estimation of musculotendon kinematics in large musculoskeletal models using multidimensional B-splines.pdf]]
 
 ---
@@ -21,7 +23,9 @@ spline 方法只需要 MTU 長度資訊，就可以估計 MTU 長度和力臂，
 
 ---
 ## 肌肉模擬的複雜性
-
 肌肉和肌腱的路徑並非簡單的直線，而是會繞過骨骼或其他組織結構。為了模擬這種情況，研究者會使用點或曲面來表示這些阻礙物。
 - 不連續性，可能無法進行微分
 - 多力臂
+
+---
+## spline數學描述
