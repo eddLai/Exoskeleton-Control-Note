@@ -61,7 +61,7 @@ Ref.
 
 ---
 正在確認
-- [[BSpline model]]
+- [[BSpline model and  musculoskeletal modeling]]
 multidimensional spline function
 - EMG-driven的model
 - [[overview of CEINMS]]
