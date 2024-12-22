@@ -80,8 +80,11 @@ $$\frac{\partial s_2(x, z)}{\partial x} = \sum_{i_1 = l_1}^{m_1} \sum_{i_2 = l_2
 $$r_{q_i} = \frac{\partial \ell^{mt}(q_1, \dots, q_d)}{\partial q_i} = \frac{\partial s_d(q_1, \dots, q_d)}{\partial q_i}
 $$
 
+
 ---
 performance index
 
 $$\text{MFE} = \frac{1}{N} \sum_{i=1}^{N} |\hat{X}_i - X_i|,$$
-
+$$\%\varepsilon_c = \frac{\text{MFE}}{\mathbb{E}[\hat{X}]} \times 100
+$$
+則用來計算一些統計分析
