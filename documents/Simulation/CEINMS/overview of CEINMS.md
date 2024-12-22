@@ -73,10 +73,10 @@ parameters for each musculotendon unit.
 
 objective function:
 
-$$F_{\text{obj}} = \alpha \cdot \sum_{k \in DOFs}
+$$F_{\text{obj}} = \alpha \cdot \sum_{k \in DOFs}\tau_k - \tilde{\tau}_k ^2$$
+
 $$
-$$\tau_k - \tilde{\tau}_k ^2 
-+ \beta \cdot \sum_{j \in MTUs} \left( e_j - \tilde{e}_j \right)^2 
++ \beta \cdot \sum_{j \in MTUs}( e_j - \tilde{e}_j \right)^2 
 + \gamma \cdot \sum_{j \in MTUs} \left( e_j^2$$
 
 ---
