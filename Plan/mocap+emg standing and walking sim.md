@@ -255,3 +255,5 @@ SCONE分析項目
 - EMG-driven的model
 
 看了一系列文獻，也算是review了目前的整個EMG的方案
+
+informed vs driven
