@@ -109,8 +109,12 @@ $$CoV=\frac{\sigma}{\mu}$$
 - [Microsoft Word - 09論文~第三章.doc](https://pmcl.mt.ntnu.edu.tw/Laboratory/paper/%E4%BD%99%E5%8B%9D%E6%99%BA/ch3.pdf)，WT to BNN
 - [[Comparison of Empirical Mode Decomposition, Wavelets, and Different Machine Learning Approaches for Patient-Specific Seizure Detection Using Signal-Derived Empirical Dictionary Approach.pdf]]
 
+Dictionary learning
 第t次迭代
 $$r_i^{(t)}=\min_{D, R} \sum_{i=1}^K \left( \|x_i - D r_i\|_2^2 + \lambda \|r_i\|_1 \right)$$
+
+$$D^{(t+1)} = \arg\min_{D} \sum_{i=1}^K \|x_i - D r_i^{(t)}\|_2^2
+$$
 
 
 ---
