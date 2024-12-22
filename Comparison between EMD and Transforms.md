@@ -121,7 +121,7 @@ pattern detection:
 	- information theory, different forms of entropy
 
 ---
-## Noise problem of EMG, EMD solution
+## Denoising of EMG, EMD solution
 [5] 理想情況："If the type of noise(例如統計特性) present in a signal is known a priori(先驗已知) then optimal filters, e.g. the Wiener filter, may be applied to attenuate its presence."
 
 common LPD filter Usui and Amido: 
