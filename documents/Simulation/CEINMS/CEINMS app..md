@@ -7,6 +7,13 @@ ref.
 - https://github.com/CEINMS/CEINMS
 
 ---
+## Modes
+- Full-predictive open-loop mode
+- Hybrid mode
+- EMG-assisted mode
+- Static optimisation mode
+
+---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
 - _musculo-tendon lengths_ 肌腱-肌肉單位的長度
