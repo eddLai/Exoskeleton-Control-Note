@@ -117,7 +117,7 @@ $$r_i^{(t)}=\min_{D, R} \sum_{i=1}^K \left( \|x_i - D r_i\|_2^2 + \lambda \|r_i\
 
 $$D^{(t+1)} = \arg\min_{D} \sum_{i=1}^K \|x_i - D r_i^{(t)}\|_2^2
 $$
-
+透過validation資料集，找出最能代表Seizure的
 
 ---
 pattern detection:
