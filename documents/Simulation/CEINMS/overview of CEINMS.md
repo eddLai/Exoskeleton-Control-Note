@@ -45,9 +45,10 @@ ref.
 
 ---
 ## Modes
-![[Pasted image 20241222191929.png]]
 - Full-predictive open-loop mode: 
 	- EMG signals and 3D joint angles input $\rightarrow$musculotendon forces
+
+![[CEINMS Full-predictive open-loop mode.png]]
 
 ---
 - Hybrid mode:
