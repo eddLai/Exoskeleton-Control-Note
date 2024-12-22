@@ -93,6 +93,7 @@ check<!-- element class="with-border"-->
 
 ---
 ### Activation dynamics
+preprocessing 流程跟我們不一樣
 ### contraction dynamics
 
 ---
