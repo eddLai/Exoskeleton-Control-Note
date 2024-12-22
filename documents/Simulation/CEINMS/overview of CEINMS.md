@@ -76,7 +76,7 @@ objective function:
 $$F_{\text{obj}} = \alpha \cdot \sum_{k \in DOFs}(\tau_k - \tilde{\tau}_k) ^2+\beta \cdot \sum_{j \in MTUs}( e_j - \tilde{e}_j)^2+\gamma \cdot \sum_{j \in MTUs}( e_j^2)$$
 
 - Joint $k$
-- $\tau$ moment
+- moment $\tau$ , $\tau$ 
 
 ---
 non-linearly optimization for different individuals: Simulated Annealing
