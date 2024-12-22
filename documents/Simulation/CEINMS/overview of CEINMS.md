@@ -64,6 +64,8 @@ parameters for each musculotendon unit.
 - musculotendon unit’s activation dynamics: excitation $\rightarrow$ activation
 - musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force
 
+non-linearly optimization for different individuals
+
 ---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
