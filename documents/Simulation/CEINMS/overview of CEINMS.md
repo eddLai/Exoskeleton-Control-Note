@@ -49,7 +49,7 @@ ref.
 	- EMG signals and 3D joint angles input $\rightarrow$musculotendon forces
 - Hybrid mode:
 	- optimization algorithms
-	- excitation patterns of 不
+	- excitation patterns of 不可能有的深層資料
 - EMG-assisted mode
 - Static optimisation mode
 
