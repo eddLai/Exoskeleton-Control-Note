@@ -63,3 +63,5 @@ spline 方法只需要 MTU 長度資訊，就可以估計 MTU 長度和力臂，
 ---
 ## spline數學描述
 $$S_1(x)=\sum_{i=1}^mc_iu_i(x)$$
+$$m = \min(l + 3, n + 3)$$
+$$l = \frac{x - a}{h} + 1$$
