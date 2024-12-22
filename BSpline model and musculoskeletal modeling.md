@@ -96,4 +96,4 @@ $$\%\varepsilon_c = \frac{\text{MFE}}{\mathbb{E}[\hat{X}]} \times 100$$
 $\%\varepsilon_c$則用來計算一些統計分析
 
 ---
-## 整合EMG-driven
+## 整合EMG-driven model
