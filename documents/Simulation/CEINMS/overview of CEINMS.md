@@ -56,6 +56,8 @@ ref.
 - Static optimisation mode
 	- 不需要recorded資料
 
+可以使用不同mode到同一個model上
+
 ---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
