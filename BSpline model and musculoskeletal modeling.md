@@ -85,6 +85,7 @@ $$
 performance index
 
 $$\text{MFE} = \frac{1}{N} \sum_{i=1}^{N} |\hat{X}_i - X_i|,$$
+“X^i\\hat{X}\_iX^i​: 使用 OpenSim 生成的數據，例如： * 肌腱單位長度 (ℓmt\\ell^{mt}ℓmt), * 力臂 (rrr), * 肌腱單位力 (FmtF^{mt}Fmt)。”
 $$\%\varepsilon_c = \frac{\text{MFE}}{\mathbb{E}[\hat{X}]} \times 100
 $$
 則用來計算一些統計分析
