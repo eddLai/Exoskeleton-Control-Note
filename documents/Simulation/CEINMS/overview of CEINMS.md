@@ -61,7 +61,8 @@ ref.
 ---
 ## Calibration
 parameters for each musculotendon unit.
-- musculotendon unit’s activation dynamics: excitation $\right$
+- musculotendon unit’s activation dynamics: excitation $\rightarrow$ activation
+- 
 
 ---
 ## Data Description
