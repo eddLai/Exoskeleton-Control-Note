@@ -45,8 +45,11 @@ ref.
 
 ---
 ## Modes
+![[Pasted image 20241222191929.png]]
 - Full-predictive open-loop mode: 
 	- EMG signals and 3D joint angles input $\rightarrow$musculotendon forces
+
+---
 - Hybrid mode:
 	- optimization algorithms
 	- excitation patterns of 不可能有的深層資料
