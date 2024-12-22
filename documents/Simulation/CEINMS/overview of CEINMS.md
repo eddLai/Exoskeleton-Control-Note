@@ -77,7 +77,7 @@ $$F_{\text{obj}} = \alpha \cdot \sum_{k \in DOFs}(\tau_k - \tilde{\tau}_k) ^2+\b
 
 - Joint $k$
 - moment $\tau$ , experiment moment$\tilde{\tau}$ 
-- 
+- excitation for MTU
 
 ---
 non-linearly optimization for different individuals: Simulated Annealing
