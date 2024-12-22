@@ -100,3 +100,4 @@ $\%\varepsilon_c$則用來計算一些統計分析
 都是透過Hill-type muscle model
 $$F^{mt} = F_t = F_m \cos(\phi(t)) = \left[a(t) f(l_m) f(v_m) + f_P(l_m)\right] F_{\text{max}} \cos(\phi(t)),
 $$
+$$$$
