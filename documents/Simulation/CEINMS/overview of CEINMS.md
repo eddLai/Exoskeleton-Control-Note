@@ -93,7 +93,7 @@ check<!-- element class="with-border"-->
 
 ---
 ### Activation dynamics
-### 
+### contraction dynamics
 
 ---
 ## Data Description
