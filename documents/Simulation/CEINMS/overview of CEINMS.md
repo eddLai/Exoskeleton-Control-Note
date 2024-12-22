@@ -92,7 +92,8 @@ parameters for each musculotendon unit.
 check<!-- element class="with-border"-->
 
 ---
-checheck
+### Activation dynamics
+### 
 
 ---
 ## Data Description
