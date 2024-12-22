@@ -187,7 +187,7 @@ Conclusion
 ![[EMD filter  Cumulative distribution functions for windows signal.png]]
 
 ---
-## connect DWT and EMD to classifier or decoder
+## EMD vs WT: connect to classifier or decoder
 - [Microsoft Word - 09論文~第三章.doc](https://pmcl.mt.ntnu.edu.tw/Laboratory/paper/%E4%BD%99%E5%8B%9D%E6%99%BA/ch3.pdf)，WT to BNN
 - [[Comparison of Empirical Mode Decomposition, Wavelets, and Different Machine Learning Approaches for Patient-Specific Seizure Detection Using Signal-Derived Empirical Dictionary Approach.pdf]]
 
