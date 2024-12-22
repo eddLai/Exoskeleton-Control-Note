@@ -110,3 +110,5 @@ $$
 - $f_P(l_m)$: 被動力-長度關係函數
 - $F_{\text{max}}$: 最大等長肌肉力
 
+---
+ref. [[EMG-DrivenForward-DynamicEstimationofMuscle.pdf]]
