@@ -64,7 +64,7 @@ parameters for each musculotendon unit.
 - musculotendon unit’s activation dynamics: excitation $\rightarrow$ activation
 - musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force
 
-non-linearly optimization for different individuals
+non-linearly optimization for different individuals: Simulated Annealing
 
 ---
 ## Data Description
