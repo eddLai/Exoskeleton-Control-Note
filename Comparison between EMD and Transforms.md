@@ -66,7 +66,7 @@ WT: 選用與 MUAP 相似的波形
 [Wavelet Toolbox User's Guide](http://cda.psych.uiuc.edu/matlab_pdf/wavelet_ug.pdf)
 
 ---
-## Comparison of EMD and WT
+## Comparison of EMD and WT: mean freq.
 "***the EMG is a non-stationary signal, especially for contraction levels higher than 50% of maximum voluntary contraction(MVC)***"[1]
 - more info. [Enhancement of spectral analysis of myoelectric signals during static contractions using wavelet methods | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/document/764944)
 
@@ -105,7 +105,7 @@ $$CoV=\frac{\sigma}{\mu}$$
 ![[CoV result of different spectrum analysis.png|350]]
 
 ---
-## Denoising of EMG, EMD vs WT
+## EMD vs WT: Denoising of EMG
 [5] 理想情況："If the type of noise(例如統計特性) present in a signal is known a priori(先驗已知) then optimal filters, e.g. the Wiener filter, may be applied to attenuate its presence."
 
 common LPD filter Usui and Amido: 
