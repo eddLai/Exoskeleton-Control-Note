@@ -109,6 +109,9 @@ $$CoV=\frac{\sigma}{\mu}$$
 - [Microsoft Word - 09論文~第三章.doc](https://pmcl.mt.ntnu.edu.tw/Laboratory/paper/%E4%BD%99%E5%8B%9D%E6%99%BA/ch3.pdf)，WT to BNN
 - [[Comparison of Empirical Mode Decomposition, Wavelets, and Different Machine Learning Approaches for Patient-Specific Seizure Detection Using Signal-Derived Empirical Dictionary Approach.pdf]]
 
+detection:
+signal variance or the signal autocorrelation function, or may use time-frequency techniques
+
 
 ---
 ## Noise problem of EMG, EMD solution
