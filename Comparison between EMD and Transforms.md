@@ -110,8 +110,11 @@ $$CoV=\frac{\sigma}{\mu}$$
 - [[Comparison of Empirical Mode Decomposition, Wavelets, and Different Machine Learning Approaches for Patient-Specific Seizure Detection Using Signal-Derived Empirical Dictionary Approach.pdf]]
 
 detection:
-linear:signal variance or the signal autocorrelation function, or may use time-frequency techniques
-non-lfractal dimension, Lyapunov exponent,or measures derived from information theory such as different forms of entropy
+- linear:
+	- signal variance
+	- signal autocorrelation function
+	- time-frequency techniques
+- non-linear:fractal dimension, Lyapunov exponent,or measures derived from information theory such as different forms of entropy
 
 
 ---
