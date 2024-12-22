@@ -68,6 +68,8 @@ parameters for each musculotendon unit.
 - musculotendon unit’s activation dynamics: excitation $\rightarrow$ activation
 - musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force
 
+---
+![[CEINMS Calibration.png]]
 non-linearly optimization for different individuals: Simulated Annealing
 - close tracking
 	- experimental joint moments
