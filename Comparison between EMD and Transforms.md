@@ -125,6 +125,7 @@ $$
 - 投影係數 (F1)：訊號在字典原子上的投影值。
 - 係數向量 (F2)：訊號在字典中的稀疏表示。
 - 重建誤差 (F3)：使用字典原子重建訊號時的誤差。
+
 分類器
 - 線性判別分析 (LDA)：一種線性的分類方法。
 - 支持向量機 (SVM)：使用徑向基函數核函數，是一種非線性的分類方法，被認為是癲癇檢測的常用選擇。
@@ -143,7 +144,7 @@ $$
 <split no-margin>
 ![[classifiers for EMD and DWT.png]]
 ![[classifiers for EMD and DWT CI.png]]
-
+</split>
 
 ---
 pattern detection:
