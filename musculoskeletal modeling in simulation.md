@@ -62,6 +62,7 @@ Ref.
 ---
 正在確認
 - BSpline
+multidimensional spline function
 - EMG-driven的model
 - [[overview of CEINMS]]
 - 需要muscle-tendon kinematics
