@@ -25,9 +25,13 @@ bg: "[[NTKLab_white bg.png]]"
 		border: 1px solid red;
 	}
 </style>
+</style>
+<grid drag="70 10" drop="-3 40">
+overview of CEINMS
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+</grid>
 
-
-<!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
+<!-- slide bg="../../../NTKLab_white bg_cover_resize.png"-->
 
 ---
 
