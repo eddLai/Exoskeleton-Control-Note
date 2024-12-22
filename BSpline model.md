@@ -4,6 +4,9 @@ ref. [[Estimation of musculotendon kinematics in large musculoskeletal models us
 - Nominal value: 未個體化的，標準化的人體模型中每條肌腱單元的幾何屬性
 - Peq: polynomial regression equations
 
+Generalized coordinates(GCs)
+their angular ranges ofmotion(ROM),expressedindegrees
+
 multidimensional B-splines function
 spline 方法只需要 MTU 長度資訊，就可以估計 MTU 長度和力臂，相較之下，多項式迴歸法則需要不同的方程式來計算 MTU 長度和力臂
 spline function per muscle
