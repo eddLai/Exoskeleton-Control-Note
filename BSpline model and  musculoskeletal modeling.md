@@ -65,3 +65,14 @@ spline 方法只需要 MTU 長度資訊，就可以估計 MTU 長度和力臂，
 $$S_1(x)=\sum_{i=1}^mc_iu_i(x)$$
 $$m = \min(l + 3, n + 3)$$
 $$l = \frac{x - a}{h} + 1$$
+
+$$N_c = \prod_{i=1}^{d} (n_i + 3), \quad N_d = \prod_{i=1}^{d} (m_i - l_i + 1) \leq 3^d
+$$
+
+
+---
+$$\frac{\partial s_2(x, z)}{\partial x} = \sum_{i_1 = l_1}^{m_1} \sum_{i_2 = l_2}^{m_2} c_{i_1 i_2} u_{i_1}'(x) v_{i_2}(z)$$
+$$r_{q_i} = \frac{\partial \ell^{mt}(q_1, \dots, q_d)}{\partial q_i} = \frac{\partial s_d(q_1, \dots, q_d)}{\partial q_i}
+$$
+
+---
