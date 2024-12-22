@@ -45,7 +45,7 @@ ref.
 
 ---
 ## Modes
-- Full-predictive open-loop mode
+- Full-predictive open-loop mode: EMG signals and 3D joint angles input
 - Hybrid mode
 - EMG-assisted mode
 - Static optimisation mode
