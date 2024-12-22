@@ -1,5 +1,8 @@
 EMG-informed method
+>Fundamental to these calibrated methods was the ability to validate the outputs against other data not used for calibra tion.
+
 ref.
+- [[documents/Simulation/papers/CEINMS User Guide 0.9.pdf|CEINMS User Guide 0.9]]
 - [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]]
 - https://github.com/CEINMS/CEINMS
 
