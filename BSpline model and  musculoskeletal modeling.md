@@ -71,7 +71,9 @@ $$
 
 
 ---
+- 
 $$\frac{\partial s_2(x, z)}{\partial x} = \sum_{i_1 = l_1}^{m_1} \sum_{i_2 = l_2}^{m_2} c_{i_1 i_2} u_{i_1}'(x) v_{i_2}(z)$$
+- Moment arms:
 $$r_{q_i} = \frac{\partial \ell^{mt}(q_1, \dots, q_d)}{\partial q_i} = \frac{\partial s_d(q_1, \dots, q_d)}{\partial q_i}
 $$
 
