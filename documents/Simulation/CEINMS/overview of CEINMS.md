@@ -70,6 +70,8 @@ parameters for each musculotendon unit.
 
 ---
 ![[CEINMS Calibration.png]]
+objective function:
+
 non-linearly optimization for different individuals: Simulated Annealing
 - close tracking
 	- experimental joint moments
