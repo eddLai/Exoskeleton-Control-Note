@@ -1,5 +1,6 @@
 ref. [[Estimation of musculotendon kinematics in large musculoskeletal models using multidimensional B-splines.pdf]]
 
+---
 ## Terms
 - Nominal value: 未個體化的，標準化的人體模型中每條肌腱單元的幾何屬性
 - Peq: polynomial regression equations
