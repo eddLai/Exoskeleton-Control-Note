@@ -65,7 +65,7 @@ New hardware options
 
 ---
 # Analysis methods
-background: [[recall signal and system]]
+background: [[recall signal and system]],
 list: https://web.ntnu.edu.tw/~algo/Signal.html
 - [[frequency analysis]]
 - [[signal decomposition]] -> [[applications of EMD using emd library]] <!-- element class="with-border"-->
