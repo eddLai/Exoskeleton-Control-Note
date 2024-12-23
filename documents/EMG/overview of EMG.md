@@ -26,9 +26,9 @@ bg: "[[NTKLab_white bg.png]]"
 		border: 1px solid red;
 	}
 </style>
-<grid drag="70 10" drop="-3 40">
+<grid drag="60 10" drop="-3 40">
 overview of our EMG processing procedure
-<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
+<!-- element style="font-size: 35px;align: left; text-align: left;color: white"-->
 </grid>
 
 <grid drag="50 10" drop="40 70">
