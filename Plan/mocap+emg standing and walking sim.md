@@ -259,4 +259,4 @@ SCONE分析項目
 - [x] informed vs driven
 為什麼不用CEINMS工具，因為2012，那應該要有driven model在裡頭
 
-現有模型怎麼去延展資料??
+現有模型怎麼去延展資料??SCONE的原理是?
