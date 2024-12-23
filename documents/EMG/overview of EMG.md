@@ -89,7 +89,7 @@ list: https://web.ntnu.edu.tw/~algo/Signal.html
 - CEEMDAN
 
 ---
-# Fundamental Understanding of EMG :onset detection
+# EMG onset detection
 MUAPs:肌肉基本運動單元，包含肌肉纖維及神經元
 ref. [EMG signal filtering based on Empirical Mode Decomposition - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809406000085?ref=pdf_download&fr=RR-2&rr=8f55c59e1863843f)
 
