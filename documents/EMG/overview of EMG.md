@@ -115,7 +115,7 @@ ref. [[Review of electromyography onset detection methods for real-time control 
 
 ---
 # 更進一步的pattern分析
-目前分成三個面向在研究中 2024/12/21
+目前分成三個面向正在研究中 2024/12/21
 - [[neurologic disorders and sEMG]]
 - [[level of fatigue from EMG]]
 - [[musculoskeletal modeling in simulation]] <!-- element class="with-border"-->
