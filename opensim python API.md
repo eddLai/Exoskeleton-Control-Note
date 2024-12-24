@@ -64,7 +64,11 @@ result_normal_gait = analyze_tool_normal_gait.run()
 
 ---
 # Scaling
-
+run scaling
+```python
+scale_tool = osim.ScaleTool('gait2354_Setup_Scale.xml')
+scale_tool.run()
+```
 
 取得XML資訊
 ```python
