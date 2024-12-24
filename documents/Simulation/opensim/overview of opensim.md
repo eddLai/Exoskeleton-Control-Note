@@ -52,4 +52,5 @@ muscle_analysis.setInDegrees(True)
 muscle_analysis.setComputeMoments(True)
 ```
 
-Import AnalysisTool
+Import model and motion file
+
