@@ -53,4 +53,7 @@ muscle_analysis.setComputeMoments(True)
 ```
 
 Import model and motion file
-
+```python
+analyze_tool_normal_gait.setModelFilename("gait2392.osim")
+analyze_tool_normal_gait.setCoordinatesFileName("normal_gait.mot")
+```
