@@ -82,3 +82,6 @@ save to XML
 analyze_tool_normal_gait.printToXML("Muscle_Analysis_Normal_Gait_AnalyzeTool_setup.xml")
 ```
 
+run analysis through XML
+```
+```
