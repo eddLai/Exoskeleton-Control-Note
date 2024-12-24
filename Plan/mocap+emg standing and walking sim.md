@@ -278,3 +278,5 @@ scale_tool.getModelScaler().setMarkerFileName(base_path + marker_file)
 scale_tool.getMarkerPlacer().processModel()
 scale_tool.run()
 ```
+
+update XML 要改create
