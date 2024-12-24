@@ -24,3 +24,5 @@ Coordinate controller
 ---
 - opensim sample rate
 - 創造物件的功能
+- 可以好好的讀XML的內容
+- 
