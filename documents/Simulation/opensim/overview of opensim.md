@@ -76,6 +76,7 @@ analyze_tool_normal_gait.setStartTime(first_time)
 analyze_tool_normal_gait.setFinalTime(last_time)
 ```
 
+save to XML
 ```python
 # Print configuration of the AnalyzeTool to an XML file.
 analyze_tool_normal_gait.printToXML("Muscle_Analysis_Normal_Gait_AnalyzeTool_setup.xml")
