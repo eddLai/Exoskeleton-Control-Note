@@ -21,3 +21,6 @@ Coordinate controller
 ### Application
 - 使用[[gait analysis code from Maurice edd_Note]]
 
+---
+- opensim sample rate
+=還有創造物件的功能
