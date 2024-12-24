@@ -22,11 +22,12 @@ Coordinate controller
 - 使用[[gait analysis code from Maurice edd_Note]]
 
 ---
-### python API
+# python API
 - opensim sample rate
 - 創造物件的功能
 - 取XML的內容
 
+# Muscle analysis
 要做muscle analysis需要設定muscle of interest
 ```python
 muscle_analysis = osim.MuscleAnalysis()
