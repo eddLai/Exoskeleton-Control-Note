@@ -27,6 +27,7 @@ Coordinate controller
 - 創造物件的功能
 - 取XML的內容
 
+[[opensim python API]]
 # Muscle analysis
 要做muscle analysis需要設定muscle of interest
 ```python
