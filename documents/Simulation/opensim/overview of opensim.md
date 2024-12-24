@@ -64,7 +64,7 @@ analyze_tool_normal_gait.setModelFilename("gait2392.osim")
 analyze_tool_normal_gait.setCoordinatesFileName("normal_gait.mot")
 # Add the MuscleAnalysis to the AnalyzeTool.
 analyze_tool_normal_gait.updAnalysisSet().cloneAndAppend(muscle_analysis)
- %%
+#result設定
 analyze_tool_normal_gait.setResultsDir("MA_Normal_Gait_Results")
 ```
 
