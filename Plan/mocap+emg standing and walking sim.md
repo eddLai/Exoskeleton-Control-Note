@@ -263,6 +263,4 @@ SCONE分析項目
 - 多筆資料的Data要怎麼剪接
 - `RajagopalLaiUhlrich2023.osim`
 
-
-
-
+momentarm，裡頭有
