@@ -65,7 +65,7 @@ result_normal_gait = analyze_tool_normal_gait.run()
 
 ---
 # Scaling
->有提供工具直接越過
+>有提供工具直接越過XML檔案進行設定
 
 run scaling
 ```python
