@@ -261,3 +261,4 @@ SCONE分析項目
 
 現有模型怎麼去延展資料??SCONE的原理是?
 要怎麼剪接
+`RajagopalLaiUhlrich2023.osim`
