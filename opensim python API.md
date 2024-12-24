@@ -60,3 +60,4 @@ analyze_tool_normal_gait = osim.AnalyzeTool("Muscle_Analysis_Normal_Gait_Analyze
 result_normal_gait = analyze_tool_normal_gait.run()
 ```
 
+生出的`.sto`
