@@ -23,4 +23,4 @@ Coordinate controller
 
 ---
 - opensim sample rate
-=還有創造物件的功能
+- 創造物件的功能
