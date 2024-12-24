@@ -260,7 +260,9 @@ SCONE分析項目
 為什麼不用CEINMS工具，因為2012，那應該要有driven model在裡頭
 
 現有模型怎麼去延展資料??SCONE的原理是?
-Data要怎麼剪接
-`RajagopalLaiUhlrich2023.osim`
+- 多筆資料的Data要怎麼剪接
+- `RajagopalLaiUhlrich2023.osim`
+
+
 
 
