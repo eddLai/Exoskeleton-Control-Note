@@ -83,5 +83,9 @@ analyze_tool_normal_gait.printToXML("Muscle_Analysis_Normal_Gait_AnalyzeTool_set
 ```
 
 run analysis through XML
+```python
+# Load configuration and run the analyses. 
+analyze_tool_normal_gait = osim.AnalyzeTool("Muscle_Analysis_Normal_Gait_AnalyzeTool_setup.xml", True)
+result_normal_gait = analyze_tool_normal_gait.run()
 ```
-```
+
