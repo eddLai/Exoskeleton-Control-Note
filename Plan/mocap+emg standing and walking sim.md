@@ -266,4 +266,4 @@ SCONE分析項目
 momentarm，裡頭有
 subject_description需要有`<dofSet>`的設定
 
-scaling XML中的data的marker .trc
+scaling XML中的data的marker .trc要用相對路徑，
