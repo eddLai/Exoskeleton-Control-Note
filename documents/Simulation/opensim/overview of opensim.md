@@ -68,3 +68,10 @@ analyze_tool_normal_gait.updAnalysisSet().cloneAndAppend(muscle_analysis)
 analyze_tool_normal_gait.setResultsDir("MA_Normal_Gait_Results")
 ```
 
+Configure AnalyzeTool.
+```python
+analyze_tool_normal_gait.setReplaceForceSet(False)
+analyze_tool_normal_gait.setSolveForEquilibrium(True)
+analyze_tool_normal_gait.setStartTime(first_time)
+analyze_tool_normal_gait.setFinalTime(last_time)
+```
