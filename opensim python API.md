@@ -61,3 +61,26 @@ result_normal_gait = analyze_tool_normal_gait.run()
 ```
 
 生出的`.sto`
+
+---
+# Scaling
+
+
+取得XML資訊
+```python
+# Print some information of the config file to test everything is correct.
+print("Name:", scale_tool.getName())
+print("Subject Mass:", scale_tool.getSubjectMass())
+print("Subject Height:", scale_tool.getSubjectHeight())
+print("Notes:", scale_tool.getPropertyByName("notes").toString())
+print()
+
+# Get model marker file name.
+generic_model_maker = scale_tool.getGenericModelMaker()
+print("Marker Set File Name:", generic_model_maker.getMarkerSetFileName())
+print()
+
+# Get marker file name.
+marker_placer = scale_tool.getMarkerPlacer()
+print("Marker Placer File Name:", marker_placer.getMarkerFileName())
+```
