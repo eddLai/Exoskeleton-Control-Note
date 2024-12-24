@@ -41,7 +41,7 @@ muscle_list = osim.ArrayStr()
 muscle_list.append("semiten_r")
 ```
 
-開始進行分析
+設定分析
 ```python
 muscle_analysis.setMuscles(muscle_list)
 
@@ -52,3 +52,4 @@ muscle_analysis.setInDegrees(True)
 muscle_analysis.setComputeMoments(True)
 ```
 
+Import AnalysisTool
