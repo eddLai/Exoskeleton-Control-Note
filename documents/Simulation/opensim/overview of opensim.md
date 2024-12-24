@@ -28,3 +28,15 @@ Coordinate controller
 - 取XML的內容
 
 要做muscle analysis需要設定muscle of interest
+```python
+muscle_analysis = osim.MuscleAnalysis()
+
+# Set start and end times for the analysis.
+muscle_analysis.setStartTime(first_time)
+muscle_analysis.setEndTime(last_time)
+
+# Set the muscle of interest (semitendinosus on the right leg).
+muscle_list = osim.ArrayStr()
+muscle_list.append("semiten_r")
+muscle_analysis.setMuscles(muscle_list)
+```
