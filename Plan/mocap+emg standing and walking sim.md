@@ -267,3 +267,14 @@ momentarm，裡頭有
 subject_description需要有`<dofSet>`的設定
 
 scaling XML中的data的marker .trc要用相對路徑，
+
+發現opensim端，可以不用設定XML，會直接越過，還沒有找到官方文檔在講這個(原來是包含在C中)，用自己寫的python XML庫可操作性比較大(可以在GUI中複現)
+```python
+# scale_tool = osim.ScaleTool(base_path + path_to_scaling_setup_file)
+scale_tool = osim.ScaleTool()
+scale_tool.getGenericModelMaker().setModelFileName(base_path + model_file_path)
+# scale_tool.getGenericModelMaker().setMarkerSetFileName()
+scale_tool.getModelScaler().setMarkerFileName(base_path + marker_file)
+scale_tool.getMarkerPlacer().processModel()
+scale_tool.run()
+```
