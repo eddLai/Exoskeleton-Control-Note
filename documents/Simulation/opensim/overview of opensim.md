@@ -52,6 +52,12 @@ muscle_analysis.setInDegrees(True)
 muscle_analysis.setComputeMoments(True)
 ```
 
+整合tool
+```python
+analyze_tool_normal_gait = osim.AnalyzeTool()
+analyze_tool_normal_gait.setName("Muscle_Analysis_Normal_Gait")
+```
+
 Import model and motion file
 ```python
 analyze_tool_normal_gait.setModelFilename("gait2392.osim")
