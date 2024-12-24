@@ -3,7 +3,7 @@ ref.
 - [OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview)
 - file example: [opensim-models/Pipelines/Gait2354_Simbody/subject01_Setup_Scale.xml at master · opensim-org/opensim-models](https://github.com/opensim-org/opensim-models/blob/master/Pipelines/Gait2354_Simbody/subject01_Setup_Scale.xml)
 
-### Content
+# Content
 - [[opensim Download]]
 - [[opensim data collection and data structure]]
 - [[opensim models]]
@@ -18,7 +18,7 @@ ref.
 Coordinate controller
 
 ---
-### Application
+# Application
 - 使用[[gait analysis code from Maurice edd_Note]]
 
 ---
@@ -38,5 +38,16 @@ muscle_analysis.setEndTime(last_time)
 # Set the muscle of interest (semitendinosus on the right leg).
 muscle_list = osim.ArrayStr()
 muscle_list.append("semiten_r")
-muscle_analysis.setMuscles(muscle_list)
 ```
+
+開始進行分析
+```python
+muscle_analysis.setMuscles(muscle_list)
+
+# Configure the analysis.
+muscle_analysis.setOn(True)
+muscle_analysis.setStepInterval(1)
+muscle_analysis.setInDegrees(True)
+muscle_analysis.setComputeMoments(True)
+```
+
