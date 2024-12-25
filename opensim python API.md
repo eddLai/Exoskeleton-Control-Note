@@ -62,6 +62,7 @@ result_normal_gait = analyze_tool_normal_gait.run()
 ```
 
 生出的`.sto`
+[SimTK: OpenSim: phpBB](https://simtk.org/plugins/phpBB/viewtopicPhpbb.php?f=91&t=17718&p=0&start=0&view=)
 
 ---
 # Scaling
