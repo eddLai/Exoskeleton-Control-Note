@@ -283,4 +283,4 @@ update XML 要改成 create
 
 有python API跟C++ API
 
-官方建議從C, [API: API Guide](https://simtk.org/api_docs/opensim/api_docs/md_doc_APIGuide.html)
+官方建議從C++, [API: API Guide](https://simtk.org/api_docs/opensim/api_docs/md_doc_APIGuide.html)
