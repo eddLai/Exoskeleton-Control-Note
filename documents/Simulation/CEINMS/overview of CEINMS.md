@@ -223,5 +223,6 @@ equilibriumElastic more acc. but stiff less comput. time
 mkdir build
 cd build
 cmake ..
+make -j4
 
 ```
