@@ -227,4 +227,12 @@ make -j4
 make install
 ```
 
-- 
+```xml
+<excitation id="bflh_l">
+      <input weight="0.5">LBF</input>
+</excitation>
+<excitation id="bfsh_l">
+      <input weight="0.5">LBF</input>
+</excitation>
+```
+
