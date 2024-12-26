@@ -227,7 +227,7 @@ make -j4
 make install
 ```
 
-1. 可以一個分兩個
+1. 可以一個分兩個：沒影響，但是意義==有待商榷==
 ```xml
 <excitation id="bflh_l">
       <input weight="0.5">LBF</input>
