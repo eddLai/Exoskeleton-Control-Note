@@ -227,6 +227,7 @@ make -j4
 make install
 ```
 
+1. 可以一個分兩個
 ```xml
 <excitation id="bflh_l">
       <input weight="0.5">LBF</input>
@@ -236,3 +237,4 @@ make install
 </excitation>
 ```
 
+2. 剩下的所有mtu可能都要有?
