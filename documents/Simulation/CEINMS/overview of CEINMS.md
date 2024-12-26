@@ -237,4 +237,5 @@ make install
 </excitation>
 ```
 
-2. 剩下的所有mtu可能都要有?
+2. 剩下的所有mtu可能都要有?，
+3. subject的mtu要對照到excitation
