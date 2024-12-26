@@ -283,3 +283,6 @@ update XML 要改成 create
 
 有python API跟C++ API
 官方建議從C++學python的, [API: API Guide](https://simtk.org/api_docs/opensim/api_docs/md_doc_APIGuide.html)
+1. 先跑data_1009_EMG_steady_to_sto_for_CEINMS_calib.py
+2. 再跑opensim_scaling_IK_MA.py
+3. 再跑CEINMScalibration_file_gen_from_osim.py
