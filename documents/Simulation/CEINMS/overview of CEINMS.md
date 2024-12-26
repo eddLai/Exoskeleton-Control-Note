@@ -238,6 +238,7 @@ make install
 ```
 
 2. subject的mtu要對照到excitation的所有肌肉? -> 剩下的所有mtu可能都要有?，砍掉舊有的一部分做測試。對，必須要完全一樣
+	1. 所以
 ```xml
     <excitation id="vas_int_r"/>如果這行刪掉就會報錯
         <!-- <input weight="1">vas_lat_r</input>
@@ -249,9 +250,8 @@ make install
         <!-- <input weight="1">vas_lat_r</input>
     </excitation> -->
 ```
-	1. 所以
-4. 需要`.mot`檔案
-5. 檔名要有_
-6. 要用相對路徑
+1. 需要`.mot`檔案
+2. 檔名要有_
+3. 要用相對路徑
 
 edl_l
