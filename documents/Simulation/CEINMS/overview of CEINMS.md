@@ -219,3 +219,9 @@ equilibriumElastic more acc. but stiff less comput. time
 
 ---
 ### 在Linux上編譯
+```bash
+mkdir build
+cd build
+cmake ..
+
+```
