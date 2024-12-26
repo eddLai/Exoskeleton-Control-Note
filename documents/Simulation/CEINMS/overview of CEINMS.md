@@ -237,7 +237,19 @@ make install
 </excitation>
 ```
 
-2. subject的mtu要對照到excitation的所有肌肉? -> 剩下的所有mtu可能都要有?，砍掉舊有的一部分做測試，Yes
-3. 需要`.mot`檔案
-4. 檔名要有_
-5. 要用相對路徑
+2. subject的mtu要對照到excitation的所有肌肉? -> 剩下的所有mtu可能都要有?，砍掉舊有的一部分做測試。對，必須要完全一樣
+```
+    <excitation id="vas_int_r"/>
+        <!-- <input weight="1">vas_lat_r</input>
+    </excitation> -->
+    <excitation id="vas_lat_r"/>
+        <!-- <input weight="1">vas_lat_r</input>
+    </excitation> -->
+    <excitation id="vas_med_r"/>
+        <!-- <input weight="1">vas_lat_r</input>
+    </excitation> -->
+```
+	1. 所以
+4. 需要`.mot`檔案
+5. 檔名要有_
+6. 要用相對路徑
