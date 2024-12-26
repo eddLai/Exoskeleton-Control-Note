@@ -238,7 +238,7 @@ make install
 ```
 
 2. subject的mtu要對照到excitation的所有肌肉? -> 剩下的所有mtu可能都要有?，砍掉舊有的一部分做測試。對，必須要完全一樣
-	1. 所以
+	1. 所以把mtu改成跟emg一樣(不行，dof對不上)
 ```xml
     <excitation id="vas_int_r"/>如果這行刪掉就會報錯
         <!-- <input weight="1">vas_lat_r</input>
