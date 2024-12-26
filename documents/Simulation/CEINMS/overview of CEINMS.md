@@ -216,3 +216,6 @@ equilibriumElastic more acc. but stiff less comput. time
 用途: refining muscle parameters(用於muscles->force轉換)
 定義:
 - cost function: ***error between the estimated and the measured joint moments during a set of tasks.***
+
+---
+### 在Linux上編譯
