@@ -250,9 +250,9 @@ make install
         <!-- <input weight="1">vas_lat_r</input>
     </excitation> -->
 ```
-1. 需要`.mot`檔案, no
-2. 檔名要有_，no
-3. 要用相對路徑(沒有影響)
+1. 需要`.mot`檔案：no
+2. 檔名要有_：no
+3. 要用相對路徑：no沒有影響
 
 edl_l
 
