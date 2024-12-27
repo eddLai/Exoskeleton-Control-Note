@@ -272,4 +272,4 @@ Reading subject file: /media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulatio
 Calibration time: 3676435ms
 ```
 
-`<excitationsFile> `
+`<excitationsFile>`的位置沒有影響
