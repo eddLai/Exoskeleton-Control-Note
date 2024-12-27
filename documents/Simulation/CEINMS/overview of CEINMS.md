@@ -266,5 +266,4 @@ Return false
 fLatest_.at(0) - fOpt_ = 63777.4 - 55633.3 > 1e-05
 Reading subject file: /media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulation/XML_CEINMS_generator/CEINMS_calibration_XML/subject.xml .
 Calibration time: 3676435ms
-
 ```
