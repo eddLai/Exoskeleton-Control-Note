@@ -258,6 +258,8 @@ edl_l
 
 `<trialSet>../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og3.xml ../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og4.xml ../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og5.xml</trialSet>`
 
+`<trialSet>../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og3.xml</trialSet>`
+
 可以跑但結果異常
 ```
 LmtMa: lmtMa DONE
