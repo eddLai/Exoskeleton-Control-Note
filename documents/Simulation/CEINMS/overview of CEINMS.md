@@ -255,3 +255,16 @@ make install
 3. 要用相對路徑(沒有影響)
 
 edl_l
+
+`<trialSet>../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og3.xml ../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og4.xml ../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og5.xml</trialSet>`
+
+可以跑但結果異常
+```
+LmtMa: lmtMa DONE
+CalibrationStepCfg 100
+Return false
+fLatest_.at(0) - fOpt_ = 63777.4 - 55633.3 > 1e-05
+Reading subject file: /media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulation/XML_CEINMS_generator/CEINMS_calibration_XML/subject.xml .
+Calibration time: 3676435ms
+
+```
