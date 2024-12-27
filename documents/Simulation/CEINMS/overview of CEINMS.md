@@ -260,7 +260,7 @@ edl_l
 `<externalTorquesFile>..\..\..\inverseDynamics\Rstance1_R2L1_6\OvergroundGaitTrials_DM_ngait_og5\inverse_dynamics.sto</externalTorquesFile>`
 
 `<trialSet>../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og3.xml</trialSet>`
-``
+`<externalTorquesFile>../../../inverseDynamics/Rstance1_R2L1_6/OvergroundGaitTrials_DM_ngait_og3/inverse_dynamics.sto</externalTorquesFile>`
 
 可以跑但結果異常
 ```
