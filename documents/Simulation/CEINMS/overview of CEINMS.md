@@ -253,7 +253,7 @@ make install
 1. 需要`.mot`檔案：no
 2. 檔名要有_：no
 3. 要用相對路徑：no沒有影響
-4. subject中的mtu不能0dDOF對不上edl_l
+4. subject中的mtu不能砍DOF對不上edl_l
 
 `<trialSet>../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og3.xml ../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og4.xml ../../../trials/Rstance1/OvergroundGaitTrials_DM_ngait_og5.xml</trialSet>`
 `<externalTorquesFile>..\..\..\inverseDynamics\Rstance1_R2L1_6\OvergroundGaitTrials_DM_ngait_og5\inverse_dynamics.sto</externalTorquesFile>`
