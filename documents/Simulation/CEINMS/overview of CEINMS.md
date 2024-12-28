@@ -274,5 +274,5 @@ Calibration time: 3676435ms
 `<excitationsFile>`的位置沒有影響
 
 [[CEINMS_standard_output]]
-Trial的次數
-或者CEINMS_swtu
+- Trial的次數
+- 或者CEINMS_setup迭代的設定
