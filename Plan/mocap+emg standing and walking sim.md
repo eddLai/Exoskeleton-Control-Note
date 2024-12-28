@@ -294,3 +294,6 @@ scale_tool.run()
 3. 再跑CEINMScalibration_file_gen_from_osim.py
 
 >先在沒有GRF的情況下跑了ID
+
+- 顯卡越高階越好
+- 
