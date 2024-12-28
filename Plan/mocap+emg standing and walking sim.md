@@ -281,11 +281,11 @@ scale_tool.run()
 
 update XML 要改成 create
 
+本週成果：建立了整套的opensim API到CEINMS API的xml生成的建構流程
+流程圖...
 有python API跟C++ API
 官方建議從C++學python的, [API: API Guide](https://simtk.org/api_docs/opensim/api_docs/md_doc_APIGuide.html)
+有選擇要用變數的資料傳遞，還是XML的，選擇用XML的進行
 1. 先跑data_1009_EMG_steady_to_sto_for_CEINMS_calib.py
 2. 再跑opensim_scaling_IK_MA.py
 3. 再跑CEINMScalibration_file_gen_from_osim.py
-
-本週成果：建立了整套的opensim API到CEINMS API的xml生成的建構流程
-有選擇要用變數的資料傳遞，還是XML的，選擇用XML的進行
