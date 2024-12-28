@@ -257,7 +257,7 @@ SCONE分析項目
 看了一系列文獻，也算是review了目前的整個EMG的方案
 
 - [x] informed vs driven
-為什麼不用CEINMS工具，因為2012，那應該要有driven model在裡頭
+為什麼文獻不用CEINMS工具，因為2012，那應該要有driven model在裡頭
 
 現有模型怎麼去延展資料??SCONE的原理是?
 - 多筆資料的Data要怎麼剪接
