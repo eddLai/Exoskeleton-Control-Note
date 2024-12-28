@@ -1,4 +1,4 @@
-On win
+# On windows
 ```
 PS D:\CEINMS_TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1> CEINMScalibrate -S .\calibrationSetup_1.xml
 
