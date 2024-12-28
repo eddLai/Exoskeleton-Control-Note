@@ -297,4 +297,4 @@ scale_tool.run()
 
 - 顯卡越高階越好
 - CEINMS吃CPU
-- RAM因為多人同時共用64GB會比較1l
+- RAM因為多人同時共用64GB會比較保險，上週有兩次閃退
