@@ -260,7 +260,7 @@ SCONE分析項目
 - [x] informed vs driven
 為什麼文獻不用CEINMS工具，因為2012，那應該要有driven model在裡頭
 
-現有模型怎麼去延展資料??SCONE的原理是?改用depRL，需要
+現有模型怎麼去延展資料??SCONE的原理是?改用depRL，需要顯卡
 - 多筆資料的Data要怎麼剪接
 - `RajagopalLaiUhlrich2023.osim`
 
