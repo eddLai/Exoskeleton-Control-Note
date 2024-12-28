@@ -260,17 +260,15 @@ SCONE分析項目
 - [x] informed vs driven
 為什麼文獻不用CEINMS工具，因為2012，那應該要有driven model在裡頭
 
-現有模型怎麼去延展資料??SCONE的原理是?
+現有模型怎麼去延展資料??SCONE的原理是?改用depRL，需要
 - 多筆資料的Data要怎麼剪接
 - `RajagopalLaiUhlrich2023.osim`
 
 momentarm，裡頭有
 subject_description需要有`<dofSet>`的設定
 
-scaling XML中的data的marker .trc要用相對路徑，
-
-風險hl
-發現opensim端，可以不用設定XML，會直接越過，還沒有找到官方文檔在講這個(原來是包含在C中)，用自己寫的python XML庫可操作性比較大(可以在GUI中複現)
+風險操作
+- 發現opensim端，可以不用設定XML，會直接越過，還沒有找到官方文檔在講這個(原來是包含在C中)，用自己寫的python XML庫可操作性比較大(可以在GUI中複現)
 ```python
 # scale_tool = osim.ScaleTool(base_path + path_to_scaling_setup_file)
 scale_tool = osim.ScaleTool()
@@ -281,7 +279,8 @@ scale_tool.getMarkerPlacer().processModel()
 scale_tool.run()
 ```
 
-update XML 要改成 create
+- update XML 要改成 create
+- scaling XML中的data的marker .trc要用相對路徑，
 
 ---
 
