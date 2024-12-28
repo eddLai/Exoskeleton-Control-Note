@@ -235,3 +235,41 @@ Fobj = 2.73017
 Reading subject file: .\../../uncalibrated/DM_uncalibrated.xml .
 Calibration time: 2477072ms
 ```
+
+# Ours
+```
+knee_angle_l
+knee_angle_r
+mtp_angle_l
+mtp_angle_r
+pelvis_list
+pelvis_rotation
+pelvis_tilt
+subtalar_angle_l
+subtalar_angle_r
+Return false
+fLatest_.at(0) - fOpt_ = 62655.4 - 55570.2 > 1e-05
+Joint moments RMSE
+Trial #1
+ankle_angle_l 4.53578 Nm
+ankle_angle_r 7.60242 Nm
+hip_adduction_l 8.31782 Nm
+hip_adduction_r 19.1352 Nm
+hip_flexion_l 17.3508 Nm
+hip_flexion_r 39.451 Nm
+hip_rotation_l 2.21987 Nm
+hip_rotation_r 1.86852 Nm
+knee_angle_l 17.7614 Nm
+knee_angle_r 53.1255 Nm
+mtp_angle_l 0.6215 Nm
+mtp_angle_r 0.0584794 Nm
+pelvis_list 15.0202 Nm
+pelvis_rotation 5.35652 Nm
+pelvis_tilt 40.324 Nm
+subtalar_angle_l 2.45441 Nm
+subtalar_angle_r 2.44517 Nm
+
+Fobj = 62655.4
+Reading subject file: d:\ExoskeletonPowerAsistance\simulation/XML_CEINMS_generator/CEINMS_calibration_XML\subject.xml .
+Calibration time: 470326ms
+```
