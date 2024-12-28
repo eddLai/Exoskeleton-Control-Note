@@ -287,4 +287,4 @@ update XML 要改成 create
 2. 再跑opensim_scaling_IK_MA.py
 3. 再跑CEINMScalibration_file_gen_from_osim.py
 
-建立了整套的opensim API到CEINMS API的建構流程
+本週成果：建立了整套的opensim API到CEINMS API的建構流程
