@@ -279,7 +279,9 @@ scale_tool.getMarkerPlacer().processModel()
 scale_tool.run()
 ```
 
-update XML 要改成 create
+>update XML 要改成 create
+
+---
 
 本週成果：建立了整套的opensim API到CEINMS API的xml生成的建構流程
 流程圖...
@@ -289,3 +291,5 @@ update XML 要改成 create
 1. 先跑data_1009_EMG_steady_to_sto_for_CEINMS_calib.py
 2. 再跑opensim_scaling_IK_MA.py
 3. 再跑CEINMScalibration_file_gen_from_osim.py
+
+>先在沒有GRF的情況下跑了ID
