@@ -142,7 +142,7 @@ ref.
 # Contraction dynamics
 Hill-type muscle model
 - muscle fiber: active force generating component
-- 
+- tendon: passive one
 
 ---
 ### Tendon models
