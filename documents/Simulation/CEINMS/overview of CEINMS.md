@@ -120,10 +120,17 @@ $$\alpha - \beta_1 - \beta_2 = 1
 $$
 
 
-----
+---
 
 ### Neural activation to muscle activation
 $$a_j(t) = \frac{e^{A_j u_j(t)} - 1}{e^{A_j} - 1}
+$$
+
+$$a_j(t) =
+\begin{cases} 
+\alpha_j^{\text{act}} \ln(\beta_j^{\text{act}} u_j(t) + 1), & 0 \leq u_j(t) \leq u_0, \\
+m_j u_j(t) + c_j, & u_0 \leq u_j(t) \leq 1.
+\end{cases}
 $$
 ref.
 - Neuromusculoskeletal modeling: estimation of muscle forces and joint moments and movements from measurements of neural command
