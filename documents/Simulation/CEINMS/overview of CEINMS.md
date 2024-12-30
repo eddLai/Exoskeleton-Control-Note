@@ -139,7 +139,8 @@ ref.
 - Neuromusculoskeletal modelling and simulation of tissue load in the lower extremities
 
 ---
-### contraction dynamics
+# Contraction dynamics
+
 
 ---
 ### Tendon models
