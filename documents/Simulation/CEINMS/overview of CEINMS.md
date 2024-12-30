@@ -146,6 +146,7 @@ Hill-type muscle model
 
 factors of  fibre force
 - produce force at different lengths
+- 
 
 
 ---
