@@ -144,6 +144,9 @@ Hill-type muscle model
 - muscle fiber: active force generating component
 - tendon: passive one
 
+produce force at different lengths
+
+
 ---
 ### Tendon models
 
