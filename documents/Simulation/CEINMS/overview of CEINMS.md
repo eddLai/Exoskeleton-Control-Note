@@ -99,7 +99,7 @@ preprocessing 流程跟我們不一樣
 - Butterworth low-pass filter with 6Hz cutoff  frequency
 
 ---
-muscle’s twitch response in the activation dy namicmodel
+### muscle’s twitch response in the activation dy namicmodel
 - $critically\ damped\ linear\ differential\ system^2$
 - discrete form (backward differences)
 
@@ -118,6 +118,7 @@ $$|C_1| < 1, |C_2| < 1,$$
 $$\alpha - \beta_1 - \beta_2 = 1
 $$
 
+----
 
 
 ref.
