@@ -118,6 +118,7 @@ $$|C_1| < 1, |C_2| < 1,$$
 $$\alpha - \beta_1 - \beta_2 = 1
 $$
 
+
 ----
 
 ### Neural activation to muscle activation
