@@ -146,7 +146,7 @@ Hill-type muscle model
 
 factors of  fibre force
 - $active$ produce force at different lengths
-- $passive$ 
+- $passive$ fibres to strain
 
 
 ---
