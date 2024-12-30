@@ -126,9 +126,7 @@ $$
 $$a_j(t) = \frac{e^{A_j u_j(t)} - 1}{e^{A_j} - 1}
 $$
 
-$$a_j(t) =
-\begin{cases} 
-\alpha_j^{\text{act}} \ln(\beta_j^{\text{act}} u_j(t) + 1), & 0 \leq u_j(t) \leq u_0, \\
+$$a_j(t) = \alpha_j^{\text{act}} \ln(\beta_j^{\text{act}} u_j(t) + 1), 0 \leq u_j(t) \leq u_0,$$$$ \\
 m_j u_j(t) + c_j, & u_0 \leq u_j(t) \leq 1.
 \end{cases}
 $$
