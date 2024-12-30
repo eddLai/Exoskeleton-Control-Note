@@ -150,7 +150,9 @@ factors of  fibre force
 - $fibres\ contraction\ velocity$
 
 
-
+---
+$$F^{mt} = F^t = F^{\text{max}} \left[f_a(\tilde{l}_m) \cdot f_v(\tilde{v}_m) \cdot a + f_p(\tilde{l}_m) + d_m \cdot \tilde{v}_m \right] \cdot \cos \varphi
+$$
 
 ---
 ### Tendon models
