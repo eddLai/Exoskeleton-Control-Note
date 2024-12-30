@@ -148,7 +148,8 @@ factors of  fibre force
 - $active$ produce force at different lengths
 - $passive$ fibres to strain
 - $fibres\ contraction\ velocity$
-- 
+
+
 
 
 ---
