@@ -93,7 +93,7 @@ parameters for each musculotendon unit.
 check<!-- element class="with-border"-->
 
 ---
-### Activation dynamics
+## Activation dynamics
 preprocessing 流程跟我們不一樣
 - zero-lag fourth-order recursive Butter worthfilter(30Hz)
 - full wave rectified 
