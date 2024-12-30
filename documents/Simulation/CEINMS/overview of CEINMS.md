@@ -131,6 +131,7 @@ $$a_j(t) = \alpha_j^{\text{act}} \ln(\beta_j^{\text{act}} u_j(t) + 1), 0 \leq u_
 
 $$ a_j(t)= m_j u_j(t) + c_j, u_0 \leq u_j(t) \leq 1.
 $$
+constained in 0,0.12
 
 ref.
 - Neuromusculoskeletal modeling: estimation of muscle forces and joint moments and movements from measurements of neural command
