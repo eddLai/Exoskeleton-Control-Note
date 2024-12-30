@@ -108,7 +108,7 @@ $$u_j(t) = \alpha e_j(t - d) - \beta_1 u_j(t - 1) - \beta_2 u_j(t - 2) \tag{1.1}
 $$
 
 ---
-### Constraints
+#### Constraints
 $$
 \beta_1 = C_1 + C_2$$
 
