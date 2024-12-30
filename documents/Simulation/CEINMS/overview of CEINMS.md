@@ -154,6 +154,12 @@ factors of  fibre force
 $$F^{mt} = F^t = F^{\text{max}} \left[f_a(\tilde{l}_m) \cdot f_v(\tilde{v}_m) \cdot a + f_p(\tilde{l}_m) + d_m \cdot \tilde{v}_m \right] \cdot \cos \varphi
 $$
 
+$$\varphi = \sin^{-1} \left( \frac{L_m^0 \sin \varphi_0}{l_m} \right)
+$$
+
+$$l_m = \frac{l_{mt} - l_t}{\cos \varphi}
+$$
+
 ---
 ### Tendon models
 
