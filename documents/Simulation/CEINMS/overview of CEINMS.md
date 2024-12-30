@@ -145,7 +145,7 @@ Hill-type muscle model
 - tendon: passive one
 
 factors of  fibre force
-- produce force at different lengths
+- activeproduce force at different lengths
 - 
 
 
