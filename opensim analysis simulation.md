@@ -13,3 +13,6 @@
 
 ---
 input:
+- states
+	- generalized coordinates
+	- 
