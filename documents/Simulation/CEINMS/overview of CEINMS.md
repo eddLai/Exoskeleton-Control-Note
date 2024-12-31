@@ -99,6 +99,10 @@ preprocessing 流程跟我們不一樣
 - full wave rectified 
 - Butterworth low-pass filter with 6Hz cutoff  frequency
 
+有兩種模型可以選擇
+- muscle’s twitch response
+- 
+
 ---
 ### muscle’s twitch response in the activation dy namicmodel
 - $critically\ damped\ linear\ differential\ system^2$
