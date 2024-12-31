@@ -16,4 +16,5 @@ input:
 - states
 	- generalized coordinates (e.g., joint angles))
 	- speeds (e.g., joint angular velocities)
+	- Muscle activation and fiber length
 - 
