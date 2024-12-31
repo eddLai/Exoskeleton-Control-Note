@@ -132,8 +132,12 @@ ref.
 
 ### Neural activation to muscle activation
 1. one-parameter neural activation to muscle activation model
+
 $$a_j(t) = \frac{e^{A_j u_j(t)} - 1}{e^{A_j} - 1}
 $$
+
+$A$ constained in (-3~0)
+
 >ref. ***An emg-driven musculoskeletal model to estimate muscle forces and knee joint moments in vivo***
 
 ---
@@ -144,7 +148,7 @@ $$a_j(t) = \alpha_j^{\text{act}} \ln(\beta_j^{\text{act}} u_j(t) + 1), 0 \leq u_
 
 $$ a_j(t)= m_j u_j(t) + c_j, u_0 \leq u_j(t) \leq 1.
 $$
-$A$constained in 0~0.12
+$A$ constained in 0~0.12
 
 >ref. ***A one-parameter neural activation to muscle activation model: esti mating isometric joint moments from electromyograms***
 
