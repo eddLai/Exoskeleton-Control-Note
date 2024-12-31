@@ -130,7 +130,7 @@ $$
 1. one-parameter neural activation to muscle activation model
 $$a_j(t) = \frac{e^{A_j u_j(t)} - 1}{e^{A_j} - 1}
 $$
->ref. **A one-parameter neural activation to muscle activation model: esti mating isometric joint moments from electromyograms**
+>ref. ***A one-parameter neural activation to muscle activation model: esti mating isometric joint moments from electromyograms***
 
 2. 
 $A_j$:non-linear shape factor(-3,0)
