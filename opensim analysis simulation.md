@@ -17,6 +17,6 @@ input:
 	- generalized coordinates (e.g., joint angles))
 	- speeds (e.g., joint angular velocities)
 	- Muscle activation and fiber length
-- controls
+- controls: control parameters in optimization problems
 	- Muscle excitations are an example
-	- 
+- 
