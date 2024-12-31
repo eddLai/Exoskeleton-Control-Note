@@ -14,5 +14,6 @@
 ---
 input:
 - states
-	- generalized coordinates
-	- 
+	- generalized coordinates (e.g., joint angles))
+	- speeds (e.g., joint angular velocities)
+- 
