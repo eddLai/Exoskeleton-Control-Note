@@ -19,4 +19,4 @@ input:
 	- Muscle activation and fiber length
 - controls: control parameters in optimization problems
 	- Muscle excitations are an example
-- external loads
+- external loads:  forces or torques applied between the ground (or world) and the bodies of a model
