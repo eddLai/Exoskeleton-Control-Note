@@ -127,6 +127,7 @@ $$
 ---
 
 ### Neural activation to muscle activation
+
 $$a_j(t) = \frac{e^{A_j u_j(t)} - 1}{e^{A_j} - 1}
 $$
 $A_j$:non-linear shape factor(-3,0)
