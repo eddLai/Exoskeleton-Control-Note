@@ -176,7 +176,7 @@ $$l_m = \frac{l_{mt} - l_t}{\cos \varphi}
 $$
 
 - pennation:羽狀肌
-- $\varphi$ pennation angle of the fibres
+- $\varphi$ pennation angle of the fibres; $a$ activation; 
 - functions:$f_a$, $f_v$, $f_p$
 ![[forceLengthCurves.png]]
 
