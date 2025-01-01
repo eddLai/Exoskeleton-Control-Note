@@ -182,7 +182,7 @@ $$
 
 ---
 ### Tendon models
-integration elastic tendon (IET) model
+1. .integration elastic tendon (IET) model
 
 透過Runge-Kutta-Fehlberg algorithm設定初始值<!-- element class="with-border"-->
 
@@ -193,6 +193,7 @@ $$\epsilon=\frac{l_t-l_{ts}}{l_t}$$
 but, stiff MTU equations and robust solutions are not always found
 
 ---
+2.  equilibrium elastic tendon (EET)
 
 
 ---
