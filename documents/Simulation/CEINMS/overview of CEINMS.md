@@ -233,6 +233,13 @@ $$\text{For } i = 1 \text{ to } NT:$$
 $$X'_k = X_k + r \cdot V_k, \quad r \sim \text{Uniform}[-1, 1)$$
 
 2. $$\quad \quad \textbf{Metropolis Criterion:}$$
+$$p = \exp\left(-\frac{f(X') - f(X)}{T}\right)$$
+
+3. $$\quad \quad \textbf{Update Solution:}$$$$X =
+\begin{cases}
+X', & \text{if } f(X') < f(X) \text{ or } p > p' \\
+X, & \text{otherwise.}
+\end{cases}$$
 
 ---
 ## Data Description
