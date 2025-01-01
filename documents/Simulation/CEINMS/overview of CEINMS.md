@@ -221,6 +221,10 @@ tendon force-strain relation
 # App. implementation
 
 ---
+## Simulation Annealing
+$$X = X_0, \quad T = T_0, \quad X_{\text{opt}} = X_0, \quad f_{\text{opt}} = f(X_0)$$
+
+---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
 - _musculo-tendon lengths_ 肌腱-肌肉單位的長度
