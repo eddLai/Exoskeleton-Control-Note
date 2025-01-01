@@ -198,7 +198,7 @@ but, stiff MTU equations and robust solutions are not always found
 Van Wijngaarden-Dekker-Brent optimization
 
 tendon force-strain relation $F^t(\tilde{l_m})$
-
+uf$$F^{mt} = F^t$$
 core: $\tilde{v_m}=\frac{d\tilde{l_m}}{dt}$
 保證肌腱-肌纖維單元的平衡
 
