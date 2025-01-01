@@ -251,7 +251,8 @@ $$T = r_T \cdot T$$
 
 Convergence Check:$$|f(X_{\text{opt}}^{(h)}) - f(X_{\text{opt}}^{(h-1)})| < \epsilon, \quad \forall h = H, H-1, \dots, H-N_\epsilon$$
 - 引入 Metropolis 準則，讓算法能夠接受較差解，以跳出局部最小值。
-- 
+- 透過溫度 T的逐漸降低，實現從全域搜索到局部搜索的轉變
+- 收斂性：基於多次評估目標函數值的穩定性
 
 ---
 ## Data Description
