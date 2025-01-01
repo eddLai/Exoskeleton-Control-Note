@@ -190,6 +190,10 @@ numerically integrating a set of ordinary differential equations.，透過$v_m$�
 
 $$\epsilon=\frac{l_t-l_{ts}}{l_t}$$
 
+but, stiff MTU equations and robust solutions are not always found
+
+---
+
 
 ---
 ## Data Description
