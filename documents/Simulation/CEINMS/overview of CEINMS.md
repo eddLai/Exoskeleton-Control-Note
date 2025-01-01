@@ -197,6 +197,7 @@ but, stiff MTU equations and robust solutions are not always found
 
 Van Wijngaarden-Dekker-Brent optimization
 
+tendon force-strain relation expressing the tendon strain as a function of ̃︀ lm
 
 ---
 ## Data Description
