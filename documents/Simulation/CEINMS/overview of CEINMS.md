@@ -222,7 +222,10 @@ tendon force-strain relation
 
 ---
 ## Simulation Annealing
+Initial condition:
 $$X = X_0, \quad T = T_0, \quad X_{\text{opt}} = X_0, \quad f_{\text{opt}} = f(X_0)$$
+$$\text{While } T > T_{\text{min}}:$$
+\quad \textbf{For Each Temperature:}
 
 ---
 ## Data Description
