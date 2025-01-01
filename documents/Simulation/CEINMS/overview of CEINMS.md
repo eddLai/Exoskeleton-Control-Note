@@ -245,6 +245,9 @@ X, & \text{otherwise.}
 $$\quad \quad \textbf{Update Global Optimum:\ }X_{\text{opt}} = X', \quad f_{\text{opt}} = f(X_{\text{opt}})$$
 
 ---
+$$V_k = V_k \cdot \frac{\text{current acceptance rate}}{0.5}$$
+
+---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
 - _musculo-tendon lengths_ 肌腱-肌肉單位的長度
