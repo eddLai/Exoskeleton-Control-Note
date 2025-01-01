@@ -225,8 +225,11 @@ tendon force-strain relation
 Initial condition:
 $$X = X_0, \quad T = T_0, \quad X_{\text{opt}} = X_0, \quad f_{\text{opt}} = f(X_0)$$
 $$\text{While } T > T_{\text{min}}:$$
-\quad \textbf{For Each Temperature:}
 
+$$\quad \textbf{For Each Temperature:}$$
+
+$$\text{For } i = 1 \text{ to } NT:$$
+$$\quad \quad \textbf{Neighborhood Search:}$$
 ---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
