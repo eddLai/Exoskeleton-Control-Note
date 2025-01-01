@@ -100,7 +100,7 @@ preprocessing 流程跟我們不一樣
 - Butterworth low-pass filter with 6Hz cutoff  frequency
 
 有兩種模型可以選擇
-- muscle’s twitch response
+- one-parameter neural activation to muscle activation model
 - 
 
 ---
@@ -136,13 +136,12 @@ ref.
 $$a_j(t) = \frac{e^{A_j u_j(t)} - 1}{e^{A_j} - 1}
 $$
 
-$A$ constained in (-3~0)
+$A_j$:non-linear shape factor(-3,0)
 
 >ref. ***An emg-driven musculoskeletal model to estimate muscle forces and knee joint moments in vivo***
 
 ---
 2. 
-$A_j$:non-linear shape factor(-3,0)
 
 $$a_j(t) = \alpha_j^{\text{act}} \ln(\beta_j^{\text{act}} u_j(t) + 1), 0 \leq u_j(t) \leq u_0,$$
 
