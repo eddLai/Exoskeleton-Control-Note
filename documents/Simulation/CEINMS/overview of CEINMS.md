@@ -229,7 +229,11 @@ $$\text{While } T > T_{\text{min}}:$$
 $$\quad \textbf{For Each Temperature:}$$
 
 $$\text{For } i = 1 \text{ to } NT:$$
-$$\quad \quad \textbf{Neighborhood Search:}$$
+1. $$\quad \quad \textbf{Neighborhood Search:}$$
+$$X'_k = X_k + r \cdot V_k, \quad r \sim \text{Uniform}[-1, 1)$$
+
+2. $$\quad \quad \textbf{Metropolis Criterion:}$$
+
 ---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
