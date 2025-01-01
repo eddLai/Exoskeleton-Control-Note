@@ -197,7 +197,7 @@ but, stiff MTU equations and robust solutions are not always found
 
 Van Wijngaarden-Dekker-Brent optimization
 
-tendon force-strain relation expressing the $F^t(l_m)$
+tendon force-strain relation $F^t(\tilde{l_m})$
 
 ---
 ## Data Description
