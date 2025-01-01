@@ -187,7 +187,8 @@ integration elastic tendon (IET) model
 numerically integrating a set of ordinary differential equations.
 
 透過Runge-Kutta-Fehlberg algorithm設定初始值<!-- element class="with-border"-->
-$$$$$
+
+$$\epsilon=\frl_t-l_{ts}$$
 
 ---
 ## Data Description
