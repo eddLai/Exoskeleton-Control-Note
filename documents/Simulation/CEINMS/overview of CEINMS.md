@@ -250,6 +250,8 @@ temperature:
 $$T = r_T \cdot T$$
 
 Convergence Check:$$|f(X_{\text{opt}}^{(h)}) - f(X_{\text{opt}}^{(h-1)})| < \epsilon, \quad \forall h = H, H-1, \dots, H-N_\epsilon$$
+- 引入 Metropolis 準則，讓算法能夠接受較差解，以跳出局部最小值。
+- 
 
 ---
 ## Data Description
