@@ -199,7 +199,7 @@ Van Wijngaarden-Dekker-Brent optimization
 
 tendon force-strain relation $F^t(\tilde{l_m})$
 
-core: $\tilde{l_m}$
+core: $\tilde{v_m}=frac{d\tilde{l_m}}{dt}$
 
 ---
 ## Data Description
