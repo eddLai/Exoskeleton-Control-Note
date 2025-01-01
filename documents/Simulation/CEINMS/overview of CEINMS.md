@@ -186,7 +186,7 @@ integration elastic tendon (IET) model
 
 透過Runge-Kutta-Fehlberg algorithm設定初始值<!-- element class="with-border"-->
 
-numerically integrating a set of ordinary differential equations.
+numerically integrating a set of ordinary differential equations.，透過$v_m$迭代
 
 $$\epsilon=\frac{l_t-l_{ts}}{l_t}$$
 
