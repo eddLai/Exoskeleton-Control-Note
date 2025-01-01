@@ -195,6 +195,8 @@ but, stiff MTU equations and robust solutions are not always found
 ---
 2.  equilibrium elastic tendon (EET)
 
+Van Wijngaarden-Dekker-Brent optimization
+
 
 ---
 ## Data Description
