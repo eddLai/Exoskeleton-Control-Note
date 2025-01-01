@@ -200,6 +200,7 @@ Van Wijngaarden-Dekker-Brent optimization
 tendon force-strain relation $F^t(\tilde{l_m})$
 
 core: $\tilde{v_m}=\frac{d\tilde{l_m}}{dt}$
+保證肌腱-肌纖維單元的平衡
 
 3. stiff tendon model:with length equal to the slack length
 
