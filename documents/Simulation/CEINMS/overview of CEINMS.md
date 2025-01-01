@@ -251,6 +251,8 @@ $$V_k = V_k \cdot \frac{\text{current acceptance rate}}{0.5}$$
 temperature:
 $$T = r_T \cdot T$$
 
+Convergence Check:$$|f(X_{\text{opt}}^{(h)}) - f(X_{\text{opt}}^{(h-1)})| < \epsilon, \quad \forall h = H, H-1, \dots, H-N_\epsilon$$
+
 ---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
