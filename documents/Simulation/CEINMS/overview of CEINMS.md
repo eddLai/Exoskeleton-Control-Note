@@ -177,7 +177,7 @@ $$
 
 - pennation:羽狀肌
 - $\varphi$ pennation angle of the fibres
-- functions:$f_a$, $f_v$
+- functions:$f_a$, $f_v$, $f_p$
 ![[forceLengthCurves.png]]
 
 ---
