@@ -150,7 +150,7 @@ $$
 
 $A$ constained in 0~0.12
 
->ref. ***A one-parameter neural activation to muscle activation model: esti mating isometric joint moments from electromyograms***
+>ref. ***A one-parameter neural activation to muscle activation model: estimating isometric joint moments from electromyograms***
 
 ---
 # Contraction dynamics
