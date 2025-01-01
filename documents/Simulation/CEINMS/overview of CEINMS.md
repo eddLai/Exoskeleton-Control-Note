@@ -199,6 +199,8 @@ Van Wijngaarden-Dekker-Brent optimization
 
 tendon force-strain relation $F^t(\tilde{l_m})$
 
+core: $\tilde{l_m}$
+
 ---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
