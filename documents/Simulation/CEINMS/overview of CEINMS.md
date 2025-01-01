@@ -226,9 +226,7 @@ Initial condition:
 $$X = X_0, \quad T = T_0, \quad X_{\text{opt}} = X_0, \quad f_{\text{opt}} = f(X_0)$$
 $$\textbf{Outer Temperature Loop:\ } \text{While } T > T_{\text{min}}:$$
 
-$$\quad \textbf{For Each Temperature:}$$
-
-$$\text{For } i = 1 \text{ to } NT:$$
+$$\quad \textbf{For Each Temperature:\ }\text{For } i = 1 \text{ to } NT:$$
 1. $$\quad \quad \textbf{Neighborhood Search:}$$
 $$X'_k = X_k + r \cdot V_k, \quad r \sim \text{Uniform}[-1, 1)$$
 
