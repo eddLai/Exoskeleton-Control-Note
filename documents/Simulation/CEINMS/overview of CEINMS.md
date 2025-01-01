@@ -177,7 +177,7 @@ $$
 
 - pennation:羽狀肌
 - $\varphi$ pennation angle of the fibres
-- 
+![[forceLengthCurves.png]]
 
 ---
 ### Tendon models
