@@ -182,7 +182,8 @@ $$
 
 ---
 ### Tendon models
-
+integration elastic tendon (IET) model
+numerically integrating a set of ordinary differential equations.
 
 ---
 ## Data Description
