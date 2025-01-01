@@ -208,6 +208,15 @@ tendon force-strain relation
 直接視為一樣$$F^{mt} = F^t$$
 
 ---
+
+| 模型類型                             | 特性                               | 優點          | 缺點            | 適用場景              |
+| -------------------------------- | -------------------------------- | ----------- | ------------- | ----------------- |
+| Integration Elastic Tendon (IET) | 使用數值積分計算 $$\(l_m\)、\(v_m\)$$     | 模型精確，適合彈性肌腱 | 計算成本高，數值不穩定   | 模擬動態系統，如快速運動或劇烈變化 |
+| Equilibrium Elastic Tendon (EET) | 使用數值優化求解 \(F_{MT} = F_T\) 的根     | 穩定可靠，適用範圍廣  | 需要數值優化，計算成本中等 | 模擬多種肌腱-肌纖維單元動態    |
+| Stiff Tendon (ST)                | 假設 \(l_T = l_{TS}\)，直接計算 \(l_m\) | 計算簡單，快速     | 無法模擬彈性行為      | 肌腱長度固定或剛性很高的場合    |
+
+
+---
 ## Data Description
 - preprocessing 得到 _geometrical_ state
 - _musculo-tendon lengths_ 肌腱-肌肉單位的長度
