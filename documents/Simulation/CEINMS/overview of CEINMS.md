@@ -245,7 +245,11 @@ X, & \text{otherwise.}
 $$\quad \quad \textbf{Update Global Optimum:\ }X_{\text{opt}} = X', \quad f_{\text{opt}} = f(X_{\text{opt}})$$
 
 ---
+step:
 $$V_k = V_k \cdot \frac{\text{current acceptance rate}}{0.5}$$
+
+temperature:
+$$T = r_T \cdot T$$
 
 ---
 ## Data Description
