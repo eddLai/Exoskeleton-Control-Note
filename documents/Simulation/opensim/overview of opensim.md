@@ -26,8 +26,7 @@ Coordinate controller
 ![[Overview of the OpenSim Modeling Framework.png|400]]
 ![[simple opensim simulation.png|400]]
 <div style="background-color: white; padding: 10px;">
-<img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\model's System and a State object.png" alt="ID Tool" width="300"/></div>
-![[model's System and a State object.png]]
+<img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\model's System and a State object.png" alt="ID Tool" width="500"/></div>
 
 - opensim sample rate
 - 創造物件的功能
