@@ -29,7 +29,8 @@ Coordinate controller
 <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\model's System and a State object.png" alt="ID Tool" width="500"/></div>
 
 - 序列化 (Serialization)：轉成檔案格式進行儲存，反之，反序列化
-- 
+執行計算的元素，需要components
+
 
 - opensim sample rate
 - 創造物件的功能
