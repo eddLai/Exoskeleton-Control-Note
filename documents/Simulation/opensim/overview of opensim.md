@@ -25,7 +25,7 @@ Coordinate controller
 # API
 ![[Overview of the OpenSim Modeling Framework.png|400]]
 ![[simple opensim simulation.png|400]]
-
+![[Pasted image 20250102102335.png]]
 
 - opensim sample rate
 - 創造物件的功能
