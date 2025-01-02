@@ -30,7 +30,8 @@ Coordinate controller
 
 Object class
 - 序列化 (Serialization)：轉成檔案格式進行儲存，反之，反序列化
-執行計算的元素，需要components
+Components: 執行計算的元素
+- `SimTK::MultibodySystem`進行運算
 - 
 
 
