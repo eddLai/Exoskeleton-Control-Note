@@ -307,4 +307,4 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 >NMSmodel: a collection of options for the simulation of the model (see the corresponding section NMSmodel in the execution description file)
 
 1. 如何調參
-2. calibration不夠好
+2. calibration不夠好會怎麼樣
