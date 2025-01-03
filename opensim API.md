@@ -34,8 +34,10 @@ auto& a = device.updComponent<CoordinateActuator>("motor");
 ```
 
 ---
-![[Pasted image 20250103133531.png]]
+![[storage structure of opensim.png]]
 
+
+---
 - opensim sample rate
 - 創造物件的功能
 - 取XML的內容
