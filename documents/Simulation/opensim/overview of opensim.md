@@ -35,7 +35,11 @@ Coordinate controller
 	- 動態行為計算：解ODE
 	- 繼承序列化
 
-- Continuous state variables(通常稱為state variable)：來自com
+
+- Continuous state variables(通常稱為state variable)：來自components的動態方程 e.g.
+	- activation
+	- fiber
+- 
 
 ---
 - opensim sample rate
