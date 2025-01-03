@@ -58,6 +58,11 @@ DataAdapter： 是一個抽象類別，用於定義讀取和寫入 **DataTable**
 - FileAdapter：其中一個具體類別
 
 ---
+# Solver
+- 根據模型的數學描述，計算系統的未知數。
+- 處理例如逆運動學 (Inverse Kinematics)、動力學、力矩臂等問題。
+
+---
 - opensim sample rate
 - 創造物件的功能
 - 取XML的內容
