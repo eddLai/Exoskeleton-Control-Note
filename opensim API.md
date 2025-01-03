@@ -28,7 +28,7 @@
 ```C++
 // Get as abstract Component.
 Component& c = device.updComponent("motor");
-// Get as concrete Component.
+// Get as concrete Component.template
 auto& a = device.updComponent<CoordinateActuator>("motor");
 ```
 
