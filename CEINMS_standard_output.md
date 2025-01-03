@@ -728,7 +728,8 @@ Fobj = 2.73017
 Reading subject file: .\../../uncalibrated/DM_uncalibrated.xml .
 Calibration time: 3153698ms
 ```
-# Ours
+# Ours 
+## 最初的
 ```
 knee_angle_l
 knee_angle_r
@@ -766,7 +767,7 @@ Reading subject file: d:\ExoskeletonPowerAsistance\simulation/XML_CEINMS_generat
 Calibration time: 470326ms
 ```
 
-
+## 把運算最大時間拉長
 ```
 Return false
 fLatest_.at(0) - fOpt_ = 63578.4 - 56937 > 1e-05
