@@ -62,6 +62,7 @@ ref.
 	- 不需要recorded資料
 
 可以使用不同mode到同一個model上
+alpha side
 
 ---
 ## Calibration
