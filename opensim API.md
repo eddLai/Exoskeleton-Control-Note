@@ -4,6 +4,7 @@
 <div style="background-color: white; padding: 10px;">
 <img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\model's System and a State object.png" alt="ID Tool" width="500"/></div>
 
+# Objects
 - Object class
 	- 序列化 (Serialization)：轉成檔案格式進行儲存，反之，反序列化
 - Components: 執行計算的元素
