@@ -1166,7 +1166,59 @@ ankle_angle_r 7.08372 Nm
 
 Trial #2
 knee_angle_r 9.7173 Nm
-ankle_angle_r 9.25412 N
+ankle_angle_r 9.25412 Nm
+
+Trial #3
+knee_angle_r 9.07335 Nm
+ankle_angle_r 8.08514 Nm
+
+Trial #4
+knee_angle_r 7.20175 Nm
+ankle_angle_r 4.25991 Nm
+
+Fobj = 2.73018
+Return false
+fLatest_.at(3) - fOpt_ = 2.73356 - 2.73017 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 10.7644 Nm
+ankle_angle_r 7.0829 Nm
+
+Trial #2
+knee_angle_r 9.71743 Nm
+ankle_angle_r 9.25537 Nm
+
+Trial #3
+knee_angle_r 9.0735 Nm
+ankle_angle_r 8.08553 Nm
+
+Trial #4
+knee_angle_r 7.2015 Nm
+ankle_angle_r 4.25968 Nm
+
+Fobj = 2.73017
+Return true!
+fOpt_ = 2.73017
+Joint moments RMSE
+Trial #1
+knee_angle_r 10.7642 Nm
+ankle_angle_r 7.08367 Nm
+
+Trial #2
+knee_angle_r 9.71729 Nm
+ankle_angle_r 9.25521 Nm
+
+Trial #3
+knee_angle_r 9.07343 Nm
+ankle_angle_r 8.08559 Nm
+
+Trial #4
+knee_angle_r 7.20163 Nm
+ankle_angle_r 4.25968 Nm
+
+Fobj = 2.73017
+Reading subject file: C:\Users\sean9\Desktop\project\TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1\../../uncalibrated/DM_uncalibrated.xml .
+Calibration time: 6393019ms
 ```
 
 ## Trialset減少
