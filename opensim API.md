@@ -3,6 +3,7 @@
 ![[simple opensim simulation.png|400]]
 ## Model components
 - PhysicalFrame
+	- Ground參考座標
 	- 
 - Joint
 - Constraint
