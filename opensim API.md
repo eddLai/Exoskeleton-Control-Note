@@ -1,8 +1,6 @@
 # Basic
 ![[Overview of the OpenSim Modeling Framework.png|400]]
 ![[simple opensim simulation.png|400]]
-<div style="background-color: white; padding: 10px;">
-<img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\model's System and a State object.png" alt="ID Tool" width="500"/></div>
 
 # Objects
 - Object class
@@ -34,7 +32,7 @@ auto& a = device.updComponent<CoordinateActuator>("motor");
 ```
 
 ---
-![[storage structure of opensim.png]]
+![[storage structure of opensim.png|400]]
 
 
 ---
