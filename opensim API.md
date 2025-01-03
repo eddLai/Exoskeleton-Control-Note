@@ -5,6 +5,8 @@
 - PhysicalFrame
 	- Ground參考座標
 	- Body 是具有慣性 (inertia) 的 PhysicalFrame
+	- PhysicalOffsetFrame: 指定關節 (Joint) 或約束 (Constraint) 在 Body 上的位置與方向
+	- ...
 - Joint
 - Constraint
 - Force
