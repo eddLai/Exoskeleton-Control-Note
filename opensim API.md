@@ -20,7 +20,11 @@
 - Discrete state variables:  external inputs and controls, an Actuator is overridden
 	- 某種作用力的產生
 	- 外部信號
-- Cache Variables:wu
+- Cache Variables: 提高模擬性能
+	- **(realization Stages)** 管理快取變數的有效性。
+	- 不同的階段（`Position`、`Velocity`、`Dynamics`、`Acceleration`）定義了快取變數的依賴範圍。
+	- stale variables
+	- 
 
 ---
 - opensim sample rate
