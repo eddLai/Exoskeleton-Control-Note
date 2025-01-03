@@ -7,7 +7,7 @@
 # Objects
 - Object class
 	- 序列化 (Serialization)：轉成檔案格式進行儲存，反之，反序列化
-- Components: 執行計算的元素
+- Components: 執行計算的元素(rooted directed tree topology)
 	- 計算系統：`SimTK::MultibodySystem`進行運算
 	- 動態行為計算：解ODE
 	- 繼承序列化
