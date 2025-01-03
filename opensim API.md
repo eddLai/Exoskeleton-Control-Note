@@ -12,6 +12,8 @@
 >並非所有的components都需要Inputs
 
 ---
+<div style="background-color: white; padding: 10px;">
+<img src="D:\Notes\Exoskeleton-Control-Note\documents\Simulation\opensim\model's System and a State object.png" alt="ID Tool" width="500"/></div>
 # State
 - Continuous state variables(通常稱為state variable)：來自components的動態方程 e.g.
 	- activation
