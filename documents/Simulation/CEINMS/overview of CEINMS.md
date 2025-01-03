@@ -63,7 +63,6 @@ ref.
 
 可以使用不同mode到同一個model上
 alpha side
-衝到一個進度，確定這件事可以成，這樣我才/s
 
 ---
 ## Calibration
