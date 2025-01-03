@@ -1499,3 +1499,98 @@ Reading subject file: /media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulatio
 Calibration time: 12000738ms
 
 ```
+
+## Simpler model
+```
+(opensim_scripting) (base) ntk@ntk:/media/ntk/Exoskeleton/ExoskeletonPowerAsistance$ CEINMScalibrate -S /media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulation/XML_CEINMS_generator/CEINMS_calibration_XML/ceinmsCalibrationSetup.xml
+
++-+-+-+-+-+-+
+|C|E|I|N|M|S|
++-+-+-+-+-+-+-+-+-+-+
+|C|a|l|i|b|r|a|t|e|d|
++-+-+-+-+-+-+-+-+-+-+-+-+
+|E|M|G|-|I|n|f|o|r|m|e|d|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|N|e|u|r|o|m|u|s|c|u|l|o|s|k|e|l|e|t|a|l|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|T|o|o|l|b|o|x|
++-+-+-+-+-+-+-+
+
+Copyright (C) 2010-2025 Griffith University and the Contributors
+
+CEINMS Contributors: C. Pizzolato, M. Reggiani, M. Sartori
+                     E. Ceseracciu, and D.G. Lloyd
+
+Software developers: C. Pizzolato, E. Ceseracciu, and M. Reggiani
+
+
+readNMSmodelCfg
+Reading subject file: /media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulation/XML_CEINMS_generator/CEINMS_calibration_XML/subject.xml .
+activeForceLength
+passiveForceLength
+forceVelocity
+tendonForceStrain
+Assuming bifemsh_l pennation angle in radians: 0.401426
+Assuming bifemsh_r pennation angle in radians: 0.401426
+Assuming gastroc_l pennation angle in radians: 0.296706
+Assuming gastroc_r pennation angle in radians: 0.296706
+Assuming glut_max_l pennation angle in radians: 0
+Assuming glut_max_r pennation angle in radians: 0
+Assuming hamstrings_l pennation angle in radians: 0
+Assuming hamstrings_r pennation angle in radians: 0
+Assuming iliopsoas_l pennation angle in radians: 0.139626
+Assuming iliopsoas_r pennation angle in radians: 0.139626
+Assuming rect_fem_l pennation angle in radians: 0.0872665
+Assuming rect_fem_r pennation angle in radians: 0.0872665
+Assuming soleus_l pennation angle in radians: 0.436332
+Assuming soleus_r pennation angle in radians: 0.436332
+Assuming tib_ant_l pennation angle in radians: 0.0872665
+Assuming tib_ant_r pennation angle in radians: 0.0872665
+Assuming vasti_l pennation angle in radians: 0.0523599
+Assuming vasti_r pennation angle in radians: 0.0523599
+
+EMG: Reading emg file.../media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulation/mocap_EMG_EEG_data/data_1009/path1_25/preprocessing/output/steady_EMG_walk.sto
+
+ExtTorque: starting externalTorqueProduce, reading from external torque data file
+
+ ExtTorque: external Torques available 
+
+externalTorque DONE
+
+LmtMa: lmtMa DONE
+
+EMG: EMG DONE
+CalibrationStepCfg 100
+Return false
+fLatest_.at(0) - fOpt_ = 35126.4 - 5140.84 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 19975.4 - 5095.73 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 5910.81 - 5031.67 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 5301.8 - 4850.82 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 4329.09 - 4099.03 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 3950.45 - 3921.36 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 3900.64 - 3898.26 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 3895.5 - 3895.3 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 3894.87 - 3894.81 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 3894.77 - 3894.77 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 3894.76 - 3894.76 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 3894.76 - 3894.76 > 1e-05
+Return false
+fLatest_.at(1) - fOpt_ = 3894.76 - 3894.76 > 1e-05
+Return false
+fLatest_.at(1) - fOpt_ = 3894.76 - 3894.76 > 1e-05
+Return false
+fLatest_.at(2) - fOpt_ = 3894.76 - 3894.76 > 1e-05
+Reading subject file: /media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulation/XML_CEINMS_generator/CEINMS_calibration_XML/subject.xml .
+Calibration time: 4762798ms
+```
