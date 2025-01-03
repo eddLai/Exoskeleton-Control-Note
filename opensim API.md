@@ -65,6 +65,25 @@ DataAdapter： 是一個抽象類別，用於定義讀取和寫入 **DataTable**
 	- MomentArmSolver
 	- Manager (ForwardDynamics Solver)
 
+API使用方法
+```C++
+StatesTrajectory simulate(const Model& model, const State& initState, double finalTime) {
+    StatesTrajectory states;  // 用於存儲狀態軌跡的容器
+    SimTK::RungeKuttaMersonIntegrator integrator(model.getSystem());  // 穩定的積分器
+    SimTK::TimeStepper ts(model.getSystem(), integrator);  // 設置時間步進器
+    ts.initialize(initState);  // 初始化狀態
+    ts.setReportAllSignificantStates(true);  // 設定報告所有重要狀態
+    integrator.setReturnEveryInternalStep(true);  // 返回所有內部步驟狀態
+
+    // 前向模擬迴圈
+    while (ts.getState().getTime() < finalTime) {
+        ts.stepTo(finalTime);  // 模擬到最終時間
+        states.append(ts.getState());  // 將狀態追加到軌跡中
+    }
+    return states;  // 返回狀態軌跡
+}
+```
+
 ---
 - opensim sample rate
 - 創造物件的功能
