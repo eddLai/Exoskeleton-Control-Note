@@ -400,3 +400,4 @@ Calibration time: 3676435ms
 - 或者CEINMS_setup迭代的設定
 
 T大，會在初期廣泛搜尋
+$r_t: 0.1 \rightar$
