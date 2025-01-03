@@ -11,7 +11,7 @@
 	- 計算系統：`SimTK::MultibodySystem`進行運算
 	- 動態行為計算：解ODE
 	- 繼承序列化
->並非所有的
+>並非所有的components都需要Inputs
 
 ---
 # State
@@ -34,6 +34,8 @@ auto& a = device.updComponent<CoordinateActuator>("motor");
 ```
 
 ---
+![[Pasted image 20250103133531.png]]
+
 - opensim sample rate
 - 創造物件的功能
 - 取XML的內容
