@@ -42,7 +42,7 @@ Coordinate controller
 - Discrete state variables:  external inputs and controls, an Actuator is overridden
 	- 某種作用力的產生
 	- 外部信號
-- 
+- Cache Variables
 
 ---
 - opensim sample rate
