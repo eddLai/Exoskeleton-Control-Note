@@ -236,7 +236,7 @@ Reading subject file: .\../../uncalibrated/DM_uncalibrated.xml .
 Calibration time: 2477072ms
 ```
 
-# windows detailed
+## windows detailed
 ```
 (base) PS D:\CEINMS_TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1> CEINMScalibrate -S .\calibrationSetup_1.xml
 
