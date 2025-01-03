@@ -51,7 +51,7 @@ auto& a = device.updComponent<CoordinateActuator>("motor");
 
 DataTable: 為了高效訪問
 - 元數據（metadata）的處理
-- 
+- "獨立列" (**independent column**) 和多列 "依賴列" (**dependent columns**)會是相同資料結構。
 
 ---
 - opensim sample rate
