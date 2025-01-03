@@ -236,7 +236,7 @@ Reading subject file: .\../../uncalibrated/DM_uncalibrated.xml .
 Calibration time: 2477072ms
 ```
 
-## windows detailed
+## windows detailed(1)
 ```
 (base) PS D:\CEINMS_TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1> CEINMScalibrate -S .\calibrationSetup_1.xml
 
@@ -728,6 +728,8 @@ Fobj = 2.73017
 Reading subject file: .\../../uncalibrated/DM_uncalibrated.xml .
 Calibration time: 3153698ms
 ```
+
+## Trialset減少
 # Ours 
 ## 最初的
 ```
