@@ -306,6 +306,3 @@ calibration要用hybrid嗎
 calibration不知道怎麼加入hybrid，XSD就已經限制不行
 >NMSmodel: a collection of options for the simulation of the model (see the corresponding section NMSmodel in the execution description file)
 
-
-CEINMScalibration
-要用簡單的model
