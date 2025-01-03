@@ -34,7 +34,8 @@ Coordinate controller
 	- 計算系統：`SimTK::MultibodySystem`進行運算
 	- 動態行為計算：解ODE
 	- 繼承序列化
-- 
+
+- Continuous state variables(通常稱為state variable)：來自com
 
 ---
 - opensim sample rate
