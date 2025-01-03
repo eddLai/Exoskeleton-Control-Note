@@ -49,7 +49,9 @@ auto& a = device.updComponent<CoordinateActuator>("motor");
 ---
 ![[storage structure of opensim.png|400]]
 
-DataTable: 
+DataTable: 為了高效訪問
+- 元數據（metadata）的處理
+- 
 
 ---
 - opensim sample rate
