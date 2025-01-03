@@ -765,3 +765,16 @@ Fobj = 62655.4
 Reading subject file: d:\ExoskeletonPowerAsistance\simulation/XML_CEINMS_generator/CEINMS_calibration_XML\subject.xml .
 Calibration time: 470326ms
 ```
+
+
+```
+Return false
+fLatest_.at(0) - fOpt_ = 63578.4 - 56937 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 62639.1 - 56863.1 > 1e-05
+Return false
+fLatest_.at(0) - fOpt_ = 61938.4 - 55778 > 1e-05
+Reading subject file: /media/ntk/Exoskeleton/ExoskeletonPowerAsistance/simulation/XML_CEINMS_generator/CEINMS_calibration_XML/subject.xml .
+Calibration time: 12000738ms
+
+```
