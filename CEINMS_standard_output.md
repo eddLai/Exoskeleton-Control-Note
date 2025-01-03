@@ -1171,7 +1171,229 @@ ankle_angle_r 9.25412 N
 
 ## Trialset減少
 ```
+PS C:\Users\sean9> CEINMScalibrate -S C:\Users\sean9\Desktop\project\TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1\calibrationSetup_1.xml
 
++-+-+-+-+-+-+
+|C|E|I|N|M|S|
++-+-+-+-+-+-+-+-+-+-+
+|C|a|l|i|b|r|a|t|e|d|
++-+-+-+-+-+-+-+-+-+-+-+-+
+|E|M|G|-|I|n|f|o|r|m|e|d|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|N|e|u|r|o|m|u|s|c|u|l|o|s|k|e|l|e|t|a|l|
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+|T|o|o|l|b|o|x|
++-+-+-+-+-+-+-+
+
+Calibration
+
+Copyright (C) 2025
+Claudio Pizzolato, Monica Reggiani, Massimo Sartori, David Lloyd
+
+Software developers: Claudio Pizzolato, Monica Reggiani
+readNMSmodelCfg
+Reading subject file: C:\Users\sean9\Desktop\project\TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1\../../uncalibrated/DM_uncalibrated.xml .
+Contact model  not found
+Reading subject file: C:\Users\sean9\Desktop\project\TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1\../../uncalibrated/DM_uncalibrated.xml .
+activeForceLength
+passiveForceLength
+forceVelocity
+tendonForceStrain
+Assuming bifemlh_r pennation angle in radians: 0
+Assuming bifemsh_r pennation angle in radians: 0.401426
+Assuming grac_r pennation angle in radians: 0.0523599
+Assuming lat_gas_r pennation angle in radians: 0.139626
+Assuming med_gas_r pennation angle in radians: 0.296706
+Assuming per_brev_r pennation angle in radians: 0.0872665
+Assuming per_long_r pennation angle in radians: 0.174533
+Assuming per_tert_r pennation angle in radians: 0.226893
+Assuming rect_fem_r pennation angle in radians: 0.0872665
+Assuming sar_r pennation angle in radians: 0
+Assuming semimem_r pennation angle in radians: 0.261799
+Assuming semiten_r pennation angle in radians: 0.0872665
+Assuming soleus_r pennation angle in radians: 0.436332
+Assuming tib_ant_r pennation angle in radians: 0.0872665
+Assuming vas_int_r pennation angle in radians: 0.0523599
+Assuming vas_lat_r pennation angle in radians: 0.0872665
+Assuming vas_med_r pennation angle in radians: 0.0872665
+No OpenSim model associated to the subject
+
+EMG: Reading emg file...C:\Users\sean9\Desktop\project\TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1\../../Cfg/Rstance1/../../../trials/Rstance1/..\..\..\dynamicElaborations\Rstance1_allTrials_all\OvergroundGaitTrials_DM_ngait_og3\emg.mot
+Muscle excitations to muscle mapping:
+bifemlh_r -> bifemlh_r
+bifemsh_r -> bifemsh_r
+grac_r -> grac_r
+lat_gas_r -> lat_gas_r
+med_gas_r -> med_gas_r
+per_brev_r -> per_brev_r
+per_long_r -> per_long_r
+per_tert_r -> per_tert_r
+rect_fem_r -> rect_fem_r
+sar_r -> sar_r
+semimem_r -> semimem_r
+semiten_r -> semiten_r
+soleus_r -> soleus_r
+tib_ant_r -> tib_ant_r
+vas_int_r -> vas_int_r
+vas_lat_r -> vas_lat_r
+vas_med_r -> vas_med_r
+
+externalTorque DONE
+
+EMG: EMG DONE
+
+LmtMa: lmtMa DONE
+CalibrationStepCfg 100
+ --- DoFs: knee_angle_r ankle_angle_r
+ --- Objective Function: Minimize Torque Error
+
+ ---- Parameter: c1
+ ---- Global
+ ----- Absolute Range -0.95 -0.05
+
+ ---- Parameter: c2
+ ---- Global
+ ----- Absolute Range -0.95 -0.05
+
+ ---- Parameter: shapeFactor
+ ---- Global
+ ----- Absolute Range -2.999 -0.001
+
+ ---- Parameter: tendonSlackLength
+ ---- Single
+ ----- Relative Range 0.95 1.05
+
+ ---- Parameter: optimalFibreLength
+ ---- Single
+ ----- Relative Range 0.95 1.05
+
+ ---- Parameter: strengthCoefficient
+ ---- Grouped:
+ ----- Group: bifemlh_r bifemsh_r semimem_r semiten_r
+ ----- Group: grac_r
+ ----- Group: sar_r
+ ----- Group: lat_gas_r med_gas_r soleus_r
+ ----- Group: per_brev_r per_long_r
+ ----- Group: per_tert_r tib_ant_r
+ ----- Group: rect_fem_r vas_int_r vas_lat_r vas_med_r
+ ----- Absolute Range 0.5 3.5
+
+knee_angle_r
+ankle_angle_r
+Return false
+fLatest_.at(0) - fOpt_ = 271.649 - 9.15878 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 132.086 Nm
+ankle_angle_r 305.782 Nm
+
+Fobj = 271.649
+Return false
+fLatest_.at(0) - fOpt_ = 181.356 - 6.1161 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 58.3985 Nm
+ankle_angle_r 292.404 Nm
+
+Fobj = 181.356
+Return false
+fLatest_.at(0) - fOpt_ = 34.2848 - 5.99371 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 35.9402 Nm
+ankle_angle_r 103.45 Nm
+
+Fobj = 34.2848
+Return false
+fLatest_.at(0) - fOpt_ = 45.7977 - 5.99371 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 86.1428 Nm
+ankle_angle_r 31.6782 Nm
+
+Fobj = 45.7977
+Return false
+fLatest_.at(0) - fOpt_ = 15.1832 - 1.93012 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 34.076 Nm
+ankle_angle_r 71.3264 Nm
+
+Fobj = 15.1832
+Return false
+fLatest_.at(0) - fOpt_ = 1.8963 - 1.5764 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 32.569 Nm
+ankle_angle_r 15.7808 Nm
+
+Fobj = 6.70694
+Return false
+fLatest_.at(0) - fOpt_ = 2.09669 - 0.817633 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 19.3571 Nm
+ankle_angle_r 13.3655 Nm
+
+Fobj = 2.50687
+Return false
+fLatest_.at(0) - fOpt_ = 0.54642 - 0.468914 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 94.9036 Nm
+ankle_angle_r 4.93591 Nm
+
+Fobj = 53.7739
+Return false
+fLatest_.at(0) - fOpt_ = 0.317005 - 0.303768 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 6.90082 Nm
+ankle_angle_r 4.88669 Nm
+
+Fobj = 0.320391
+Return false
+fLatest_.at(1) - fOpt_ = 0.317005 - 0.275563 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 70.0489 Nm
+ankle_angle_r 4.44937 Nm
+
+Fobj = 29.3059
+Return false
+fLatest_.at(1) - fOpt_ = 0.27655 - 0.271448 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 6.37931 Nm
+ankle_angle_r 4.37054 Nm
+
+Fobj = 0.271813
+Return false
+fLatest_.at(2) - fOpt_ = 0.27655 - 0.270989 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 6.36042 Nm
+ankle_angle_r 4.41898 Nm
+
+Fobj = 0.271024
+Return false
+fLatest_.at(3) - fOpt_ = 0.27655 - 0.270948 > 0.001
+Joint moments RMSE
+Trial #1
+knee_angle_r 6.3541 Nm
+ankle_angle_r 4.44905 Nm
+
+Fobj = 0.27095
+Return true!
+fOpt_ = 0.270943
+Joint moments RMSE
+Trial #1
+knee_angle_r 6.35429 Nm
+ankle_angle_r 4.44744 Nm
+
+Fobj = 0.270943
+Reading subject file: C:\Users\sean9\Desktop\project\TestData\ElaboratedData\sixthGC\ceinms\calibration\Setup\Rstance1\../../uncalibrated/DM_uncalibrated.xml .
+Calibration time: 267135ms
 ```
 
 # Ours 
