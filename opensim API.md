@@ -1,7 +1,14 @@
 # Overview
 ![[Overview of the OpenSim Modeling Framework.png|400]]
 ![[simple opensim simulation.png|400]]
-## Model compoen
+## Model components
+- PhysicalFrame
+- Joint
+- Constraint
+- Force
+- Actuator
+- Controller
+- Probe
 
 ---
 # structure: Objects
