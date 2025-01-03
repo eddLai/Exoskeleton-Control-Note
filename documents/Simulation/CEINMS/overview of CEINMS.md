@@ -401,4 +401,4 @@ Calibration time: 3676435ms
 
 T大，會在初期廣泛搜尋
 $r_t: 0.1 \rightarrow 0.6$
-maxNoEval: 80000
+maxNoEval: 800000，已經夠大
