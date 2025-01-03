@@ -3,7 +3,7 @@
 ![[simple opensim simulation.png|400]]
 
 ---
-# Objects structure
+# structure: Objects
 - Object class
 	- 序列化 (Serialization)：轉成檔案格式進行儲存，反之，反序列化
 - Components: 執行計算的元素(rooted directed tree topology)
