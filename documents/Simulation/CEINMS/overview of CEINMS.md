@@ -410,6 +410,7 @@ algorithm_params = {
         "maxNoEval": 800000,
     }
 ```
+
 T大，會在初期廣泛搜尋
 $r_t: 0.1 \rightarrow 0.3$
 maxNoEval: 800000，已經夠大
