@@ -22,7 +22,7 @@ Coordinate controller
 - 使用[[gait analysis code from Maurice edd_Note]]
 
 ---
-# API
+[[opensim API]]
 ![[Overview of the OpenSim Modeling Framework.png|400]]
 ![[simple opensim simulation.png|400]]
 <div style="background-color: white; padding: 10px;">
