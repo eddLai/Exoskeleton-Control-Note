@@ -4,7 +4,7 @@
 ## Model components
 - PhysicalFrame
 	- Ground參考座標
-	- 
+	- Body 是具有慣性 (inertia) 的 PhysicalFrame
 - Joint
 - Constraint
 - Force
