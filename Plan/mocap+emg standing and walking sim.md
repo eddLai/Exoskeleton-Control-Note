@@ -309,3 +309,5 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 
 CEINMScalibration
 要用簡單的model
+
+execution
