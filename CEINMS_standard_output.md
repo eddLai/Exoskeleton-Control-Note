@@ -728,6 +728,7 @@ Fobj = 2.73017
 Reading subject file: .\../../uncalibrated/DM_uncalibrated.xml .
 Calibration time: 3153698ms
 ```
+## windows detailed(2)
 
 ## Trialset減少
 # Ours 
