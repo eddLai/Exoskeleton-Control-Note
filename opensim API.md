@@ -11,6 +11,7 @@
 	- 計算系統：`SimTK::MultibodySystem`進行運算
 	- 動態行為計算：解ODE
 	- 繼承序列化
+>並非所有的
 
 ---
 # State
