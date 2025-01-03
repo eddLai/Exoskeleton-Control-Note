@@ -49,6 +49,7 @@ auto& a = device.updComponent<CoordinateActuator>("motor");
 ---
 ![[storage structure of opensim.png|400]]
 
+DataTable: 
 
 ---
 - opensim sample rate
