@@ -1,6 +1,7 @@
 # Overview
 ![[Overview of the OpenSim Modeling Framework.png|400]]
 ![[simple opensim simulation.png|400]]
+## Model compoen
 
 ---
 # structure: Objects
