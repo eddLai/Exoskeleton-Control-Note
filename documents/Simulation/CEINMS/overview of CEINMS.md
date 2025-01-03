@@ -399,4 +399,4 @@ Calibration time: 3676435ms
 - Trial的次數
 - 或者CEINMS_setup迭代的設定
 
-T太大
+T太大，
