@@ -399,6 +399,17 @@ Calibration time: 3676435ms
 - Trial的次數
 - 或者CEINMS_setup迭代的設定
 
+```
+algorithm_params = {
+        "noEpsilon": 3,
+        "rt": 0.3,
+        "T": 200000,
+        "NS": 30,
+        "NT": 20,
+        "epsilon": 1.E-4,
+        "maxNoEval": 800000,
+    }
+```
 T大，會在初期廣泛搜尋
-$r_t: 0.1 \rightarrow 0.6$
+$r_t: 0.1 \rightarrow 0.3$
 maxNoEval: 800000，已經夠大
