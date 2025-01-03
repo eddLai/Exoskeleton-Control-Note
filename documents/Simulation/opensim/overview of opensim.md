@@ -39,7 +39,7 @@ Coordinate controller
 - Continuous state variables(通常稱為state variable)：來自components的動態方程 e.g.
 	- activation
 	- fiber-length
-- 
+- Discrete state variables:  external inputs and controls
 
 ---
 - opensim sample rate
