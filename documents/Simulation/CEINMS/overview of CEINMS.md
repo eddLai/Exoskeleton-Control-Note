@@ -412,5 +412,5 @@ algorithm_params = {
 ```
 
 T大，會在初期廣泛搜尋
-$r_t: 0.1 \rightarrow 0.3$
+$r_t: 0.1 \rightarrow 0.3$ 避免陷入局部最小值
 maxNoEval: 800000，已經夠大
