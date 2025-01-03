@@ -24,7 +24,13 @@
 	- **(realization Stages)** 管理快取變數的有效性。
 	- 不同的階段（`Position`、`Velocity`、`Dynamics`、`Acceleration`）定義了快取變數的依賴範圍。
 	- stale variables「過期」數據
-- 
+
+```C++
+// Get as abstract Component.
+Component& c = device.updComponent("motor");
+// Get as concrete Component.
+auto& a = device.updComponent<CoordinateActuator>("motor");
+```
 
 ---
 - opensim sample rate
