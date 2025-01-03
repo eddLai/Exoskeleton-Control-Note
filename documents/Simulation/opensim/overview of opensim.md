@@ -40,6 +40,8 @@ Coordinate controller
 	- activation
 	- fiber-length
 - Discrete state variables:  external inputs and controls, an Actuator is overridden
+	- 某種作用力的產生
+	- 
 
 ---
 - opensim sample rate
