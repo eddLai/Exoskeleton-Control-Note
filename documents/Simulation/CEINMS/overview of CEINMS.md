@@ -341,6 +341,7 @@ equilibriumElastic more acc. but stiff less comput. time
 
 ---
 [[CEINMS Install]]
+## CEINMS Debug
 ```
 
 1. 可以一個分兩個：沒影響，但是意義==有待商榷==
