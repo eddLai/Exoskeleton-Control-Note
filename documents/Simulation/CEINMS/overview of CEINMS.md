@@ -378,6 +378,33 @@ cmake .. \
 
 ```
 
+使用WSL系統
+```bash
+rm -rf build
+mkdir build
+cd build
+
+cmake .. \
+  -DCMAKE_BUILD_TYPE=Release \
+  -DCMAKE_C_COMPILER=/usr/bin/gcc \
+  -DCMAKE_CXX_COMPILER=/usr/bin/g++ \
+  -DCMAKE_CXX_FLAGS="-I/usr/include" \
+  -DBoost_NO_BOOST_CMAKE=ON \
+  -DBoost_USE_STATIC_LIBS=OFF \
+  -DBoost_USE_MULTITHREADED=ON \
+  -DBoost_USE_DEBUG_LIBS=OFF \
+  -DBoost_USE_RELEASE_LIBS=ON \
+  -DBoost_INCLUDE_DIR="/usr/include" \
+  -DBoost_LIBRARY_DIR_RELEASE="/usr/lib/x86_64-linux-gnu" \
+  -DXSD_EXECUTABLE="/usr/bin/xsdcxx" \
+  -DXSD_INCLUDE_DIR="/usr/include" \
+  -DXERCES_INCLUDE_DIR="/usr/include" \
+  -DXERCES_LIBRARY="/usr/lib/x86_64-linux-gnu/libxerces-c.so"
+
+make -j4
+
+```
+
 1. 可以一個分兩個：沒影響，但是意義==有待商榷==
 ```xml
 <excitation id="bflh_l">
