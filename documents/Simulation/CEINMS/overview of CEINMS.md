@@ -374,6 +374,8 @@ cmake .. \
   -DXSD_EXECUTABLE=/usr/bin/xsdcxx \
   -DXSD_INCLUDE_DIR=/usr/include
 
+-DCMAKE_BUILD_TYPE=Release \ -DXSD_EXECUTABLE=/usr/bin/xsdcxx \ -DXSD_INCLUDE_DIR=/usr/include \
+
 
 ```
 
