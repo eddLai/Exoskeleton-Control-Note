@@ -379,6 +379,14 @@ cmake .. \
 ```
 
 使用WSL系統
+加入
+```bash
+nano /root/CEINMS/lib/InputConnectors/FromStorageFile/Utilities.cpp
+#include <algorithm>  // for std::remove_if, std::find, etc.
+#include <iterator>   // for std::begin, std::end
+
+```
+
 ```bash
 rm -rf build
 mkdir build
