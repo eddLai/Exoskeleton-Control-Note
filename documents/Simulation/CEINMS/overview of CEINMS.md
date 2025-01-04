@@ -371,8 +371,9 @@ cmake .. \
   -DBoost_SYSTEM_LIBRARY_RELEASE=$CONDA_PREFIX/lib/libboost_system.so \
   -DXERCES_INCLUDE_DIR=$CONDA_PREFIX/include \
   -DXERCES_LIBRARY=$CONDA_PREFIX/lib/libxerces-c.so \
-  -DXSD_EXECUTABLE=/usr/local/xsd-3.3/bin/xsd \ 
-  -DXSD_INCLUDE_DIR=/usr/local/xsd-3.3/include
+  -DXSD_EXECUTABLE=/usr/bin/xsdcxx \
+  -DXSD_INCLUDE_DIR=/usr/include
+
 
 ```
 
