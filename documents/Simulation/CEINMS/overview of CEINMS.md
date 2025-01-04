@@ -369,6 +369,10 @@ cmake .. \
   -DBoost_LIBRARY_DIR_RELEASE=$CONDA_PREFIX/lib \
   -DBoost_FILESYSTEM_LIBRARY_RELEASE=$CONDA_PREFIX/lib/libboost_filesystem.so \
   -DBoost_SYSTEM_LIBRARY_RELEASE=$CONDA_PREFIX/lib/libboost_system.so
+  -DCMAKE_CXX_COMPILER=g++ \
+  -DXERCES_INCLUDE_DIR=$CONDA_PREFIX/include \
+  -DXERCES_LIBRARY=$CONDA_PREFIX/lib/libxerces-c.so
+
 
 ```
 
