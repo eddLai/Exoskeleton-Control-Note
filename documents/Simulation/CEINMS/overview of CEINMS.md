@@ -350,6 +350,7 @@ make install
 ```
 
 在conda中安裝
+失敗不可行。
 ```bash
 rm -rf build
 mkdir build
