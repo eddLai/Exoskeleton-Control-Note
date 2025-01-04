@@ -374,10 +374,6 @@ cmake .. \
   -DXSD_EXECUTABLE="/usr/bin/xsdcxx" \
   -DXSD_INCLUDE_DIR="/usr/include"
 
-
--DCMAKE_BUILD_TYPE=Release \ -DXSD_EXECUTABLE=/usr/bin/xsdcxx \ -DXSD_INCLUDE_DIR=/usr/include \
-
-
 ```
 
 1. 可以一個分兩個：沒影響，但是意義==有待商榷==
