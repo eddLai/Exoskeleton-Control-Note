@@ -365,14 +365,15 @@ cmake .. \
   -DBoost_USE_DEBUG_LIBS=OFF \
   -DBoost_USE_RELEASE_LIBS=ON \
   -DBoost_USE_MULTITHREADED=ON \
-  -DBoost_INCLUDE_DIR=$CONDA_PREFIX/include \
-  -DBoost_LIBRARY_DIR_RELEASE=$CONDA_PREFIX/lib \
-  -DBoost_FILESYSTEM_LIBRARY_RELEASE=$CONDA_PREFIX/lib/libboost_filesystem.so \
-  -DBoost_SYSTEM_LIBRARY_RELEASE=$CONDA_PREFIX/lib/libboost_system.so \
-  -DXERCES_INCLUDE_DIR=$CONDA_PREFIX/include \
-  -DXERCES_LIBRARY=$CONDA_PREFIX/lib/libxerces-c.so \
-  -DXSD_EXECUTABLE=/usr/bin/xsdcxx \
-  -DXSD_INCLUDE_DIR=/usr/include
+  -DBoost_INCLUDE_DIR="$CONDA_PREFIX/include" \
+  -DBoost_LIBRARY_DIR_RELEASE="$CONDA_PREFIX/lib" \
+  -DBoost_FILESYSTEM_LIBRARY_RELEASE="$CONDA_PREFIX/lib/libboost_filesystem.so" \
+  -DBoost_SYSTEM_LIBRARY_RELEASE="$CONDA_PREFIX/lib/libboost_system.so" \
+  -DXERCES_INCLUDE_DIR="$CONDA_PREFIX/include" \
+  -DXERCES_LIBRARY="$CONDA_PREFIX/lib/libxerces-c.so" \
+  -DXSD_EXECUTABLE="/usr/bin/xsdcxx" \
+  -DXSD_INCLUDE_DIR="/usr/include"
+
 
 -DCMAKE_BUILD_TYPE=Release \ -DXSD_EXECUTABLE=/usr/bin/xsdcxx \ -DXSD_INCLUDE_DIR=/usr/include \
 
