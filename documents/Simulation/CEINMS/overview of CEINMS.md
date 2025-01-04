@@ -349,6 +349,29 @@ make -j4
 make install
 ```
 
+在conda中安裝
+```bash
+rm -rf build
+mkdir build
+cd build
+
+cmake .. \
+  -DCMAKE_BUILD_TYPE=Release \
+  -DCMAKE_C_COMPILER=gcc \
+  -DCMAKE_CXX_COMPILER=g++ \
+  -DBoost_NO_BOOST_CMAKE=ON \
+  -DBoost_DEBUG=ON \
+  -DBoost_USE_STATIC_LIBS=OFF \
+  -DBoost_USE_DEBUG_LIBS=OFF \
+  -DBoost_USE_RELEASE_LIBS=ON \
+  -DBoost_USE_MULTITHREADED=ON \
+  -DBoost_INCLUDE_DIR=$CONDA_PREFIX/include \
+  -DBoost_LIBRARY_DIR_RELEASE=$CONDA_PREFIX/lib \
+  -DBoost_FILESYSTEM_LIBRARY_RELEASE=$CONDA_PREFIX/lib/libboost_filesystem.so \
+  -DBoost_SYSTEM_LIBRARY_RELEASE=$CONDA_PREFIX/lib/libboost_system.so
+
+```
+
 1. 可以一個分兩個：沒影響，但是意義==有待商榷==
 ```xml
 <excitation id="bflh_l">
