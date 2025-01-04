@@ -309,3 +309,7 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 1. 如何調參
 2. calibration不夠好會怎麼樣
 3. ExternalForce是個隱患
+
+
+有些參數比較接近了
+[[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
