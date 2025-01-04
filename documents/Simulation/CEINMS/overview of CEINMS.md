@@ -359,6 +359,7 @@ cmake .. \
   -DCMAKE_BUILD_TYPE=Release \
   -DCMAKE_C_COMPILER=gcc \
   -DCMAKE_CXX_COMPILER=g++ \
+  -DCMAKE_CXX_FLAGS="-I/usr/include" \
   -DBoost_NO_BOOST_CMAKE=ON \
   -DBoost_DEBUG=ON \
   -DBoost_USE_STATIC_LIBS=OFF \
