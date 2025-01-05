@@ -313,6 +313,7 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 
 有些參數比較接近了
 [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
-[[碩論]]
+[[碩論神經肌肉骨骼模型ntu-111-2 (2).pdf]]
+[[]]
 
 SCONE可以吃滿參數
