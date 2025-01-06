@@ -329,3 +329,6 @@ SCONE原理：
 
 使用的版本跟windows上的不一樣，opensim要用linux
 用wine
+```
+alias WINE_CEINMS='wine "C:\\Program Files\\CEINMS 0.10\\bin\\CEINMS.exe"'
+```
