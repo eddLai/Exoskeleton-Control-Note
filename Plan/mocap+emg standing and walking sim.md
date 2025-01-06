@@ -323,4 +323,5 @@ Exoskeleton控制演算法
 
 SCONE可以吃滿參數
 SCONE原理：
-- [[A Muscle-Reflex Model that Encodes Principles of.pdf]]
+- [[A Muscle-Reflex Model that Encodes Principles of Note]]
+- [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
