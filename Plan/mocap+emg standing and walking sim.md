@@ -327,10 +327,12 @@ SCONE原理：
 - [[A Muscle-Reflex Model that Encodes Principles of Note]]
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 
-使用的版本跟windows上的不一樣，opensim要用linux
-用wine
-```
-alias WINE_CEINMS='wine "C:\\Program Files\\CEINMS 0.10\\bin\\CEINMS.exe"'
-```
+CEINMS windows可以跑
+- [ ] github上版本不是最新的，試試看develop(建置太久了)
+- [ ] 編譯環境有問題(等回覆)
+- [x] 可以用wine(失敗)(結果成功了)
+- 研究CEINMS-RT
 
-需要opensim3.3?
+SCONE 現在模型相容，控制器方法、Hyfydy可以轉回來嗎
+depRL SCONE_gym mimic measure
+CEINMS 最新的code

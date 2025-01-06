@@ -71,4 +71,10 @@ cmake .. \
 make -j4
 ```
 
-使用的版本跟windows上的不一樣
+使用的版本跟windows上的不一樣，opensim要用linux
+用wine
+```
+alias WINE_CEINMS='wine "C:\\Program Files\\CEINMS 0.10\\bin\\CEINMS.exe"'
+```
+
+需要opensim3.3?
