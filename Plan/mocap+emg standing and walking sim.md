@@ -332,3 +332,5 @@ SCONE原理：
 ```
 alias WINE_CEINMS='wine "C:\\Program Files\\CEINMS 0.10\\bin\\CEINMS.exe"'
 ```
+
+需要opensim3.3?
