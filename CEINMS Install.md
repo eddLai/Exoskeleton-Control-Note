@@ -41,10 +41,8 @@ cmake .. \
 ```bash
 nano /root/CEINMS/lib/InputConnectors/FromStorageFile/Utilities.cpp
 #include <iostream>
-
-#include <algorithm>  // for std::remove_if, std::find, etc.
-
-#include <iterator>   // for std::begin, std::end
+#include <algorithm>  // for std::remove_if, std::find, etc.
+#include <iterator>   // for std::begin, std::end
 
 ```
 
