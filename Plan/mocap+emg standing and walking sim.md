@@ -336,3 +336,5 @@ CEINMS windows可以跑
 SCONE 現在模型相容，控制器方法、Hyfydy可以轉回來嗎
 depRL SCONE_gym mimic measure
 CEINMS 最新的code
+
+討論教案，以及要聯絡什麼
