@@ -317,6 +317,7 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 - [[CEINMS-RT an open-source framework for the continuous neuro-mechanical model-based control of wearable robots.pdf]]
 - https://mp.weixin.qq.com/s/jESleOjQCSeNW4seNOFjPQ
 - https://mp.weixin.qq.com/s/rWBT5-Q5iPIvffBS9d3DQA
+- [【20250102】Jan Peters团队新作：基于生成对抗模仿学习的人类肌骨模型拟人步行控制策略](https://mp.weixin.qq.com/s/rWBT5-Q5iPIvffBS9d3DQA)
 
 
 SCONE可以吃滿參數
