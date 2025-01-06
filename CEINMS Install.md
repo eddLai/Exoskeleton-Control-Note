@@ -76,6 +76,7 @@ make -j4
 ```
 sudo apt install wine64
 sudo apt install wine32
+wine ./installer
 ```
 [How to Install Wine on Ubuntu {Tutorial with Screenshots}](https://phoenixnap.com/kb/how-to-install-wine-on-ubuntu#wine-start-command)
 ```
