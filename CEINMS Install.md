@@ -69,3 +69,6 @@ cmake .. \
   -DXERCES_LIBRARY="/usr/lib/x86_64-linux-gnu/libxerces-c.so"
 
 make -j4
+```
+
+使用的版本跟windows上的不一樣
