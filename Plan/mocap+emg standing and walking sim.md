@@ -317,7 +317,7 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 - [[CEINMS-RT an open-source framework for the continuous neuro-mechanical model-based control of wearable robots.pdf]]
 - [【20250102】Jan Peters团队新作：基于生成对抗模仿学习的人类肌骨模型拟人步行控制策略](https://mp.weixin.qq.com/s/rWBT5-Q5iPIvffBS9d3DQA)
 
-Exoskeleton控制
+Exoskeleton控制演算法
 - [【20250103】AI驱动的通用下肢外骨骼机器人系统以实现社区步行辅助](https://mp.weixin.qq.com/s/jESleOjQCSeNW4seNOFjPQ)
 
 
