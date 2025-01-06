@@ -73,6 +73,10 @@ make -j4
 
 使用的版本跟windows上的不一樣，opensim要用linux
 用wine
+```
+sudo apt install wine64
+sudo apt install wine32
+```
 [How to Install Wine on Ubuntu {Tutorial with Screenshots}](https://phoenixnap.com/kb/how-to-install-wine-on-ubuntu#wine-start-command)
 ```
 alias WINE_CEINMS='wine "C:\\Program Files\\CEINMS 0.10\\bin\\CEINMS.exe"'
