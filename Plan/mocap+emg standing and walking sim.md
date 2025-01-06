@@ -315,9 +315,10 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
 - [[碩論神經肌肉骨骼模型ntu-111-2 (2).pdf]]
 - [[CEINMS-RT an open-source framework for the continuous neuro-mechanical model-based control of wearable robots.pdf]]
-- https://mp.weixin.qq.com/s/jESleOjQCSeNW4seNOFjPQ
-- https://mp.weixin.qq.com/s/rWBT5-Q5iPIvffBS9d3DQA
 - [【20250102】Jan Peters团队新作：基于生成对抗模仿学习的人类肌骨模型拟人步行控制策略](https://mp.weixin.qq.com/s/rWBT5-Q5iPIvffBS9d3DQA)
+
+Exoskeleton控制
+- [【20250103】AI驱动的通用下肢外骨骼机器人系统以实现社区步行辅助](https://mp.weixin.qq.com/s/jESleOjQCSeNW4seNOFjPQ)
 
 
 SCONE可以吃滿參數
