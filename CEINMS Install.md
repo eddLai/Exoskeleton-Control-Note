@@ -77,10 +77,9 @@ make -j4
 sudo apt install wine64
 sudo apt install wine32
 wine ./installer
+需要opensim3.3, CEINMS
 ```
 [How to Install Wine on Ubuntu {Tutorial with Screenshots}](https://phoenixnap.com/kb/how-to-install-wine-on-ubuntu#wine-start-command)
 ```
-alias WINE_CEINMS='wine "C:\\Program Files\\CEINMS 0.10\\bin\\CEINMS.exe"'
+alias WINE_CEINMS='wine "~/.wine/drive_c/Program Files/CEINMS 0.10/bin/CEINMS.exe"'
 ```
-
-需要opensim3.3?
