@@ -2,7 +2,7 @@ ref.
 - [opensim-org/opensim-core: SimTK OpenSim C++ libraries and command-line applications, and Java/Python wrapping.](https://github.com/opensim-org/opensim-core?tab=readme-ov-file)
 - [OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview)
 - file example: [opensim-models/Pipelines/Gait2354_Simbody/subject01_Setup_Scale.xml at master · opensim-org/opensim-models](https://github.com/opensim-org/opensim-models/blob/master/Pipelines/Gait2354_Simbody/subject01_Setup_Scale.xml)
-- [[OpensSim_A]]
+- [[OpenSim_AdvancedUserWorkshop_Handout.pdf]]
 
 # Content
 - [[opensim Download]]
