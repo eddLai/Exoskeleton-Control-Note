@@ -421,7 +421,8 @@ SCONE原理：
 Aaron Wang, aaronwang0809@gmail.com
 
 ---
-與耀哥討論總結
+與耀哥討論之總結
+
 確定緯宇用的規格是錯的，需要兩個MOSI沒錯，轉板轉成TTL
 缺設備，需要
 - LA：耀哥建議要有，側錄
