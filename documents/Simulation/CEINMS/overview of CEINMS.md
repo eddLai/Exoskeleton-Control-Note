@@ -267,7 +267,7 @@ file type: `.mot`, `.sto`
 
 ---
 ### Data input:
-`.sto`格式opensim使用的
+`.sto`格式：opensim使用的Storage格式
 - `endheader`
 - `nColumns=15` or `dataColumns 15`
 - `nRows=1264` or `dataRows 1264`
@@ -276,8 +276,11 @@ file type: `.mot`, `.sto`
 - muscle names <- `subjectDescFile`
 - muscle activation <- excitationsDescFile`inputSignals
 
-`<prefix>_Length.sto`
-`<prefix>_MomentArm_<dof_name>.sto`
+---
+注意
+- `<prefix>_Length.sto`
+- `<prefix>_MomentArm_<dof_name>.sto`
+
 MuscleAnalysis
 `compute_moments`, 
 `muscle_list`:需要include all muscles
