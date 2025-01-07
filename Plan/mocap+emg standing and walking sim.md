@@ -1,5 +1,6 @@
 [[musculoskeletal modeling in simulation]]
 
+# Overview
 7 Days ~ 10/3 (Thursday)
 1. make model fit an object
 	1. mocap data input: 
@@ -92,6 +93,8 @@ cupy
 [[GCBME呈現]]
 
 ![[pipeline of building Digital Twins.png]]
+
+---
 
 ---
 ## Deadline: 11/12 (二)
