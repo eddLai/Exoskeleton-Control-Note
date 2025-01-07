@@ -322,6 +322,7 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 1. 有些參數比較接近了
 2. 成功得到path_01的calibrated 4/11個
 3. 開始執行execution
+Execution問題
 發現CEINMS window才可以跑
 - [ ] github上版本不是最新的，試試看develop(建置太久了)
 - [ ] 編譯環境有問題(等回覆)
@@ -343,8 +344,5 @@ SCONE原理：
 - [[A Muscle-Reflex Model that Encodes Principles of Note]]
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 
-SCONE 現在模型相容，控制器方法、Hyfydy可以轉回來嗎
-depRL SCONE_gym mimic measure
-CEINMS 最新的code
 
 討論教案，以及要聯絡什麼
