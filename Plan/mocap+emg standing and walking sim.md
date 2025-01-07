@@ -314,7 +314,10 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 ![[CEINMS workflow.png|500]]
 
 有些參數比較接近了
-t/
+成功得到path_01的calibrated
+開始執行execution
+
+
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
 - [[碩論神經肌肉骨骼模型ntu-111-2 (2).pdf]]
 - [[CEINMS-RT an open-source framework for the continuous neuro-mechanical model-based control of wearable robots.pdf]]
