@@ -302,18 +302,18 @@ scale_tool.run()
 - RAM因為多人同時共用64GB會比較保險，上週有兩次閃退
 - 吃了12GB左右
 
-
+calibration沒辦法收斂
 
 ---
 ## Deadline: 1/7 (二)
+目標：解決calibration沒辦法收斂的問題
 
-calibration要用hybrid嗎
+1. calibration要用hybrid嗎
 calibration不知道怎麼加入hybrid，XSD就已經限制不行
 >NMSmodel: a collection of options for the simulation of the model (see the corresponding section NMSmodel in the execution description file)
-
-1. 如何調參
-2. calibration不夠好會怎麼樣
-3. ExternalForce是個隱患
+2. 如何調參
+3. calibration不夠好會怎麼樣
+4. ExternalForce是個隱患
 ![[calibration debug.png|600]]
 ![[CEINMS workflow.png|500]]
 
