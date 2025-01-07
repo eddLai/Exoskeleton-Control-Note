@@ -212,6 +212,7 @@ eddlai
 	- 頻率
 
 ---
+## Deadline: 12/17 (二)
 1. 利用新的EMG概念重新理解SCONE生成的結果，以及收到的資料(資料分析中)
 	1. 初步的分析方法實施(需要從數學到coding)
 	2. 建立EMG手部資料之實驗建置以活用`libemg`工具(1~2天)，[Feature Extraction — libemg 1.0.0 documentation](https://libemg.github.io/libemg/documentation/features/features.html)
