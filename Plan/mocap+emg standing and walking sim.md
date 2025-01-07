@@ -360,6 +360,9 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 2. 如何調參
 3. calibration不夠好會怎麼樣
 4. ExternalForce是個隱患
+
+---
+
 ![[calibration debug.png|600]]
 ![[CEINMS workflow.png|500]]
 
