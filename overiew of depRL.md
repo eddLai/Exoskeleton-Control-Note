@@ -11,3 +11,4 @@ desired algorithm, environment, number of training iterations
 - 動作空間 (Action Space): 肌肉控制任務的動作空間通常很大，因為需要控制許多單獨的肌肉
 
 行走速度、關節疼痛和肌肉努力的獎勵函數
+內建在生物體內的機制或目標，
