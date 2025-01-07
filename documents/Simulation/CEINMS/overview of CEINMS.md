@@ -274,7 +274,7 @@ file type: `.mot`, `.sto`
 多列stamps，第一列是`time`
 
 ---
-與EMG相關的內容(詳情見M)
+與EMG相關的內容(詳情見Miro圖)
 - Excitation file
 	- muscle names <- `subjectDescFile`
 	- muscle activation <- excitationsDescFile`inputSignals
@@ -291,11 +291,15 @@ file type: `.mot`, `.sto`
 ### File hierarchy
 background: [[XML file]]
 toc
+```
 .. toctree::
    :maxdepth: 2
+```
 
+```
    xsd/ceinmsCalibrationSetup.xsd
    xsd/calibration.xsd
+```
 
    xsd/subject.xsd
    xsd/inputData.xsd
