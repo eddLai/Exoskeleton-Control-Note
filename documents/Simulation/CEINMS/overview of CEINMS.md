@@ -272,12 +272,12 @@ file type: `.mot`, `.sto`
 - `nColumns=15` or `dataColumns 15`
 - `nRows=1264` or `dataRows 1264`
 多列stamps，第一列是`time`
-格式要求: 
-- muscle names <- `subjectDescFile`
-- muscle activation <- excitationsDescFile`inputSignals
 
 ---
-注意
+注意格式要求: 
+- Excitation file
+- muscle names <- `subjectDescFile`
+- muscle activation <- excitationsDescFile`inputSignals
 - `<prefix>_Length.sto`
 - `<prefix>_MomentArm_<dof_name>.sto`
 
@@ -286,7 +286,7 @@ MuscleAnalysis
 `muscle_list`:需要include all muscles
 `moment_arm_coordinate_list`
 
-需要透過MATLAB MOtoNMS轉檔
+可以透過MATLAB MOtoNMS轉檔
 
 ---
 ### File hierarchy
