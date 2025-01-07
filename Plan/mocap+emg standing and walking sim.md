@@ -340,10 +340,10 @@ Execution問題
 ---
 下一步
 驗證execution跟實際`path_02~path_24`的差距
-著手研究要怎麼把execution所產生的放入forward_method
+著手研究要怎麼把execution所產生的放入forward_method(放到物理引擎裡頭)
 - depRL
 - SCONE
-- opensiforward dynamics
+- opensim forward dynamics
 
 ---
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
@@ -360,5 +360,5 @@ SCONE原理：
 - [[A Muscle-Reflex Model that Encodes Principles of Note]]
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 
-
+---
 討論教案，以及要聯絡什麼
