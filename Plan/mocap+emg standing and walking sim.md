@@ -300,6 +300,7 @@ scale_tool.run()
 - RAM因為多人同時共用64GB會比較保險，上週有兩次閃退
 - 吃了12GB左右
 
+---
 至於沒辦法收斂
 
 calibration要用hybrid嗎
