@@ -363,8 +363,10 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 
 ---
 
-![[calibration debug.png|600]]
-![[CEINMS workflow.png|500]]
+![[calibration debug.png|8]]
+
+---
+![[CEINMS workflow.png|800]]
 
 ---
 測試過比較簡單的model，只有矢狀面，需要把我們的資料轉向
