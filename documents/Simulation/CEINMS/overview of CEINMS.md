@@ -45,6 +45,12 @@ ref.
 - https://github.com/CEINMS/CEINMS
 
 ---
+Content
+- [[CEINMS Install]]
+- [[CEINMS_standard_output]]
+- [[CEINMS Debug Log]]
+
+---
 ## Modes
 - Full-predictive open-loop mode(EMG-driven): 
 	- EMG signals and 3D joint angles input $\rightarrow$musculotendon forces
