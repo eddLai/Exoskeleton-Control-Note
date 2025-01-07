@@ -65,6 +65,8 @@ ref.
 
 ---
 ## Calibration
+用途: refining muscle parameters(用於muscles->force轉換)
+- cost function: ***error between the estimated and the measured joint moments during a set of tasks.***
 non-linearly optimization for different individuals: Simulated Annealing
 - close tracking
 	- experimental joint moments
@@ -340,12 +342,6 @@ objective function weightings alpha, beta and gamma
 > trackedMuscles = none
 > 
 > predictedMuscles = every muscle
-
----
-### CEINMScalibrate
-用途: refining muscle parameters(用於muscles->force轉換)
-定義:
-- cost function: ***error between the estimated and the measured joint moments during a set of tasks.***
 
 ---
 [[CEINMS Install]]
