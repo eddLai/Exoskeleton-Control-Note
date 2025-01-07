@@ -346,7 +346,8 @@ objective function weightings alpha, beta and gamma
 
 ---
 [[CEINMS Install]]
-## CEINMS Debug Log
+[[CEINMS_standard_output]]
+[[CEINMS Debug Log]]
 ```
 
 1. 可以一個分兩個：沒影響，但是意義==有待商榷==
@@ -394,24 +395,3 @@ Calibration time: 3676435ms
 ```
 
 `<excitationsFile>`的位置沒有影響
-
----
-[[CEINMS_standard_output]]
-- Trial的次數
-- 或者CEINMS_setup迭代的設定
-
-```
-algorithm_params = {
-        "noEpsilon": 3,
-        "rt": 0.3,
-        "T": 200000,
-        "NS": 30,
-        "NT": 20,
-        "epsilon": 1.E-4,
-        "maxNoEval": 800000,
-    }
-```
-
-T大，會在初期廣泛搜尋
-$r_t: 0.1 \rightarrow 0.3$ 需要減小
-maxNoEval: 800000，需要加大
