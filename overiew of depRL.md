@@ -7,3 +7,4 @@ desired algorithm, environment, number of training iterations
 - 動作空間 (Action Space): 肌肉控制任務的動作空間通常很大，因為需要控制許多單獨的肌肉
 
 Differential Extrinsic Plasticity, DEP：自組織並產生連貫的行為
+evolutionary priors
