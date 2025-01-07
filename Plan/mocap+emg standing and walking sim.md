@@ -317,9 +317,11 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 ![[calibration debug.png|600]]
 ![[CEINMS workflow.png|500]]
 
-有些參數比較接近了
-成功得到path_01的calibrated
-開始執行execution
+---
+
+1. 有些參數比較接近了
+2. 成功得到path_01的calibrated 4/11個
+3. 開始執行execution
 發現CEINMS windows可以跑
 - [ ] github上版本不是最新的，試試看develop(建置太久了)
 - [ ] 編譯環境有問題(等回覆)
