@@ -390,6 +390,7 @@ Execution問題
 
 ---
 下一步
+
 驗證execution跟實際`path_02~path_24`的差距
 著手研究要怎麼把execution所產生的放入forward_method(放到物理引擎裡頭)
 - depRL
@@ -397,6 +398,7 @@ Execution問題
 - opensim forward dynamics
 
 ---
+
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
 - [[碩論神經肌肉骨骼模型ntu-111-2 (2).pdf]]
 - [[CEINMS-RT an open-source framework for the continuous neuro-mechanical model-based control of wearable robots.pdf]]
