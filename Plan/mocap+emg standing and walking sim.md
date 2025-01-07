@@ -1,3 +1,6 @@
+---
+bg: "[[NTKLab_white bg.png]]"
+---
 
 <style>
     .reveal {
@@ -329,6 +332,7 @@ scale_tool.run()
 ---
 ## Deadline: 12/31 (二)
 本週成果：建立了整套的opensim API到CEINMS API的xml生成的建構流程
+[Exoskeleton - Miro](https://miro.com/app/board/uXjVN8HYlg0=/)
 流程圖...
 有python API跟C++ API
 官方建議從C++學python的, [API: API Guide](https://simtk.org/api_docs/opensim/api_docs/md_doc_APIGuide.html)
