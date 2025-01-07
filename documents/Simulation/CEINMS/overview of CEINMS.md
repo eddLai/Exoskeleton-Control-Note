@@ -301,9 +301,11 @@ toc
    xsd/calibration.xsd
 ```
 
+```
    xsd/subject.xsd
    xsd/inputData.xsd
    xsd/excitationGenerator.xsd
+```
 
 XSD用於驗證XML可否使用
 
@@ -314,6 +316,7 @@ XSD用於驗證XML可否使用
 `trackedMuscles在實驗中測量的肌肉  || predictedMusclesao沒有在實驗中測量的肌肉`
 objective function weightings alpha, beta and gamma
 
+---
 - _openLoop_: means _full-predictive_ 不需要外部反饋e.g. joint moments file
 - _Hybrid mode_
 > alpha = 1, beta = 0, gamma > 0
