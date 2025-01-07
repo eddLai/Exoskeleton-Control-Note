@@ -311,9 +311,10 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 2. calibration不夠好會怎麼樣
 3. ExternalForce是個隱患
 ![[calibration debug.png|600]]
-![[Pasted image 20250107081732.png]]
+![[CEINMS workflow.png|500]]
 
 有些參數比較接近了
+t/
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
 - [[碩論神經肌肉骨骼模型ntu-111-2 (2).pdf]]
 - [[CEINMS-RT an open-source framework for the continuous neuro-mechanical model-based control of wearable robots.pdf]]
