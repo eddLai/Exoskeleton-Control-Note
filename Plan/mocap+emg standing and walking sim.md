@@ -318,7 +318,8 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 ![[CEINMS workflow.png|500]]
 
 ---
-測試過比較簡單的model，只有齒狀面
+測試過比較簡單的model，只有矢狀面
+![[sagital_plane.png]]
 結果1/4(六)
 1. 有些參數比較接近了
 2. 成功得到path_01的calibrated 4/11個
