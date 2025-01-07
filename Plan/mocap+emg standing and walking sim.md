@@ -1,3 +1,4 @@
+
 [[musculoskeletal modeling in simulation]]
 
 # Overview
@@ -95,6 +96,7 @@ cupy
 ![[pipeline of building Digital Twins.png]]
 
 ---
+# Develop log
 
 ---
 ## Deadline: 11/12 (二)
