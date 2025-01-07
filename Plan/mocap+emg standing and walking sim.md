@@ -363,7 +363,7 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 
 ---
 
-![[calibration debug.png|8]]
+![[calibration debug.png|800]]
 
 ---
 ![[CEINMS workflow.png|800]]
@@ -379,8 +379,8 @@ Execution問題
 發現CEINMS window才可以跑
 - [ ] github上版本不是最新的，試試看develop(建置太久了)
 - [ ] 編譯環境有問題(等回覆)
-- [x] 可以用wine(失敗)(結果成功了)
-- 研究CEINMS-RT
+- [x] 可以用wine(結果成功了)
+- [ ] 研究CEINMS-RT
 
 ---
 已經向作者們提問
