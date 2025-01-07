@@ -274,17 +274,16 @@ file type: `.mot`, `.sto`
 多列stamps，第一列是`time`
 
 ---
-注意格式要求: 
+與EMG相關的內容(詳情見M)
 - Excitation file
-- muscle names <- `subjectDescFile`
-- muscle activation <- excitationsDescFile`inputSignals
-- `<prefix>_Length.sto`
-- `<prefix>_MomentArm_<dof_name>.sto`
-
-MuscleAnalysis
-`compute_moments`, 
-`muscle_list`:需要include all muscles
-`moment_arm_coordinate_list`
+	- muscle names <- `subjectDescFile`
+	- muscle activation <- excitationsDescFile`inputSignals
+	- `<prefix>_Length.sto`
+	- `<prefix>_MomentArm_<dof_name>.sto`
+- MuscleAnalysis
+	- `compute_moments`, 
+	- `muscle_list`:需要include all muscles
+	- `moment_arm_coordinate_list`
 
 可以透過MATLAB MOtoNMS轉檔
 
