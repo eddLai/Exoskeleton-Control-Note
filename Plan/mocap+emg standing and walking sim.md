@@ -337,6 +337,7 @@ Execution問題
 
 ---
 下一步
+驗證execution跟
 著手研究要怎麼把execution所產生的放入depRL
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
 - [[碩論神經肌肉骨骼模型ntu-111-2 (2).pdf]]
