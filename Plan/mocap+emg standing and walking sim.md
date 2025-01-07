@@ -285,7 +285,7 @@ scale_tool.run()
 - scaling XML中的data的marker .trc要用相對路徑，
 
 ---
-## Deadline: 12/3 (二)
+## Deadline: 12/31 (二)
 本週成果：建立了整套的opensim API到CEINMS API的xml生成的建構流程
 流程圖...
 有python API跟C++ API
@@ -302,8 +302,10 @@ scale_tool.run()
 - RAM因為多人同時共用64GB會比較保險，上週有兩次閃退
 - 吃了12GB左右
 
+
+
 ---
-calibration沒辦法收斂
+## Deadline: 1/7 (二)
 
 calibration要用hybrid嗎
 calibration不知道怎麼加入hybrid，XSD就已經限制不行
