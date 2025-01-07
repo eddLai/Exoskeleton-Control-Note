@@ -396,7 +396,7 @@ Execution問題
 - depRL
 - SCONE
 - opensim forward dynamics
-- genesis
+- Genesis
 
 ---
 forward methods
