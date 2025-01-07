@@ -329,7 +329,14 @@ Execution問題
 - [x] 可以用wine(失敗)(結果成功了)
 - 研究CEINMS-RT
 
+---
+已經向作者們提問
+- SCONE 現在模型相容，控制器方法、Hyfydy可以轉回來嗎
+- depRL SCONE_gym mimic measure
+- CEINMS 最新的code
 
+---
+下一步
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
 - [[碩論神經肌肉骨骼模型ntu-111-2 (2).pdf]]
 - [[CEINMS-RT an open-source framework for the continuous neuro-mechanical model-based control of wearable robots.pdf]]
