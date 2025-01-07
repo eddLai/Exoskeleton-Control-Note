@@ -325,6 +325,7 @@ objective function weightings alpha, beta and gamma
 > 
 > predictedMuscles = every muscle without experimental excitations
 
+---
 - _EMG-assisted mode_
 > alpha = 1, beta > 1, gamma > 1
 > 
@@ -332,6 +333,7 @@ objective function weightings alpha, beta and gamma
 > 
 > predictedMuscles = remaining muscles
 
+---
 - _Full optimization-driven closed-loop mode_
 > alpha = 1, beta = 0, gamma > 0
 > 
