@@ -411,7 +411,7 @@ Exoskeleton控制演算法
 - [[Development of a Real-Time Neural Controller using an EMG.pdf]]
 - [[Soft robotic apparel to avert freezing of gait .pdf]]
 
-SCONE可以吃CPU
+SCONE可以吃滿CPU
 SCONE原理：
 - [[A Muscle-Reflex Model that Encodes Principles of Note]]
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
