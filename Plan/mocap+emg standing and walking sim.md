@@ -361,4 +361,5 @@ SCONE原理：
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 
 ---
-討論教案，以及要聯絡什麼
+討論教案，以及要聯絡的內容
+Aaron Wang, aaronwang0809@gmail.com
