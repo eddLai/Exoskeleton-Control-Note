@@ -301,7 +301,7 @@ scale_tool.run()
 - 吃了12GB左右
 
 ---
-至於沒辦法收斂
+calibration沒辦法收斂
 
 calibration要用hybrid嗎
 calibration不知道怎麼加入hybrid，XSD就已經限制不行
@@ -316,6 +316,11 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 有些參數比較接近了
 成功得到path_01的calibrated
 開始執行execution
+發現CEINMS windows可以跑
+- [ ] github上版本不是最新的，試試看develop(建置太久了)
+- [ ] 編譯環境有問題(等回覆)
+- [x] 可以用wine(失敗)(結果成功了)
+- 研究CEINMS-RT
 
 
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
@@ -327,17 +332,10 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 Exoskeleton控制演算法
 - [【20250103】AI驱动的通用下肢外骨骼机器人系统以实现社区步行辅助](https://mp.weixin.qq.com/s/jESleOjQCSeNW4seNOFjPQ)
 
-
 SCONE可以吃滿參數
 SCONE原理：
 - [[A Muscle-Reflex Model that Encodes Principles of Note]]
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
-
-CEINMS windows可以跑
-- [ ] github上版本不是最新的，試試看develop(建置太久了)
-- [ ] 編譯環境有問題(等回覆)
-- [x] 可以用wine(失敗)(結果成功了)
-- 研究CEINMS-RT
 
 SCONE 現在模型相容，控制器方法、Hyfydy可以轉回來嗎
 depRL SCONE_gym mimic measure
