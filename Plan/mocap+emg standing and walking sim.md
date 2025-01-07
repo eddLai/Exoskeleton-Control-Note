@@ -318,8 +318,8 @@ calibration不知道怎麼加入hybrid，XSD就已經限制不行
 ![[CEINMS workflow.png|500]]
 
 ---
-測試過比較簡單的model，只有矢狀面
-![[sagital_plane.png]]
+測試過比較簡單的model，只有矢狀面，需要把我們的資料轉向
+![[sagital_plane.png|200]]
 結果1/4(六)
 1. 有些參數比較接近了
 2. 成功得到path_01的calibrated 4/11個
@@ -339,7 +339,7 @@ Execution問題
 
 ---
 下一步
-驗證execution跟
+驗證execution跟實際生成的
 著手研究要怎麼把execution所產生的放入depRL
 - [[Voluntary control of wearable robotic exoskeletons by patients with paresis via neuromechanical modeling.pdf]]
 - [[碩論神經肌肉骨骼模型ntu-111-2 (2).pdf]]
