@@ -252,6 +252,7 @@ SCONE分析項目
 - [ ] COM穩定度，MSE？？，一些簡單的統計工具就夠了吧， https://chatgpt.com/g/g-L2HknCZTC-scholar-ai/c/675512a8-533c-8013-8fbb-c547cc75485c
 
 ---
+## Deadline: 12/24 (二)
 確認
 - BSpline
 - EMG-driven的model
