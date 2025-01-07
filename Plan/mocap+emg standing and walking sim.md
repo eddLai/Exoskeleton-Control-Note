@@ -285,7 +285,7 @@ scale_tool.run()
 - scaling XML中的data的marker .trc要用相對路徑，
 
 ---
-12/22
+## Deadline: 12/3 (二)
 本週成果：建立了整套的opensim API到CEINMS API的xml生成的建構流程
 流程圖...
 有python API跟C++ API
