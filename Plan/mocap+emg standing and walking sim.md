@@ -394,6 +394,8 @@ Execution問題
 驗證execution跟實際`path_02~path_24`的差距
 著手研究要怎麼把execution所產生的放入forward_method(放到物理引擎裡頭)
 - depRL
+	- [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]
+	- [[Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models.pdf]]
 - SCONE
 - opensim forward dynamics
 - Genesis
