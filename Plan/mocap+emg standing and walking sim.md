@@ -432,3 +432,5 @@ Aaron Wang, aaronwang0809@gmail.com
 - adapter：可以先用ADS採集卡確認
 - RHS晶片:可以先用ADS採集卡確認，或者用CMOS mode，如果距離夠的話，用現有的嗎(線的問題)
 - 可以用假鼠做輸入，還有小的波形產生器，這樣就不會過飽和的問題
+
+需要
