@@ -399,6 +399,7 @@ Execution問題
 - SCONE
 - opensim forward dynamics
 - Genesis
+- [NVIDIA/Cosmos: Cosmos is a world model development platform that consists of world foundation models, tokenizers and video processing pipeline to accelerate the development of Physical AI at Robotics & AV labs. Cosmos is purpose built for physical AI. The Cosmos repository will enable end users to run the Cosmos models, run inference scripts and generate videos.](https://github.com/NVIDIA/Cosmos)
 
 ---
 forward methods
@@ -413,7 +414,7 @@ Exoskeleton控制演算法
 - [【20250103】AI驱动的通用下肢外骨骼机器人系统以实现社区步行辅助](https://mp.weixin.qq.com/s/jESleOjQCSeNW4seNOFjPQ)
 - [[Development of a Real-Time Neural Controller using an EMG.pdf]]
 - [[Soft robotic apparel to avert freezing of gait .pdf]]
-- [[Com]]
+- [[Comparison of Empirical and Reinforcement Learning (RL)-Based Control Based on Proximal Policy Optimization (PPO) for Walking Assistance Does AI Always Win.pdf]]
 
 SCONE可以吃滿CPU
 SCONE原理：
