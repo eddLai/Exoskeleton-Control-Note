@@ -413,6 +413,7 @@ Exoskeleton控制演算法
 - [【20250103】AI驱动的通用下肢外骨骼机器人系统以实现社区步行辅助](https://mp.weixin.qq.com/s/jESleOjQCSeNW4seNOFjPQ)
 - [[Development of a Real-Time Neural Controller using an EMG.pdf]]
 - [[Soft robotic apparel to avert freezing of gait .pdf]]
+- [[Com]]
 
 SCONE可以吃滿CPU
 SCONE原理：
