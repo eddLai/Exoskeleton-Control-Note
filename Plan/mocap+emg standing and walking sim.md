@@ -394,8 +394,6 @@ Execution問題
 驗證execution跟實際`path_02~path_24`的差距
 著手研究要怎麼把execution所產生的放入forward_method(放到物理引擎裡頭)
 - depRL
-	- [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]
-	- [[Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models.pdf]]
 - SCONE
 - opensim forward dynamics
 - Genesis
@@ -421,6 +419,10 @@ SCONE原理：
 - [[A Muscle-Reflex Model that Encodes Principles of Note]]
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 
+DepRL
+- [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]
+- [[Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models.pdf]]
+
 ---
 高中生教學內容
 
@@ -443,5 +445,3 @@ Aaron Wang, aaronwang0809@gmail.com
 下下一步?外骨骼還需要用D4PG嗎
 - 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來
 - 同時做survey
-[[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]
-[[Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models.pdf]]
