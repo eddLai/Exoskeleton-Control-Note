@@ -13,3 +13,6 @@ desired algorithm, environment, number of training iterations
 - Ornstein-Uhlenbeck 雜訊。對於跨動作相關性的從頭開始學習任務不夠
 
 行走速度、關節疼痛和肌肉努力的獎勵函數
+難以通過簡單的試錯法探索
+
+D4
