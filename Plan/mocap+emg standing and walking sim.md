@@ -475,4 +475,4 @@ Deciaion variables in analogous
 等於要訓練出一個小腦，但不一定要用NN做
 opensim端等於做了一層濾波
 
-RL relativeky sparse
+RL relatively sparse
