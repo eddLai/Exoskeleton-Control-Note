@@ -93,4 +93,4 @@ D4PG對於單一任務的多DOF動作應該足夠
 - Large Action Spaces
 	- Hypergraph-based Architecture:Tavakoli et al., 2021
 	- 離散動作空間 Dulac-Arnold et al., 2016; Wang et al., 2016
-	- 行動先驗 (Action Priors) Biza et al., 2021; Singh et al., 2021專家
+	- 行動先驗 (Action Priors) Biza et al., 2021; Singh et al., 2021專家數據
