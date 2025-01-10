@@ -80,6 +80,7 @@ D4PG對於單一任務的多DOF動作應該足夠
 - 特定訓練課程與檢查點
 
 ---
+# Literature Review
 - 降低肌肉維度
 	- Tieck et al., 2018
 	- Tahami et al., 2014
@@ -98,3 +99,4 @@ D4PG對於單一任務的多DOF動作應該足夠
 	- PD控制器Luo et al., 2021
 	- 校正網路限制力矩致動器的輸出Jiang et al., 2019
 	- PCA降維：Al Borno et al., 2020; Zhao et al., 2022
+- 
