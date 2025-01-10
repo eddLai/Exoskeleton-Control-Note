@@ -80,7 +80,10 @@ D4PG對於單一任務的多DOF動作應該足夠
 - 特定訓練課程與檢查點
 
 ---
-降低肌肉維度
-- Tieck et al., 2018
-- Tahami et al., 2014
-- Crowder et al., 2021
+- 降低肌肉維度
+	- Tieck et al., 2018
+	- Tahami et al., 2014
+	- Crowder et al., 2021
+- 手動分組肌肉以簡化學習
+	- Joos et al., 2020
+- 
