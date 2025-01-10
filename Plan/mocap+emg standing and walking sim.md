@@ -450,4 +450,6 @@ RL的角色是?SCONE的角色又是?
 RL是用來強化model在虛擬環境中對於新增事件的應對能力
 SCONE也是，but how?用depRL
 問題在串接
-自己寫一套imitation l
+自己寫一套imitation learning(unSupervised)
+
+transformoral
