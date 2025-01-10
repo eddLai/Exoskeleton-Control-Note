@@ -463,3 +463,5 @@ RL是用來強化model在虛擬環境中對於新增事件的應對能力
 
 transformoral amputee model
 evolutionary algorithm
+
+先從熟悉的RL架構進場
