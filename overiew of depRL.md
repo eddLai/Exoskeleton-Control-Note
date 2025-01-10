@@ -86,4 +86,5 @@ D4PG對於單一任務的多DOF動作應該足夠
 	- Crowder et al., 2021
 - 手動分組肌肉以簡化學習
 	- Joos et al., 2020
-- 
+- 透軌跡最佳化控制 (Al Borno et al., 2020)
+- 使用動作捕捉數據 (Lee et al., 2019)
