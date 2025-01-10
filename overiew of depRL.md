@@ -15,4 +15,4 @@ desired algorithm, environment, number of training iterations
 行走速度、關節疼痛和肌肉努力的獎勵函數
 難以通過簡單的試錯法探索
 
-D4
+D4PG對於單一任務的多DOF動作應該足夠
