@@ -459,6 +459,7 @@ RL是用來強化model在虛擬環境中對於新增事件的應對能力
 		- HyFyDy長期軟體開支
 		- 需要把opensim model遷移進去SCONE
 	- OsimRL
-		- 需易自己
+		- 需要自己開發imitation learning
 
 transformoral amputee model
+evolutionary algorithm
