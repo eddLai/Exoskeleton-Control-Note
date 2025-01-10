@@ -88,3 +88,5 @@ D4PG對於單一任務的多DOF動作應該足夠
 	- Joos et al., 2020
 - 透軌跡最佳化控制 (Al Borno et al., 2020)
 - 使用動作捕捉數據 (Lee et al., 2019)
+- 在真實的肌肉機器人上產生動作 (Driess et al., 2018; Buchler et al., 2016)
+**NeurIPS**
