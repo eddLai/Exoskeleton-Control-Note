@@ -470,4 +470,4 @@ fitness and genes
 先從熟悉的RL架構進場
 
 
-CMA-ES controller 
+CMA-ES controller training
