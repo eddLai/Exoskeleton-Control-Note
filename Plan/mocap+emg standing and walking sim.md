@@ -469,4 +469,4 @@ fitness and genes
 
 先從熟悉的RL架構進場
 
-
+CMA
