@@ -16,3 +16,6 @@ desired algorithm, environment, number of training iterations
 難以通過簡單的試錯法探索
 
 D4PG對於單一任務的多DOF動作應該足夠
+
+肌肉本身的化學低通濾波特性，單次短暫的肌肉收縮所產生的力矩，通常不足以在關節層面產生足夠的運動
+>
