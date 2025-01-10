@@ -447,4 +447,5 @@ Aaron Wang, aaronwang0809@gmail.com
 - 同時做survey
 
 RL的角色是?SCONE的角色又是?
-RL是用來強化model在虛擬環境中對於外部
+RL是用來強化model在虛擬環境中對於新增事件的應對能力
+問題在串接
