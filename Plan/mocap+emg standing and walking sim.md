@@ -467,6 +467,7 @@ transformoral amputee model
 evolutionary algorithm CMA-ES
 fitness and genes
 shallowNN
+Kidzinski
 
 先從熟悉的RL架構進場
 
