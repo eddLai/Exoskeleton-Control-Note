@@ -45,6 +45,7 @@ settings file
 desired algorithm, environment, number of training iterations
 
 ## Terms
+- embodiment：實現部件
 - Differential Extrinsic Plasticity, DEP：自組織並產生連貫的行為
 - evolutionary priors：內建在生物體內的機制或目標
 
