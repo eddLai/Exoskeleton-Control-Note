@@ -472,4 +472,4 @@ fitness and genes
 
 CMA-ES controller training
 Deciaion variables in analogous
-ㄉㄥ
+等於要訓練出一個小腦
