@@ -455,7 +455,10 @@ RL是用來強化model在虛擬環境中對於新增事件的應對能力
 - 直接用OsimRL，自己寫一套imitation learning(unSupervised)
 
 - 成本
-	- 長期jb0
-	- 需要把opensim model遷移進去SCONE
+	- SCONE
+		- HyFyDy長期軟體開支
+		- 需要把opensim model遷移進去SCONE
+	- OsimRL
+		- 需易自己
 
 transformoral amputee model
