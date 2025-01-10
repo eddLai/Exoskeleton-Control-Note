@@ -485,4 +485,5 @@ joint angle rather than muscle actuvation
 no knowledge with the env.
 
 4層PPO
-214＋312×2＋
+214＋312×2＋18
+tanh做ㄅ
