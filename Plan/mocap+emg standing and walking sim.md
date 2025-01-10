@@ -451,7 +451,9 @@ RL是用來強化model在虛擬環境中對於新增事件的應對能力
 > Based on 擁有simulation model之後可以得到上帝視角的資料進行仿生模型agent的訓練
 
 問題在串接
-需要把open- SCONE也是，but how?用depRL
+- SCONE也是，but how?用depRL
+	- 成本
+		- 需要把opensim model遷移進去SCONE
 - 直接用OsimRL，自己寫一套imitation learning(unSupervised)
 
 transformoral amputee model
