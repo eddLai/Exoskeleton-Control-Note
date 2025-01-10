@@ -39,6 +39,7 @@ RL utility on Muscleskeleton modeling
 <!-- slide bg="../NTKLab_white bg_cover_resize.png"-->
 
 ---
+# Background
 training file
 settings file
 desired algorithm, environment, number of training iterations
@@ -46,9 +47,6 @@ desired algorithm, environment, number of training iterations
 ## Terms
 - Differential Extrinsic Plasticity, DEP：自組織並產生連貫的行為
 - evolutionary priors：內建在生物體內的機制或目標
-
-行走速度、關節疼痛和肌肉努力的獎勵函數
-難以通過簡單的試錯法探索
 
 D4PG對於單一任務的多DOF動作應該足夠
 
@@ -60,7 +58,7 @@ D4PG對於單一任務的多DOF動作應該足夠
 - motion primitives: 透過預處理，將訊號降維，extraction of muscle synergies
 
 ---
-## Comp
+## Comparison to the origin RL
 使用RL methods，需要注意：
 - 過度驅動系統 (Overactuated Systems): 生物肌肉骨骼系統通常是過度驅動的，即肌肉數量多於自由度。在這種情況下，高效的探索策略是至關重要的。
 - 動作空間 (Action Space): 肌肉控制任務的動作空間通常很大，因為需要控制許多單獨的肌肉
