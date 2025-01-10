@@ -445,3 +445,5 @@ Aaron Wang, aaronwang0809@gmail.com
 下下一步?外骨骼還需要用D4PG嗎
 - 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來
 - 同時做survey
+
+RL的角色是?SCONE的角色又是?
