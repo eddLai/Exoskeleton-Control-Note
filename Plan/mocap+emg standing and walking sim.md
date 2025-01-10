@@ -482,3 +482,4 @@ RL relatively sparse
 learning from demostration
 joint angle rather than muscle actuvation
 但還是由上而下
+no knowledge with the env.
