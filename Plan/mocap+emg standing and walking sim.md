@@ -466,4 +466,5 @@ transformoral amputee model
 evolutionary algorithm
 
 先從熟悉的RL架構進場
+fitness 
 
