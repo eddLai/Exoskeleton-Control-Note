@@ -452,8 +452,10 @@ RL是用來強化model在虛擬環境中對於新增事件的應對能力
 
 問題在串接
 - SCONE也是，but how?用depRL
-	- 成本
-		- 需要把opensim model遷移進去SCONE
 - 直接用OsimRL，自己寫一套imitation learning(unSupervised)
+
+- 成本
+	- 長期jb0
+	- 需要把opensim model遷移進去SCONE
 
 transformoral amputee model
