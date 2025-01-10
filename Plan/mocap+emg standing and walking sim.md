@@ -448,6 +448,7 @@ Aaron Wang, aaronwang0809@gmail.com
 
 RL的角色是?SCONE的角色又是?
 RL是用來強化model在虛擬環境中對於新增事件的應對能力
+擁有simulation model之後可以得到上帝視角的資料進行仿生模型agent的訓練
 問題在串接
 - SCONE也是，but how?用depRL
 - 直接用OsimRL，自己寫一套imitation learning(unSupervised)
