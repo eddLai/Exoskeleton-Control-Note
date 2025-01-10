@@ -462,9 +462,11 @@ RL是用來強化model在虛擬環境中對於新增事件的應對能力
 	- OsimRL
 		- 需要自己開發imitation learning
 
+待確認
 transformoral amputee model
 evolutionary algorithm
+fitness and genes
 
 先從熟悉的RL架構進場
-fitness 
+
 
