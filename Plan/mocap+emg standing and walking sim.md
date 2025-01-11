@@ -489,3 +489,5 @@ no knowledge with the env.
 tanh做標準化
 
 propulsion
+
+睡飽做事，其實很適合在火車上
