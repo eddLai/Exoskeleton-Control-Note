@@ -495,3 +495,7 @@ propulsion
 
 用一個policy透過一SCONE這個可控層架構
 需要串接控制器，只是從哪一層開始串接?
+
+一堆文獻
+[Deep Reinforcement Learning Workshop](https://neurips.cc/virtual/2022/workshop/49989)
+我需要imitation learning
