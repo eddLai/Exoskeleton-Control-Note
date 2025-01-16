@@ -509,3 +509,5 @@ SCONE API，暫時不用鑽研
 - 切步態疊合，單純看資料，用速度抓之後再透過座標切
 - DepRL, SCONE gym搞懂怎麼做offline learning
 - 研究高中生的自學能力，Line上面聊天
+
+我的下個start應該要是開始動的時候
