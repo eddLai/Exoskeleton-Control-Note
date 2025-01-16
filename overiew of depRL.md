@@ -102,3 +102,5 @@ D4PG對於單一任務的多DOF動作應該足夠
 
 ---
 ***"Initial exploration As DEP is creating exploration that excites the system into various modes, we suggest running an unsupervised pre-training phase with exclusive DEP control."***
+控制器動作$a_t = \tanh(\kappa C s_t + h_t)$
+$h_t \in \mathbb{R}^n$
