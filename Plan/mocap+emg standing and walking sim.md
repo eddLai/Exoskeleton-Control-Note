@@ -502,4 +502,6 @@ propulsion
 
 要從Offline走到Online
 
-- SCONE H0918 導入CEINMS ac
+- SCONE H0918 導入CEINMS activation
+- 透過opensim Creator 驗證CEINMS
+- 
