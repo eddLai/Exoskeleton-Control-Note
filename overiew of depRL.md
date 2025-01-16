@@ -99,4 +99,6 @@ D4PG對於單一任務的多DOF動作應該足夠
 	- PD控制器Luo et al., 2021
 	- 校正網路限制力矩致動器的輸出Jiang et al., 2019
 	- PCA降維：Al Borno et al., 2020; Zhao et al., 2022
-- 
+
+---
+***"Initial exploration As DEP is creating exploration that excites the system into various modes, we suggest running an unsupervised pre-training phase with exclusive DEP control."***
