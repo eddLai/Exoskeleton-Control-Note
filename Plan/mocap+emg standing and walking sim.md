@@ -508,4 +508,5 @@ SCONE API，暫時不用鑽研
 - 透過opensim Creator 驗證CEINMS
 - 切步態疊合，單純看資料
 - DepRL, SCONE gym搞懂怎麼做offline learning
-- 研究超
+- 研究高中生的自學能力，Line上面聊天
+- 
