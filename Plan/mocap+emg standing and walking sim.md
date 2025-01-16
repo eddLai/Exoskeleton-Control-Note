@@ -504,5 +504,5 @@ propulsion
 
 - SCONE H0918 導入CEINMS activation
 - 透過opensim Creator 驗證CEINMS
-- 切步態疊合，單純0d
+- 切步態疊合，單純看資料，
 - SCONE gym
