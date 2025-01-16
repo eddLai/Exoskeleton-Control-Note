@@ -105,3 +105,6 @@ D4PG對於單一任務的多DOF動作應該足夠
 控制器動作
 $$a_t = \tanh(\kappa C s_t + h_t)$$
 $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
+
+$$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}
+$$
