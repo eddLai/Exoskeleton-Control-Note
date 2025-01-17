@@ -559,3 +559,4 @@ SCONE API，暫時不用鑽研
 
 
 各段步態之間的標準差，平均
+$time_{last} - time_{start}$
