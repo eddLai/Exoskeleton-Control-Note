@@ -564,3 +564,5 @@ SCONE API，暫時不用鑽研
 各段步態之間的標準差，平均
 $$gait_n\%=\frac{time-time_{start}}{time_{last} - time_{start}}\times100$$
 $$gait\_mean\ at\ x\%= \sum^N_{n=1}\frac{gait\ at\ x\%}{n}$$
+
+可能需要DL的資料衍生能力，
