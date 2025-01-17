@@ -508,10 +508,13 @@ SCONE API，暫時不用鑽研
 - [x] 透過opensim Creator 驗證CEINMS(失敗)
 	- [ ] on/off時間對上
 	- [ ] activation vs CEINMS adjusted activation
-- [x] 切步態疊合，單純看資料，用速度抓之後再透過座標切(大致完成，剩下Debug，還有hip資料為什麼相反)
+- [x] 切步態疊合，單純看資料，用速度抓之後再透過座標切(大致完成，剩下Debug)
 - [ ] DepRL, SCONE gym搞懂怎麼做offline learning
 - [ ] 研究高中生的自學能力，Line上面聊天，學好東西後由我想怎麼接軌我們目前的開發進度
 - [ ] 外骨骼模型怎麼導入SCONE
+
+待討論
+- [ ] hip資料為什麼相反，如果是延遲就合理
 
 ```
 1. 11.5 vs 11.466666666666669
