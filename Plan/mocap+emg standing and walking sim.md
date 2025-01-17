@@ -504,10 +504,10 @@ propulsion
 
 ---
 SCONE API，暫時不用鑽研
-- [ ] SCONE H0918 導入CEINMS activation
+- [x] SCONE H0918 導入CEINMS activation
 - [x] 透過opensim Creator 驗證CEINMS(失敗)
 	- [ ] on/off時間對上
-	- [ ] activation vs adjusted ac
+	- [ ] activation vs CEINMS adjusted activation
 - [ ] 切步態疊合，單純看資料，用速度抓之後再透過座標切(大致完成，剩下Debug)
 - [ ] DepRL, SCONE gym搞懂怎麼做offline learning
 - [ ] 研究高中生的自學能力，Line上面聊天
