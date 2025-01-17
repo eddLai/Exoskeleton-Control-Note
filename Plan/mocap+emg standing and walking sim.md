@@ -559,4 +559,4 @@ SCONE API，暫時不用鑽研
 
 
 各段步態之間的標準差，平均
-$$\frac{time-time_{start}}{time_{last} - time_{start}}$$
+$$gait\%=\frac{time-time_{start}}{time_{last} - time_{start}}\times100$$
