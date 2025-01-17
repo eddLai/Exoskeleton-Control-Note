@@ -504,12 +504,12 @@ propulsion
 
 ---
 SCONE API，暫時不用鑽研
-- SCONE H0918 導入CEINMS activation
-- 透過opensim Creator 驗證CEINMS
+- [ ] SCONE H0918 導入CEINMS activation
+- [ ] 透過opensim Creator 驗證CEINMS
 - [x] 切步態疊合，單純看資料，用速度抓之後再透過座標切
 - [ ] DepRL, SCONE gym搞懂怎麼做offline learning
 - [ ] 研究高中生的自學能力，Line上面聊天
-- [ ] 外骨骼模型
+- [ ] 外骨骼模型怎麼導入SCONE
 
 ```
 1. 11.5 vs 11.466666666666669
