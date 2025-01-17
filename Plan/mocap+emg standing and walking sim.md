@@ -510,7 +510,7 @@ SCONE API，暫時不用鑽研
 	- [ ] activation vs CEINMS adjusted activation
 - [ ] 切步態疊合，單純看資料，用速度抓之後再透過座標切(大致完成，剩下Debug)
 - [ ] DepRL, SCONE gym搞懂怎麼做offline learning
-- [ ] 研究高中生的自學能力，Line上面聊天
+- [ ] 研究高中生的自學能力，Line上面聊天，學好東西後由我想怎麼基,鬼
 - [ ] 外骨骼模型怎麼導入SCONE
 
 ```
