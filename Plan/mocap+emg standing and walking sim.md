@@ -531,3 +531,5 @@ $$gait\_mean\ at\ x\%= \sum^N_{n=1}\frac{gait\ at\ x\%}{n}$$
 ---
 ![[ankle_angle_r_vs_ankle_r_overlaid.png]]
 ![[ankle_angle_l_vs_ankle_l_overlaid.png]]
+
+---
