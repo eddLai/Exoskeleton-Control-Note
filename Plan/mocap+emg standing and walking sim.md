@@ -523,6 +523,8 @@ $$gait\_mean\ at\ x\%= \sum^N_{n=1}\frac{gait\ at\ x\%}{n}$$
 ---
 ![[hip_flexion_r_vs_hip_r_overlaid.png]]
 ![[hip_flexion_l_vs_hip_l_overlaid.png]]
+
+---
 ![[knee_angle_r_vs_knee_r_overlaid.png]]
 ![[knee_angle_l_vs_knee_l_overlaid.png]]
 
