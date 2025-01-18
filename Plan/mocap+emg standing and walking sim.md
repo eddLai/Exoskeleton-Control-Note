@@ -455,8 +455,8 @@ Aaron Wang, aaronwang0809@gmail.com
 ---
 ### RL的角色是?SCONE的角色又是?要怎麼選擇
 RL是用來強化model在虛擬環境中對於新增事件的資料衍生(Data Generation)能力
-SCONEh額
-用於產生連續動作，但每一步本質上還是迭代優化方法
+SCONE則是基於evolutionary algorithm CMA-ES的方法
+兩者本質上還是迭代優化方法
 > Based on 擁有simulation model之後可以得到上帝視角的資料進行仿生模型agent的訓練
 
 ### 路線選擇：考慮開發成本
