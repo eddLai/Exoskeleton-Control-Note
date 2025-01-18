@@ -477,6 +477,7 @@ RL如何使用先驗資料?
 	- 需要把opensim model遷移進去SCONE
 - OsimRL
 	- 需要自己開發imitation learning
+	- OsimRL有支援的架構?(無)
 
 ---
 
@@ -484,7 +485,7 @@ propulsion
 
 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
 
-用一個policy透過一SCONE這個可控層架構
+用一個policy透過一SCONE這個可解釋架構
 需要串接控制器，只是從哪一層開始串接?
 
 一堆文獻
