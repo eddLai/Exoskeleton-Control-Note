@@ -488,7 +488,7 @@ opensim端等於做了一層濾波
 RL relatively sparse
 解決了cont. action space的問題
 learning from demostration
-joint angle rather than muscle actuvation
+joint angle rather than muscle activation
 但還是由上而下
 no knowledge with the env.
 
