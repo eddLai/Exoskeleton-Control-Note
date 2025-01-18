@@ -482,9 +482,8 @@ RL如何使用先驗資料?
 
 結論：
 1. (單獨訓練出一SCONE這個可解釋架構)
-2. 用RL policy(同DepRL架構)串接低階d
-要從Offline走到Online
-
+2. 用RL policy(同DepRL架構)串接低階控制器
+3. 要從Offline走到Online跟外骨骼做互動
 
 ---
 SCONE API，暫時不用鑽研
