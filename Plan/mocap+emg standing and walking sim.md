@@ -514,3 +514,5 @@ $$gait\_mean\ at\ x\%= \sum^N_{n=1}\frac{gait\ at\ x\%}{n}$$
 
 ---
 [[dataset standard tree]]
+![[pelvis_ty_vs_pelvis_ty_overlaid.png]]
+![[pelvis_tilt_vs_pelvis_tilt_overlaid.png]]
