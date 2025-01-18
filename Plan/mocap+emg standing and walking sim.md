@@ -448,9 +448,9 @@ Aaron Wang, aaronwang0809@gmail.com
 - 同時做文獻survey
 
 主要看了
-- [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]：用RL讓肌肉骨骼模u
-- [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
-- [[Deep_Reinforcement_Learning_for_Physics-Based_Musculoskeletal_Simulations_of_Healthy_Subjects_and_Transfemoral_Prostheses_Users_During_Normal_Walking (1).pdf]]
+- [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]：用RL讓肌肉骨骼模型自己學會走路
+- [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]：SCONE團隊使用SCONE的方法
+- [[Deep_Reinforcement_Learning_for_Physics-Based_Musculoskeletal_Simulations_of_Healthy_Subjects_and_Transfemoral_Prostheses_Users_During_Normal_Walking (1).pdf]]：
 
 ### RL的角色是?SCONE的角色又是?要怎麼選擇
 RL是用來強化model在虛擬環境中對於新增事件的應對能力
