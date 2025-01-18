@@ -460,6 +460,7 @@ Aaron Wang, aaronwang0809@gmail.com
 > Based on 擁有simulation model之後可以得到上帝視角的資料進行仿生模型agent的訓練
 
 ### 路線選擇：考慮開發成本
+等於要訓練出一個小腦，但不一定要用NN做
 - SCONE也是，but how?用depRL
 - 直接用OsimRL，自己寫一套imitation learning(unSupervised)
 
@@ -479,10 +480,7 @@ Kidzinski
 
 先從熟悉的RL架構進場
 
-
-CMA-ES controller training
 Deciaion variables in analogous
-等於要訓練出一個小腦，但不一定要用NN做
 opensim端等於做了一層濾波
 
 RL relatively sparse
