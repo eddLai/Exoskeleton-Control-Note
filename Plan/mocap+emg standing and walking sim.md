@@ -442,7 +442,7 @@ Aaron Wang, aaronwang0809@gmail.com
 
 ---
 ## Deadline: 1/20 (二)
-下下一步?外骨骼還需要用D4PG嗎
+下下一步?外骨骼還需要用D4PG嗎，也許應該導入DepRL多制動器的概念
 - 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來
 - 同時做survey
 
