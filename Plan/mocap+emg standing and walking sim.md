@@ -444,7 +444,7 @@ Aaron Wang, aaronwang0809@gmail.com
 ## Deadline: 1/20 (二)
 - [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
-- [[D]]
+- [[Dee]]
 下下一步?外骨骼還需要用D4PG嗎，也許應該導入DepRL多制動器myocontrol的概念
 - 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來(GUI似乎夠用)
 - 同時做文獻survey
