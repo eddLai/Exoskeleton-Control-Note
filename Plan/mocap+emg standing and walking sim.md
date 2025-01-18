@@ -480,22 +480,6 @@ RL如何使用先驗資料?
 
 ---
 
-先從熟悉的RL架構進場
-
-Deciaion variables in analogous
-opensim端等於做了一層濾波
-
-RL relatively sparse
-解決了cont. action space的問題
-learning from demostration
-joint angle rather than muscle activation
-但還是由上而下
-no knowledge with the env.
-
-4層PPO
-214＋312×2＋18
-tanh做標準化
-
 propulsion
 
 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
