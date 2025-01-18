@@ -465,17 +465,18 @@ RL如何使用先驗資料?
 兩者本質上還是迭代優化方法
 > Based on 擁有simulation model之後可以得到上帝視角的資料進行仿生模型agent的訓練
 
+---
 ### 路線選擇：考慮開發成本
 等於要訓練出一個小腦，但不一定要用NN做
 - SCONE也是，but how?用depRL
 - 直接用OsimRL，自己寫一套imitation learning(unSupervised)
 
-- 成本
-	- SCONE
-		- HyFyDy長期軟體開支
-		- 需要把opensim model遷移進去SCONE
-	- OsimRL
-		- 需要自己開發imitation learning
+成本
+- SCONE
+	- HyFyDy長期軟體開支
+	- 需要把opensim model遷移進去SCONE
+- OsimRL
+	- 需要自己開發imitation learning
 
 ---
 
