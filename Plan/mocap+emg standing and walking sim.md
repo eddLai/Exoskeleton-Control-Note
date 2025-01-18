@@ -450,7 +450,7 @@ Aaron Wang, aaronwang0809@gmail.com
 主要看了
 - [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]：用RL讓肌肉骨骼模型自己學會走路
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]：SCONE團隊使用SCONE的方法
-- [[Deep_Reinforcement_Learning_for_Physics-Based_Musculoskeletal_Simulations_of_Healthy_Subjects_and_Transfemoral_Prostheses_Users_During_Normal_Walking (1).pdf]]：RL如何使用先驗資料
+- [[Deep_Reinforcement_Learning_for_Physics-Based_Musculoskeletal_Simulations_of_Healthy_Subjects_and_Transfemoral_Prostheses_Users_During_Normal_Walking (1).pdf]]：RL如何使用先驗資料，衍生出transfemoral amputee model的差異分析
 
 ---
 ### RL的角色是?SCONE的角色又是?要怎麼選擇
@@ -472,7 +472,6 @@ Aaron Wang, aaronwang0809@gmail.com
 
 ---
 待確認
-transformoral amputee model
 evolutionary algorithm CMA-ES
 fitness and genes
 shallowNN
