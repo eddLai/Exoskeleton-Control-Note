@@ -447,10 +447,15 @@ Aaron Wang, aaronwang0809@gmail.com
 - 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來(GUI似乎夠用)
 - 同時做文獻survey
 
+---
 主要看了
 - [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]：用RL讓肌肉骨骼模型自己學會走路
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]：SCONE團隊使用SCONE的方法
 - [[Deep_Reinforcement_Learning_for_Physics-Based_Musculoskeletal_Simulations_of_Healthy_Subjects_and_Transfemoral_Prostheses_Users_During_Normal_Walking (1).pdf]]：RL如何使用先驗資料，衍生出transfemoral amputee model的差異分析
+>evolutionary algorithm CMA-ES
+fitness and genes
+shallowNN
+Kidzinski
 
 ---
 ### RL的角色是?SCONE的角色又是?要怎麼選擇
@@ -472,11 +477,6 @@ Aaron Wang, aaronwang0809@gmail.com
 		- 需要自己開發imitation learning
 
 ---
-待確認
-evolutionary algorithm CMA-ES
-fitness and genes
-shallowNN
-Kidzinski
 
 先從熟悉的RL架構進場
 
