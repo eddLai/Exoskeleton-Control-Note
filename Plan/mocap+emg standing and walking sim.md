@@ -477,14 +477,13 @@ RL如何使用先驗資料?
 	- 需要把opensim model遷移進去SCONE
 - OsimRL
 	- 需要自己開發[[imitation learning]]或者其它RL架構
-	- OsimRL有支援的架構?(無)
+	- OsimRL有支援的架構?(無)[Deep Reinforcement Learning Workshop](https://neurips.cc/virtual/2022/workshop/49989)，一樣需要大量開發
+
 
 結論：
 用一個policy透過一SCONE這個可解釋架構
 需要串接控制器，只是從哪一層開始串接?
 要從Offline走到Online
-
----
 
 
 ---
