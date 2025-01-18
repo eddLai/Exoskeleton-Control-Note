@@ -479,15 +479,14 @@ RL如何使用先驗資料?
 	- 需要自己開發[[imitation learning]]或者其它RL架構
 	- OsimRL有支援的架構?(無)[Deep Reinforcement Learning Workshop](https://neurips.cc/virtual/2022/workshop/49989)，一樣需要大量開發
 
-
+---
 結論：
 1. (單獨訓練出一SCONE這個可解釋架構)
 2. 用RL policy(同DepRL架構)串接低階控制器
 3. 要從Offline走到Online跟外骨骼做互動
 
----
-SCONE API，暫時不用鑽研
 - [x] SCONE H0918 導入CEINMS activation
+>SCONE API，暫時不用鑽研，GUI得到的參數可以直接用
 - [x] 透過opensim Creator 驗證CEINMS(失敗)
 	- [ ] on/off時間對上
 	- [ ] activation vs CEINMS adjusted activation
