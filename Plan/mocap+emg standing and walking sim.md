@@ -452,6 +452,7 @@ Aaron Wang, aaronwang0809@gmail.com
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]：SCONE團隊使用SCONE的方法
 - [[Deep_Reinforcement_Learning_for_Physics-Based_Musculoskeletal_Simulations_of_Healthy_Subjects_and_Transfemoral_Prostheses_Users_During_Normal_Walking (1).pdf]]：
 
+---
 ### RL的角色是?SCONE的角色又是?要怎麼選擇
 RL是用來強化model在虛擬環境中對於新增事件的應對能力
 用於產生連續動作，但每一步本質上還是迭代優化方法
