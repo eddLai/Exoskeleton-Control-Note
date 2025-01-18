@@ -458,6 +458,7 @@ RL是用來強化model在虛擬環境中對於新增事件的資料衍生(Data G
 用於產生連續動作，但每一步本質上還是迭代優化方法
 > Based on 擁有simulation model之後可以得到上帝視角的資料進行仿生模型agent的訓練
 
+路線選擇
 問題在串接
 - SCONE也是，but how?用depRL
 - 直接用OsimRL，自己寫一套imitation learning(unSupervised)
