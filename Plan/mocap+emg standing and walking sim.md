@@ -484,12 +484,11 @@ RL如何使用先驗資料?
 
 用一個policy透過一SCONE這個可解釋架構
 需要串接控制器，只是從哪一層開始串接?
+要從Offline走到Online
 
 一堆文獻
 [Deep Reinforcement Learning Workshop](https://neurips.cc/virtual/2022/workshop/49989)
-我需要[[imitation learning]]
 
-要從Offline走到Online
 
 ---
 SCONE API，暫時不用鑽研

@@ -1,3 +1,6 @@
+propulsion
+
+***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
 ### Tasks
 - Movement Duration??
 - [[SCONE Download]]
