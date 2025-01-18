@@ -501,9 +501,12 @@ RL如何使用先驗資料?
 ### Strike slicing
 腳尖離地，腳跟落地的範圍
 各段步態之間的標準差，平均
+
 $$gait_n\%=\frac{time-time_{start}}{time_{last} - time_{start}}\times100$$
+
 $$gait\_mean\ at\ x\%= \sum^N_{n=1}\frac{gait\ at\ x\%}{n}$$
 
 待討論
+==直接開code==
 - [ ] 最後的一組時間不準的問題，需要抓那麼準嗎?
 - [ ] hip資料為什麼相反，如果是延遲就合理
