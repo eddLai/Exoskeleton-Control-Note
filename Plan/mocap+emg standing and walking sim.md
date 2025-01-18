@@ -443,7 +443,7 @@ Aaron Wang, aaronwang0809@gmail.com
 ---
 ## Deadline: 1/20 (二)
 下下一步?外骨骼還需要用D4PG嗎，也許應該導入DepRL多制動器myocontrol的概念
-- 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來(暫時不用)
+- 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來(GUI似乎夠用)
 - 同時做文獻survey
 
 RL的角色是?SCONE的角色又是?
