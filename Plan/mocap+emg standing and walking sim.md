@@ -442,11 +442,13 @@ Aaron Wang, aaronwang0809@gmail.com
 
 ---
 ## Deadline: 1/20 (二)
+%% 起手的規劃 %%
 下下一步?外骨骼還需要用D4PG嗎，也許應該導入DepRL多制動器myocontrol的概念
 - 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來(GUI似乎夠用)
 - 同時做文獻survey
 
-- [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]
+主要看了
+- [[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]：用RL讓肌肉骨骼模u
 - [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 - [[Deep_Reinforcement_Learning_for_Physics-Based_Musculoskeletal_Simulations_of_Healthy_Subjects_and_Transfemoral_Prostheses_Users_During_Normal_Walking (1).pdf]]
 
