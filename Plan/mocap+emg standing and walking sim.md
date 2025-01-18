@@ -510,6 +510,7 @@ $$gait\_mean\ at\ x\%= \sum^N_{n=1}\frac{gait\ at\ x\%}{n}$$
 ==直接開code==
 - [ ] 最後的一組時間不準的問題，需要抓那麼準嗎?
 - [ ] hip資料為什麼相反，如果是延遲就合理
+- [ ] 其實應該在切strike的部分加上時間資訊
 
 ---
 [[dataset standard tree]]
