@@ -482,7 +482,7 @@ RL如何使用先驗資料?
 
 結論：
 1. (單獨訓練出一SCONE這個可解釋架構)
-2. 用policy
+2. 用RL policy(同DepRL架構)串接低階d
 要從Offline走到Online
 
 
