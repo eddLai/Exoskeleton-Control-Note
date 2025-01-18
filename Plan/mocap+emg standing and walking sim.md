@@ -483,7 +483,8 @@ RL如何使用先驗資料?
 結論：
 1. (單獨訓練出一SCONE這個可解釋架構)
 2. 用RL policy(同DepRL架構)串接低階控制器
-3. 要從Offline走到Online跟外骨骼做互動
+>可能需要DL的資料衍生能力
+1. 要從Offline走到Online跟外骨骼做互動
 
 任務：
 - [x] SCONE H0918 導入CEINMS activation
@@ -495,9 +496,6 @@ RL如何使用先驗資料?
 - [ ] DepRL, SCONE gym搞懂怎麼做offline learning
 - [ ] 研究高中生的自學能力，Line上面聊天，學好東西後由我想怎麼接軌我們目前的開發進度
 - [ ] 外骨骼模型怎麼導入SCONE
-
-待討論
-- [ ] hip資料為什麼相反，如果是延遲就合理
 
 ---
 ### Strike slicing
@@ -553,4 +551,5 @@ RL如何使用先驗資料?
 $$gait_n\%=\frac{time-time_{start}}{time_{last} - time_{start}}\times100$$
 $$gait\_mean\ at\ x\%= \sum^N_{n=1}\frac{gait\ at\ x\%}{n}$$
 
-可能需要DL的資料衍生能力，
+待討論
+- [ ] hip資料為什麼相反，如果是延遲就合理
