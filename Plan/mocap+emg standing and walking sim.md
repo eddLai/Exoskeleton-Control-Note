@@ -442,9 +442,9 @@ Aaron Wang, aaronwang0809@gmail.com
 
 ---
 ## Deadline: 1/20 (二)
-下下一步?外骨骼還需要用D4PG嗎，也許應該導入DepRL多制動器的概念
-- 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來
-- 同時做survey
+下下一步?外骨骼還需要用D4PG嗎，也許應該導入DepRL多制動器myocontrol的概念
+- 等Sean 把API的流程以及原理，繼續搞 SCONE，一起把API寫出來(暫時不用)
+- 同時做文獻survey
 
 RL的角色是?SCONE的角色又是?
 RL是用來強化model在虛擬環境中對於新增事件的應對能力
