@@ -12,6 +12,7 @@
 - 對全部的KA的分析
 - 用EMD分析EMG的spectrum, STFT邊緣振幅，以及特性channel的雜訊
 - CUSUM, AGLR需要分析每個肌肉的資料，並比較與文獻的差異MSE
+- CEINMS 0.9 vs 0.10，現在使用wine的問題，之後走向RT
 - points lost issue
 
 | Date  | Duration length | task                                                            | check |
