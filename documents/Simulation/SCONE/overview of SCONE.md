@@ -119,6 +119,3 @@ Result             = 1.21434
 Evaluation took 12.3344s for 20s (1.62148x real-time)
 Results written to /home/eddlai/SCONE/results/241007.175746.H0918v3.RS2.S10WA3K1G14.D20/0023_1.505_1.214.par.sto in 0.223776s
 ```
-
----
-### UNKNOWN
