@@ -1,7 +1,7 @@
 | Date       | Duration length | task                                                                  | check | Note            |
 | ---------- | --------------- | --------------------------------------------------------------------- | ----- | --------------- |
 | 10/10~1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                            | v     | 用的是矢狀面的人體模型     |
-| 1/16       |                 | [[Customized Environment, Exoskeleton model and Sciprt control log]]                          |       | SCONE simulator |
+| 1/16       |                 | [[Customized Environment, Exoskeleton model and Sciprt control log]]  |       | SCONE simulator |
 |            |                 | [[Review the Exoskeleton control algorithm and level of fatigue log]] |       |                 |
 |            |                 | 封裝進K24 SoC                                                            |       |                 |
 
