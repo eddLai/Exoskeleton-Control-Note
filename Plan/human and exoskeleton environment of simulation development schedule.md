@@ -1,9 +1,9 @@
-| Date       | Duration length | task                                       | check | Note            |
-| ---------- | --------------- | ------------------------------------------ | ----- | --------------- |
-| 10/10~1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]] | v     | 用的是矢狀面的人體模型     |
-| 1/16       |                 | [[Exoskeleton model and Sciprt control]]   |       | SCONE simulator |
-|            |                 | level of fatigue                           |       |                 |
-|            |                 | 封裝進K24 SoC                                 |       |                 |
+| Date       | Duration length | task                                                              | check | Note            |
+| ---------- | --------------- | ----------------------------------------------------------------- | ----- | --------------- |
+| 10/10~1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                        | v     | 用的是矢狀面的人體模型     |
+| 1/16       |                 | [[Exoskeleton model and Sciprt control]]                          |       | SCONE simulator |
+|            |                 | Review the Exoskeleton control algorithm and level of fatigue log |       |                 |
+|            |                 | 封裝進K24 SoC                                                        |       |                 |
 
 Phase1遺留問題：
 - Full body model or , 11初過後再說
