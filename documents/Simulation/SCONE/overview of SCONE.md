@@ -2,8 +2,10 @@
 forward dynamic of neuromuscleskeleton model propulsion
 >原本的用途 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."*** 
 
-用作資料衍生
-## SCONE operating options
+用作小差異的資料衍生
+
+---
+# SCONE operating options
 ***SCONE is simulator-agnostic***，可以自己開發simulator介面使用C++
 optimize both model and control parameters
 
@@ -13,7 +15,9 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 - noise is added to the system
 
 加入額外物件：加在模型檔裡頭
-### Tasks
+
+---
+# Develop
 - Movement Duration??
 - [[SCONE Download]]
 
