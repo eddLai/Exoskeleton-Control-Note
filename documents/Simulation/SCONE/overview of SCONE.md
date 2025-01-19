@@ -4,6 +4,7 @@ optimize both model and control parameters
 model fall at the end of a gait simulation，為了遵守最低能量使用
 - max_duration 調大
 - 
+- noise is added to the system
 propulsion
 
 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
