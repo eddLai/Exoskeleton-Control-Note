@@ -17,6 +17,8 @@ Phase1遺留問題：
 - 進一步檢查SCONE生成的資料與實際差異
 	- on/off時間對上
 	- activation vs CEINMS adjusted activation
+	- q, u
+		- 
 -  DepRL, SCONE gym搞懂怎麼做offline learning，更具有環境適應性的DL虛擬小腦
 - 檢查環境適應性
 - ==osim可以放CEINMScalibrate產出結果的地方==
