@@ -16,6 +16,9 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 
 加入額外物件：加在模型檔裡頭model requirements
 - actuator
+- collision shapes
+- contact force models
+- 
 
 
 ---
