@@ -39,8 +39,9 @@ Develop log: Integration of
 <!-- slide bg="../NTKLab_white bg_cover_resize.png"-->
 
 ---
-
-HyFyDy, DepRL, SCONE gym都有引入額外的模型7
+## Idea
+HyFyDy, DepRL, SCONE gym都有**引入額外的模型**，展現其環境適應性
+How?
 
 1. Control the EXO in simulation
 	1. 怎麼導入物件 e.g.[(82) Tripping and Slipping Simulations (short) - YouTube](https://www.youtube.com/watch?v=MudlYgzAxro)
