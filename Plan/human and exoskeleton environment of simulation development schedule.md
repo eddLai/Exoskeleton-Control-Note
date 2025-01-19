@@ -5,8 +5,8 @@
 |            |                 | HMI, 4 indexs to evalution                  |       |             |
 |            |                 | 封裝進K24 SoC                                  |       |             |
 
-Archive:
-- Full body, 11初過後再說
+遺留問題：
+- Full body model, 11初過後再說
 - points lost issue
 
 | Date  | Duration length | task                                                            | check |
