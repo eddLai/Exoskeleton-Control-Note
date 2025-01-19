@@ -7,7 +7,7 @@
 
 遺留問題：
 - Full body model or , 11初過後再說
-- 
+- RLU2023
 - points lost issue
 
 | Date  | Duration length | task                                                            | check |
