@@ -497,8 +497,10 @@ RL如何使用先驗資料?
 - [ ] 外骨骼模型怎麼導入SCONE
 - [x] 研究高中生的自學能力，Line上面聊天，學好東西後由我想怎麼接軌我們目前的開發進度
 
-結論：SCONE已經可以根據我們的EMG以及Mocap資料訓練出對應的模型
-將使用CEINMS所產生的資料作為Opensim與SCON
+結論：
+SCONE已經可以根據我們的EMG以及Mocap資料訓練出對應的模型
+將使用CEINMS所產生的資料作為Opensim(inverse)與SCONE(forward)之間的串接媒介，
+
 
 ---
 ### Strike slicing
