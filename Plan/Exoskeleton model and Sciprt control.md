@@ -45,3 +45,5 @@ Develop log: Integration of
 	2. 怎麼導入虛擬模型
 	3. 怎麼控制
 2. if assisting or obstacle from current and $\omega$ 
+
+HMI, 4 indexs to evalution

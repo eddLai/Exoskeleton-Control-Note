@@ -2,7 +2,7 @@
 | ---------- | --------------- | ------------------------------------------- | ----- | --------------- |
 | 10/10~1/16 | ~~1 week~~      | [[Plan/mocap+emg standing and walking sim]] | v     | 用的是矢狀面的人體模型     |
 | 1/16       |                 | [[Exoskeleton model and Sciprt control]]    |       | SCONE simulator |
-|            |                 | HMI, 4 indexs to evalution                  |       |                 |
+|            |                 | level of fatigue                            |       |                 |
 |            |                 | 封裝進K24 SoC                                  |       |                 |
 
 Phase1遺留問題：
