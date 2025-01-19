@@ -63,8 +63,9 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 
 ---
 ## Import an Object
-線索：
-- 直接加在hfd的model檔案中
+線索：HyFyDy
+- Treadmill直接加在hfd的model檔案中
+- `slope.scone`加在script中
 反之SCONE，應該加在osim檔案中
 
 如果SCONE中創造物件的接口沒有做出來的話，那就用Gym，怎麼把已經可以走路的模型串接上來?
