@@ -77,3 +77,5 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 
 用opensim creator有點麻煩
 使用Gym，移植來自SCONE的`.par`，先想辦法在gym中做物件，我跟sean都調整成這個
+
+在OpenAI Gym中創造MoJuCo機器人模型與OpenSim人體模型的互動環境；否則就要嘗試用OpenSim Creator跟Lua Script創造外骨骼機器人model
