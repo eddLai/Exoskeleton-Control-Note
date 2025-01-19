@@ -18,6 +18,7 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 - actuator
 - collision shapes
 - contact force models
+- limit force(structural resistance)
 - 
 
 
