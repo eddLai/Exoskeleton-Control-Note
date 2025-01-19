@@ -40,7 +40,7 @@ Develop log: Integration of
 
 ---
 
-DepRL, SCONE gym搞懂怎麼做offline learning，也許可以透過
+HyFyDy, DepRL, SCONE gym都有引入額外的模型7
 
 1. Control the EXO in simulation
 	1. 怎麼導入物件 e.g.[(82) Tripping and Slipping Simulations (short) - YouTube](https://www.youtube.com/watch?v=MudlYgzAxro)
