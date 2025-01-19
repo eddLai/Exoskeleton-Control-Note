@@ -46,7 +46,7 @@ musculoskeletal modeling in simulation
 [[comparison of our pipeline to others]]<!-- element class="with-border"-->
 
 tools: [[SCONE]]用來RL training, [[overview of opensim]]用來進行IK推測, [[overview of CEINMS]], EMG-informed methods or EMG-driven methods?
-target: [[mocap+emg standing and walking sim]], [[level of fatigue from EMG]]
+target: [[mocap+emg standing and walking sim log]], [[level of fatigue from EMG]]
 
 ---
 ### Terms

@@ -1,6 +1,6 @@
 | Date       | Duration length | task                                        | check | Note            |
 | ---------- | --------------- | ------------------------------------------- | ----- | --------------- |
-| 10/10~1/16 | ~~1 week~~      | [[Plan/mocap+emg standing and walking sim]] | v     | 用的是矢狀面的人體模型     |
+| 10/10~1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]] | v     | 用的是矢狀面的人體模型     |
 | 1/16       |                 | [[Exoskeleton model and Sciprt control]]    |       | SCONE simulator |
 |            |                 | level of fatigue how to                     |       |                 |
 |            |                 | 封裝進K24 SoC                                  |       |                 |
@@ -21,7 +21,7 @@ Phase1遺留問題：
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
-| 10/13 | 1 month         | [[Plan/mocap+emg standing and walking sim]]                     |       |
+| 10/13 | 1 month         | [[mocap+emg standing and walking sim log]]                     |       |
 | 10/20 | 1 week          | running and climbing                                            |       |
 | 11/2  | 2 weeks         | trasistion                                                      |       |
 | 11/9  | 1 week          | 導入Exoskeleton 的model                                            |       |
