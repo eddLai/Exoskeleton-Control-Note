@@ -1,7 +1,7 @@
 | Date       | Duration length | task                                                                  | check | Note            |
 | ---------- | --------------- | --------------------------------------------------------------------- | ----- | --------------- |
 | 10/10~1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                            | v     | 用的是矢狀面的人體模型     |
-| 1/16       |                 | [[Exoskeleton model and Sciprt control log]]                              |       | SCONE simulator |
+| 1/16       |                 | [[Exoskeleton model and Sciprt control log]]                          |       | SCONE simulator |
 |            |                 | [[Review the Exoskeleton control algorithm and level of fatigue log]] |       |                 |
 |            |                 | 封裝進K24 SoC                                                            |       |                 |
 
@@ -17,7 +17,8 @@ Phase1遺留問題：
 - 進一步檢查SCONE生成的資料與實際差異
 	- [ ] on/off時間對上
 	- [ ] activation vs CEINMS adjusted activation
-- [ ] DepRL, SCONE gym搞懂怎麼做offline learning，更具有環境適應性的DL虛擬小腦
+-  DepRL, SCONE gym搞懂怎麼做offline learning，更具有環境適應性的DL虛擬小腦
+- 檢查環境適應性
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
