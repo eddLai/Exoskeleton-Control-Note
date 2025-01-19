@@ -1,3 +1,8 @@
+# SCONE core
+propulsion
+
+***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
+## SCONE operating options
 ***SCONE is simulator-agnostic***，可以自己開發simulator介面使用C++
 optimize both model and control parameters
 
@@ -7,10 +12,6 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 - noise is added to the system
 
 加入額外物件：加在模型檔裡頭
-
-propulsion
-
-***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
 ### Tasks
 - Movement Duration??
 - [[SCONE Download]]
