@@ -42,6 +42,10 @@ Develop log: Integration of
 ## Idea
 HyFyDy, DepRL, SCONE gym都有**引入額外的模型**，展現其環境適應性
 How?
+1. (單獨訓練出一SCONE這個可解釋架構)
+2. 用RL policy(同DepRL架構)串接低階控制器
+>猜測可能需要DL的資料衍生能力
+3. 要從Offline走到Online跟外骨骼做互動
 
 1. Control the EXO in simulation
 	1. 怎麼導入物件 e.g.[(82) Tripping and Slipping Simulations (short) - YouTube](https://www.youtube.com/watch?v=MudlYgzAxro)
