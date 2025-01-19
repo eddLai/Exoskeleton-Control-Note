@@ -52,6 +52,7 @@ How?
 shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似小腦功能控制subject specific neuromusculoskeletal model的policy嗎
 
 ---
+## Implementation ste
 1. Control the EXO in simulation
 	1. 怎麼導入物件 e.g.[(82) Tripping and Slipping Simulations (short) - YouTube](https://www.youtube.com/watch?v=MudlYgzAxro), [[overview of SCONE]]全部功能
 	2. 怎麼導入虛擬模型
@@ -59,3 +60,5 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 2. 簡單測試外骨骼資料串接
 	1. if assisting or obstacle from current and $\omega$ 
 	2. level of fatigue
+
+---
