@@ -6,7 +6,8 @@
 |            |                 | 封裝進K24 SoC                                  |       |             |
 
 遺留問題：
-- Full body model, 11初過後再說
+- Full body model or , 11初過後再說
+- 
 - points lost issue
 
 | Date  | Duration length | task                                                            | check |
