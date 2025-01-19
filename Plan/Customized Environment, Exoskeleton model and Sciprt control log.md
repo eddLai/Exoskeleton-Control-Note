@@ -48,7 +48,7 @@ How?
 3. 要從Offline走到Online跟外骨骼做互動
 
 ---
-shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似小腦功能控制subject specific neuralmuscleskeletal model的policy嗎
+shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似小腦功能控制subject specific neuromusculoskeletal model的policy嗎
 
 ---
 1. Control the EXO in simulation
