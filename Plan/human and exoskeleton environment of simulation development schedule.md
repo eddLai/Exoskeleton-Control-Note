@@ -21,11 +21,11 @@ Phase1遺留問題：
 - 檢查環境適應性
 - ==osim可以放CEINMScalibrate產出結果的地方==
 	- mtuDefault
-dof
-mtuSet
-percentageChange
-damping
-Force Curve
+		- percentageChange
+		- damping
+		- Force Curve
+	- dof
+	- mtuSet
 name
 mtuNameSet
 c1, c2
