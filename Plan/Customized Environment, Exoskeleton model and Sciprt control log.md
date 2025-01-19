@@ -52,7 +52,7 @@ How?
 shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似小腦功能控制subject specific neuromusculoskeletal model的policy嗎
 
 ---
-## Implementation ste
+## Implementation steps
 1. Control the EXO in simulation
 	1. 怎麼導入物件 e.g.[(82) Tripping and Slipping Simulations (short) - YouTube](https://www.youtube.com/watch?v=MudlYgzAxro), [[overview of SCONE]]全部功能
 	2. 怎麼導入虛擬模型
@@ -62,3 +62,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 	2. level of fatigue
 
 ---
+## Import an Object
+HyFyDy可以直接加在hfd的model檔案中
+如果SCONE中創造物件的接口沒有做出來的話，那就用Gym，怎麼把已經可以走路的模型串接上來?
+繼承參數?控制?
