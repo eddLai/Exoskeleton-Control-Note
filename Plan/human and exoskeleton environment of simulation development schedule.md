@@ -1,9 +1,9 @@
-| Date   | Duration length | task                                               | check | Note        |
-| ------ | --------------- | -------------------------------------------------- | ----- | ----------- |
-| 10/10~ | ~~1 week~~      | [[Plan/mocap+emg standing and walking sim]]        | v     | 用的是矢狀面的人體模型 |
-| 10/15  | 1 week          | [[check the Exoskeleton model and Sciprt control]] |       |             |
-| 10/20  | 1 week          | D4PG + CMA-ES 迭代 整合進 Scone 先暫時用就可以了                |       |             |
-| 11/2   | 1 weeks         | 做Oral投影片，HMI, 4 indexs to evalution                |       |             |
+| Date       | Duration length | task                                               | check | Note        |
+| ---------- | --------------- | -------------------------------------------------- | ----- | ----------- |
+| 10/10~1/16 | ~~1 week~~      | [[Plan/mocap+emg standing and walking sim]]        | v     | 用的是矢狀面的人體模型 |
+| 1/16       | 1 week          | [[check the Exoskeleton model and Sciprt control]] |       |             |
+| 10/20      | 1 week          | D4PG + CMA-ES 迭代 整合進 Scone 先暫時用就可以了                |       |             |
+| 11/2       | 1 weeks         | 做Oral投影片，HMI, 4 indexs to evalution                |       |             |
 
 Archive:
 - Full body, 11初過後再說
