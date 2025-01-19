@@ -19,6 +19,7 @@ Phase1遺留問題：
 	- activation vs CEINMS adjusted activation
 -  DepRL, SCONE gym搞懂怎麼做offline learning，更具有環境適應性的DL虛擬小腦
 - 檢查環境適應性
+- ==osim可以放CEINMScalibrate產出結果的地方==
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
