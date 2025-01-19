@@ -75,5 +75,5 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 如果SCONE中創造物件的接口沒有做出來的話，那就用Gym，怎麼把已經可以走路的模型串接上來?
 繼承參數?控制?
 
-用
+用opensim creator有點麻煩
 使用Gym，移植來自SCONE的`.par`，先想辦法在gym中做物件，我跟sean都調整成這個
