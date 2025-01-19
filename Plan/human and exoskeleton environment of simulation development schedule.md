@@ -5,7 +5,7 @@
 |            |                 | HMI, 4 indexs to evalution                  |       |                 |
 |            |                 | 封裝進K24 SoC                                  |       |                 |
 
-遺留問題：
+Phase1遺留問題：
 - Full body model or , 11初過後再說
 - H0918 -> RLU2023
 - 為什麼有時候錄下來的資料整個左標系統是反的
@@ -14,6 +14,7 @@
 - CUSUM, AGLR需要分析每個肌肉的資料，並比較與文獻的差異MSE
 - CEINMS 0.9 vs 0.10，現在使用wine的問題，之後走向RT
 - points lost issue
+- 進一步檢查SCONE生成的資料與實際差異
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
