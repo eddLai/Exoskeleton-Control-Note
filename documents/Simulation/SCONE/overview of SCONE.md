@@ -6,6 +6,8 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 - disable the effortMeasure
 - noise is added to the system
 
+加入額外物件：加在模型檔裡頭
+
 propulsion
 
 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
