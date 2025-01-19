@@ -1,7 +1,8 @@
 # SCONE core idea
 forward dynamic of neuromuscleskeleton model propulsion
+>原本的用途 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."*** 
 
-***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
+用作資料衍生
 ## SCONE operating options
 ***SCONE is simulator-agnostic***，可以自己開發simulator介面使用C++
 optimize both model and control parameters
