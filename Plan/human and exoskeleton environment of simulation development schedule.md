@@ -15,6 +15,10 @@ Phase1遺留問題：
 - CEINMS 0.9 vs 0.10，現在使用wine的問題，之後走向RT
 - points lost issue
 - 進一步檢查SCONE生成的資料與實際差異
+	- [ ] on/off時間對上
+	- [ ] activation vs CEINMS adjusted activation
+- [ ] DepRL, SCONE gym搞懂怎麼做offline learning
+- [ ] 外骨骼模型怎麼導入SCONE
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
