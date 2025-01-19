@@ -50,7 +50,7 @@ How?
 >可擴展性到底多大?到極限的時候就需要，例如
 >- 在平面上走、在斜坡上走?
 >- 爬樓梯?
->- 參考外骨骼文獻所用的
+>- 參考外骨骼文獻所用的https://mp.weixin.qq.com/s/W0oQqiiPtTN8nXG0pYt5ww
 
 ---
 shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似小腦功能控制subject specific neuromusculoskeletal model的policy嗎
