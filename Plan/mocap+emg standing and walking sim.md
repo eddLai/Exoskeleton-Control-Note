@@ -61,7 +61,7 @@ Develop log
 				1. [x] 因為會有人移動，所以不能開啟鏡頭移動的code
 				2. [x] 需要手動校準燈泡位址
 				3. [ ] 檢查各個鏡頭
-			2. [ ] (quantize the [[level of fatigue from EMG]]? ***sean, eddlai***)
+			2. [x] (quantize the [[level of fatigue from EMG]]? ***sean, eddlai***)
 		2. Transform the Real EMG to muscle activation
 			1. [x] mocap [[overview of opensim]] [SO](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53085189/Working+with+Static+Optimization), [CMC](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088683/Example+-+Computed+Muscle+Control ) -> muscle activation ***eddlai***
 			3. [x] meaning of muscle activation in [[overview of opensim]] and scone [CEINMS](https://pubmed.ncbi.nlm.nih.gov/26522621/) [[CEINMS - a toolbox to investigate the influence of differentneural control solutions on the prediction of muscle excitationand joint moments during dynamic motor tasks Note]] ***eddlai, sean***, 
