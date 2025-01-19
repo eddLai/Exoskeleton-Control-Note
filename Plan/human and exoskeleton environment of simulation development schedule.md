@@ -9,6 +9,7 @@
 - Full body model or , 11初過後再說
 - H0918 -> RLU2023
 - 為什麼有時候錄下來的資料整個左標系統是反的
+- 對全部的KA的分析
 - points lost issue
 
 | Date  | Duration length | task                                                            | check |
