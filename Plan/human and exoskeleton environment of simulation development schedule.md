@@ -17,7 +17,7 @@ Phase1遺留問題：
 - 進一步檢查SCONE生成的資料與實際差異
 	- [ ] on/off時間對上
 	- [ ] activation vs CEINMS adjusted activation
-- [ ] DepRL, SCONE gym搞懂怎麼做offline learning
+- [ ] DepRL, SCONE gym搞懂怎麼做offline learning，也許可以透過
 - [ ] 外骨骼模型怎麼導入SCONE
 
 | Date  | Duration length | task                                                            | check |
