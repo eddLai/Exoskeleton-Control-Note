@@ -2,7 +2,7 @@
 | ---------- | --------------- | ------------------------------------------ | ----- | --------------- |
 | 10/10~1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]] | v     | 用的是矢狀面的人體模型     |
 | 1/16       |                 | [[Exoskeleton model and Sciprt control]]   |       | SCONE simulator |
-|            |                 | level of fatigue how to                    |       |                 |
+|            |                 | level of fatigue                           |       |                 |
 |            |                 | 封裝進K24 SoC                                 |       |                 |
 
 Phase1遺留問題：
