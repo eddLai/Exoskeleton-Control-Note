@@ -84,3 +84,5 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10025309
 直接接上RL
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
+
+選了SCONE，又選了SCONEgym
