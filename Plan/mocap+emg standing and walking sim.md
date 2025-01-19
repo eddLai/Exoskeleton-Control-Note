@@ -499,7 +499,7 @@ RL如何使用先驗資料?
 
 結論：
 SCONE已經可以根據我們的EMG以及Mocap資料訓練出對應的模型
-將使用CEINMS所產生的資料作為Opensim(inverse)與SCONE(forward)之間的串接媒介，
+將使用CEINMS所產生的資料作為Opensim(inverse)與SCONE(forward)之間的串接媒介，**我們已經建立來自人體逆向工程的虛擬小腦**
 
 
 ---
