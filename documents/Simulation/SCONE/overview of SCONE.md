@@ -24,7 +24,7 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 ---
 ref. https://github.com/tgeijten/scone-studio
 # Components Structure
-feed-forward or back-forward
+## feed-forward or back-forward component
 - [[Model]]
 - [[Variable]]
 - [[Contorller]]
@@ -66,7 +66,7 @@ File name:
 
 ---
 # More info
-[[SCONE API python based]]
+[[SCONE python based API]]
 ### Message
 [[Message LOG example]]
 產生`.par`，儲存的機制是？
