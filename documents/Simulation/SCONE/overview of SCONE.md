@@ -1,4 +1,5 @@
 ***SCONE is simulator-agnostic***，可以自己開發simulator介面使用C++
+optimize both model and control parameters
 
 propulsion
 
