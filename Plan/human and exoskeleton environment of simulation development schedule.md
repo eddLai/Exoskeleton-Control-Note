@@ -2,7 +2,6 @@
 | ---------- | --------------- | ------------------------------------------- | ----- | ----------- |
 | 10/10~1/16 | ~~1 week~~      | [[Plan/mocap+emg standing and walking sim]] | v     | 用的是矢狀面的人體模型 |
 | 1/16       |                 | [[Exoskeleton model and Sciprt control]]    |       |             |
-|            |                 | D4PG + CMA-ES 迭代 整合進 Scone 先暫時用就可以了         |       |             |
 |            |                 | HMI, 4 indexs to evalution                  |       |             |
 |            |                 | 封裝進K24 SoC                                  |       |             |
 
