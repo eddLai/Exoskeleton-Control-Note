@@ -19,7 +19,7 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 - collision shapes
 - contact force models
 - limit force(structural resistance)
-- forward simulation performance
+- forward simulation performance(OpenSim model需要檢查)
 
 
 ---
