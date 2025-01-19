@@ -43,7 +43,6 @@ Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model a
 HyFyDy, DepRL, SCONE gym都有**引入額外的模型**，展現其環境適應性
 How?
 1. 單獨訓練出一SCONE這個可解釋架構
-2. 用RL policy(同DepRL架構)串接低階控制器，訓練更高階的小腦
 3. shooting method 學習到的結果作為 RL 策略
 >猜測可能需要DL的資料衍生能力
 4. 要從Offline走到Online跟外骨骼做互動
