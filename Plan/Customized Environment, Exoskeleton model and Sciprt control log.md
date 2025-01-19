@@ -48,7 +48,8 @@ How?
 3. 要從Offline走到Online跟外骨骼做互動
 4. 用RL policy(同DepRL架構)串接多個低階控制器，訓練更高階的小腦
 >可擴展性到底多大?到極限的時候就需要，例如
->
+>- 在平面上走、在斜坡上走?
+>- 爬樓梯?
 
 ---
 shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似小腦功能控制subject specific neuromusculoskeletal model的policy嗎
