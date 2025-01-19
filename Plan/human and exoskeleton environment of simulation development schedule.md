@@ -38,6 +38,13 @@ Phase1遺留問題：
 	- [ ] mtuSet
 		- [ ] name
 		- [ ] mtuNameSet
+- OsimRL
+	- 需要自己開發[[imitation learning]]或者其它RL架構
+	- OsimRL有支援的架構?(無)[Deep Reinforcement Learning Workshop](https://neurips.cc/virtual/2022/workshop/49989)，一樣需要大量開發
+		- [NeurIPS 2022 Tutorials](https://neurips.cc/virtual/2022/events/tutorial)
+		- [AIcrowd | NeurIPS 2019: Learn to Move - Walk Around | Submissions](https://www.aicrowd.com/challenges/neurips-2019-learn-to-move-walk-around/submissions?page=1&q%5Bs%5D=score_display+asc)
+		- [Reinforcement learning with musculoskeletal models](https://osim-rl.kidzinski.com/docs/models/interface/)
+		- [How Forward Dynamics Works - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089643/How+Forward+Dynamics+Works)
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
