@@ -49,7 +49,7 @@ How?
 
 ---
 1. Control the EXO in simulation
-	1. 怎麼導入物件 e.g.[(82) Tripping and Slipping Simulations (short) - YouTube](https://www.youtube.com/watch?v=MudlYgzAxro), [[SCONE]]全部
+	1. 怎麼導入物件 e.g.[(82) Tripping and Slipping Simulations (short) - YouTube](https://www.youtube.com/watch?v=MudlYgzAxro), [[overview of SCONE]]全部功能
 	2. 怎麼導入虛擬模型
 	3. 怎麼控制
 2. 簡單測試外骨骼資料串接

@@ -24,7 +24,7 @@ History of exoskeleton:[Exoskeletons for Human Performance Augmentation | Spring
 - [[principle of RL]]
 -  [[RL application]]
 - [[overview of opensim]]
-- [[SCONE]]
+- [[overview of SCONE]]
 
 ![[GCBME_exoskeleton_final_algorithm.webp]]
 ![[pipeline of building Digital Twins.png]]
