@@ -10,6 +10,7 @@
 - H0918 -> RLU2023
 - 為什麼有時候錄下來的資料整個左標系統是反的
 - 對全部的KA的分析
+- 用EMD分析EMG的spectrum，以及雜訊
 - points lost issue
 
 | Date  | Duration length | task                                                            | check |
