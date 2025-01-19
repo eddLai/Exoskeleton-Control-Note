@@ -56,16 +56,16 @@ File name:
 
 ---
 ### Keywords in SCONE 
-**case sensitive**.
-Predictive simulations
-
-[SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
-[JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")
+- **case sensitive**.
+- Predictive simulations
+- [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
+- [JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")
 
 `^E`：查看這別權重
 `^f5`：開始訓練
 
 ---
+
 [[SCONE API python based]]
 SCONE的核心是怎麼實現的?顯示出來就是標準的RL畫面
 從MESSAGE LOG去回推他的code
