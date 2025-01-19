@@ -20,10 +20,26 @@ Phase1遺留問題：
 -  DepRL, SCONE gym搞懂怎麼做offline learning，更具有環境適應性的DL虛擬小腦
 - 檢查環境適應性
 - ==osim可以放CEINMScalibrate產出結果的地方==
+	- mtuDefault
+dof
+mtuSet
+percentageChange
+damping
+Force Curve
+name
+mtuNameSet
+c1, c2
+strengthCoefficient
+pennationAngle
+shapeFactor
+maxIsometricForce
+maxContractionVelocity
+tendonSlackLength
+optimalFibreLength
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
-| 10/13 | 1 month         | [[mocap+emg standing and walking sim log]]                     |       |
+| 10/13 | 1 month         | [[mocap+emg standing and walking sim log]]                      |       |
 | 10/20 | 1 week          | running and climbing                                            |       |
 | 11/2  | 2 weeks         | trasistion                                                      |       |
 | 11/9  | 1 week          | 導入Exoskeleton 的model                                            |       |
