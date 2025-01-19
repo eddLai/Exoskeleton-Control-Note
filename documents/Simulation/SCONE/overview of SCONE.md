@@ -1,5 +1,5 @@
-# SCONE core
-propulsion
+# SCONE core idea
+forward dynamic of neuromuscleskeleton model propulsion
 
 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."***
 ## SCONE operating options
