@@ -24,7 +24,7 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 ---
 ref. https://github.com/tgeijten/scone-studio
 # Components Structure
-## feed-forward or back-forward component
+## feed-forward or back-forward components
 - [[Model]]
 - [[Variable]]
 - [[Contorller]]
@@ -35,7 +35,7 @@ ref. https://github.com/tgeijten/scone-studio
 	- Combination of Measures
 - Optimizer
 
-File name:
+## File types
 - `.scenario`, based on **[zml](https://github.com/tgeijten/zml)**
 - `.osim`contains the rule of the forces, such as Slippery Slope
 - `.lua`[[lua self-defined script]] for Controller, Measure, 
@@ -55,7 +55,7 @@ File name:
 			- Kv
 
 ---
-### Keywords in SCONE 
+# Keywords in SCONE 
 - **case sensitive**.
 - Predictive simulations
 - [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
