@@ -17,13 +17,13 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 加入額外物件：加在模型檔裡頭
 
 ---
-# Develop
+# Environment
 - Movement Duration??
 - [[SCONE Download]]
 
 ---
-https://github.com/tgeijten/scone-studio
-### Structure
+ref. https://github.com/tgeijten/scone-studio
+# Components Structure
 feed-forward or back-forward
 - [[Model]]
 - [[Variable]]
