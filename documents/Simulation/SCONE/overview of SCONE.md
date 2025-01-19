@@ -2,6 +2,7 @@
 optimize both model and control parameters
 
 model fall at the end of a gait simulation，為了遵守最低能量使用
+- max_duration 調大
 - 
 propulsion
 
