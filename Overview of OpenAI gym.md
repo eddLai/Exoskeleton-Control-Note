@@ -4,3 +4,4 @@
 - [`PassiveEnvChecker`](https://gymnasium.farama.org/api/wrappers/misc_wrappers/#gymnasium.wrappers.PassiveEnvChecker "gymnasium.wrappers.PassiveEnvChecker").
 
 TimeAwareObservation
+`pprint_registry()`
