@@ -21,5 +21,5 @@ wrapper對現有結構進行新的封裝(不影響舊的)
 `env = gym.make("OldV21Env-v0", apply_api_compatibility=True)`解決相容問題
 ([`gymnasium.utils.step_api_compatibility.convert_to_terminated_truncated_step_api()`](https://gymnasium.farama.org/api/utils/#gymnasium.utils.step_api_compatibility.convert_to_terminated_truncated_step_api "gymnasium.utils.step_api_compatibility.convert_to_terminated_truncated_step_api"))
 
-0.21:env.seed(123)
+0.21: 可以用env.seed(123)
 0.26
