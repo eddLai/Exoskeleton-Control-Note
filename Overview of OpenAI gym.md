@@ -23,3 +23,7 @@ wrapper對現有結構進行新的封裝(不影響舊的)
 
 0.21: 可以用env.seed(123)
 0.26
+
+Stable-Baselines3
+- **`terminated=True`** 時應進行引導值回填（bootstrapping）。
+- **`truncated=True`** 時則不進行回填。
