@@ -9,8 +9,7 @@ TimeAwareObservation
 - `_get_obs` 得到環境狀態，統一format
 - `_get_info` 可以進行一些運算
 
-namespcae/ma
 gym.register(
-    id="gymnasium_env/GridWorld-v0",
+    id="`namespcae/mandatory_name-version`",
     entry_point=GridWorldEnv,
 )
