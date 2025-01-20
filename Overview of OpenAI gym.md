@@ -19,3 +19,4 @@ wrapper對現有結構進行新的封裝(不影響舊的)
 錄製：`env = RecordVideo(env, video_folder="cartpole-agent", name_prefix="training",episode_trigger=lambda x: x % training_period == 0)`
 
 `env = gym.make("OldV21Env-v0", apply_api_compatibility=True)`解決相容問題
+([`gymnasium.utils.step_api_compatibility.convert_to_terminated_truncated_step_api()`](https://gymnasium.farama.org/api/utils/#gymnasium.utils.step_api_compatibility.convert_to_terminated_truncated_step_api "gymnasium.utils.step_api_compatibility.convert_to_terminated_truncated_step_api"))
