@@ -27,3 +27,11 @@ wrapper對現有結構進行新的封裝(不影響舊的)
 Stable-Baselines3
 - **`terminated=True`** 時應進行引導值回填（bootstrapping）。
 - **`truncated=True`** 時則不進行回填。
+
+
+```
+conda config --add envs_dirs /home/eddlai/miniconda3/envs
+conda config --add envs_dirs /media/eddlai/DATA/conda_envs
+
+```
+`mamba create --prefix /media/eddlai/DATA/conda_envs/simulation python=3.9`
