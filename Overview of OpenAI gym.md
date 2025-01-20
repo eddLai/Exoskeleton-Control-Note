@@ -15,3 +15,5 @@ gym.register(
 )
 多個環境：gymnasium.make_vec()
 wrapper對現有結構進行新的封裝(不影響舊的)
+
+錄製：`env = RecordVideo(env, video_folder="cartpole-agent", name_prefix="training",episode_trigger=lambda x: x % training_period == 0)`
