@@ -6,3 +6,4 @@
 TimeAwareObservation
 `pprint_registry()`
 環境維度可能跟Env資訊相關
+`_get_obs` 得到環境狀態
