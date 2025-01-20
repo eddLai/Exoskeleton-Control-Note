@@ -14,3 +14,4 @@ gym.register(
     entry_point=GridWorldEnv,
 )
 多個環境：gymnasium.make_vec()
+wrapper對
