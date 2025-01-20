@@ -86,3 +86,9 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10025309
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 
 選了SCONE，又選了SCONEgym
+在HyFyDy中創造物件非常簡單
+- .osim中的(過於麻煩)
+	- opensim文件中的model檔案描述呢，有提到其它物件嗎
+	- 看之前加威留下的資料夾
+- lua model，建立簡單的物件可能可以，但是如果要具有制動器的機器人也許就不行了
+- 使用Gym，再使用SCONEgym，移植來自SCONE的`.par`，先想辦法在gym中做物件，我跟sean都調整成這個
