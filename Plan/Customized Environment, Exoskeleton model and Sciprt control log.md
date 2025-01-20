@@ -95,4 +95,4 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 
 [[Overview of OpenAI gym]]
 
-需u
+需要用opensim做外骨骼模型
