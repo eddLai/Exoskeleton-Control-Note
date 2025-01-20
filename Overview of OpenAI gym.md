@@ -14,4 +14,4 @@ gym.register(
     entry_point=GridWorldEnv,
 )
 多個環境：gymnasium.make_vec()
-wrapper對
+wrapper對現有結構進行新的封裝(不影響舊的)
