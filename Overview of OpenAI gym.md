@@ -13,3 +13,4 @@ gym.register(
     id="`namespcae/mandatory_name-version`",
     entry_point=GridWorldEnv,
 )
+多個物件在同一個環境：gymnasium.make_vec()
