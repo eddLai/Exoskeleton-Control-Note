@@ -41,6 +41,7 @@ ref. https://github.com/tgeijten/scone-studio
 		- closed-loop
 		- includev `ScriptController`
 	- 特色
+		- GaitStateController
 		- SequentialController可以做到動作間的transition
 		- ReflexControllera模擬神經放電到肌肉的過程，delayed actuator 的功用 https://www.youtube.com/watch?v=pgaEE27nsQw
 - [[Objective(Goad task)]]
