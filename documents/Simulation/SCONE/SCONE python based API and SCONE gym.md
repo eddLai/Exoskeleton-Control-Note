@@ -74,6 +74,7 @@ The method of randomizing used in Example
 
 ---
 # SCONEgym
+就是已經幫你把SCONEpy串進去gym
 ABC庫
 ```
 class Animal(ABC):
