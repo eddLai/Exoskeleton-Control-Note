@@ -1,6 +1,6 @@
 [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 # SCONE core idea
-使用演化學習(CMA-ES)
+使用演化學習CMA-ES方法對各個步態階段所需達成的狀態進行數值優化
 forward dynamic of neuromuscleskeleton model propulsion
 >原本的用途 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."*** 
 
