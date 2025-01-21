@@ -133,3 +133,6 @@ store_next
 - ==init_activations_std==
 - ==adjust_state_for_load==
 
+## 特殊
+- `model_velocity`
+- 
