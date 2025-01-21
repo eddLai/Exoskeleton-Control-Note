@@ -74,7 +74,7 @@ The method of randomizing used in Example
 
 ---
 # SCONEgym
-就是已經幫你把SCONEpy串進去gym
+就是已經幫你把SCONEpy串進gym了
 ABC庫
 ```
 class Animal(ABC):
@@ -132,3 +132,4 @@ store_next
 - ==muscle_excitation_array()==
 - ==init_activations_std==
 - ==adjust_state_for_load==
+
