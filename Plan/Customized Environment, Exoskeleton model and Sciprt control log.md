@@ -111,3 +111,4 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 		- 加入纖維長度的偏移（相對於基準長度）。
 		- 加入纖維速度的影響（加權影響）。
 - DepRL為什麼還需要SCONE環境模擬，他的優勢是?原本的SCONE Controller怎麼在SCONEgym中被實現?
+- 參數能不能互通
