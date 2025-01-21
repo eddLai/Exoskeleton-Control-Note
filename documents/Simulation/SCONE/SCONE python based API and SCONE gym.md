@@ -103,10 +103,12 @@ class Animal(ABC):
 	- dof_position_array()
 	- dof_velocity_array()
 
+
+==SCONErelated==
 ## `__step__`
 - action
 	- clip_action
-	- 
+	- ==use_delayed_actuators==
 - status
 	- reset
 	- 
