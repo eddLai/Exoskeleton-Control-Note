@@ -123,3 +123,6 @@ $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
 
 狀態空間的活動性
 $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
+
+### 問題
+- 
