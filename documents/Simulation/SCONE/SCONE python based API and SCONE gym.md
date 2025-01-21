@@ -106,7 +106,7 @@ class Animal(ABC):
 
 ==SCONErelated==
 ## `__step__`
-- action(原本是透過)
+- action(原本是透過muscle_force_array, muscle_fiber_length_array(), muscle_fiber_velocity_array())
 	- clip_action
 	- ==use_delayed_actuators==
 		- model.set_delayed_actuator_inputs(action)
