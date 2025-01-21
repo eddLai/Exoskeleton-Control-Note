@@ -99,5 +99,8 @@ class Animal(ABC):
 	- `self.left_leg_idxs` / `self.right_leg_idxs`：左腿和右腿的關節索引。
 - scone related
 	- set_log_level(3)
+	- load_mode
+	- dof_position_array()
+	- dof_velocity_array()
 
-## `__init__`
+## `__step__`
