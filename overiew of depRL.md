@@ -124,7 +124,7 @@ $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
 狀態空間的活動性
 $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 
-### 問題
+### 缺點與解決方法
 - perturbations sensitive
 - behavioral deprivation: 侷限在特定模式
 在高維中充分stochasticity可以避免
@@ -143,4 +143,4 @@ $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 		>切換機制通過隨機概率$p_{switch}$、固定時常$H_{DEP}$
 
 ## 挑戰：
-結果如何結合?
+- action結果如何結合?
