@@ -103,8 +103,8 @@ D4PG對於單一任務的多DOF動作應該足夠
 	- PCA降維：Al Borno et al., 2020; Zhao et al., 2022
 
 ---
-Hebbian learning, HL：活躍，增強連結(感測器和致動器的控制網路)，內部而非外部互動
-Differential Extrinsic Plasticity, DEP加入了環境回饋
+- Hebbian learning, HL：活躍，增強連結(感測器和致動器的控制網路)，內部而非外部互動
+- Differential Extrinsic Plasticity, DEP加入了環境回饋，用於加強狀態空間中連貫運動的感測器和動作之間的連接。
 ***"Initial exploration As DEP is creating exploration that excites the system into various modes, we suggest running an unsupervised pre-training phase with exclusive DEP control."***
 控制器動作
 $$a_t = \tanh(\kappa C s_t + h_t)$$
