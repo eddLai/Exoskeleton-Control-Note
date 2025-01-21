@@ -114,3 +114,10 @@ class Animal(ABC):
 	- model.advance_simulation_to(self.time + self.step_size)
 - status
 	- reset
+
+```
+reward = self._get_rew()
+obs = self._get_obs()
+done = self._get_done()
+reward = self._apply_termination_cost(reward, done)
+```
