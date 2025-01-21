@@ -29,7 +29,7 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 ---
 ref. https://github.com/tgeijten/scone-studio
 # Components Structure
-dela
+delayed actuator 的功用 https://www.youtube.com/watch?v=pgaEE27nsQw
 ## feed-forward or back-forward components
 - [[Model]]
 - [[Variable]]
