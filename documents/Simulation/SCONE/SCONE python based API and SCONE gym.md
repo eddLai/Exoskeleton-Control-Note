@@ -104,4 +104,9 @@ class Animal(ABC):
 	- dof_velocity_array()
 
 ## `__step__`
-- clip 
+- action
+	- clip_action
+	- 
+- status
+	- reset
+	- 
