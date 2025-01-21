@@ -97,5 +97,7 @@ class Animal(ABC):
 - environment
 	- `self.obs_type`：觀察空間類型。
 	- `self.left_leg_idxs` / `self.right_leg_idxs`：左腿和右腿的關節索引。
+- scone related
+	- set_log_level(3)
 
 ## `__init__`
