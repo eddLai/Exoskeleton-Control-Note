@@ -170,5 +170,24 @@ class GaitGymMeasureH0918(GaitGym):
 
 ---
 # Next
-[[overiew of depRL]]，用於提供action，透過policy轉換activation 到
-``
+[[overiew of depRL]]，用於提供action，透過policy轉換activation 到actuator
+```python
+for t in np.arange(0, max_time, 0.01):
+		# Set actuator_inputs based on muscle force, length and velocity
+		mus_in = model.muscle_force_array()
+		mus_in += model.muscle_fiber_length_array() - 1
+		mus_in += 0.2 * model.muscle_fiber_velocity_array()
+		model.set_actuator_inputs(mus_in)
+ 
+		# Advance the simulation to time t
+		# Internally, this performs as many simulations steps as required
+		# The internal step size is variable, and determined by the 'accuracy'
+		# setting in the .scone file
+		model.advance_simulation_to(t)
+ 
+		# Abort the simulation if the model center of mass falls below 0.3 meter
+		com_y = model.com_pos().y
+		if com_y < min_com_height:
+			print(f'Aborting simulation at t={model.time():.3f} com_y={com_y:.4f}')
+			break
+```
