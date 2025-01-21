@@ -128,3 +128,4 @@ store_next
 - 自動set_store_data
 - set_dof_positions
 - set_dof_velocities
+- init_activations_std
