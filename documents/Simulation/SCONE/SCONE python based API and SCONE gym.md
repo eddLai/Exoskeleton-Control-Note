@@ -148,7 +148,24 @@ store_next
 >- 不考慮x,y
 >- 有分成2D or 3D
 
+可以引入SCONE
+ㄅㄣ
+```
+class GaitGymMeasureH0918(GaitGym):
+    """
+    Shows how to use custom measures from the .scone files in
+    python.
+    """
 
+    def __init__(self, *args, **kwargs):
+        self.delay = False
+        super().__init__(find_model_file("H0918_hfd_measure.scone"), *args, **kwargs)
+
+    def custom_reward(self):
+        self.rwd_dict = self.create_rwd_dict()
+        return self.model.current_measure()
+
+```
 
 
 
