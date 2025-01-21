@@ -135,4 +135,7 @@ store_next
 
 ## 特殊
 - `model_velocity`
+- `_find_head_body`
+- `_switch_legs`
+- `_apply_termination_cost`
 - 
