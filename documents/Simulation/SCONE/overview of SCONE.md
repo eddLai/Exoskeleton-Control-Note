@@ -42,7 +42,7 @@ ref. https://github.com/tgeijten/scone-studio
 		- include `ScriptController`
 	- 列表
 		- FeedForwardController 回饋系統
-		- TrackingController 
+		- TrackingController 附帶PID追蹤的回饋系統
 		- PerturbationController模擬擾動
 		- ExternalController
 		- MirrorController用於對稱動作
