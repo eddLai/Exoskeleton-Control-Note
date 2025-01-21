@@ -94,6 +94,7 @@ class Animal(ABC):
 	- `self.has_reset`：是否已經重置過環境。
 	- `self.init_dof_pos_std` / `self.init_dof_vel_std`：關節初始位置和速度的標準差。
 	- `self.init_load`
+	- `self.store_next`
 - environment
 	- `self.obs_type`：觀察空間類型。
 	- `self.left_leg_idxs` / `self.right_leg_idxs`：左腿和右腿的關節索引。
@@ -123,3 +124,4 @@ reward = self._apply_termination_cost(reward, done)
 ```
 
 store_next
+## `__reset__`
