@@ -125,4 +125,5 @@ $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
 $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 
 ### 問題
-- 
+- perturbations sensitive
+- behavioral deprivation: 侷限在特定模式
