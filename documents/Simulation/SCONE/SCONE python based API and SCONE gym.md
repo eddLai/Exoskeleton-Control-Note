@@ -172,6 +172,9 @@ class GaitGymMeasureH0918(GaitGym):
 # Next
 [[overiew of depRL]]，用於提供action，透過policy轉換activation 到actuator
 ```
+action = policy(state)
+state, reward, done, info = env.step(action)
+# in the ste
 self.model.set_actuator_inputs(action)
 ```
 
