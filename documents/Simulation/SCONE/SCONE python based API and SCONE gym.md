@@ -141,3 +141,4 @@ store_next
 
 ---
 # GaitGym
+實例化`SCONEgym class`
