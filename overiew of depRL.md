@@ -39,6 +39,8 @@ RL utility on Muscleskeleton modeling
 <!-- slide bg="../NTKLab_white bg_cover_resize.png"-->
 
 ---
+[[Natural and Robust Walking using Reinforcement Learning without Demonstrations in High-Dimensional Musculoskeletal Models.pdf]]
+[[DEP-RL EMBODIED EXPLORATION FOR REINFORCEMENT LEARNING IN OVERACTUATED AND MUSCULOSKELETAL SYSTEMS.pdf]]
 # Background
 training file
 settings file
