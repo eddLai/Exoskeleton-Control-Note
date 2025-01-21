@@ -145,7 +145,10 @@ store_next
 - `_get_obs(self)`整合SCONE API取得之前的model
 	- `_get_feet_relative_position()`
 >特殊
->不考慮x,y
+>- 不考慮x,y
+>- 有分成2D or 3D
+
+
 
 
 
