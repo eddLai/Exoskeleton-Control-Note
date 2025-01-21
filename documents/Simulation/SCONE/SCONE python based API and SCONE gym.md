@@ -148,8 +148,7 @@ store_next
 >- 不考慮x,y
 >- 有分成2D or 3D
 
-可以引入SCONE
-ㄅㄣ
+可以引入SCONE本身的me
 ```
 class GaitGymMeasureH0918(GaitGym):
     """
