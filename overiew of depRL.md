@@ -103,7 +103,7 @@ D4PG對於單一任務的多DOF動作應該足夠
 	- PCA降維：Al Borno et al., 2020; Zhao et al., 2022
 
 ---
-Hebbian learning, HL：活躍，增強連結
+Hebbian learning, HL：活躍，增強連結(感測器和致動器的控制網路)
 ***"Initial exploration As DEP is creating exploration that excites the system into various modes, we suggest running an unsupervised pre-training phase with exclusive DEP control."***
 控制器動作
 $$a_t = \tanh(\kappa C s_t + h_t)$$
