@@ -1,3 +1,4 @@
+[[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 # SCONE core idea
 使用演化學習CEM
 forward dynamic of neuromuscleskeleton model propulsion
