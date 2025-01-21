@@ -31,7 +31,7 @@ SCONE_Data:
 	- InitStateJump.zml
 	- neural_delays_FEA_v3.zml
 	- neural_delays_FEA_v4.zml
-### API characteristic
+## API characteristic
 SCONE py
 - Data format
 	- biomechanical sensors and actuators via NumPy arrays
@@ -41,8 +41,7 @@ SCONE py
 - `.scone`中定義`.osim`
 
 ---
-
-### 寫入問題
+## Basic workflow
 ```python
 import os
 if store_data:
