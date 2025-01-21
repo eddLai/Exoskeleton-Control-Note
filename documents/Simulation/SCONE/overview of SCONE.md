@@ -41,7 +41,7 @@ ref. https://github.com/tgeijten/scone-studio
 		- closed-loop
 		- include `ScriptController`
 	- 列表
-		- 
+		- FeedForwardController 回饋系統
 		- ExternalController
 		- MirrorController用於對稱動作
 		- GaitStateController根據步態階段進行部署
