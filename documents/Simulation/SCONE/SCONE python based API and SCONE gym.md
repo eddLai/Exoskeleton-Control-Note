@@ -129,3 +129,4 @@ store_next
 - set_dof_positions
 - set_dof_velocities
 - init_activations_std
+- adjust_state_for_load
