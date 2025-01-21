@@ -109,12 +109,13 @@ class Animal(ABC):
 - action
 	- clip_action
 	- ==use_delayed_actuators==
-```
+	```
 if self.use_delayed_actuators:
 	self.model.set_delayed_actuator_inputs(action)
 else:
 	self.model.set_actuator_inputs(action)
 ```
+	- 
 - status
 	- reset
 	- 
