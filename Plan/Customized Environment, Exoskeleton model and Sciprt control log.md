@@ -96,3 +96,8 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 [[Overview of OpenAI gym]]
 
 需要用opensim做外骨骼模型
+- **初始化執行器輸入值**：
+    - 使用肌肉的當前力量（`muscle_force_array`）作為初始值。
+- **調整執行器輸入值**：
+    - 加入纖維長度的偏移（相對於基準長度）。
+    - 加入纖維速度的影響（加權影響）。
