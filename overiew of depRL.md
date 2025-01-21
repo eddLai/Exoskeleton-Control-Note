@@ -111,7 +111,7 @@ $$a_t = \tanh(\kappa C s_t + h_t)$$
 - C：控制矩陣，狀態與動作間的mapping
 - h：作為基準值
 - 透過此凸顯連結$$C_{ij} = a_{i,\ t} \cdot s_{j,\ t}$$
-- $$C_{ij} = a_{i,\ t} \cdot s_{j,\ t}$$
+- 差分HL$$C_{ij} = a_{i,\ t} \cdot \Delta(s_{j,\ t})$$
 
 
 $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
