@@ -96,6 +96,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 [[Overview of OpenAI gym]]
 
 需要用opensim做外骨骼模型
+為什麼SCONEpy只需要用加的
 - **初始化執行器輸入值**：
     - 使用肌肉的當前力量（`muscle_force_array`）作為初始值。
 - **調整執行器輸入值**：
