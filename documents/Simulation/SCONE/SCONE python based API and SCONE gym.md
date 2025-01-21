@@ -149,7 +149,7 @@ store_next
 >- 有分成2D or 3D
 
 可以引入SCONE本身的me
-```
+```python
 class GaitGymMeasureH0918(GaitGym):
     """
     Shows how to use custom measures from the .scone files in
