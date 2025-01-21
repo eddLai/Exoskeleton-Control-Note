@@ -84,7 +84,7 @@ ref. https://github.com/tgeijten/scone-studio
 
 ---
 # More info
-[[SCONE python based API]]
+[[SCONE python based API and SCONE gym]]
 ### Message
 [[Message LOG example]]
 產生`.par`，儲存的機制是？

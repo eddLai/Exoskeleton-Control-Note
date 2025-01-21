@@ -39,29 +39,4 @@ conda config --add envs_dirs /media/eddlai/DATA/conda_envs
 ```
 `mamba create --prefix /media/eddlai/DATA/conda_envs/simulation python=3.9`
 
-
----
-# SCONEgym
-ABC庫
-```
-class Animal(ABC):
-    @abstractmethod
-    def make_sound(self):
-        """每個動物都必須實作這個方法來發出聲音"""
-        pass
-
-    def sleep(self):
-        """非抽象方法，可選擇性覆蓋"""
-        print("Sleeping...")
-```
-
-- Progress
-	- `self.episode`：當前的 episode 編號。
-	- `self.total_reward`：當前 episode 的累計獎勵。
-	- `self.total_steps / self.steps`：模擬的總步數和當前 episode 的步數。
-	- `self.has_reset`：是否已經重置過環境。
-	- `self.init_dof_pos_std` / `self.init_dof_vel_std`：關節初始位置和速度的標準差。
-	- `self.init_load`
-- environment
-	- `self.obs_type`：觀察空間類型。
-	- `self.left_leg_idxs` / `self.right_leg_idxs`：左腿和右腿的關節索引。
+[[SCONE python based API and SCONE gym]]
