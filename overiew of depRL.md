@@ -132,3 +132,45 @@ $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 - DEP 的直覺：DEP 能夠快速建立狀態與動作之間的高度相關性，實現系統的協調運動。
 
 ---
+# Workflow
+##初始探索（Initial Exploration）：
+
+先由 DEP 進行完全控制的探索，收集大量非監督數據，初始化緩衝區。
+
+交替控制（Intra-Episode Exploration）：
+
+在每個 episode 中，DEP 和 RL 策略交替控制系統：
+
+RL 策略負責目標導向的行為。
+
+DEP 策略負責隨機探索。
+
+切換機制通過隨機概率
+
+𝑝
+
+switch
+
+p
+
+switch
+
+​
+
+和固定時長
+
+𝐻
+
+𝐷
+
+𝐸
+
+𝑃
+
+H
+
+DEP
+
+​
+
+控制。
