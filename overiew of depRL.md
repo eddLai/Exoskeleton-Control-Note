@@ -128,3 +128,7 @@ $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 - perturbations sensitive
 - behavioral deprivation: 侷限在特定模式
 在高維中充分stochasticity可以避免
+- DEP 與 RL 結合的優勢：強化學習策略可以干預 DEP，避免其陷入特定的極限週期，增強學習的靈活性。
+- DEP 的直覺：DEP 能夠快速建立狀態與動作之間的高度相關性，實現系統的協調運動。
+
+---
