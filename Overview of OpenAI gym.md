@@ -56,9 +56,10 @@ class Animal(ABC):
 ```
 
 - Progress
-```
+
 self.episode：當前的 episode 編號。
 self.total_reward：當前 episode 的累計獎勵。
 self.total_steps / self.steps：模擬的總步數和當前 episode 的步數。
 self.has_reset：是否已經重置過環境。
-```
+- `self.init_dof_pos_std` / `self.init_dof_vel_std`：關節初始位置和速度的標準差。
+- `self.init_load`
