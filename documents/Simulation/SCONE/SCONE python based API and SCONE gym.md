@@ -142,3 +142,4 @@ store_next
 ---
 # GaitGym
 實例化`SCONEgym class`
+`_get_obs_3d(self)`
