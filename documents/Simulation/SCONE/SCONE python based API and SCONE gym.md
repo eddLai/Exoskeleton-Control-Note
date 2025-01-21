@@ -106,12 +106,12 @@ class Animal(ABC):
 
 ==SCONErelated==
 ## `__step__`
-- action
+- action(原本是透過)
 	- clip_action
 	- ==use_delayed_actuators==
 		- model.set_delayed_actuator_inputs(action)
 		- model.set_actuator_inputs(action)
-		- model.advance_simulation_to(self.time + self.step_size)
+	- model.advance_simulation_to(self.time + self.step_size)
 
 - status
 	- reset
