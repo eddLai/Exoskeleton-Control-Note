@@ -96,3 +96,4 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 [[Overview of OpenAI gym]]
 
 需要用opensim做外骨骼模型
+用Scaled過的會controller對不上，先暫停可能可以用depRL解決
