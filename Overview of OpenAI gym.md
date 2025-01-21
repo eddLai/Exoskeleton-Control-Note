@@ -42,3 +42,15 @@ conda config --add envs_dirs /media/eddlai/DATA/conda_envs
 
 ---
 # SCONEgym
+ABC庫
+```
+class Animal(ABC):
+    @abstractmethod
+    def make_sound(self):
+        """每個動物都必須實作這個方法來發出聲音"""
+        pass
+
+    def sleep(self):
+        """非抽象方法，可選擇性覆蓋"""
+        print("Sleeping...")
+```
