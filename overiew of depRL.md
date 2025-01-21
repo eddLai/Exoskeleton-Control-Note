@@ -133,18 +133,13 @@ $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 
 ---
 # Workflow
-##初始探索（Initial Exploration）：
-
+1. 初始探索（Initial Exploration）：
 先由 DEP 進行完全控制的探索，收集大量非監督數據，初始化緩衝區。
 
-交替控制（Intra-Episode Exploration）：
-
-在每個 episode 中，DEP 和 RL 策略交替控制系統：
-
-RL 策略負責目標導向的行為。
-
-DEP 策略負責隨機探索。
-
+2. 交替控制（Intra-Episode Exploration）：
+	- 在每個 episode 中，DEP 和 RL 策略交替控制系統：
+		- RL 策略負責目標導向的行為。
+		- DEP 策略負責隨機探索。
 切換機制通過隨機概率
 
 𝑝
