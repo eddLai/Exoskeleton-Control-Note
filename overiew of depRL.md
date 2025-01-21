@@ -108,7 +108,9 @@ D4PG對於單一任務的多DOF動作應該足夠
 ***"Initial exploration As DEP is creating exploration that excites the system into various modes, we suggest running an unsupervised pre-training phase with exclusive DEP control."***
 控制器動作
 $$a_t = \tanh(\kappa C s_t + h_t)$$
-C: 控制矩陣，狀態與動作間k2
+- C：控制矩陣，狀態與動作間的mapping
+- h：作為基準值
+
 $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
 狀態空間的活動性
 $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}
