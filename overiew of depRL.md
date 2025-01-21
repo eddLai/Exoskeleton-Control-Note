@@ -117,6 +117,7 @@ $$a_t = \tanh(\kappa C s_t + h_t)$$
 $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
 >recall：一階衰減項，隨時間逐漸減弱
 >$f(a)$可簡化為a
+>假設了感測器（sensor）與執行器（actuator）
 
 inverse prediction model
 狀態空間的活動性
