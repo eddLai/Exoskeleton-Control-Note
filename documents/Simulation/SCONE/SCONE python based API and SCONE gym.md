@@ -148,7 +148,7 @@ store_next
 >- 不考慮x,y
 >- 有分成2D or 3D
 
-作者未來可能會把measur
+作者未來可能會把measure都寫成python的版本
 可以引入SCONE本身的`measure.scone`
 ```python
 class GaitGymMeasureH0918(GaitGym):
