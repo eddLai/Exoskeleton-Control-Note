@@ -140,10 +140,5 @@ $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 	- 在每個 episode 中，DEP 和 RL 策略交替控制系統：
 		- RL 策略負責目標導向的行為。
 		- DEP 策略負責隨機探索。
-		>切換機制通過隨機概率$p_{switch}$、H
-
-DEP
-
-​
-
-控制。
+		>切換機制通過隨機概率$p_{switch}$、固定時常$H_{DEP}$
+		
