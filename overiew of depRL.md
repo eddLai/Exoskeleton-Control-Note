@@ -142,5 +142,5 @@ $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 		- DEP 策略負責隨機探索。
 		>切換機制通過隨機概率$p_{switch}$、固定時常$H_{DEP}$
 
-## 挑戰：
-- action結果如何結合?
+挑戰：action結果如何結合?
+
