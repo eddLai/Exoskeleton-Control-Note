@@ -117,5 +117,4 @@ $$a_t = \tanh(\kappa C s_t + h_t)$$
 $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
 inverse prediction model
 狀態空間的活動性
-$$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}
-$$
+$$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
