@@ -126,7 +126,8 @@ reward = self._apply_termination_cost(reward, done)
 store_next
 ## `__reset__`
 - 自動set_store_data
-- set_dof_positions
-- set_dof_velocities
-- init_activations_std
-- adjust_state_for_load
+- ==set_dof_positions==
+- ==set_dof_velocities==
+- ==muscle_excitation_array()==
+- ==init_activations_std==
+- ==adjust_state_for_load==
