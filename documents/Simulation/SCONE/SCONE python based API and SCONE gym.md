@@ -142,7 +142,8 @@ store_next
 ---
 # GaitGym
 實例化`SCONEgym class`
-`_get_obs_3d(self)`整合SCONE API取得之前的model
+- `_get_obs_3d(self)`整合SCONE API取得之前的model
+	- ‵
 >特殊
 >不考慮x,y
 
