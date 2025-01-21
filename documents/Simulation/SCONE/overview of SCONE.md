@@ -39,9 +39,10 @@ ref. https://github.com/tgeijten/scone-studio
 	- 分類
 		- open-loop
 		- closed-loop
-		- includev `ScriptController`
-	- 特色
+		- include `ScriptController`
+	- 列表
 		- 
+		- ExternalController
 		- MirrorController用於對稱動作
 		- GaitStateController根據步態階段進行部署
 		- SequentialController可以做到動作間的transition
