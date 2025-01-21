@@ -112,7 +112,5 @@ class Animal(ABC):
 		- model.set_delayed_actuator_inputs(action)
 		- model.set_actuator_inputs(action)
 	- model.advance_simulation_to(self.time + self.step_size)
-
 - status
 	- reset
-	- 
