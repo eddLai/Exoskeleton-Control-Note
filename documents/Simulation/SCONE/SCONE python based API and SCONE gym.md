@@ -171,6 +171,10 @@ class GaitGymMeasureH0918(GaitGym):
 ---
 # Next
 [[overiew of depRL]]，用於提供action，透過policy轉換activation 到actuator
+```
+self.model.set_actuator_inputs(action)
+```
+
 ```python
 for t in np.arange(0, max_time, 0.01):
 		# Set actuator_inputs based on muscle force, length and velocity
