@@ -1,4 +1,4 @@
-是用來做RL的SCONE API，
+是用來做RL的SCONE API，SCONE本身有一些已有的模擬參數可使用
 
 # Env setup
 SCONEpy path
