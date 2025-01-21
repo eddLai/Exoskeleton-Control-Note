@@ -1,4 +1,5 @@
 # SCONE core idea
+使用演化學習CE
 forward dynamic of neuromuscleskeleton model propulsion
 >原本的用途 ***"gait adaptations arise from weakness or contracture of the plantarflexor muscles."*** 
 
