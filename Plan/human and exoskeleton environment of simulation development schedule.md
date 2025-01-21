@@ -45,6 +45,7 @@ Phase1遺留問題：
 		- [AIcrowd | NeurIPS 2019: Learn to Move - Walk Around | Submissions](https://www.aicrowd.com/challenges/neurips-2019-learn-to-move-walk-around/submissions?page=1&q%5Bs%5D=score_display+asc)
 		- [Reinforcement learning with musculoskeletal models](https://osim-rl.kidzinski.com/docs/models/interface/)
 		- [How Forward Dynamics Works - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089643/How+Forward+Dynamics+Works)
+- 用Scaled過的會controller對不上，先暫停可能可以用depRL解決
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
