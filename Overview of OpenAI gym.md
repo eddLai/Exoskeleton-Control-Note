@@ -55,4 +55,10 @@ class Animal(ABC):
         print("Sleeping...")
 ```
 
-`‵`
+- Progress
+```
+self.episode：當前的 episode 編號。
+self.total_reward：當前 episode 的累計獎勵。
+self.total_steps / self.steps：模擬的總步數和當前 episode 的步數。
+self.has_reset：是否已經重置過環境。
+```
