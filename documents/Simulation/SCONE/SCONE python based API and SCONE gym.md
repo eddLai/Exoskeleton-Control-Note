@@ -170,4 +170,4 @@ class GaitGymMeasureH0918(GaitGym):
 
 ---
 # Next
-[[overiew of depRL]]，用於提供action
+[[overiew of depRL]]，用於提供action，透過policy轉換activation 到
