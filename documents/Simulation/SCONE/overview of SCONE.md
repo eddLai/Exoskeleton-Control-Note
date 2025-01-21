@@ -41,7 +41,8 @@ ref. https://github.com/tgeijten/scone-studio
 		- closed-loop
 		- includev `ScriptController`
 	- 特色
-		- delayed actuator 的功用 https://www.youtube.com/watch?v=pgaEE27nsQw
+		- 
+		- ReflexControllera模擬神經放電到肌肉的過程，delayed actuator 的功用 https://www.youtube.com/watch?v=pgaEE27nsQw
 - [[Objective(Goad task)]]
 	- Combination of Measures
 - Optimizer
