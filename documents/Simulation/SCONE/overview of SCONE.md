@@ -32,14 +32,16 @@ model fall at the end of a gait simulation，為了遵守最低能量使用
 ---
 ref. https://github.com/tgeijten/scone-studio
 # Components Structure
-delayed actuator 的功用 https://www.youtube.com/watch?v=pgaEE27nsQw
 ## feed-forward or back-forward components
 - [[Model]]
 - [[Variable]]
 - [[Contorller]]
-	- open-loop
-	- closed-loop
-	- includev `ScriptController`
+	- 分類
+		- open-loop
+		- closed-loop
+		- includev `ScriptController`
+	- 特色
+		- delayed actuator 的功用 https://www.youtube.com/watch?v=pgaEE27nsQw
 - [[Objective(Goad task)]]
 	- Combination of Measures
 - Optimizer
