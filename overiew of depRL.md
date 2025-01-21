@@ -115,6 +115,8 @@ $$a_t = \tanh(\kappa C s_t + h_t)$$
 以上觀測範圍太小了。以下使用狀態速度(狀態的時變量)
 
 $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
+>recall：一階衰減項，隨時間逐漸減弱
+
 inverse prediction model
 狀態空間的活動性
 $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
