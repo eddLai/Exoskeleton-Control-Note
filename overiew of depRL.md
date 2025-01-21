@@ -127,4 +127,4 @@ $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 ### 問題
 - perturbations sensitive
 - behavioral deprivation: 侷限在特定模式
-在高維5stochasticity可以避免
+在高維中充分stochasticity可以避免
