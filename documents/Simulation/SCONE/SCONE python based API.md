@@ -1,10 +1,19 @@
 - 可以用來控制外骨骼的力量？有Controller就可以吧，需要研究外骨骼物件，我需要command 跟 python作用在同個空間才行。
 
-# Env 
+# Env setup
 SCONEpy path
 - windwos: `C:\Program Files\SCONE\bin\sconepy.cp39-win_amd64.pyd`
 - ubuntu
 
+真的要用python3.9才行
+```bash
+(exo) eddlai@eddlai-ROG-Flow-X13-GV301RE-GV301RE:~/SCONE/SconePy$ /home/eddlai/miniconda3/envs/exo/bin/python /home/eddlai/SCONE/SconePy/sconetools.py                                                                                                  
+sconepy found at /opt/scone/lib                                                                                             
+19:10:20 Successfully initialized OpenSim3 version 3.3-2021-01-28                                                           
+19:10:20 Loaded settings from /home/eddlai/.config/SCONE/scone-settings.zml 
+```
+
+---
 SCONE_Data:
 - `.scone`
 	- H0918_hfd.scone
@@ -32,14 +41,6 @@ SCONE py
 - `.scone`中定義`.osim`
 
 ---
-### ENV setup
-真的要用python3.9才行
-```bash
-(exo) eddlai@eddlai-ROG-Flow-X13-GV301RE-GV301RE:~/SCONE/SconePy$ /home/eddlai/miniconda3/envs/exo/bin/python /home/eddlai/SCONE/SconePy/sconetools.py                                                                                                  
-sconepy found at /opt/scone/lib                                                                                             
-19:10:20 Successfully initialized OpenSim3 version 3.3-2021-01-28                                                           
-19:10:20 Loaded settings from /home/eddlai/.config/SCONE/scone-settings.zml 
-```
 
 ### 寫入問題
 ```python
