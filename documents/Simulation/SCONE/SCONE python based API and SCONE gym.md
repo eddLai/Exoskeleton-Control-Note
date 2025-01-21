@@ -86,7 +86,7 @@ class Animal(ABC):
         """非抽象方法，可選擇性覆蓋"""
         print("Sleeping...")
 ```
-
+## `__init__`
 - Progress
 	- `self.episode`：當前的 episode 編號。
 	- `self.total_reward`：當前 episode 的累計獎勵。
@@ -97,3 +97,5 @@ class Animal(ABC):
 - environment
 	- `self.obs_type`：觀察空間類型。
 	- `self.left_leg_idxs` / `self.right_leg_idxs`：左腿和右腿的關節索引。
+
+## `__init__`
