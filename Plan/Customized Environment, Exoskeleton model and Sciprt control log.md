@@ -114,6 +114,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 - 參數能不能互通
 
 ---
+老師這是我今天跟智翔討論完的開發規劃。我們現在準備把外骨骼模型放到
 ## 人體模擬
 我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制，因為提供的Mimic function並不多
 ```
