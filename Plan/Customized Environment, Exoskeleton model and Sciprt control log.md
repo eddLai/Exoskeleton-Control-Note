@@ -112,3 +112,30 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 		- 加入纖維速度的影響（加權影響）。
 - DepRL為什麼還需要SCONE環境模擬，他的優勢是?原本的SCONE Controller怎麼在SCONEgym中被實現?
 - 參數能不能互通
+
+---
+## SCONE
+我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制
+```
+<< measures/Gait10.scone >>
+<< measures/EffortWangCubed2000.scone >>
+<< measures/DofKnee1.scone >>
+<< measures/Grf14.scone >>
+<< measures/mimic_dofs_path1_01_hfd.scone >>
+<< measures/mimic_path1_01_activations_hfd.scone >>
+<< measures/torso_ang_vel_z.scone >>
+```
+SCONE做出來的行走模型泛用性應該有限制(只能在平地行走，不能走其它地形)
+SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發evolutionary learning的外骨骼Controller來進行模擬
+## SCONEgym+DepRL
+移到MuJoCo中人體模型會因此失真，所以應該還是會用SCONE這個使用Opensim物理引擎的方案
+文獻是
+擁有比SCONE還真實的
+DepRL可以用來預訓練
+現在的硬體設備不夠train model，所以沒辦法做出用戶專一的模型，
+- 嘗試做fine-tunning
+- 嘗試先用
+
+## HyFyDy
+HyFyDy是優化過後的SCONE物理引擎
+**創造物件很方便**
