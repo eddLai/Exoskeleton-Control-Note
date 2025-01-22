@@ -134,6 +134,7 @@ SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發ev
 ## HyFyDy
 SCONE本質上是對Opensim物理引擎forward dynamic插件，HyFyDy是優化過後的SCONE，創造物件或環境很方便，目前打算用他來做外骨骼的model，否則就要用Opensim去做model但相對複雜很多，MuJuCo則是會造成人體模型失真
 ### SCONEgym+DepRL
+
 SCONEgym是SCONE的RL python API，但是Controller跟Measure function無法沿用因為用的ML方法不同沒有轉移過來。
 DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬數據
 開發Mimic function相對SCONE容易很多
@@ -141,3 +142,4 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 但現在的硬體設備不夠train model，所以沒辦法做出用戶專一的模型，
 - 先嘗試做fine-tunning
 - 嘗試先用
+
