@@ -121,6 +121,8 @@ $$\tau \dot{C} = f(\dot{s}_t) \dot{s}_{t-\Delta t}^T - C$$
 >inverse prediction model$f(a)$可簡化為a
 >可以假設感測器（sensor）與執行器（actuator）近似線性等之類的
 
+$$f(s˙t)=M⋅(s˙t−s˙t−1)f(\dot{s}_t) = M \cdot (\dot{s}_t - \dot{s}_{t-1})f(s˙t​)=M⋅(s˙t​−s˙t−1​)$$，即通過 MMM 將狀態變化轉換為執行器響應。
+
 狀態空間的活動性
 $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 
