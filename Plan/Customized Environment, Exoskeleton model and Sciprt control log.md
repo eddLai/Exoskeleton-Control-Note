@@ -115,7 +115,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 
 ---
 ## SCONE
-我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制
+我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制，因為提供的Mimic function並不多
 ```
 << measures/Gait10.scone >>
 << measures/EffortWangCubed2000.scone >>
