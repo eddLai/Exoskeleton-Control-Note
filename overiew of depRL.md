@@ -151,3 +151,4 @@ self.num_sensors = action_space.shape[0]
 self.num_motors = action_space.shape[0]
 ```
 
+reset混根據當前觀測空間形狀 (`obs_shape`)，調整控制器的維度。
