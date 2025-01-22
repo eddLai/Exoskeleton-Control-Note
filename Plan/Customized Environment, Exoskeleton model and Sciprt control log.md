@@ -136,4 +136,4 @@ SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發ev
 - 嘗試先用
 
 ## HyFyDy
-HyFyDy是優化過後的SCONE物理引擎，創造物件或環境很方便，目前打算用他來做外骨骼的model，否則就要用Opens
+HyFyDy是優化過後的SCONE物理引擎，創造物件或環境很方便，目前打算用他來做外骨骼的model，否則就要用Opensim去做model但相對複雜很多。
