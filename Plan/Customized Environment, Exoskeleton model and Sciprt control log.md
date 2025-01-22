@@ -131,7 +131,7 @@ SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發ev
 ## 外骨骼模擬
 移到MuJoCo中人體模型會因此失真，所以應該還是會用SCONE這個使用Opensim物理引擎的方案
 ## HyFyDy
-HyFyDy是優化過後的SCONE物理引擎，創造物件或環境很方便，目前打算用他來做外骨骼的model，否則就要用Opensim去做model但相對複雜很多，MuJuCo則是會造成人體模型失真
+HyFyDy是優化過後的SCONE對Opensim物理引擎forward dynamic插件，創造物件或環境很方便，目前打算用他來做外骨骼的model，否則就要用Opensim去做model但相對複雜很多，MuJuCo則是會造成人體模型失真
 ### SCONEgym+DepRL
 文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬數據
 目前會嘗試用Dep這個Hebbian learning的方法可以用來off policy的預訓練model，未來如果要移到患者資料可能就不需要像SCONE方案那樣修改控制器
