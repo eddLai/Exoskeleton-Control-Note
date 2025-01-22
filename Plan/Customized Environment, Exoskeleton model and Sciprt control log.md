@@ -114,7 +114,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 - 參數能不能互通
 
 ---
-## SCONE
+## 人體模擬
 我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制，因為提供的Mimic function並不多
 ```
 << measures/Gait10.scone >>
@@ -127,6 +127,8 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 ```
 SCONE做出來的行走模型泛用性應該有限制(只能在平地行走，不能走其它地形)
 SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發evolutionary learning的外骨骼Controller來進行模擬
+
+## 外骨骼模擬
 ## SCONEgym+DepRL
 移到MuJoCo中人體模型會因此失真，所以應該還是會用SCONE這個使用Opensim物理引擎的方案
 文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬數據
