@@ -145,3 +145,6 @@ $$\tilde{C}_{ij} = \frac{C_{ij}}{\|C_{ij}\|_i + \epsilon}$$
 挑戰：action結果如何結合?
 
 我希望在預訓練時間使用外部資料，我有motion capture得到的關節座標點marker.trc、marker_IK、以及透過EMG資料、TendonLength、Joint Moment arm、_inverse_dynamics逆算優化所得到的Activations.sto, AdjustedEmgs.sto, FibreLengths.sto, FibreLengths.sto, FibreLengths.sto, MusclesContribution.sto, NormFibreLengths.sto, NormFibreVelocities.sto, ObjectiveFunctionComponentsAndWeightings.sto, Torques.sto
+
+```
+```
