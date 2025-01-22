@@ -116,7 +116,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 ---
 
 老師這是我今天跟智翔討論完的開發規劃。我們現在準備把外骨骼模型放到模擬中，但我們發現
-## 人體模擬
+### 人體模擬
 這是SCONE團隊起初開發SCONE的用途 [Predicting gait adaptations due to ankle plantarflexor muscle weakness and contracture using physics-based musculoskeletal simulations - PubMed](https://pubmed.ncbi.nlm.nih.gov/31589597/)
 我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制，因為提供的Mimic function並不多
 ```
@@ -131,9 +131,9 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 SCONE做出來的行走模型泛用性應該有限制(只能在平地行走，不能走其它地形)
 SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發evolutionary learning的外骨骼Controller來進行模擬
 
-## 外骨骼模擬
+### 外骨骼模擬
 移到MuJoCo中人體模型會因此失真，所以應該還是會用SCONE這個使用Opensim物理引擎的方案
-## HyFyDy
+### HyFyDy
 SCONE本質上是對Opensim物理引擎forward dynamic插件，HyFyDy是優化過後的SCONE，創造物件或環境很方便，目前打算用他來做外骨骼的model，否則就要用Opensim去做model但相對複雜很多，MuJuCo則是會造成人體模型失真
 ### SCONEgym+DepRL
 [[2206.00484] DEP-RL: Embodied Exploration for Reinforcement Learning in Overactuated and Musculoskeletal Systems](https://arxiv.org/abs/2206.00484)
