@@ -158,3 +158,8 @@ rolling average
 - l2
 - max
 - none
+
+`_learn_controller`
+- independent
+- none
+- global
