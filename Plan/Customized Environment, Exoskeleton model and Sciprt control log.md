@@ -114,6 +114,7 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 - 參數能不能互通
 
 ---
+
 老師這是我今天跟智翔討論完的開發規劃。我們現在準備把外骨骼模型放到模擬中，但我們發現
 ## 人體模擬
 這是SCONE團隊起初開發SCONE的用途 [Predicting gait adaptations due to ankle plantarflexor muscle weakness and contracture using physics-based musculoskeletal simulations - PubMed](https://pubmed.ncbi.nlm.nih.gov/31589597/)
