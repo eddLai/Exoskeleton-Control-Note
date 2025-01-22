@@ -137,5 +137,4 @@ DepRL可以用來預訓練
 - 嘗試先用
 
 ## HyFyDy
-HyFyDy是優化過後的SCONE物理引擎
-**創造物件很方便**
+HyFyDy是優化過後的SCONE物理引擎，創造物件很方便，SC
