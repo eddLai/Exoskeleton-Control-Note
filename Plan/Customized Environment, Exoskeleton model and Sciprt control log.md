@@ -130,11 +130,11 @@ SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發ev
 ## SCONEgym+DepRL
 移到MuJoCo中人體模型會因此失真，所以應該還是會用SCONE這個使用Opensim物理引擎的方案
 文獻是
-擁有比SCONE還真實的
+擁有比SCONE還真實的模擬數據
 DepRL可以用來預訓練
 現在的硬體設備不夠train model，所以沒辦法做出用戶專一的模型，
 - 嘗試做fine-tunning
 - 嘗試先用
 
 ## HyFyDy
-HyFyDy是優化過後的SCONE物理引擎，創造物件很方便，SC
+HyFyDy是優化過後的SCONE物理引擎，創造物件很方便
