@@ -129,9 +129,9 @@ SCONE做出來的行走模型泛用性應該有限制(只能在平地行走，�
 SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發evolutionary learning的外骨骼Controller來進行模擬
 ## SCONEgym+DepRL
 移到MuJoCo中人體模型會因此失真，所以應該還是會用SCONE這個使用Opensim物理引擎的方案
-文獻是
+文獻是直接不使用訓練資料
 擁有比SCONE還真實的模擬數據
-目前會用Dep這個可以用來預訓練
+目前會用Dep這個Hebbian learning的方法可以用來預訓練
 現在的硬體設備不夠train model，所以沒辦法做出用戶專一的模型，
 - 嘗試做fine-tunning
 - 嘗試先用
