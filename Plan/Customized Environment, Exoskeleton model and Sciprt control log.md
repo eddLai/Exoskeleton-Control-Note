@@ -130,7 +130,7 @@ SCONE環境下沒有提供API接口，只能使用內部的Lua Script去開發ev
 ## SCONEgym+DepRL
 移到MuJoCo中人體模型會因此失真，所以應該還是會用SCONE這個使用Opensim物理引擎的方案
 文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬數據
-目前會嘗試用Dep這個Hebbian learning的方法可以用來off policy的預訓練model，未來如果要
+目前會嘗試用Dep這個Hebbian learning的方法可以用來off policy的預訓練model，未來如果要移到患者資料可能要做的修改就沒有用SCONE方案
 現在的硬體設備不夠train model，所以沒辦法做出用戶專一的模型，
 - 嘗試做fine-tunning
 - 嘗試先用
