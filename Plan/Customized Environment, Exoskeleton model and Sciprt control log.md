@@ -140,7 +140,7 @@ SCONEgym是SCONE的RL python API，但是Controller跟Measure function無法沿�
 DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬數據
 開發Mimic function相對SCONE容易很多
 目前會嘗試用Dep這個Hebbian learning的方法可以用來off policy的預訓練model，未來如果要移到患者資料可能就不需要像SCONE方案那樣修改控制器
-但現在的運算設備可能不夠train model，所以沒辦法做出用戶專一的模型，
+但現在的運算設備可能不夠train model做出用戶專一的模型，
 - 先嘗試做fine-tunning
 - 嘗試先用
 
