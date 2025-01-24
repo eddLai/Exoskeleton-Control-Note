@@ -39,5 +39,6 @@ conda config --add envs_dirs /media/eddlai/DATA/conda_envs
 
 ```
 `mamba create --prefix /media/eddlai/DATA/conda_envs/simulation python=3.9`
+`pip install poetry`
 
 [[SCONE python based API and SCONE gym]]
