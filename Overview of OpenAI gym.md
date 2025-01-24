@@ -29,6 +29,7 @@ Stable-Baselines3
 - **`terminated=True`** 時應進行引導值回填（bootstrapping）。
 - **`truncated=True`** 時則不進行回填。
 
+---
 ## Environment setup
 `conda install -n base -c conda-forge mamba`
 
