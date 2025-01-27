@@ -43,7 +43,7 @@ conda config --add envs_dirs /media/eddlai/DATA/conda_envs
 
 [[SCONE python based API and SCONE gym]]
 
-`mamba create --prefix /media/eddlai/DATA/conda_envs/myocontrol python=3.9`
+`mamba create --prefix /media/eddlai/DATA/conda_envs/myocontrol python=3.10`
 gesture detection for hand exoskeleton for my grandma's hand atrophy
 
 `pip cache purge`
