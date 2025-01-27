@@ -42,3 +42,5 @@ conda config --add envs_dirs /media/eddlai/DATA/conda_envs
 `pip install poetry`
 
 [[SCONE python based API and SCONE gym]]
+
+`mamba create --prefix /media/eddlai/DATA/conda_envs/myocontrol python=3.6`
