@@ -6,3 +6,4 @@ for item in shared_memory_items:
 
 
 - SharedMemoryManager：對`from multiprocessing.shared_memory import SharedMemory`的進一步封裝
+- 原來python如果要寫多線程需要寫成這樣巷
