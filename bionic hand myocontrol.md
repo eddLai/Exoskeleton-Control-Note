@@ -5,4 +5,4 @@ for item in shared_memory_items:
 ```
 
 
-對`from multiprocessing.shared_memory import SharedMemory`的進一步封裝
+- SharedMemoryManager：對`from multiprocessing.shared_memory import SharedMemory`的進一步封裝
