@@ -1,4 +1,4 @@
-EMG side project: [[Bionic hand myocontrol]]
+EMG side project: [[bionic hand myocontrol]]
 
 | Date       | Duration length | task                                                                  | check | Note            |
 | ---------- | --------------- | --------------------------------------------------------------------- | ----- | --------------- |
