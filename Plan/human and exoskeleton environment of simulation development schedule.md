@@ -1,3 +1,5 @@
+EMG side project: [[Bionic hand myocontrol]]
+
 | Date       | Duration length | task                                                                  | check | Note            |
 | ---------- | --------------- | --------------------------------------------------------------------- | ----- | --------------- |
 | 10/10~1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                            | v     | 用的是矢狀面的人體模型     |
