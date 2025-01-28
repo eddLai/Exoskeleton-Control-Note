@@ -4,4 +4,5 @@ for item in shared_memory_items:
         item.append(Lock())
 ```
 
-對`from multiprocessing.shared_memory import SharedMemory`
+
+對`from multiprocessing.shared_memory import SharedMemory`的進一步封裝
