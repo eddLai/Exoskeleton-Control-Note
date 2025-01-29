@@ -33,6 +33,10 @@ for item in shared_memory_items:
 | `4` | **類別 (`cls=4`)** → 代表 **Attribute Protocol (ATT)** |
 | --- | -------------------------------------------------- |
 | `5` | **命令 (`cmd=5`)** → 代表 **寫入屬性 (Write Attribute)**   |
+```
+self.write_attr(0x19, pack('3B', 3, 1, 1))  # 震動模式 1
+
+```
 
 ```python
 def pack(fmt, *args):
