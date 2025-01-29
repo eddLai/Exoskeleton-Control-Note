@@ -25,3 +25,5 @@ for item in shared_memory_items:
 payload = b'\x01\x02\x03\x04'  # 假設有 4 個 bytes 資料
 data = struct.pack('4B', 0, len(payload), cls, cmd) + payload
 ```
+
+`multichr`, `multiord`
