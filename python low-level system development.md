@@ -10,6 +10,13 @@ for item in shared_memory_items:
 	- 對`from multiprocessing.shared_memory import SharedMemory`的進一步封裝
 	- 原來python如果要寫多線程需要寫成這樣像C
 
+# Process
+```python
+myo = MyoStreamer(...)
+myo.start()  # ✅ 呼叫 `Process.start()`
+```
+
+
 ---
 # binary package
 `struct`, `pack()` 和 `unpack()`
