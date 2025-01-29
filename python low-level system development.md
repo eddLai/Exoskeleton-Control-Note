@@ -12,6 +12,9 @@ for item in shared_memory_items:
 
 # Process
 ```python
+from multiprocessing import Process
+class MyoStreamer(Process):
+	...
 myo = MyoStreamer(...)
 myo.start()  # ✅ 呼叫 `Process.start()`
 ```
