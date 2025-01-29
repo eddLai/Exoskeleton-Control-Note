@@ -28,16 +28,11 @@ for item in shared_memory_items:
 | `'I'`          | 無符號 32-bit (4 bytes)                        | `4 bytes` |
 | `'6s'`         | 固定長度 6 bytes 字串                             | `6 bytes` |
 | `'<BHB'`       | 小端序 (Little Endian)，包含 8-bit, 16-bit, 8-bit | `4 bytes` |
-|**部分**|**說明**|
-|---|---|
 
-|   |   |
-|---|---|
-|`4`|**類別 (`cls=4`)** → 代表 **Attribute Protocol (ATT)**|
+| `4` | **類別 (`cls=4`)** → 代表 **Attribute Protocol (ATT)** |
+| --- | -------------------------------------------------- |
+| `5` | **命令 (`cmd=5`)** → 代表 **寫入屬性 (Write Attribute)**   |
 
-|     |                                                  |
-| --- | ------------------------------------------------ |
-| `5` | **命令 (`cmd=5`)** → 代表 **寫入屬性 (Write Attribute)** |
 
 
 ```python
