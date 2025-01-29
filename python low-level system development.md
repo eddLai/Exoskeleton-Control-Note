@@ -37,14 +37,14 @@ data = struct.pack('4B', 0, len(payload), cls, cmd) + payload
 ```
 ## BLE GATT(Generic Attribute Profile) Protocol
 
-| **類別 (`cls`)** | **用途**                         | 命令 (`cmd`) | 用途                      |
-| -------------- | ------------------------------ | ---------- | ----------------------- |
-| `0x00`         | **系統指令 (System Commands)**     |            |                         |
-|                |                                | `0x01`     | Write Response          |
-| `0x02`         | **連線指令 (Connection Commands)** |            |                         |
-| `0x03`         | **安全指令 (Security Commands)**   |            |                         |
-| `0x04`         | **屬性 (ATT, Attribute) 操作指令**   | `0x04`     | Read Attribute Request  |
-|                |                                | `0x05`     | Write Attribute Request |
+| **類別 (`cls`)** | **用途**                         | 命令 (`cmd`) | 用途                                |
+| -------------- | ------------------------------ | ---------- | --------------------------------- |
+| `0x00`         | **系統指令 (System Commands)**     |            |                                   |
+|                |                                | `0x01`     | **Write Response確認寫入成功**          |
+| `0x02`         | **連線指令 (Connection Commands)** |            |                                   |
+| `0x03`         | **安全指令 (Security Commands)**   |            |                                   |
+| `0x04`         | **屬性 (ATT, Attribute) 操作指令**   | `0x04`     | **Read Attribute Request請求讀取屬性**  |
+|                |                                | `0x05`     | **Write Attribute Request請求寫入屬性** |
 
 
 ```python
