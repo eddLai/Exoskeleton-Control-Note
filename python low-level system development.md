@@ -14,6 +14,13 @@ for item in shared_memory_items:
 # binary package
 `struct`, `pack()` 和 `unpack()`
 
+|**符號**|**端序 (Endianness)**|**數據對齊方式**|**適用場景**|
+|---|---|---|---|
+|`<`|**小端序 (Little Endian)**|**無對齊要求**|**適用於 BLE 通訊，常見於 ARM 架構**|
+|`>`|**大端序 (Big Endian)**|**無對齊要求**|**適用於網絡協議 (Big-Endian，常見於 TCP/IP)**|
+|`!`|**大端序 (Big Endian)**|**標準 C 對齊**|**用於 C 語言互操作**|
+|`=`|**當前系統預設端序**|**根據系統決定**|**適用於跨平台應用**|
+
 | **格式 (`fmt`)** | **說明**                                      | **大小**    |
 | -------------- | ------------------------------------------- | --------- |
 | `'B'`          | 無符號 8-bit (1 byte)                          | `1 byte`  |
@@ -22,6 +29,9 @@ for item in shared_memory_items:
 | `'6s'`         | 固定長度 6 bytes 字串                             | `6 bytes` |
 | `'<BHB'`       | 小端序 (Little Endian)，包含 8-bit, 16-bit, 8-bit | `4 bytes` |
 ```python
+def pack(fmt, *args):
+	return struct.pack('<' + fmt, *args)
+
 payload = b'\x01\x02\x03\x04'  # 假設有 4 個 bytes 資料
 data = struct.pack('4B', 0, len(payload), cls, cmd) + payload
 ```
