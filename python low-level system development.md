@@ -37,9 +37,22 @@ data = struct.pack('4B', 0, len(payload), cls, cmd) + payload
 ```
 ## BLE GATT(Generic Attribute Profile) Protocol
 
-| `4` | **類別 (`cls=4`)** → 代表 **Attribute Protocol (ATT)** |
-| --- | -------------------------------------------------- |
-| `5` | **命令 (`cmd=5`)** → 代表 **寫入屬性 (Write Attribute)**   |
+|**類別 (`cls`)**|**用途**|
+|---|---|
+
+|   |   |
+|---|---|
+|`0x00`|**系統指令 (System Commands)**|
+
+|        |                                |
+| ------ | ------------------------------ |
+| `0x02` | **連線指令 (Connection Commands)** |
+
+| `0x03` | **安全指令 (Security Commands)** |
+| ------ | ---------------------------- |
+
+| `0x04` | **屬性 (ATT, Attribute) 操作指令** |
+| ------ | ---------------------------- |
 ```python
 self.write_attr(0x19, pack('3B', 3, 1, 1))  # 震動模式 1
 self.send_command(4, 5, pack('BHB', con, 0x19, 3) + b'\x03\x01\x01')
