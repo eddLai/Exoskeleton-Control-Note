@@ -2,7 +2,7 @@
 - 搞懂基礎連線
 - 建立資料紀錄系統
 - 使用classifier
-- 客製化
+- 客製化GUI流程
 
 ---
 設計real-time python 工具的時候要使用shared_memory加上`mp.Lock()`，來確保多線程的穩定度
