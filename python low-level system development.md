@@ -36,4 +36,4 @@ payload = b'\x01\x02\x03\x04'  # 假設有 4 個 bytes 資料
 data = struct.pack('4B', 0, len(payload), cls, cmd) + payload
 ```
 
-`multichr`, `multiord`
+`multichr`, `multiord` 確保可以將字串轉換成byte方便後續作為二進制封裝
