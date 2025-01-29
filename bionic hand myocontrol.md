@@ -1,3 +1,4 @@
+https://github.com/NiklasRosenstein/myo-python/releases/tag/v1.0.4
 計畫：
 - 搞懂基礎連線
 - 建立資料紀錄系統
