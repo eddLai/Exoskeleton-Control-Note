@@ -45,7 +45,7 @@ self.write_attr(0x19, pack('3B', 3, 1, 1))  # 震動模式 1
 self.send_command(4, 5, pack('BHB', con, 0x19, 3) + b'\x03\x01\x01')
 ```
 
-`multichr`, `multiord` 確保可以將字串轉換成數值 or byte方便後續作為二進制封裝
-`proc_byte`：按照順序讀取封包
-`handler`負責處理預先註冊的函式調用也就是event
-`wait_event(4, 5)` **阻塞，直到收到讀取結果 (cls=4, cmd=5)**。
+- `multichr`, `multiord` 確保可以將字串轉換成數值 or byte方便後續作為二進制封裝
+- `proc_byte`：按照順序讀取封包
+- `handler`負責處理預先註冊的函式調用也就是event
+- `wait_event(4, 5)` **阻塞，直到收到讀取結果 (cls=4, cmd=5)**。
