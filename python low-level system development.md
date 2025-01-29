@@ -35,7 +35,7 @@ def pack(fmt, *args):
 payload = b'\x01\x02\x03\x04'  # 假設有 4 個 bytes 資料
 data = struct.pack('4B', 0, len(payload), cls, cmd) + payload
 ```
-## BLE規定的協定
+## BLE GATT(Generic Attribute Profile) Protocol
 
 | `4` | **類別 (`cls=4`)** → 代表 **Attribute Protocol (ATT)** |
 | --- | -------------------------------------------------- |
