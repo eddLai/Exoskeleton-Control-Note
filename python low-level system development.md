@@ -28,22 +28,21 @@ for item in shared_memory_items:
 | `'I'`          | 無符號 32-bit (4 bytes)                        | `4 bytes` |
 | `'6s'`         | 固定長度 6 bytes 字串                             | `6 bytes` |
 | `'<BHB'`       | 小端序 (Little Endian)，包含 8-bit, 16-bit, 8-bit | `4 bytes` |
-## BLE規定的協定
-
-| `4` | **類別 (`cls=4`)** → 代表 **Attribute Protocol (ATT)** |
-| --- | -------------------------------------------------- |
-| `5` | **命令 (`cmd=5`)** → 代表 **寫入屬性 (Write Attribute)**   |
-```
-self.write_attr(0x19, pack('3B', 3, 1, 1))  # 震動模式 1
-
-```
-
 ```python
 def pack(fmt, *args):
 	return struct.pack('<' + fmt, *args)
 
 payload = b'\x01\x02\x03\x04'  # 假設有 4 個 bytes 資料
 data = struct.pack('4B', 0, len(payload), cls, cmd) + payload
+```
+## BLE規定的協定
+
+| `4` | **類別 (`cls=4`)** → 代表 **Attribute Protocol (ATT)** |
+| --- | -------------------------------------------------- |
+| `5` | **命令 (`cmd=5`)** → 代表 **寫入屬性 (Write Attribute)**   |
+```python
+self.write_attr(0x19, pack('3B', 3, 1, 1))  # 震動模式 1
+self.send_command(4, 5, pack('BHB', con, 0x19, 3) + b'\x03\x01\x01')
 ```
 
 `multichr`, `multiord` 確保可以將字串轉換成數值 or byte方便後續作為二進制封裝
