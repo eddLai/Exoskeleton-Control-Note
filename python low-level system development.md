@@ -38,4 +38,4 @@ data = struct.pack('4B', 0, len(payload), cls, cmd) + payload
 
 `multichr`, `multiord` 確保可以將字串轉換成數值 or byte方便後續作為二進制封裝
 `proc_byte`：按照順序讀取封包
-handler
+`handler`負責處理預先註冊的函式調用也就是event
