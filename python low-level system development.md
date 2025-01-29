@@ -12,3 +12,12 @@ for item in shared_memory_items:
 
 # binary package
 `struct`, `pack()` 和 `unpack()`
+
+
+| **格式 (`fmt`)** | **說明**                                      | **大小**    |
+| -------------- | ------------------------------------------- | --------- |
+| `'B'`          | 無符號 8-bit (1 byte)                          | `1 byte`  |
+| `'H'`          | 無符號 16-bit (2 bytes)                        | `2 bytes` |
+| `'I'`          | 無符號 32-bit (4 bytes)                        | `4 bytes` |
+| `'6s'`         | 固定長度 6 bytes 字串                             | `6 bytes` |
+| `'<BHB'`       | 小端序 (Little Endian)，包含 8-bit, 16-bit, 8-bit | `4 bytes` |
