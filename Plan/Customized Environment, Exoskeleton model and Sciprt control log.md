@@ -147,5 +147,5 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 - 先嘗試做fine-tunning
 - 嘗試先用
 
-[[Gym migration guide]]
-[[DepRL run issule]]
+- [[Gym migration guide]]
+- [[DepRL run issule]]
