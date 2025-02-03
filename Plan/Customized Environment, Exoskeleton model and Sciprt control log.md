@@ -150,5 +150,7 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 - [[Gym migration guide]]
 - [[DepRL run issule]]
 
-為什麼會沒辦法執行出連續的結果，明明已經load
+為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
+1. 解析play code
+2. 引入預先
 
