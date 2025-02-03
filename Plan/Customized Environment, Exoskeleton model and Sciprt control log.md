@@ -149,3 +149,9 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 
 - [[Gym migration guide]]
 - [[DepRL run issule]]
+
+
+deprl.custom_agents.dep_factory(3, deprl.custom_mpo_torch.TunedMPO())
+(replay=deprl.custom_replay_buffers.AdaptiveEnergyBuffer(return_steps=1,
+    batch_size=256, steps_between_batches=1000, batch_iterations=30, steps_before_batches=2e5,
+    num_acts=18))
