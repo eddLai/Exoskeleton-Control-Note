@@ -151,7 +151,9 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 - [[DepRL run issule]]
 
 ---
+## 使用DepRL方案
+目標：引入資料集來訓練DEP
 為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
 1. 解析play code
-2. 引入資料集來訓練DEP
+2. 
 
