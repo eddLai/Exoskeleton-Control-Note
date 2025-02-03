@@ -187,6 +187,7 @@ env = gym.make('sconewalk_h0918-v1')
 
  `python -m deprl.play --path .\baselines_DEPRL\sconewalk_h0918\ --num_episodes 100`
 ```python
+path = "D:\depRL\baselines_DEPRL\sconewalk_h0918\\"
 checkpoint_file = None
 checkpoint = "last"
 ```
