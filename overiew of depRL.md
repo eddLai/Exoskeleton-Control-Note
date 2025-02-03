@@ -201,3 +201,28 @@ environment = None
 
 `environment.smooth_coeff`
 沒有用到mpo_args?
+
+```python
+from deprl.custom_agents import dep_factory
+from deprl.custom_mpo_torch import TunedMPO
+from deprl.custom_replay_buffers import AdaptiveEnergyBuffer
+
+# 創建 DEP 代理
+agent = dep_factory(
+    3,  # 集成的策略數量
+    TunedMPO()  # 使用 MPO 演算法的調整版本
+)(
+    replay=AdaptiveEnergyBuffer(
+        return_steps=1,
+        batch_size=256,
+        steps_between_batches=1000,
+        batch_iterations=30,
+        steps_before_batches=2e5,
+        num_acts=18
+    )
+)
+
+# 開始在 SconeGym 中進行訓練或測試
+environment = deprl.environments.Gym('sconewalk_h0918-v1', scaled_actions=False)
+agent.train(environment)
+```
