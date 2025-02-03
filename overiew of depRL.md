@@ -165,3 +165,7 @@ rolling average
 - independent
 - none
 - global
+
+---
+## Gym
+**`GaitGym`**
