@@ -168,4 +168,4 @@ rolling average
 
 ---
 ## Gym
-透過gymnasium.envs.registration.register`GaitGym`
+透過`gymnasium.envs.registration.register`處理`GaitGym`
