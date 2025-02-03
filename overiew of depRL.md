@@ -198,3 +198,5 @@ header = None
 agent = None
 environment = None
 ```
+
+environment.smooth_coeff
