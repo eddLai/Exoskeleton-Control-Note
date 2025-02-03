@@ -168,4 +168,4 @@ rolling average
 
 ---
 ## Gym
-透過`gymnasium.envs.registration.register`在Gym中處理`GaitGym`
+透過`gymnasium.envs.registration.register`在Gym中引入`GaitGym`(其中有scone)
