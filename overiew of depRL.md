@@ -171,4 +171,8 @@ rolling average
 透過`gymnasium.envs.registration.register`在Gym中引入`GaitGym`(其中有scone)
 Wrapper的封裝可以應對內部參數的變動
 也許需要透過
-import sconegym.gaitgym import deprl env = deprl.environments.Gym('sconewalk_h0918-v1', scaled_actions=False)
+```python
+import sconegym.gaitgym 
+import deprl 
+env = deprl.environments.Gym('sconewalk_h0918-v1', scaled_actions=False)
+```
