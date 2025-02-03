@@ -226,3 +226,8 @@ agent = dep_factory(
 environment = deprl.environments.Gym('sconewalk_h0918-v1', scaled_actions=False)
 agent.train(environment)
 ```
+
+## Agent
+MPO（Maximum a Posteriori Policy Optimization）
+KL 散度約束策略更新
+
