@@ -184,3 +184,5 @@ import gymnasium as gym
 env = gym.make('sconewalk_h0918-v1')
 
 ```
+
+ `python -m deprl.play --path .\baselines_DEPRL\sconewalk_h0918\ --num_episodes 100`
