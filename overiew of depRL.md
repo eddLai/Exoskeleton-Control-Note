@@ -168,4 +168,4 @@ rolling average
 
 ---
 ## Gym
-**`GaitGym`**
+透過register`GaitGym`
