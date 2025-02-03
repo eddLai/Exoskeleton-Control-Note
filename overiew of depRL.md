@@ -199,4 +199,4 @@ agent = None
 environment = None
 ```
 
-environment.smooth_coeff
+`environment.smooth_coeff`
