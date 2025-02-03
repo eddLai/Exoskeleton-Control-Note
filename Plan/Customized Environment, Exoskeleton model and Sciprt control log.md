@@ -157,3 +157,5 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 1. 解析play code
 2. 
 
+改用MuJuCo
+[MyoHub/myoconverter: A tool to convert opensim 4.0+ MSK models into MuJoCo format with optimized muscle kinematics and kinetics](https://github.com/MyoHub/myoconverter?tab=readme-ov-file)
