@@ -176,3 +176,11 @@ import sconegym.gaitgym
 import deprl 
 env = deprl.environments.Gym('sconewalk_h0918-v1', scaled_actions=False)
 ```
+或者
+```python
+import sconegym
+import gymnasium as gym
+
+env = gym.make('sconewalk_h0918-v1')
+
+```
