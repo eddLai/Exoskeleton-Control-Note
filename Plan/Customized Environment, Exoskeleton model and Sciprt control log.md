@@ -86,7 +86,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 	- MuJuCo中做人體模擬 [MyoHub/myoconverter: A tool to convert opensim 4.0+ MSK models into MuJoCo format with optimized muscle kinematics and kinetics](https://github.com/MyoHub/myoconverter?tab=readme-ov-file)，有限制 [Natural Walking RL](https://sites.google.com/view/naturalwalkingrl)
 - 直接用Opensim與python做對接
 - 直接用Opensim與Simulink做對接
-	- []https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10025309
+	- [A Simple OpenSim-Simulink Interface for Cascaded Zero-Force Control of Human-Robot Interaction in a Hip Exoskeleton Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10025309)
 直接接上RL
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9849514
 
