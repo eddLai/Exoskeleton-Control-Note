@@ -64,9 +64,8 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 	2. 怎麼導入虛擬模型
 	3. 怎麼控制
 2. 簡單測試外骨骼資料串接
-	1. 
-	2. if assisting or obstacle from current and $\omega$ 
-	3. level of fatigue
+	1. if assisting or obstacle from current and $\omega$ 
+	2. level of fatigue
 
 ---
 ## Import an Object
