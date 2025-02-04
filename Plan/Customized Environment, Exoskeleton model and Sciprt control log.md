@@ -78,6 +78,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 繼承參數?控制?
 
 ---
+### Options
 - HyFyDy可以
 - SCONE: 嘗試用OpenSim Creator跟Lua Script創造外骨骼機器人model
 - opensim creator有點麻煩
@@ -91,6 +92,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 	- [A Simple OpenSim-Simulink Interface for Cascaded Zero-Force Control of Human-Robot Interaction in a Hip Exoskeleton Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10025309)
 
 ---
+### Our Choice
 選了SCONE，又選了SCONEgym
 在HyFyDy中創造物件非常簡單
 - .osim中的(過於麻煩)
