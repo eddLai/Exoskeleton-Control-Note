@@ -108,6 +108,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 	2. Hyfydy: Mujoco, render
 4. DepRL導入資料，把所有mimic都用上
 
+---
 疑問：
 - 需要用opensim做外骨骼模型?
 - 為什麼SCONEpy只需要用加的?
@@ -120,8 +121,6 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 - 參數能不能互通
 
 ---
-
-老師這是我今天跟智翔討論完的開發規劃。我們現在準備把外骨骼模型放到模擬中，但我們發現
 ### 人體模擬
 這是SCONE團隊起初開發SCONE的用途 [Predicting gait adaptations due to ankle plantarflexor muscle weakness and contracture using physics-based musculoskeletal simulations - PubMed](https://pubmed.ncbi.nlm.nih.gov/31589597/)
 我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制，因為提供的Mimic function並不多
