@@ -124,7 +124,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 - 參數能不能互通
 
 ---
-### Conclusion
+## Conclusion
 這是SCONE團隊起初開發SCONE的用途 [Predicting gait adaptations due to ankle plantarflexor muscle weakness and contracture using physics-based musculoskeletal simulations - PubMed](https://pubmed.ncbi.nlm.nih.gov/31589597/)
 我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制，因為提供的Mimic function並不多
 ```
@@ -152,12 +152,12 @@ SCONEgym是SCONE的RL python API，但是Controller跟Measure function無法沿�
 DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬數據
 開發Mimic function相對SCONE容易很多
 目前會嘗試用Dep這個Hebbian learning的方法可以用來off policy的預訓練model，未來如果要移到患者資料可能就不需要像SCONE方案那樣修改控制器
-但現在的運算設備可能不夠train model做出用戶專一的模型->使用H
+但現在的運算設備可能不夠train model做出用戶專一的模型->使用H100平台
 - [[Gym migration guide]]
 - [[DepRL run issule]]
 
 ---
-## 使用DepRL方案
+## DepRL方案
 目標：引入資料集來訓練DEP
 為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
 1. 解析play code
