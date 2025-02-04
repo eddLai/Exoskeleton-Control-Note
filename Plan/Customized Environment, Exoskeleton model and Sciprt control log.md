@@ -53,7 +53,7 @@ How?
 >- 參考外骨骼文獻所用的https://mp.weixin.qq.com/s/W0oQqiiPtTN8nXG0pYt5ww
 
 ---
-shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似小腦功能控制subject specific neuromusculoskeletal model的policy嗎
+shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似腦功能控制subject specific neuromusculoskeletal model的policy嗎
 
 由於現在外骨骼控制器是RL-based，所以==不行==
 
