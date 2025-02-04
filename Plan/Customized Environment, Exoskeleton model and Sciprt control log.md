@@ -53,7 +53,7 @@ How?
 >- 參考外骨骼文獻所用的https://mp.weixin.qq.com/s/W0oQqiiPtTN8nXG0pYt5ww
 
 ---
-shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似腦功能控制subject specific neuromusculoskeletal model的policy嗎
+shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似大腦小腦協同控制subject specific neuromusculoskeletal model的policy嗎
 
 由於現在外骨骼控制器是RL-based，所以==不行==
 
@@ -64,8 +64,9 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 	2. 怎麼導入虛擬模型
 	3. 怎麼控制
 2. 簡單測試外骨骼資料串接
-	1. if assisting or obstacle from current and $\omega$ 
-	2. level of fatigue
+	1. 
+	2. if assisting or obstacle from current and $\omega$ 
+	3. level of fatigue
 
 ---
 ## Import an Object
