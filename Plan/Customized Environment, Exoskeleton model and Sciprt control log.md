@@ -43,10 +43,10 @@ Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model a
 HyFyDy, DepRL, SCONE gym都有**引入額外的場景物件**，展現其環境適應性
 How?
 1. 單獨訓練出一SCONE這個可解釋架構
-2. shooting method 學習到的結果作為 RL 策略
+2. shooting method 學習到的結果轉移到 RL 策略
 >猜測可能需要DL的資料衍生能力
 3. 要從Offline走到Online跟外骨骼做互動
-4. 用RL policy(同DepRL架構)串接多個低階控制器，訓練更高階的小腦
+4. 用RL policy(同DepRL架構)串接多個低階控制器，訓練更高階的狀態切換控制器
 >可擴展性到底多大?到極限的時候就需要，例如
 >- 在平面上走、在斜坡上走?
 >- 爬樓梯?
@@ -59,11 +59,11 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 
 ---
 ## Implementation steps
-1. Control the EXO in simulation
+5. Control the EXO in simulation
 	1. 怎麼導入物件 e.g.[(82) Tripping and Slipping Simulations (short) - YouTube](https://www.youtube.com/watch?v=MudlYgzAxro), [[overview of SCONE]]全部功能
 	2. 怎麼導入虛擬模型
 	3. 怎麼控制
-2. 簡單測試外骨骼資料串接
+6. 簡單測試外骨骼資料串接
 	1. if assisting or obstacle from current and $\omega$ 
 	2. level of fatigue
 
@@ -105,11 +105,11 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 
 ---
 ## Workflow
-1. SCONE API
-2. SCONEgym with hyfydy
+7. SCONE API
+8. SCONEgym with hyfydy
 	1. Gym怎麼跟scone-py結合
 	2. Hyfydy: Mujoco, render
-4. DepRL導入資料，把所有mimic都用上
+9. DepRL導入資料，把所有mimic都用上
 
 ---
 疑問：
