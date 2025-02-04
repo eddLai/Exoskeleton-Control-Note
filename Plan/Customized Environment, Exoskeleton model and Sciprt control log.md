@@ -114,17 +114,17 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 ---
 疑問：
 - 需要用opensim做外骨骼模型?
-- 為什麼SCONEpy只需要用加的?
+%% - 為什麼SCONEpy只需要用加的?
 	- **初始化執行器輸入值**：
 		- 使用肌肉的當前力量（`muscle_force_array`）作為初始值。
 	- **調整執行器輸入值**：
 		- 加入纖維長度的偏移（相對於基準長度）。
-		- 加入纖維速度的影響（加權影響）。
+		- 加入纖維速度的影響（加權影響）。 %%
 - DepRL為什麼還需要SCONE環境模擬，他的優勢是?原本的SCONE Controller怎麼在SCONEgym中被實現?
 - 參數能不能互通
 
 ---
-### 人體模擬
+### Conclusion
 這是SCONE團隊起初開發SCONE的用途 [Predicting gait adaptations due to ankle plantarflexor muscle weakness and contracture using physics-based musculoskeletal simulations - PubMed](https://pubmed.ncbi.nlm.nih.gov/31589597/)
 我們現在可以用SCONE跑出模擬，但跟subject(現在是智翔的資料)的相近程度有限制，因為提供的Mimic function並不多
 ```
