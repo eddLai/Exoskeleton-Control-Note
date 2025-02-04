@@ -55,6 +55,8 @@ How?
 ---
 shooting methods設計一個低階控制器，再透過RL設計一個高階控制器，從而實現一個類似小腦功能控制subject specific neuromusculoskeletal model的policy嗎
 
+由於現在外骨骼控制器是RL-based，所以==不行==
+
 ---
 ## Implementation steps
 1. Control the EXO in simulation
