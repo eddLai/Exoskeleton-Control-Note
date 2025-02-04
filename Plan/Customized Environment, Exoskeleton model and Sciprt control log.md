@@ -92,7 +92,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 	- [A Simple OpenSim-Simulink Interface for Cascaded Zero-Force Control of Human-Robot Interaction in a Hip Exoskeleton Robot](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10025309)
 
 ---
-### Our Choice
+### Our Decision
 選了SCONE，又選了SCONEgym
 在HyFyDy中創造物件非常簡單
 - .osim中的(過於麻煩)
@@ -104,6 +104,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 [[Overview of OpenAI gym]]
 
 ---
+## Workflow
 1. SCONE API
 2. SCONEgym with hyfydy
 	1. Gym怎麼跟scone-py結合
