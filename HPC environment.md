@@ -2,6 +2,7 @@
 	- sudo 權限
 	- Docker容器
 	- OpenML
+	- condacj0
 
 需要透過module命令load進已經建設的需要sudo權限安裝程式
 運算節點，仰賴SLURM (Simple Linux Utility for Resource Management)管理
@@ -16,3 +17,5 @@
 `sys.path.append("/home/aa0463/eddlai.be10/opt/scone/lib")`
 `mamba install -c conda-forge lapack=3.6.1`
 `mamba install -c conda-forge libgfortran=3`
+
+Docker是靠Enroot實現的
