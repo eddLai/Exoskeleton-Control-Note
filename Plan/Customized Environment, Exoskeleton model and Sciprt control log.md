@@ -164,3 +164,6 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 - 解析play code
 - HPC環境建置
 - 引入Dep預訓練
+
+
+`export PATH=/cm/shared/apps/hpc_sdk/2024_241/Linux_x86_64/24.1/cuda/bin:$PATH`
