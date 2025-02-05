@@ -1,1 +1,3 @@
-- 
+- GNOME or XFCE GUI
+	- sudo 權限
+	- Docker容器
