@@ -15,3 +15,4 @@
 運行SCONE的準備
 `sys.path.append("/home/aa0463/eddlai.be10/opt/scone/lib")`
 `mamba install -c conda-forge lapack=3.6.1`
+`mamba install -c conda-forge libgfortran=3`
