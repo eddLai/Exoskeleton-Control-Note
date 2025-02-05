@@ -3,4 +3,5 @@
 	- Docker容器
 	- OpenML
 
-運算節點
+需要透過mod
+運算節點，仰賴SLURM (Simple Linux Utility for Resource Management)管理
