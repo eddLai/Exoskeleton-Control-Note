@@ -10,5 +10,5 @@
 `export PATH=/cm/shared/apps/hpc_sdk/2024_241/Linux_x86_64/24.1/cuda/bin:$PATH`
 
 `rsync -avz --delete D:/depRL/ eddlai.be10@140.113.9.253:~/Downloads/depRL`
-rsync -avz --delete eddlai.be10@140.113.9.253:~/Downloads/depRL/ D:/depRL
+`rsync -avz --delete eddlai.be10@140.113.9.253:~/Downloads/depRL/ D:/depRL`
 
