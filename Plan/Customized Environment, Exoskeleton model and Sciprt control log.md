@@ -162,7 +162,7 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 目標：引入資料集來訓練DEP
 為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
 - 解析play code
-- HPC環境建置
+- [[HPC environment]]
 - 引入Dep預訓練
 
 
