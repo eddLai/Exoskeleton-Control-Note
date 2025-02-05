@@ -12,3 +12,6 @@
 `rsync -avz --delete D:/depRL/ eddlai.be10@140.113.9.253:~/Downloads/depRL`
 `rsync -avz --delete eddlai.be10@140.113.9.253:~/Downloads/depRL/ D:/depRL`
 
+
+`sys.path.append("/home/aa0463/eddlai.be10/opt/scone/lib")`
+`mamba install -c conda-forge lapack=3.6.1`
