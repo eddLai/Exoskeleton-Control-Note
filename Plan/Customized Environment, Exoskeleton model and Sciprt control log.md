@@ -178,3 +178,5 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 ```
 
 但是myosuite真的可以用
+
+python -m deprl.play --path .\baselines_DEPRL\myoLegWalk_20230514\myoLeg\
