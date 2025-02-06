@@ -237,3 +237,7 @@ KL 散度約束策略更新，最大化後驗 (Posterior) 目標函式
 這怎麼做到的?根本沒有`deprl.environments.py`
 `deprl.environments.Gym('sconewalk_h0918-v1', scaled_actions=False)`
 `name = config["tonic"]["name"]`
+
+
+這個是dep, `print(policy.expl)`
+這個是RL, 
