@@ -241,3 +241,23 @@ KL 散度約束策略更新，最大化後驗 (Posterior) 目標函式
 
 這個是dep, `print(policy.expl)`
 這個是RL, `print(policy.model)`
+
+(temp) PS D:\depRL> & C:/ProgramData/anaconda3/Library/envs/temp/python.exe d:/depRL/sconegym/example_deprl.py
+MyoSuite:> Registering Myo Envs
+22:50:37 Successfully initialized OpenSim3 version 3.3-2021-01-28
+22:50:37 Successfully initialized OpenSim4 version 4.4
+22:50:37 Loaded settings from C:/Users/ed2di/AppData/Local/SCONE/scone-settings.zml
+22:50:37 Successfully initialized Hyfydy version 1.8.3.1183 
+22:50:37 Successfully initialized Hyfydy version 1.8.3.1183 Double Precision
+Load SconeRun H2190 Baseline
+Loading experiment from ./baselines_DEPRL/sconerun_h2190/checkpoints
+Found only the policy checkpoint, the previous run was likely only run with  <'full_save': False>
+Only loading policy checkpoint.
+Stochastic Switch-DEP. Paper version.
+
+Loading weights from ./baselines_DEPRL/sconerun_h2190/checkpoints\step_10000000.pt
+Episode 0 ending; steps=83; reward=382.729;                 com=[ 0.905017 0.669366 -0.241684 ]
+Episode 1 ending; steps=51; reward=351.834;                 com=[ 0.371481 0.755599 -0.127943 ]
+Episode 2 ending; steps=68; reward=470.270;                 com=[ 0.625653 0.750073 0.083601 ]
+Episode 3 ending; steps=91; reward=328.113;                 com=[ 0.922103 0.638765 0.005906 ]
+Episode 4 ending; steps=56; reward=439.620;                 com=[ 0.630548 0.734331 0.187705 ]
