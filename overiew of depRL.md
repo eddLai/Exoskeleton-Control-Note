@@ -231,3 +231,4 @@ agent.train(environment)
 MPO（Maximum a Posteriori Policy Optimization）
 KL 散度約束策略更新，最大化後驗 (Posterior) 目標函式
 
+[[depRL weights]]
