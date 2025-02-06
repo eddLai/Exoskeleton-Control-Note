@@ -240,4 +240,4 @@ KL 散度約束策略更新，最大化後驗 (Posterior) 目標函式
 
 
 這個是dep, `print(policy.expl)`
-這個是RL, 
+這個是RL, `print(policy.model)`
