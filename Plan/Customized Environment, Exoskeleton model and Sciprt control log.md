@@ -177,4 +177,4 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
         return obs, reward, done, truncated, info
 ```
 
-但是myosui
+但是myosuite真的可以用
