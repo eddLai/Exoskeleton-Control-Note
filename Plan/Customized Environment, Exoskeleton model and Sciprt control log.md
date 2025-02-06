@@ -165,3 +165,16 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 - [[HPC environment]]
 - 引入Dep預訓練
 
+理解環境相互依賴的關係
+修改了`scone_wrapper.py`，沒有解決問題
+```python
+        ) >= self._max_episode_steps
+        info = {
+            "termination_reason": "goal_reached" if done else "max_steps_reached",
+            "current_time": self.unwrapped.time,
+            "total_reward": self.unwrapped.total_reward,
+        }
+        return obs, reward, done, truncated, info
+```
+
+但是myosui

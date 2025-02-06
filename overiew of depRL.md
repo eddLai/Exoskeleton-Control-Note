@@ -237,13 +237,3 @@ KL 散度約束策略更新，最大化後驗 (Posterior) 目標函式
 這怎麼做到的?根本沒有`deprl.environments.py`
 `deprl.environments.Gym('sconewalk_h0918-v1', scaled_actions=False)`
 `name = config["tonic"]["name"]`
-
-```python
-        ) >= self._max_episode_steps
-        info = {
-            "termination_reason": "goal_reached" if done else "max_steps_reached",
-            "current_time": self.unwrapped.time,
-            "total_reward": self.unwrapped.total_reward,
-        }
-        return obs, reward, done, truncated, info
-```
