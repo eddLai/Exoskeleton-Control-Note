@@ -17,5 +17,5 @@ model {
 }
 ```
 
-- 可以選material
+- 可以選material: contact forces
 - 
