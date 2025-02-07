@@ -1,5 +1,7 @@
 一個檔案HyFyDy.scone檔案只能有一個model(來自.hfd)
-```Lua
+- 可以動態調整contact嗎(有開端口嗎)
+
+```
 model {
     name = my_model 
     body {
