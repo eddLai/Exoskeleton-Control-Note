@@ -1,4 +1,4 @@
-一個檔案只能有一個model
+一個檔案HyFyDy.scone檔案只能有一個model(來自.hfd)
 ```Lua
 model {
     name = my_model 
