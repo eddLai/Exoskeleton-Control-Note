@@ -108,7 +108,7 @@ shooting methods設計一個低階控制器，再透過RL設計一個高階控�
 7. SCONE API
 8. SCONEgym with hyfydy
 	1. Gym怎麼跟scone-py結合
-	2. Hyfydy: Mujoco, render
+	2. [[Overview of Hyfydy]]: Mujoco, render
 9. DepRL導入資料，把所有mimic都用上
 
 ---
