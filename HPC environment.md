@@ -21,3 +21,4 @@
 Docker是靠Enroot實現的
 
 `squeue -u eddlai.be10`
+`scontrol show job <JOBID>`
