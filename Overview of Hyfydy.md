@@ -1,3 +1,4 @@
+一個檔案只能有一個model
 ```Lua
 model {
     name = my_model 
