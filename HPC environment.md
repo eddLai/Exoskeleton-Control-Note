@@ -19,3 +19,5 @@
 `mamba install -c conda-forge libgfortran=3`
 
 Docker是靠Enroot實現的
+
+`squeue -u eddlai.be10`
