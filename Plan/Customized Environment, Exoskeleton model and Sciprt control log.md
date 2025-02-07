@@ -183,3 +183,4 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 可以`python  d:/depRL/examples/example_load_baseline_myosuite.py`
 
 train看看model，如果不行的話，要走lua script
+跟廠商要外骨骼STL檔案
