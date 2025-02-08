@@ -1,3 +1,7 @@
+---
+bg: "[[NTKLab_white bg.png]]"
+---
+
 <style>
     .reveal {
         font-family: 'Times New Roman', '標楷體';
@@ -30,15 +34,6 @@ level of fatigue from EMG
 <grid drag="50 10" drop="40 70">
 賴宏達、劉智翔
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
-</grid>
-
-<!-- slide bg="NTKLab_white bg_cover_resize.png"-->
-
----
-
-<grid drag="70 10" drop="-3 40">
-level of fatigue from EMG
-<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
 <!-- slide bg="NTKLab_white bg_cover_resize.png"-->
