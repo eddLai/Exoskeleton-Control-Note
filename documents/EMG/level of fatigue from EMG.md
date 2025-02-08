@@ -36,7 +36,7 @@ level of fatigue from EMG
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
 
-<!-- slide bg="NTKLab_white bg_cover_resize.png"-->
+<!-- slide bg="../../NTKLab_white bg_cover_resize.png"-->
 
 ---
 IDEA
