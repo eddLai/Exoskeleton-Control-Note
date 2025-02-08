@@ -23,8 +23,8 @@
 	}
 </style>
 <grid drag="60 10" drop="-3 40">
-Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model and its control) needs better simulation cerebellum
-<!-- element style="font-size: 35px;align: left; text-align: left;color: white"-->
+level of fatigue from EMG
+<!-- element style="font-size: 40px;align: left; text-align: left;color: white"-->
 </grid>
 
 <grid drag="50 10" drop="40 70">
@@ -32,7 +32,7 @@ Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model a
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
 
-<!-- slide bg="../NTKLab_white bg_cover_resize.png"-->
+<!-- slide bg="NTKLab_white bg_cover_resize.png"-->
 
 ---
 
