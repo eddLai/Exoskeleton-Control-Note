@@ -158,14 +158,17 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 
 ---
 ## DepRL方案
-### Deadline：2025/2/10
+## Deadline：2025/2/10
 目標：引入資料集來訓練DEP
 為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
 - 解析好play code: 作者說checkpoint可以用
 - [[HPC environment]]: 確認環境可以用
 - 引入Dep預訓練
 
-理解環境相互依賴的關係
+已經幾乎理解環境相互依賴的關係
+
+---
+
 修改了`scone_wrapper.py`，沒有解決問題
 ```python
         ) >= self._max_episode_steps
@@ -179,8 +182,8 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 
 但是myosuite真的可以用
 
-失敗`python -m deprl.play --path .\baselines_DEPRL\myoLegWalk_20230514\myoLeg\`
-可以`python  d:/depRL/examples/example_load_baseline_myosuite.py`
+- 失敗`python -m deprl.play --path .\baselines_DEPRL\myoLegWalk_20230514\myoLeg\`
+- 可以`python  d:/depRL/examples/example_load_baseline_myosuite.py`
 
 ---
 train看看model，如果不行的話，要走lua script
