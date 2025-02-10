@@ -158,10 +158,10 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 
 ---
 ## DepRL方案
-### 本週待辦：2025/2/4
+### Deadline：2025/2/10
 目標：引入資料集來訓練DEP
 為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
-- 解析play code: y
+- 解析play code: 
 - [[HPC environment]]
 - 引入Dep預訓練
 
