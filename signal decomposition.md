@@ -178,7 +178,8 @@ plt.plot(time_vect[:sample_rate], IF[:sample_rate, 0])
 plt.title('IMF-1 Instantaneous Frequency')
 plt.ylabel('Frequency (Hz)')
 ```
-instantaneous frequency
+instantaneous frequency\
+
 ![[instantaneous frequency.png|450]]
 
 ---
