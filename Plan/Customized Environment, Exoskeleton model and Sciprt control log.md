@@ -161,7 +161,7 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 ### Deadline：2025/2/10
 目標：引入資料集來訓練DEP
 為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
-- 解析play code: 作者說checkpoint可以用
+- 解析好play code: 作者說checkpoint可以用
 - [[HPC environment]]: 確認環境可以用
 - 引入Dep預訓練
 
@@ -182,6 +182,7 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 失敗`python -m deprl.play --path .\baselines_DEPRL\myoLegWalk_20230514\myoLeg\`
 可以`python  d:/depRL/examples/example_load_baseline_myosuite.py`
 
+---
 train看看model，如果不行的話，要走lua script
 跟廠商要外骨骼STL檔案
 
