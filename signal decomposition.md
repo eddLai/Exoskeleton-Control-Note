@@ -179,7 +179,6 @@ plt.title('IMF-1 Instantaneous Frequency')
 plt.ylabel('Frequency (Hz)')
 ```
 instantaneous frequency\
-
 ![[instantaneous frequency.png|450]]
 
 ---
