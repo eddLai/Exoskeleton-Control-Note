@@ -1,5 +1,5 @@
 ---
-bg: "[[NTKLab_white bg_cover_resize.png]]"
+bg: "[[NTKLab_white bg.png]]"
 ---
 
 <style>
