@@ -121,13 +121,14 @@ wavelet filtering procedure
 detail coefficients代表高頻成分\
 $$D_j(t) = \sum_{k} d_{j,k} \cdot \psi_{j,k}(t)$$
 
-soft-thresholding
+soft-thresholding\
 $$S_{\lambda}(x) =
 \begin{cases} 
 x - \lambda, & \text{若 } x > \lambda, \\
 0, & \text{若 } |x| \leq \lambda, \\
 x + \lambda, & \text{若 } x < -\lambda.
-\end{cases}$$
+\end{cases}$$\
+
 parameters
 - Three different Daubechy (db) wavelet prototypes or mother wavelets were analysed (db2, db3 and db4) 
 - signals were decomposed into five levels when employing wavelets.
