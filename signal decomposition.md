@@ -138,7 +138,7 @@ $$f(x) =\sum_{n=-\infty}^\infty C_n \cdot e^{\frac{nx\pi}{p}j}=C_0 + \sum_{n=1}^
 $$|C_n| = \sqrt{\text{Re}(C_n)^2 + \text{Im}(C_n)^2}, \quad \phi_n = \arctan\left( \frac{\text{Im}(C_n)}{\text{Re}(C_n)} \right)$$
 
 ---
-$$ppy_k=ppy[k], k=specific\ frequency,e.g.\ 50, 100Hz$$
+$$ppy_k=ppy[k], k=specific\ frequency,e.g.\ 50, 100Hz$$\
 
 $$A=2\times |ppy|$$
 
