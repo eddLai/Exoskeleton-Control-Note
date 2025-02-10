@@ -70,7 +70,7 @@ $$
 ---
 ## Empirical Mode Decomposition, EMD
 data-driven method，一個signal由多個IMF組成，IMF可以是線性或者非線性的
-`emd.sift.![[NTKLab_white bg 1.png]]![[NTKLab_white bg 2.png]]![[NTKLab_white bg 3.png]]![[NTKLab_white bg 4.png]]，可以用這種方式修改設定
+`emd.sift.，可以用這種方式修改設定
 ```python
 ext_opts = config['extrema_opts']
 ext_opts['method'] = 'numpypad'
