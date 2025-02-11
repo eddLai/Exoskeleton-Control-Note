@@ -163,7 +163,7 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 ## Deadline：2025/2/10
 目標：引入資料集來訓練DEP
 為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
-- 解析play code: 作者說checkpoint已經不能用
+- 解析play code: 作者說checkpoint已經不能用\
 確認有沒有電腦可以裝4090
 - [[HPC environment]]: 重建python環境，確認環境可以用
 ```bash
