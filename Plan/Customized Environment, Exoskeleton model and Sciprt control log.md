@@ -175,7 +175,7 @@ GPU 0: NVIDIA H100 80GB HBM3
 GPU tensor computation test passed.
 ```
 
-- 引入Dep預訓練
+- 考慮先進行Dep預訓練
 
 已經幾乎理解環境相互依賴的關係
 
