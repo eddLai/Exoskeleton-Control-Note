@@ -161,8 +161,18 @@ DepRL文獻是直接不使用訓練資料，卻擁有比SCONE還真實的模擬�
 ## Deadline：2025/2/10
 目標：引入資料集來訓練DEP
 為什麼會沒辦法執行出連續的結果，明明已經load policy的權重了
-- 解析好play code: 作者說checkpoint可以用
+- 解析play code: 作者說checkpoint已經不能用
 - [[HPC environment]]: 重建python環境，確認環境可以用
+```
+(temp) eddlai.be10@DGX-CN01:~/Downloads$ python depRL/check_pytorch.py 
+Checking PyTorch installation...
+PyTorch version: 2.5.1
+CUDA available: True
+Number of GPUs available: 1
+GPU 0: NVIDIA H100 80GB HBM3
+GPU tensor computation test passed.
+```
+
 - 引入Dep預訓練
 
 已經幾乎理解環境相互依賴的關係
