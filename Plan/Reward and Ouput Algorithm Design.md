@@ -101,7 +101,7 @@ $$I_{new}=\frac {T_{required}}{K_t}$$
 
 對抗：馬達沒有跟上
 抬升：馬達在提供輔助
-越疲乏分數絕對值越高: [[level of fatique from EMG]]
+越疲乏分數絕對值越高: [[level of fatigue from EMG]]
 
 | 相同嗎 | 意圖  | 疲乏  | 跨距  |
 | --- | --- | --- | --- |

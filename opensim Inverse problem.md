@@ -14,4 +14,4 @@
 	1. 用途:用來讓muscle逼近輸入的物件座標 `==` 基於追蹤已知運動的「控制」，
 	3. 特性:適合較高能量的運動(肌腱動態和彈性儲能，例如跑步)，
 	4. 指標:residuals from the CMC
-6. EMG-Informed Methods: [[CEINMS app.]]
+6. EMG-Informed Methods: [[overview of CEINMS]]

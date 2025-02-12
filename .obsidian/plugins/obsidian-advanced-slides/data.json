@@ -2,10 +2,10 @@
   "port": "3020",
   "autoReload": true,
   "exportDirectory": "/export",
-  "enableChalkboard": false,
-  "enableOverview": false,
-  "enableMenu": false,
-  "enablePointer": false,
+  "enableChalkboard": true,
+  "enableOverview": true,
+  "enableMenu": true,
+  "enablePointer": true,
   "enableTimeBar": false,
   "theme": "black",
   "highlightTheme": "zenburn",
@@ -13,9 +13,9 @@
   "transitionSpeed": "default",
   "controls": true,
   "progress": true,
-  "slideNumber": false,
+  "slideNumber": true,
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-  "motm": "2024-11-06T11:30:05.851Z"
+  "motm": "2025-02-04T01:22:12.306Z"
 }

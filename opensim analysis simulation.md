@@ -10,3 +10,13 @@
 	- SystemEnergyProbe: 總能
 	- Umberger2010MuscleMetabolicsProbe: 肌肉代謝功率
 	- OpenSim Actuator and Joint internal power Probe: Actuator
+
+---
+input:
+- states
+	- generalized coordinates (e.g., joint angles))
+	- speeds (e.g., joint angular velocities)
+	- Muscle activation and fiber length
+- controls: control parameters in optimization problems
+	- Muscle excitations are an example
+- external loads:  forces or torques applied between the ground (or world) and the bodies of a model

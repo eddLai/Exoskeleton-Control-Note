@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "textFontFamily": "標楷體,Times New Roman"
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "mycss"
+  ]
 }
