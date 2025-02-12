@@ -22,3 +22,25 @@ Docker是靠Enroot實現的
 
 `squeue -u eddlai.be10`
 `scontrol show job <JOBID>`
+
+---
+```
+(test_depRL_gymversion) eddlai.be10@login:~/Downloads$ conda list torch
+# packages in environment at /home/aa0463/eddlai.be10/.conda/envs/test_depRL_gymversion:
+#
+# Name                    Version                   Build  Channel
+torch                     2.6.0                    pypi_0    pypi
+(test_depRL_gymversion) eddlai.be10@login:~/Downloads$ conda info torch
+(test_depRL_gymversion) eddlai.be10@login:~/Downloads$ pip show torch
+Name: torch
+Version: 2.6.0
+Summary: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+Home-page: https://pytorch.org/
+Author: PyTorch Team
+Author-email: packages@pytorch.org
+License: BSD-3-Clause
+Location: /home/aa0463/eddlai.be10/.conda/envs/test_depRL_gymversion/lib/python3.9/site-packages
+Requires: filelock, fsspec, jinja2, networkx, nvidia-cublas-cu12, nvidia-cuda-cupti-cu12, nvidia-cuda-nvrtc-cu12, nvidia-cuda-runtime-cu12, nvidia-cudnn-cu12, nvidia-cufft-cu12, nvidia-curand-cu12, nvidia-cusolver-cu12, nvidia-cusparse-cu12, nvidia-cusparselt-cu12, nvidia-nccl-cu12, nvidia-nvjitlink-cu12, nvidia-nvtx-cu12, sympy, triton, typing-extensions
+Required-by: deprl, sconegym
+```
+
