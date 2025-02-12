@@ -28,7 +28,7 @@ Docker是靠Enroot實現的
 
 ---
 ## HPC torch設定
-cuda版本是
+cuda版本是12.3
 ```
 (test_depRL_gymversion) eddlai.be10@login:~/Downloads$ conda list torch
 # packages in environment at /home/aa0463/eddlai.be10/.conda/envs/test_depRL_gymversion:
