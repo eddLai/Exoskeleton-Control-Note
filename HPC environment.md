@@ -1,3 +1,5 @@
+eddlai.be10@140.113.9.253
+
 - GNOME or XFCE GUI
 	- sudo 權限
 	- Docker容器
