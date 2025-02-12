@@ -1,5 +1,5 @@
 `eddlai.be10@140.113.9.253`
-`hMdZTTLRkLao` -> yyl
+`hMdZTTLRkLao` -> `yylab123`
 
 - GNOME or XFCE GUI
 	- sudo 權限
