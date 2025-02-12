@@ -49,3 +49,4 @@ Requires: filelock, fsspec, jinja2, networkx, nvidia-cublas-cu12, nvidia-cuda-cu
 Required-by: deprl, sconegym
 ```
 
+`srun --partition=defq --gres=gpu:1 --time=20:00:00 --ntasks=1 --cpus-per-task=20 --pty bash`
