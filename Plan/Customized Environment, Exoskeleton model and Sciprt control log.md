@@ -208,9 +208,12 @@ train看看model，如果不行的話，要走lua script
 有新同學想加入，給老師看他做的專題
 
 ---
+討論分工
 - 下一步要怎麼訓練出像是人的模型˙
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
-- 創建虛擬外骨骼已將算法寫入
+- 創建虛擬外骨骼將現有算法寫入
 	- 資工系的傢伙
 - 新的EMG硬體，以及
+
+---
