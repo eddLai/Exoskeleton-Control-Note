@@ -217,7 +217,8 @@ train看看model，如果不行的話，要走lua script
 	- SCONEgym
 	- D4PG
 		- [[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
-		- 
+		- [[Real-Time_NN_Gait_Phase_Estimation_Using_a_Robotic_Hip_Exoskeleton.pdf]]
+		- [[]]
 - 確認CEINMS的詳細分析原理 -> EMG疲乏分析(葉Mark)
 	- Opensim
 		- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
