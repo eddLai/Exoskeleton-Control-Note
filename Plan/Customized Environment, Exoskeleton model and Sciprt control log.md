@@ -215,7 +215,7 @@ train看看model，如果不行的話，要走lua script
 - 創建虛擬外骨骼將現有算法寫入(資工系)
 	- SCONE or HyFyDy [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 	- SCONEgym
-	- D4PG
+	- D4PG [[]]
 - 確認CEINMS的詳細分析原理 -> EMG疲乏分析(葉Mark)
 	- Opensim
 		- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
