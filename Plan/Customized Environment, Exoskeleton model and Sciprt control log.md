@@ -217,6 +217,7 @@ train看看model，如果不行的話，要走lua script
 	- SCONEgym
 	- D4PG
 - 確認CEINMS的詳細分析原理+新的EMG硬體
+	- Opensim
 	- 
 
 ---
