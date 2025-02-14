@@ -212,9 +212,10 @@ train看看model，如果不行的話，要走lua script
 - 下一步要怎麼訓練出像是人的模型˙
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
-- 創建虛擬外骨骼將現有算法寫入
-	- 資工系
-- 新的EMG硬體，以及確認CEINMS的詳細分析原理
+- 創建虛擬外骨骼將現有算法寫入(資工系)
+	- SCONE or HyFyDy
+	- SCONEgym[[]]
+- 確認CEINMS的詳細分析原理+新的EMG硬體
 	- 
 
 ---
