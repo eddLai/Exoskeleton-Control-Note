@@ -221,11 +221,13 @@ train看看model，如果不行的話，要走lua script
 		- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
 		- 
 	- CEINMS 
-		- [[documents/Simulation/papers/CEINMS User Guide 0.9.pdf|CINMS User Guide 0.9]]
-		- [[CEINMS a toolbox to investigate the influence of different neural control solutions on the prediction of muscle excitation and joint moments during dynamic motor tasks.pdf]]
+	>[[documents/Simulation/papers/CEINMS User Guide 0.9.pdf|CINMS User Guide 0.9]]
+- [[CEINMS a toolbox to investigate the influence of different neural control solutions on the prediction of muscle excitation and joint moments during dynamic motor tasks.pdf]]
 		- [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
 - 下一步要怎麼訓練出像是人的模型˙
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
+
+---
