@@ -213,13 +213,11 @@ train看看model，如果不行的話，要走lua script
 	- SCONE or HyFyDy [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 	- SCONEgym
 	- D4PG
-		- [[Experiment-free exoskeleton assistance via learning in simulation.pdf]]
-		- [[Real-Time_NN_Gait_Phase_Estimation_Using_a_Robotic_Hip_Exoskeleton.pdf]]
-		- [[DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf]]
+>[[Experiment-free exoskeleton assistance via learning in simulation.pdf]]\
+[[Real-Time_NN_Gait_Phase_Estimation_Using_a_Robotic_Hip_Exoskeleton.pdf]]\[[DMP-Based_Motion_Generation_for_a_Walking_Exoskeleton_Robot_Using_Reinforcement_Learning.pdf]]
 - 確認CEINMS的詳細分析原理 -> EMG疲乏分析(葉Mark)
 	- Opensim
 		- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
-		- 
 	- CEINMS 
 >[[documents/Simulation/papers/CEINMS User Guide 0.9.pdf|CINMS User Guide 0.9]]\
 > [[CEINMS a toolbox to investigate the influence of different neural control solutions on the prediction of muscle excitation and joint moments during dynamic motor tasks.pdf]]\
