@@ -219,7 +219,7 @@ train看看model，如果不行的話，要走lua script
 - 確認CEINMS的詳細分析原理 -> EMG疲乏分析(葉Mark)
 	- Opensim
 		- [[Muscle Fatigue Analysis Using OpenSim.pdf]]
-		- 
+		- https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/overview
 	- CEINMS 
 		- [[documents/Simulation/papers/CEINMS User Guide 0.9.pdf|CINMS User Guide 0.9]]
 		- [[CEINMS a toolbox to investigate the influence of different neural control solutions on the prediction of muscle excitation and joint moments during dynamic motor tasks.pdf]]
