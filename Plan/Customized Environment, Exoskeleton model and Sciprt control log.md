@@ -216,7 +216,7 @@ train看看model，如果不行的話，要走lua script
 	- SCONE or HyFyDy [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 	- SCONEgym
 	- D4PG
-- 確認CEINMS的詳細分析原理+新的EMG硬體
+- 確認CEINMS的詳細分析原理+EMG硬體
 	- Opensim
 	- 
 
