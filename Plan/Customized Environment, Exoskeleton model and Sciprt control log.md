@@ -209,9 +209,6 @@ train看看model，如果不行的話，要走lua script
 
 ---
 討論分工
-- 下一步要怎麼訓練出像是人的模型˙
-	- Generative Adversarial Imitation Learning
-	- MAML (Model-Agnostic Meta-Learning)
 - 創建虛擬外骨骼將現有算法寫入(資工系)
 	- SCONE or HyFyDy [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 	- SCONEgym
@@ -229,3 +226,6 @@ train看看model，如果不行的話，要走lua script
 		- [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
+- 下一步要怎麼訓練出像是人的模型˙
+	- Generative Adversarial Imitation Learning
+	- MAML (Model-Agnostic Meta-Learning)
