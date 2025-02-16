@@ -208,6 +208,7 @@ train看看model，如果不行的話，要走lua script
 有新同學想加入，給老師看他做的專題
 
 ---
+## Deadline：2025/2/20
 討論分工
 - 創建虛擬外骨骼將現有算法寫入(Eric)
 	- SCONE or HyFyDy [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
@@ -226,6 +227,7 @@ train看看model，如果不行的話，要走lua script
 		- [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
+SCONE可以用，已經足夠，雖然速度相對jc
 - 下一步要怎麼訓練出像是人的模型˙
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
