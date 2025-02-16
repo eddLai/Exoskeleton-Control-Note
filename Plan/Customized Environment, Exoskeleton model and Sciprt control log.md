@@ -231,3 +231,4 @@ train看看model，如果不行的話，要走lua script
 	- MAML (Model-Agnostic Meta-Learning)
 
 ---
+![[division of work with new members 20250217.png]]
