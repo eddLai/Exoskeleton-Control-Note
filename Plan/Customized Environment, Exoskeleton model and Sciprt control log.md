@@ -209,7 +209,7 @@ train看看model，如果不行的話，要走lua script
 
 ---
 討論分工
-- 創建虛擬外骨骼將現有算法寫入(資工系)
+- 創建虛擬外骨骼將現有算法寫入(Eric)
 	- SCONE or HyFyDy [[Predicting gait adaptations due to ankle plantarflexor muscle weakness and .pdf]]
 	- SCONEgym https://scone.software/doku.php?id=doc:sconegym
 	- D4PG
