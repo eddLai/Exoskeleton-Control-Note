@@ -232,6 +232,7 @@ SCONE可以用，已經足夠，雖然速度相對緩慢
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
 HyFyDy license問題如果用acadamic就不用擔心硬體綁定，正在跟HPC管理員討論
+如果是買下來的，
 
 ---
 ![[division of work with new members 20250217.png]]
