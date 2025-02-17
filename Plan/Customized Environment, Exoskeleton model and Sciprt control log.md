@@ -232,7 +232,7 @@ SCONE可以用，已經足夠，雖然速度相對緩慢
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
 HyFyDy license問題如果用acadamic就不用擔心硬體綁定，正在跟HPC管理員討論
-可以先買3萬的方案，但是就要綁定兩個在
+可以先買3萬的方案，但是就要綁定兩個在HPC，管理員覺得OK，再來就是
 排隊的問題
 
 ---
