@@ -228,6 +228,8 @@ train看看model，如果不行的話，要走lua script
 
 ---
 ![[depRL raw results.png]]SCONE可以用，已經足夠，雖然訓練速度相對緩慢
+
+---
 - 下一步要怎麼訓練出像是人的模型˙
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
