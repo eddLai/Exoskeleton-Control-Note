@@ -227,11 +227,17 @@ train看看model，如果不行的話，要走lua script
 		- [[Robust_Real-Time_Musculoskeletal_Modeling_Driven_by_Electromyograms.pdf]]
 
 ---
-SCONE可以用，已經足夠，雖然速度相對緩慢
+![[depRL raw results.png]]SCONE可以用，已經足夠，雖然訓練速度相對緩慢
+
+---
 - 下一步要怎麼訓練出像是人的模型˙
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
 HyFyDy license問題如果用acadamic就不用擔心硬體綁定，正在跟HPC管理員討論
+可以先買3萬的方案，但是就要綁定兩個在HPC，管理員覺得OK，再來就是CPU的問題
+排隊的問題，他們那邊正在解決
 
 ---
 ![[division of work with new members 20250217.png]]
+
+---
