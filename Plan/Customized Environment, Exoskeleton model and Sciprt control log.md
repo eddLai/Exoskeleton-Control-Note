@@ -242,3 +242,10 @@ HyFyDy license問題如果用acadamic就不用擔心硬體綁定，正在跟HPC�
 
 ---
 絕對需要進去HyFyDy建模+新的電腦做fine-tuning
+Resources
+- Ubuntu+mamba+conda+git
+- Data of motion capture and EMG(sean1009): https://drive.google.com/drive/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C?usp=drive_link
+- github code: https://github.com/eddLai/ExoskeletonPowerAsistance.git
+- pls find out these download link on [SimTK: Welcome](https://simtk.org/)
+	- Download: python3.11+opensim_python+opensim4.4+CEINMS
+	- Download: python3.9+peotry+SCONEpy+SCONE+HyFyDy
