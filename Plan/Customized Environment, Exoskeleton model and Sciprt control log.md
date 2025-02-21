@@ -253,5 +253,7 @@ Resources
 	- Download: python3.9+peotry+SCONEpy+SCONE+HyFyDy
 
 ---
-分工細節
-開會時間15:00(週五)，Aaron的時間21:00(每u;x週三)
+分工細節\
+開會時間
+- 大家：15:00(週五)
+- Aaron的時間21:00(每兩週，週三)
