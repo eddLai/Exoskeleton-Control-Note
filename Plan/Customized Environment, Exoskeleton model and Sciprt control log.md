@@ -251,3 +251,6 @@ Resources
 - pls find out these download link on [SimTK: Welcome](https://simtk.org/)
 	- Download: python3.11+opensim_python+opensim4.4+CEINMS
 	- Download: python3.9+peotry+SCONEpy+SCONE+HyFyDy
+
+---
+分工細節
