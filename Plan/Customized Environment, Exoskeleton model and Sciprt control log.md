@@ -241,10 +241,10 @@ HyFyDy license問題如果用acadamic就不用擔心硬體綁定，正在跟HPC�
 ![[division of work with new members 20250217.png]]
 
 ---
-絕對需要進去HyFyDy建模+新的電腦做fine-tuning
+絕對需要進去HyFyDy建模+新的電腦做fine-tuning\
 Resources
 - Ubuntu+mamba+conda+git
-- Data of motion capture and EMG(sean1009): https://drive.google.com/drive/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C?usp=drive_link
+- Data of motion capture and EMG(sean1009): [mocap_EMG_EEG_data - Google Drive](https://drive.google.com/drive/u/3/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C)
 - github code: https://github.com/eddLai/ExoskeletonPowerAsistance.git
 - pls find out these download link on [SimTK: Welcome](https://simtk.org/)
 	- Download: python3.11+opensim_python+opensim4.4+CEINMS
