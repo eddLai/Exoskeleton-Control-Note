@@ -262,5 +262,4 @@ Resources
 
 ---
 探討fine-tuning\
-1. 逆向出來的資料，導進depRL
-2. 
+1. 逆向出來的資料，導進depRL，SCONEgym
