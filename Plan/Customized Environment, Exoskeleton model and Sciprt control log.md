@@ -263,3 +263,5 @@ Resources
 ---
 探討fine-tuning\
 1. 逆向出來的資料，導進depRL，SCONEgym
+2. reward function and imitation learning
+3. 
