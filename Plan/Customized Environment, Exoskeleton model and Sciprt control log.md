@@ -262,7 +262,7 @@ Resources
 
 ---
 探討fine-tuning
-1. 逆向出來的資料，導進depRL，SCONEgym(由sean創建)
+1. 逆向出來的資料，導進depRL，SCONEgym(由sean創分支，把其它code都清掉)
 2. reward function and imitation learning
 
-週一vu8
+週一下午確認Eric and Mark的進度。
