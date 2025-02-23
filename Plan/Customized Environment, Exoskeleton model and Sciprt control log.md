@@ -261,4 +261,5 @@ Resources
 [[外骨骼_20250222討論,分工及其時程規劃.pdf]]
 
 ---
-探討fine-tuning
+探討fine-tuning\
+逆向出來的資料
