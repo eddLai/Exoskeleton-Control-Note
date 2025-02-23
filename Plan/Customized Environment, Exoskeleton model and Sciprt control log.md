@@ -261,4 +261,4 @@ Resources
 [[外骨骼_20250222討論,分工及其時程規劃.pdf]]
 
 ---
-探討fin
+探討fine-tuning
