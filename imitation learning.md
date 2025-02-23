@@ -3,4 +3,4 @@
 大量的训练数据形成一个合适的状态概率分布，這個方案是不實際的
 
 [李宏毅_ATDL_Lecture_18 - HackMD](https://hackmd.io/@shaoeChen/SJmNmF1ES)
-Imitation Learning
+Imitation Learning or Inverse Reinforcement Learning
