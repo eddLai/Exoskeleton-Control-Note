@@ -17,4 +17,4 @@ $$r_t=w\cdot f(s_t,a_t)$$
 $$R(\tau^n)=\sum_{t=1}^Tr_t$$
 我們預期會得到
 $$\bar{R}_\pi=\dfrac{1}{N}\sum^N_{n=1}R(\tau^n)=w\cdot\dfrac{1}{N}\sum_{n=1}^N\sum_{t=1}^Tf(s_t,a_t)$$
-
+對於一個已晶存j的policy期望解出
