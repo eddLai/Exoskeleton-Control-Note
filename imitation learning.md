@@ -11,3 +11,4 @@ Imitation Learning
 - Inverse Reinforcement Learning: 找出reward而不是policy
 - Generative Adversarial network
 $$R(\tau)=\sum_{t=1}^Tr(s_t,a_t)$$
+尋找一個Reward function滿足上面的假設，即$\bar{R_{\hat{\pi}}}>\bar{R_{\pi}}$
