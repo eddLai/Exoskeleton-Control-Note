@@ -10,3 +10,4 @@ Imitation Learning
 >- Actor的capacity是有限的
 - Inverse Reinforcement Learning: 找出reward而不是policy
 - Generative Adversarial network
+$$R(\tau)=\sum_{t=1}^Tr(s_t,a_t)$$
