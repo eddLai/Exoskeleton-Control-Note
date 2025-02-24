@@ -13,3 +13,4 @@ Imitation Learning
 $$R(\tau)=\sum_{t=1}^Tr(s_t,a_t)$$
 尋找一個Reward function滿足上面的假設，即$\bar{R_{\hat{\pi}}}>\bar{R_{\pi}}$
 $$r_t=w\cdot f(s_t,a_t)$$
+$$\bar{R}_\theta=\dfrac{1}{N}\sum^N_{n=1}R(\tau^n)$$
