@@ -20,3 +20,4 @@ $$\bar{R}_\pi=\dfrac{1}{N}\sum^N_{n=1}R(\tau^n)=w\cdot\dfrac{1}{N}\sum_{n=1}^N\s
 對於一個已經存在的$policy$期望解出$w$
 
 ![[GAN for imitation learning.png|400]]
+用上這個等於要在model後再串上一個model
