@@ -266,5 +266,4 @@ Resources
 2. reward function and imitation learning
 
 週一下午確認Eric and Mark的進度。
-
 [[imitation learning]]：主要是在解決reward難以定義的問題，但是我們沒有這個問題(如果逆向出來的資料可以用的話)，除非資料不夠多，那就可以用一個輸入的expert資料，把actor換成現在這個
