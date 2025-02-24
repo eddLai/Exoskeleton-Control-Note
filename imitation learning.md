@@ -8,5 +8,5 @@ Imitation Learning
 - Behavior Cloning
 >需要注意：
 >- Actor的capacity是有限的
-- Inverse Reinforcement Learning
+- Inverse Reinforcement Learning: 找出
 - Generative Adversarial network
