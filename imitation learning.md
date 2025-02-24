@@ -2,11 +2,11 @@
 **Behavior Cloning**h存在compounding errors，執行越久，策略越偏差
 大量的训练数据形成一个合适的状态概率分布，這個方案是不實際的
 
+---
 [李宏毅_ATDL_Lecture_18 - HackMD](https://hackmd.io/@shaoeChen/SJmNmF1ES)
 Imitation Learning
 - Behavior Cloning
+>需要注意：
+>- Actor的capacity是有限的
 - Inverse Reinforcement Learning
 - Generative Adversarial network
-
-需要注意：
-- Actor的capacity是有限的
