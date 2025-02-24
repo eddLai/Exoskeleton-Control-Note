@@ -267,4 +267,4 @@ Resources
 
 週一下午確認Eric and Mark的進度。
 
-[[imitation learning]]：主要是在解決reward難以定義的問題，但是我們沒有這j5/
+[[imitation learning]]：主要是在解決reward難以定義的問題，但是我們沒有這個問題(如果逆向出來的資料可以用的話)
