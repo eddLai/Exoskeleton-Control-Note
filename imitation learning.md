@@ -8,4 +8,5 @@ Imitation Learning
 - Inverse Reinforcement Learning
 - Generative Adversarial network
 
-Actor的capacity是有限的
+需要注意：
+- Actor的capacity是有限的
