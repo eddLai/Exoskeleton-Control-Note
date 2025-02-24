@@ -7,3 +7,5 @@ Imitation Learning
 - Behavior Cloning
 - Inverse Reinforcement Learning
 - Generative Adversarial network
+
+Actor的capacity是有限的
