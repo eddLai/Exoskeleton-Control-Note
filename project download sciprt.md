@@ -33,7 +33,7 @@ sudo apt update
 sudo apt install libboost-filesystem-dev
 wget https://www.codesynthesis.com/download/xsd/4.0/linux-gnu/x86_64/xsd_4.0.0-1_amd64.deb
 sudo dpkg -i xsd_4.0.0-1_amd64.deb
-
+mkdir build
 cmake ..
 make -j4
 sudo make install
