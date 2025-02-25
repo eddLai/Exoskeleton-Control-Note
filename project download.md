@@ -21,6 +21,8 @@ cd depRL
 poetry install
 cd baselines_DEPRL
 gdown --id 1Q020TqpAnvsIrE50PXTvgAyIQ_GksF4W -O policy_weights.tar
+tar -xvf policy_weights.tar
+rm policy_weights.tar
 cd ../..
 git clone https://github.com/CEINMS/CEINMS.git
 
