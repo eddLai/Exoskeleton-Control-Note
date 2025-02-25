@@ -24,3 +24,6 @@ git clone https://github.com/CEINMS/CEINMS.git
 `scp .\mocap_EMG_EEG_data.zip exo@120.126.94.127:~/Downloads`
 
 `tar -cvJf sconewalk_h0918_osimv1_HPC.tar.xz -C . sconewalk_h0918_osimv1_HPC`
+
+1. 還缺CEINMS編譯以及wine
+2. 
