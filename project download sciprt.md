@@ -46,7 +46,7 @@ gdown --id 1mnYnl6BCFhDQBPrvsR3ZXEBAVQ80zDSR
 wine OpenSim-3.3.0-win64VC13P.exe
 alias WINE_CEINMS="wine $HOME/.wine/drive_c/Program\ Files/CEINMS\ 0.10/bin/CEINMS.exe"
 source ~/.bashrc
-
+WINE_CEINMS
 ```
 
 `scp .\mocap_EMG_EEG_data.zip exo@120.126.94.127:~/Downloads`
