@@ -19,9 +19,9 @@ mamba install conda-forge::poetry
 git clone https://github.com/gnaixihZ/depRL.git
 cd depRL
 poetry install
-cd base
+cd baselines_DEPRL
 gdown --id 1Q020TqpAnvsIrE50PXTvgAyIQ_GksF4W -O policy_weights.tar
-cd ..
+cd ../..
 git clone https://github.com/CEINMS/CEINMS.git
 
 ```
