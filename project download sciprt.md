@@ -34,7 +34,9 @@ sudo apt install libboost-filesystem-dev
 wget https://www.codesynthesis.com/download/xsd/4.0/linux-gnu/x86_64/xsd_4.0.0-1_amd64.deb
 sudo dpkg -i xsd_4.0.0-1_amd64.deb
 
-
+cmake ..
+make -j4
+sudo make install
 ```
 
 `scp .\mocap_EMG_EEG_data.zip exo@120.126.94.127:~/Downloads`
