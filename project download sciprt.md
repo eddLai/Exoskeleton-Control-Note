@@ -43,3 +43,6 @@ sudo dpkg -i xsd_4.0.0-1_amd64.deb
 
 1. 還缺CEINMS編譯以及wine
 2. opensim GUI是否必要
+
+
+`tar -cvJf mocap_EMG_EEG_data.tar.xz -C mocap_EMG_EEG_data .`
