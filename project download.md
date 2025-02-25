@@ -8,6 +8,7 @@ cd ExoskeletonPowerAsistance
 cd simulation
 FOLDER_ID="1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C" TARGET_DIR="./mocap_EMG_EEG_data"
 mkdir -p "$TARGET_DIR"
+gdown --folder "https://drive.google.com/drive/folders/$FOLDER_ID" -O "$TARGET_DIR"
 mamba env create -n inverse_analysis -f opensim_conda_env_setup.yml
 sudo apt install ./simulation/SCONE_API/scone_2.4.0_amd64.deb -y
 cd ..
