@@ -26,4 +26,4 @@ git clone https://github.com/CEINMS/CEINMS.git
 `tar -cvJf sconewalk_h0918_osimv1_HPC.tar.xz -C . sconewalk_h0918_osimv1_HPC`
 
 1. 還缺CEINMS編譯以及wine
-2. 
+2. opensim GUI是否必要
