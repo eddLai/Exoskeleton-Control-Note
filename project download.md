@@ -13,7 +13,6 @@ sudo dpkg -i cuda-keyring_1.1-1_all.deb
 sudo apt-get update
 sudo apt-get -y install cuda-toolkit-12-3
 mamba install conda-forge::poetry
-scone_2.4.0_amd64.deb
 git clone 
 cd /depRL
 poetry install
