@@ -44,7 +44,8 @@ gdown --id 1VKVIoGIJhsN30GGOb3K5rqomcYUZb08a -O CEINMS_installer.exe
 wine ./CEINMS_installer.exe
 gdown --id 1mnYnl6BCFhDQBPrvsR3ZXEBAVQ80zDSR
 wine OpenSim-3.3.0-win64VC13P.exe
-
+alias WINE_CEINMS="wine $HOME/.wine/drive_c/Program\ Files/CEINMS\ 0.10/bin/CEINMS.exe"
+source ~/.bashrc
 
 ```
 
