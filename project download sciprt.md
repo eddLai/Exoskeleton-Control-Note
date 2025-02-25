@@ -56,3 +56,5 @@ gdown --id 1mnYnl6BCFhDQBPrvsR3ZXEBAVQ80zDSR
 
 
 `tar -cvJf mocap_EMG_EEG_data.tar.xz -C mocap_EMG_EEG_data .`
+
+按五下
