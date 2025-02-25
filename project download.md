@@ -13,6 +13,7 @@ sudo dpkg -i cuda-keyring_1.1-1_all.deb
 sudo apt-get update
 sudo apt-get -y install cuda-toolkit-12-3
 
+scone_2.4.0_amd64.deb
 ```
 
 `tar -cvJf sconewalk_h0918_osimv1_HPC.tar.xz -C . sconewalk_h0918_osimv1_HPC`
