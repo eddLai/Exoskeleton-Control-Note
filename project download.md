@@ -31,6 +31,9 @@ git clone https://github.com/CEINMS/CEINMS.git
 cd CEINMS
 sudo apt update
 sudo apt install libboost-filesystem-dev
+wget https://www.codesynthesis.com/download/xsd/4.0/linux-gnu/x86_64/xsd_4.0.0-1_amd64.deb
+sudo dpkg -i xsd_4.0.0-1_amd64.deb
+
 
 ```
 
