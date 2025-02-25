@@ -1,3 +1,6 @@
+mocap_EMG_data: https://drive.google.com/drive/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C?usp=drive_link
+
+
 ```
 git clone https://github.com/eddLai/ExoskeletonPowerAsistance.git
 scp .\mocap_EMG_EEG_data.zip exo@120.126.94.127:~/Downloads
