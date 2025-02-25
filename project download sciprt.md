@@ -38,8 +38,8 @@ cmake ..
 make -j4
 sudo make install
 cd ../..
-sudo apt install wine64
-sudo apt install wine32
+sudo apt install wine64 -y
+sudo apt install wine32 -y
 ```
 
 `scp .\mocap_EMG_EEG_data.zip exo@120.126.94.127:~/Downloads`
