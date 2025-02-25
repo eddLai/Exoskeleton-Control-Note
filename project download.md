@@ -6,6 +6,7 @@ git clone https://github.com/eddLai/ExoskeletonPowerAsistance.git
 mv mocap_EMG_EEG_data ./ExoskeletonPowerAsistance/simulation/
 cd ExoskeletonPowerAsistance
 mamba env create -n inverse_analysis -f opensim_conda_env_setup.yml
+cd ..
 mamba create -n forward_sim python=3.9 -y
 conda activate forward_sim
 wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2204/x86_64/cuda-keyring_1.1-1_all.deb
