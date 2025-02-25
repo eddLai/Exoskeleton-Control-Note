@@ -1,6 +1,7 @@
 mocap_EMG_data: https://drive.google.com/drive/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C?usp=drive_link
 policy weights tar file: https://drive.google.com/file/d/1Q020TqpAnvsIrE50PXTvgAyIQ_GksF4W/view?usp=sharing
 
+vu
 ```
 git clone https://github.com/eddLai/ExoskeletonPowerAsistance.git
 mv mocap_EMG_EEG_data ./ExoskeletonPowerAsistance/simulation/
@@ -15,7 +16,7 @@ sudo dpkg -i cuda-keyring_1.1-1_all.deb
 sudo apt-get update
 sudo apt-get -y install cuda-toolkit-12-3
 mamba install conda-forge::poetry
-git clone 
+git clone https://github.com/gnaixihZ/depRL.git
 cd /depRL
 poetry install
 cd ..
