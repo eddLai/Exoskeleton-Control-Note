@@ -40,7 +40,7 @@ sudo make install
 cd ../..
 sudo apt install wine64 -y
 sudo apt install wine32 -y
-gdown --id 1VKVIoGIJhsN30GGOb3K5rqomcYUZb08a -O downloaded_file
+gdown --id 1VKVIoGIJhsN30GGOb3K5rqomcYUZb08a -O CEINMS_installer.exe
 ```
 
 `scp .\mocap_EMG_EEG_data.zip exo@120.126.94.127:~/Downloads`
