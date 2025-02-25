@@ -25,6 +25,9 @@ tar -xvf policy_weights.tar
 rm policy_weights.tar
 cd ../..
 git clone https://github.com/CEINMS/CEINMS.git
+cd CEINMS
+sudo apt update
+sudo apt install libboost-filesystem-dev
 
 ```
 
