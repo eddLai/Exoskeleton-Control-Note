@@ -6,6 +6,7 @@ git clone https://github.com/eddLai/ExoskeletonPowerAsistance.git
 mv mocap_EMG_EEG_data ./ExoskeletonPowerAsistance/simulation/
 cd ExoskeletonPowerAsistance
 mamba env create -n inverse_analysis -f opensim_conda_env_setup.yml
+sudo apt install ./scone_2.4.0_amd64.deb -y
 cd ..
 mamba create -n forward_sim python=3.9 -y
 conda activate forward_sim
@@ -17,7 +18,6 @@ mamba install conda-forge::poetry
 git clone 
 cd /depRL
 poetry install
-sudo apt install ./scone_2.4.0_amd64.deb -y
 git clone https://github.com/CEINMS/CEINMS.git
 
 ```
