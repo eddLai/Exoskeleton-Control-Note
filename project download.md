@@ -17,8 +17,10 @@ sudo apt-get update
 sudo apt-get -y install cuda-toolkit-12-3
 mamba install conda-forge::poetry
 git clone https://github.com/gnaixihZ/depRL.git
-cd /depRL
+cd depRL
 poetry install
+cd base
+gdown --id 1Q020TqpAnvsIrE50PXTvgAyIQ_GksF4W -O policy_weights.tar
 cd ..
 git clone https://github.com/CEINMS/CEINMS.git
 
