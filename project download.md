@@ -4,7 +4,6 @@ policy weights tar file: https://drive.google.com/file/d/1Q020TqpAnvsIrE50PXTvgA
 先設定好git SSH
 ```
 git clone https://github.com/eddLai/ExoskeletonPowerAsistance.git
-mv mocap_EMG_EEG_data ./ExoskeletonPowerAsistance/simulation/
 cd ExoskeletonPowerAsistance
 mamba env create -n inverse_analysis -f opensim_conda_env_setup.yml
 sudo apt install ./simulation/SCONE_API/scone_2.4.0_amd64.deb -y
