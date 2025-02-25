@@ -16,7 +16,7 @@ scone_2.4.0_amd64.deb
 git clone 
 cd /depRL
 poetry install
-
+sudo apt install ./scone_2.4.0_amd64.deb -y
 ```
 
 `scp .\mocap_EMG_EEG_data.zip exo@120.126.94.127:~/Downloads`
