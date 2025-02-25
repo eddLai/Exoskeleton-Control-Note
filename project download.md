@@ -18,6 +18,7 @@ mamba install conda-forge::poetry
 git clone 
 cd /depRL
 poetry install
+cd ..
 git clone https://github.com/CEINMS/CEINMS.git
 
 ```
