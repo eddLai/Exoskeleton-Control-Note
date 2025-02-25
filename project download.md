@@ -15,4 +15,6 @@ mamba install conda-forge::poetry
 scone_2.4.0_amd64.deb
 ```
 
+`scp .\mocap_EMG_EEG_data.zip exo@120.126.94.127:~/Downloads`
+
 `tar -cvJf sconewalk_h0918_osimv1_HPC.tar.xz -C . sconewalk_h0918_osimv1_HPC`
