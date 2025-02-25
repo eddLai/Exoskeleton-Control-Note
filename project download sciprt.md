@@ -43,7 +43,8 @@ sudo apt install wine32 -y
 gdown --id 1VKVIoGIJhsN30GGOb3K5rqomcYUZb08a -O CEINMS_installer.exe
 wine ./CEINMS_installer.exe
 gdown --id 1mnYnl6BCFhDQBPrvsR3ZXEBAVQ80zDSR
-wine
+wine OpenSim-3.3.0-win64VC13P.exe
+
 
 ```
 
