@@ -5,6 +5,8 @@ policy weights tar file: https://drive.google.com/file/d/1Q020TqpAnvsIrE50PXTvgA
 ```
 git clone https://github.com/eddLai/ExoskeletonPowerAsistance.git
 cd ExoskeletonPowerAsistance
+cd simulation
+
 mamba env create -n inverse_analysis -f opensim_conda_env_setup.yml
 sudo apt install ./simulation/SCONE_API/scone_2.4.0_amd64.deb -y
 cd ..
