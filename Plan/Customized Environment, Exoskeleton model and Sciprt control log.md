@@ -270,3 +270,5 @@ Resources
 
 ---
 [[project download sciprt]]
+
+動作捕捉結合虛擬分身訓練模型進行神經肌肉骨骼模型建置用於外骨骼系統控制
