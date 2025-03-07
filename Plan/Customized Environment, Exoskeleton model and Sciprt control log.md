@@ -305,9 +305,10 @@ Resources
 	- 透過Myo-Control取代按鈕機制
 
 共同研究項目：CEINMS預測的資料，預測長度?
+
+---
 - Sean and eddie
 	- 挖原本的實驗資料步態同步(以SCONE為主體的對齊)
-	- 
 
 多工化開會，分配還沒做的事情去做
 
