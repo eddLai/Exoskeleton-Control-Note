@@ -294,12 +294,13 @@ Resources
 
 ---
 ## Deadline：2025/3/14
-- Mark: CEINMS, **6種不同參數的可能性**，用以之後對接fatigue
+- Mark: CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
 	- 對應不同的結果
 	- 或者數學模型以及預期差異
+	- fatigue方法學
 - Eric: **大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
-IMU偵測到的力擾動
-- 單獨模型的可視化mujuco, gazibo, pybullet
+	- 外骨骼ㄉㄨ單獨模型的可視化mujuco, gazibo, pybullet
+	- IMU偵測到的力擾動
 - low activity步態自發，還是抵抗的狀態
 - 有辦法避免抵抗發生，是一個暫停的按鈕
 - CEINMS預測的資料，預測長度?
