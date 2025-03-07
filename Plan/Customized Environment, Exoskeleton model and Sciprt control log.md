@@ -286,3 +286,5 @@ Resources
 ![[exoskeleton milestone20250307.png]]
 
 ---
+
+CEINMS, 6種可能性不同的結果
