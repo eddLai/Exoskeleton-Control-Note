@@ -287,4 +287,5 @@ Resources
 
 ---
 
-CEINMS, 6種可能性不同的結果
+1500開會
+Mark: CEINMS, 6種可能性不同的結果
