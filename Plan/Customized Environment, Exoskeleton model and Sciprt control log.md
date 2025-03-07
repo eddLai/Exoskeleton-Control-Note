@@ -291,5 +291,6 @@ Resources
 1500 開會要有圖文說明
 Mark: CEINMS, 6種可能性不同的結果
 Eric: 只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
+IMU偵測到的力擾動
 - 阻力
 - Low_activity的階段
