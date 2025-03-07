@@ -283,3 +283,6 @@ Resources
 
 ---
 修理`data_1009_EMG_steady_to_sto_for_CEINMS_calib`
+![[exoskeleton milestone20250307.png]]
+
+---
