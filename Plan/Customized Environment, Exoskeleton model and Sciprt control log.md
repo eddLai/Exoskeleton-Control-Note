@@ -300,8 +300,11 @@ Resources
 	- fatigue方法學
 - Eric: **大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
 	- 外骨骼獨立模型的可視化mujuco>gazibo>pybullet
-	- IMU偵測到的low activity(來自步態自發，而非抵抗的狀態)，提供一個ㄌˋ暫停的按鈕
-- CEINMS預測的資料，預測長度?
+	- IMU偵測到的low activity(來自步態自發，而非抵抗的狀態)
+	- 提供一個類似暫停的按鈕的介面
+	- 透過Myo-Control取代按鈕機制
+
+CEINMS預測的資料，預測長度?
 
 多工化開會，分配還沒做的事情去做
 
