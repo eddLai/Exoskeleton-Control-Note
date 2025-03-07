@@ -281,3 +281,5 @@ Resources
 - 週五開會報告一下你們會做的開發分別是哪部分(對應你們準備修改的code的位置)
 - 把圖片更新成給福寶的那個投影片，Motion capture的素材我週五再丟上去，先幫我留文字的title就好
 
+---
+修理`data_1009_EMG_steady_to_sto_for_CEINMS_calib`
