@@ -294,7 +294,9 @@ Resources
 
 ---
 ## Deadline：2025/3/14
-- Mark: CEINMS, 6種可能性不同的結果
+- Mark: CEINMS, 6種不同參數的可能性
+	- 對應不同的結果
+	- 或者數學模型以及預期差異
 Eric: 只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
 IMU偵測到的力擾動
 - low activity步態自發，還是抵抗的狀態
