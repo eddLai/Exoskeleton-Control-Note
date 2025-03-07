@@ -304,7 +304,9 @@ Resources
 	- 提供一個類似暫停的按鈕的介面
 	- 透過Myo-Control取代按鈕機制
 
-CEINMS預測的資料，預測長度?
+共同研究項目：CEINMS預測的資料，預測長度?
+- Sean and eddie
+	- 挖ur
 
 多工化開會，分配還沒做的事情去做
 
