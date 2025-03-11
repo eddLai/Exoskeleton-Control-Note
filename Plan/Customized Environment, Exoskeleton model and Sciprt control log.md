@@ -324,3 +324,4 @@ Resources
 
 ---
 解除P100最小化
+mv /home/110261026/CEINMS /home/110261026/Exoskeleton
