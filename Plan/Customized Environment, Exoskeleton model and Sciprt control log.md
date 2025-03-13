@@ -233,6 +233,8 @@ train看看model，如果不行的話，要走lua script
 - 下一步要怎麼訓練出像是人的模型˙
 	- Generative Adversarial Imitation Learning
 	- MAML (Model-Agnostic Meta-Learning)
+
+\
 HyFyDy license問題如果用acadamic就不用擔心硬體綁定，正在跟HPC管理員討論
 可以先買3萬的方案，但是就要綁定兩個在HPC，管理員覺得OK，再來就是CPU的問題
 排隊的問題，他們那邊正在解決
@@ -241,3 +243,85 @@ HyFyDy license問題如果用acadamic就不用擔心硬體綁定，正在跟HPC�
 ![[division of work with new members 20250217.png]]
 
 ---
+絕對需要進去HyFyDy建模+新的電腦做fine-tuning\
+Resources
+- Ubuntu+mamba+conda+git
+- Data of motion capture and EMG(sean1009): [mocap_EMG_EEG_data - Google Drive](https://drive.google.com/drive/u/3/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C)
+- github code: https://github.com/eddLai/ExoskeletonPowerAsistance.git
+- pls find out these download link on [SimTK: Welcome](https://simtk.org/)
+	- Download: python3.11+opensim_python+opensim4.4+CEINMS
+	- Download: python3.9+peotry+SCONEpy+SCONE+HyFyDy
+
+---
+分工細節\
+開會時間
+- 大家：15:00(週五)
+- Aaron的時間21:00(每兩週的週三)
+
+[[外骨骼_20250222討論,分工及其時程規劃.pdf]]
+
+---
+探討fine-tuning
+1. 逆向出來的資料，導進depRL，SCONEgym(由sean創分支，把其它code都清掉)
+2. reward function and imitation learning
+
+週一下午確認Eric and Mark的進度。
+[[imitation learning]]：主要是在解決reward難以定義的問題，但是我們沒有這個問題(如果逆向出來的資料可以用的話)，除非資料不夠多，那就可以用一個輸入的expert資料，把actor換成現在這個
+
+---
+[[project download sciprt]]
+
+\
+無標記動作捕捉系統建立患者虛擬分身步態模型虛擬分身之客製化長者外骨骼系統
+
+---
+## Deadline：2025/3/7
+週四晚上前把code跑出東西來，
+- Mark, Eric幫我再遠端創額外兩個不同的資料夾放你們跑完code的資料
+- 週五開會報告一下你們會做的開發分別是哪部分(對應你們準備修改的code的位置)
+- 把圖片更新成給福寶的那個投影片，Motion capture的素材我週五再丟上去，先幫我留文字的title就好
+
+---
+修理`data_1009_EMG_steady_to_sto_for_CEINMS_calib`
+![[exoskeleton milestone20250307.png]]
+
+---
+### 討論結果
+開會時間：
+- 週五 1200 先沒有老師的會
+- 週五 1530 有YY的
+>大家開會在進行介紹時，要有圖文說明
+
+---
+## Deadline：2025/3/14
+- Mark: CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
+	- 對應不同的結果
+	- 或者數學模型以及預期差異
+	- fatigue方法學
+- Eric: **大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
+	- 外骨骼獨立模型的可視化mujuco>gazibo>pybullet
+	- IMU偵測到的low activity(來自步態自發，而非抵抗的狀態)
+	- 提供一個類似暫停的按鈕的介面
+	- 透過Myo-Control取代按鈕機制
+
+共同研究項目：CEINMS預測的資料，預測長度?
+
+---
+- Sean and eddie
+	- 挖eddie原本的實驗資料步態同步(以SCONE為主體的對齊)
+	- 去掉實驗數據的outlier，但是做標記做統計分析
+	- 比較虛擬端跟實際資料的差異
+	- 提供比賽計劃書，需要再跟mocap要資料
+
+討論結論：放棄丟進去驗證，因為需要回饋控制，先驗證虛擬與實驗資料夠相近才能合在一起，再進reward
+>畢竟同樣的動作變化會有不同的肌肉組合，此時以實驗資料為標準
+
+---
+
+多工化開會，分配還沒做的事情去做
+- 阻力
+- Low_activity的階段
+
+---
+解除P100最小化
+mv /home/110261026/CEINMS /home/110261026/Exoskeleton
