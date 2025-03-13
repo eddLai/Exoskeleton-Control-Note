@@ -54,3 +54,13 @@ Required-by: deprl, sconegym
 
 ---
 運算節點吃不到license
+
+H100
+```
+(base) eddlai.be10@DGX-CN01:~$ sconecmd --hyfydy id
+22:38:51 SCONE version 2.4.0.2990
+22:38:51 Successfully initialized OpenSim3 version 3.3-2021-01-28
+22:38:52 Could not initialize Hyfydy: License key is not supported on this computer (96a0d4bf385e74c2)
+
+Hardware ID: 96a0d4bf385e74c2
+```
