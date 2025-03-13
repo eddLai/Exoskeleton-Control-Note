@@ -73,3 +73,13 @@ Hardware ID: 96a0d4bf385e74c2
 
 Hardware ID: 96a0d4bf385e74c2
 ```
+
+```
+(base) eddlai.be10@DGX-CN02:~$ sconecmd --hyfydy id
+22:43:39 SCONE version 2.4.0.2990
+22:43:39 Successfully initialized OpenSim3 version 3.3-2021-01-28
+22:43:39 Could not initialize Hyfydy: License key is not supported on this computer (96a0d4bf385e74c2)
+
+Hardware ID: 96a0d4bf385e74c2
+(base) eddlai.be10@DGX-CN02:~$ 
+```
