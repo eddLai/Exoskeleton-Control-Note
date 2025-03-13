@@ -55,7 +55,7 @@ Required-by: deprl, sconegym
 ---
 運算節點吃不到license
 
-H100
+H100測試one
 ```
 (base) eddlai.be10@DGX-CN01:~$ sconecmd --hyfydy id
 22:38:51 SCONE version 2.4.0.2990
