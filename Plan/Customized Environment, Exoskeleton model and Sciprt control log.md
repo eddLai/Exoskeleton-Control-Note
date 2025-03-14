@@ -347,7 +347,7 @@ ZMP另一個倒立擺行走的方法
 ---
 #### SCONE倒立擺相關的文獻
 [[A Muscle-Reflex Model that Encodes Principles of.pdf]]
-![[Pasted image 20250314132111.png]]
+![[inverted pendulum model of SCONE.png]]
 
 ---
 ### SCONE 驗證區間
