@@ -334,7 +334,9 @@ ZMP
 
 ---
 第一篇跟第二篇的差異表格
-SCONE倒立擺相關的文獻
+
+---
+#### SCONE倒立擺相關的文獻
 
 
 ---
@@ -351,6 +353,7 @@ SCONE倒立擺相關的文獻
 ---
 得到CEINMS結果很糟糕，需要壓力感測墊
 ![[SCONE CEINMS validation result.png]]
+![[Pasted image 20250314131540.png]]
 CMC
 
 ---
