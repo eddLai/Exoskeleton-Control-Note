@@ -292,12 +292,18 @@ Resources
 - 週五 1530 有YY的
 >大家開會在進行介紹時，要有圖文說明
 
+多工化開會，分配還沒做的事情去做
+- 阻力
+- Low_activity的階段
+
 ---
 ## Deadline：2025/3/14\~2025/3/21
 - Mark: CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
 	- [x] 生理機制兩本書
 	- 數學模型以及預期差異(function block diagram)
 	- fatigue模型
+
+---
 - Eric: **大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
 	- LIPM and LPM機器人模型
 	- 外骨骼獨立模型的可視化mujuco>gazibo>pybullet
@@ -305,7 +311,7 @@ Resources
 	- 提供一個類似暫停的按鈕的介面
 	- 透過Myo-Control取代按鈕機制
 
-共同研究項目：CEINMS預測的資料，預測長度?
+>共同研究項目：CEINMS預測的資料，預測長度?
 [[overview of CEINMS]]
 
 ---
@@ -348,12 +354,6 @@ CMC
 ---
 python直接控制外骨骼
 SCONE更新
-
----
-
-多工化開會，分配還沒做的事情去做
-- 阻力
-- Low_activity的階段
 
 ---
 ### 架設P100使用環境
