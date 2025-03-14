@@ -347,9 +347,10 @@ SCONE更新
 - Low_activity的階段
 
 ---
-解除P100最小化
-mv /home/110261026/CEINMS /home/110261026/Exoskeleton
+## 架設P100使用環境
 GUI很難架\
+1. 解除P100最小化
+%% mv /home/110261026/CEINMS /home/110261026/Exoskeleton %%
 OpenVPN連線
 ```
 2025-03-11 14:54:51 --cipher is not set. Previous OpenVPN version defaulted to BF-CBC as fallback when cipher negotiation failed in this case. If you need this fallback please add '--data-ciphers-fallback BF-CBC' to your configuration and/or add BF-CBC to --data-ciphers.
