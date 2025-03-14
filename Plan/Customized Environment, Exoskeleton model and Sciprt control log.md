@@ -332,8 +332,7 @@ SCONE倒立擺
 
 ---
 ## SCONE 驗證區間
-![[SCONE validation formula1.png]]
-![[Pasted image 20250314131115.png]]
+![[SCONE validation formula1.png|300]]![[SCONE validation formula2.png|400]]
 
 ---
 Opensim出來 ()
