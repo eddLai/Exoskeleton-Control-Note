@@ -338,9 +338,11 @@ SCONE倒立擺
 ![[SCONE validation formula3.png]]
 
 ---
-Opensim出來 ()
-得到CEINMS結果很糟糕
-![[Pasted image 20250314131241.png]]
+Opensim出來
+
+---
+得到CEINMS結果很糟糕，需要壓力感測墊
+![[SCONE CEINMS validation result.png]]
 CMC
 
 ---
