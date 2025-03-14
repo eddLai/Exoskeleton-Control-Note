@@ -334,17 +334,18 @@ ZMP
 
 ---
 第一篇跟第二篇的差異表格
-SCONE倒立擺
+SCONE倒立擺相關的文獻
+
 
 ---
-## SCONE 驗證區間
+### SCONE 驗證區間
 ![[SCONE validation formula1.png|400]]![[SCONE validation formula2.png|500]]
 
 ---
 ![[SCONE validation formula3.png]]
 
 ---
-Opensim出來
+### Opensim跟SCONE比較相近程度
 ![[SCONE Opensim comparison result.png]]
 
 ---
