@@ -335,11 +335,12 @@ SCONE倒立擺
 ![[SCONE validation formula1.png|400]]![[SCONE validation formula2.png|500]]
 
 ---
-![[Pasted image 20250314131214.png]]
+![[SCONE validation formula3.png]]
 
 ---
 Opensim出來 ()
 得到CEINMS結果很糟糕
+![[Pasted image 20250314131241.png]]
 CMC
 
 ---
