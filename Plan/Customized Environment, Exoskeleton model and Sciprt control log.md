@@ -332,7 +332,10 @@ SCONE倒立擺
 
 ---
 ## SCONE 驗證區間
-![[Pasted image 20250314131042.png]]
+![[SCONE validation formula1.png]]
+![[Pasted image 20250314131115.png]]
+
+---
 Opensim出來 ()
 得到CEINMS結果很糟糕
 CMC
