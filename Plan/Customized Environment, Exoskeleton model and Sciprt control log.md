@@ -353,7 +353,9 @@ ZMP
 ---
 得到CEINMS結果很糟糕，需要壓力感測墊
 ![[SCONE CEINMS validation result.png]]
-![[Pasted image 20250314131540.png]]
+
+---
+![[SCONE CEINMS validation result hamstrings.png]]
 CMC
 
 ---
