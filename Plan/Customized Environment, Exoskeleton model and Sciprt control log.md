@@ -349,7 +349,28 @@ SCONE更新
 ---
 解除P100最小化
 mv /home/110261026/CEINMS /home/110261026/Exoskeleton
-GUI很難架
+GUI很難架\
+OpenVPN連線
+```
+2025-03-11 14:54:51 --cipher is not set. Previous OpenVPN version defaulted to BF-CBC as fallback when cipher negotiation failed in this case. If you need this fallback please add '--data-ciphers-fallback BF-CBC' to your configuration and/or add BF-CBC to --data-ciphers.
+2025-03-11 14:54:51 OpenVPN 2.5.10 [git:v2.5.10/fccae1fa71140bd6] Windows-MSVC [SSL (OpenSSL)] [LZO] [LZ4] [PKCS11] [AEAD] built on Mar 22 2024
+2025-03-11 14:54:51 Windows version 10.0 (Windows 10 or greater) 64bit
+2025-03-11 14:54:51 library versions: OpenSSL 1.1.1w  11 Sep 2023, LZO 2.10
+2025-03-11 14:54:52 TCP/UDP: Preserving recently used remote address: [AF_INET]140.113.98.129:1194
+2025-03-11 14:54:52 UDP link local (bound): [AF_INET][undef]:0
+2025-03-11 14:54:52 UDP link remote: [AF_INET]140.113.98.129:1194
+2025-03-11 14:54:52 WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this
+2025-03-11 14:54:52 [VPN-S] Peer Connection Initiated with [AF_INET]140.113.98.129:1194
+2025-03-11 14:54:54 open_tun
+2025-03-11 14:54:54 tap-windows6 device [OpenVPN TAP-Windows6] opened
+2025-03-11 14:54:54 Notified TAP-Windows driver to set a DHCP IP/netmask of 192.168.252.10/255.255.255.252 on interface {5C931EA4-AB44-4CDC-9448-FA749B90B025} [DHCP-serv: 192.168.252.9, lease-time: 31536000]
+2025-03-11 14:54:54 Successful ARP Flush on interface [10] {5C931EA4-AB44-4CDC-9448-FA749B90B025}
+2025-03-11 14:54:54 IPv4 MTU set to 1500 on interface 10 using service
+2025-03-11 14:54:59 Initialization Sequence Completed
+2025-03-11 20:11:26 [VPN-S] Inactivity timeout (--ping-restart), restarting
+2025-03-11 20:11:26 SIGUSR1[soft,ping-restart] received, process restarting
+2025-03-11 20:11:31 TCP/UDP: Preserving recently used remote address: [AF_INET]140.113.98.129:1194
+```
 
 ---
 HyFyDy綁運算節點
