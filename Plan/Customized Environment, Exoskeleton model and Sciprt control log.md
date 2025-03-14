@@ -298,15 +298,14 @@ Resources
 
 ---
 ## Deadline：2025/3/14\~2025/3/21
-### Tasks
-- Mark
+### Mark Tasks
 -CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
-	- [x] 生理機制兩本書
-	- 數學模型以及預期差異(function block diagram)
-	- fatigue模型
+- [x] 生理機制兩本書
+- 數學模型以及預期差異(function block diagram)
+- fatigue模型
 
 ---
-### Eric: 
+### Eric Tasks
 **大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
 - LIPM and LPM機器人模型
 - 外骨骼獨立模型的可視化mujuco>gazibo>pybullet
@@ -318,7 +317,7 @@ Resources
 [[overview of CEINMS]]
 
 ---
-### Sean and eddie
+### Sean and eddie Tasks
 - 挖eddie原本的實驗資料步態同步(以SCONE為主體的對齊)
 - 去掉實驗數據的outlier，但是做標記做統計分析(切步態方法不夠準，需要再做到自動化，實驗的時候需要接觸地面壓力的鞋墊)
 - 比較虛擬端跟實際資料的差異
@@ -328,7 +327,7 @@ Resources
 >畢竟同樣的動作變化會有不同的肌肉組合，此時以實驗資料為標準
 
 ---
-#### Phases of robot walking
+### Phases of robot walking
 ![[LIPM and LPM model.png]]
 
 ---
