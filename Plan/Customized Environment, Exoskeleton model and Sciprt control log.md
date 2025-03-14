@@ -295,7 +295,6 @@ Resources
 ---
 ## Deadline：2025/3/14\~2025/3/21
 - Mark: CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
-[[overview of CEINMS]]
 	- 對應不同的結果
 	- 或者數學模型以及預期差異
 	- fatigue方法學
@@ -306,6 +305,7 @@ Resources
 	- 透過Myo-Control取代按鈕機制
 
 共同研究項目：CEINMS預測的資料，預測長度?
+[[overview of CEINMS]]
 
 ---
 - Sean and eddie
