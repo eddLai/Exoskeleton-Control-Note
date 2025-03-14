@@ -350,8 +350,7 @@ SCONE更新
 ## 架設P100使用環境
 %% mv /home/110261026/CEINMS /home/110261026/Exoskeleton %%
 GUI很難架\
-1.解除P100最小化\
-2.OpenVPN連線
+1.OpenVPN連線
 ```
 2025-03-11 14:54:51 --cipher is not set. Previous OpenVPN version defaulted to BF-CBC as fallback when cipher negotiation failed in this case. If you need this fallback please add '--data-ciphers-fallback BF-CBC' to your configuration and/or add BF-CBC to --data-ciphers.
 2025-03-11 14:54:51 OpenVPN 2.5.10 [git:v2.5.10/fccae1fa71140bd6] Windows-MSVC [SSL (OpenSSL)] [LZO] [LZ4] [PKCS11] [AEAD] built on Mar 22 2024
@@ -372,6 +371,8 @@ GUI很難架\
 2025-03-11 20:11:26 SIGUSR1[soft,ping-restart] received, process restarting
 2025-03-11 20:11:31 TCP/UDP: Preserving recently used remote address: [AF_INET]140.113.98.129:1194
 ```
+2.解除P100 Dockercj/最小化
+3.
 
 ---
 HyFyDy綁運算節點
