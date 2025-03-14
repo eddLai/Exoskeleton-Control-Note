@@ -350,7 +350,18 @@ SCONE更新
 解除P100最小化
 mv /home/110261026/CEINMS /home/110261026/Exoskeleton
 GUI很難架
-HPC綁運算節點
+
+---
+HyFyDy綁運算節點
+```
+(base) eddlai.be10@DGX-CN01:~$ sconecmd --hyfydy id
+22:42:28 SCONE version 2.4.0.2990
+22:42:28 Successfully initialized OpenSim3 version 3.3-2021-01-28
+22:42:28 Could not initialize Hyfydy: License key is not supported on this computer (96a0d4bf385e74c2)
+
+Hardware ID: 96a0d4bf385e74c2
+```
+
 ```
 (base) eddlai.be10@DGX-CN02:~$ sconecmd --hyfydy id
 22:43:39 SCONE version 2.4.0.2990
