@@ -299,18 +299,20 @@ Resources
 ---
 ## Deadline：2025/3/14\~2025/3/21
 ### Tasks
-- Mark: CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
+- Mark
+-CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
 	- [x] 生理機制兩本書
 	- 數學模型以及預期差異(function block diagram)
 	- fatigue模型
 
 ---
-- Eric: **大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
-	- LIPM and LPM機器人模型
-	- 外骨骼獨立模型的可視化mujuco>gazibo>pybullet
-	- IMU偵測到的low activity(來自步態自發，而非抵抗的狀態)
-	- 提供一個類似暫停的按鈕的介面
-	- 透過Myo-Control取代按鈕機制
+### Eric: 
+**大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
+- LIPM and LPM機器人模型
+- 外骨骼獨立模型的可視化mujuco>gazibo>pybullet
+- IMU偵測到的low activity(來自步態自發，而非抵抗的狀態)
+- 提供一個類似暫停的按鈕的介面
+- 透過Myo-Control取代按鈕機制
 
 >共同研究項目：CEINMS預測的資料，預測長度?
 [[overview of CEINMS]]
