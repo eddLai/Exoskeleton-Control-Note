@@ -326,6 +326,8 @@ Resources
 
 ---
 ![[LIPM and LPM model.png]]
+
+---
 ![[LIPM formula.png]]
 2D要改3D
 ZMP
@@ -353,6 +355,7 @@ opensim vs scone
 ![[SCONE Opensim comparison result.png]]
 
 ---
+#### CEINMS跟SCONE比較相近程度
 得到CEINMS結果很糟糕
 CEINMS vs SCONE
 ![[SCONE CEINMS comparison result rect_fem.png]]
