@@ -321,8 +321,8 @@ Resources
 
 ---
 ![[LIPM and LPM model.png]]
-二
-
+2D要改3D
+ZMP
 
 ---
 
