@@ -332,7 +332,8 @@ ZMP
 SCONE倒立擺
 
 ---
-opensim 驗證區間
+SCONE 驗證區間
+得到CEINMS結果很糟糕
 
 ---
 
