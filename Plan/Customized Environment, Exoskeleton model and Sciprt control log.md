@@ -299,7 +299,7 @@ Resources
 ---
 ## Deadline：2025/3/14\~2025/3/21
 ### Mark Tasks
--CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
+CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
 - [x] 生理機制兩本書
 - 數學模型以及預期差異(function block diagram)
 - fatigue模型
