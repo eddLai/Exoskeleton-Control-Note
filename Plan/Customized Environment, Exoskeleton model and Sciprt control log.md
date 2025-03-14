@@ -351,5 +351,22 @@ SCONE更新
 mv /home/110261026/CEINMS /home/110261026/Exoskeleton
 GUI很難架
 HPC綁運算節點
+```
+(base) eddlai.be10@DGX-CN02:~$ sconecmd --hyfydy id
+22:43:39 SCONE version 2.4.0.2990
+22:43:39 Successfully initialized OpenSim3 version 3.3-2021-01-28
+22:43:39 Could not initialize Hyfydy: License key is not supported on this computer (96a0d4bf385e74c2)
+
+Hardware ID: 96a0d4bf385e74c2
+```
+
+```
+(base) eddlai.be10@login:~$ sconecmd --hyfydy id
+22:48:10 SCONE version 2.4.0.2990
+22:48:10 Successfully initialized OpenSim3 version 3.3-2021-01-28
+22:48:10 Could not initialize Hyfydy: License key has expired (2025-03-06)
+
+Hardware ID: 8e6056df55deaa82
+```
 
 ---
