@@ -332,12 +332,11 @@ ZMP
 SCONE倒立擺
 
 ---
-SCONE 驗證區間
-得到CEINMS結果很糟糕
+## SCONE 驗證區間
 Opensim出來
+得到CEINMS結果很糟糕
 
 ---
-reward
 python直接控制外骨骼
 
 ---
