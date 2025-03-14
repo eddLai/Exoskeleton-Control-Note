@@ -348,15 +348,18 @@ ZMP
 
 ---
 ### Opensim跟SCONE比較相近程度
+為了進行mi
+opensim vs scone
 ![[SCONE Opensim comparison result.png]]
 
 ---
 得到CEINMS結果很糟糕
+CEINMS vs SCONE
 ![[SCONE CEINMS comparison result rect_fem.png]]
 
 ---
 ![[SCONE CEINMS validation result hamstrings.png]]
-軟體：可能需要多跑CMC
+軟體：可能需要多跑CMC\
 硬體：需要壓力感測墊
 
 ---
