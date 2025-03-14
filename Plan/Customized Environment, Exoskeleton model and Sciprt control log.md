@@ -325,6 +325,9 @@ Resources
 2D要改3D
 ZMP
 ![[ZMP foot strike model.png]]
+用能量去算
+
+---
 
 
 ---
