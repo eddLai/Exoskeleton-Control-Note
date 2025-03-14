@@ -325,7 +325,9 @@ Resources
 >畢竟同樣的動作變化會有不同的肌肉組合，此時以實驗資料為標準
 
 ---
+#### Phases of robot walking
 ![[LIPM and LPM model.png]]
+SCONE則有
 
 ---
 ![[LIPM formula.png]]
