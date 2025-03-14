@@ -341,14 +341,14 @@ ZMP
 
 ---
 ### SCONE 驗證區間
+為了進行mimic的fine-tuning\
 ![[SCONE validation formula1.png|400]]![[SCONE validation formula2.png|500]]
 
 ---
 ![[SCONE validation formula3.png]]
 
 ---
-### Opensim跟SCONE比較相近程度
-為了進行mi
+#### Opensim跟SCONE比較相近程度
 opensim vs scone
 ![[SCONE Opensim comparison result.png]]
 
