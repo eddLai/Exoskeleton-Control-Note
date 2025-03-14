@@ -296,9 +296,8 @@ Resources
 ## Deadline：2025/3/14\~2025/3/21
 - Mark: CEINMS, **6種不同參數的可能性**，用以之後對接fatigue方法學
 	- [x] 生理機制兩本書
-	- 對應不同的結果
-	- 或者數學模型以及預期差異
-	- fatigue方法學
+	- 數學模型以及預期差異(function block diagram)
+	- fatigue模型
 - Eric: **大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
 	- LIPM and LPM
 	- 外骨骼獨立模型的可視化mujuco>gazibo>pybullet
