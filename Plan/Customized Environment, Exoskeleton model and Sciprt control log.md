@@ -299,7 +299,7 @@ Resources
 	- 數學模型以及預期差異(function block diagram)
 	- fatigue模型
 - Eric: **大方向上**，只拿opensim IK出來的結果，根據第二點寫一個外骨骼仿人動作，外骨骼的觸發
-	- LIPM and LPM
+	- LIPM and LPM機器人模型
 	- 外骨骼獨立模型的可視化mujuco>gazibo>pybullet
 	- IMU偵測到的low activity(來自步態自發，而非抵抗的狀態)
 	- 提供一個類似暫停的按鈕的介面
