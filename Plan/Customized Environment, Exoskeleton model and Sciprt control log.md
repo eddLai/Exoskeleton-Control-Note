@@ -374,7 +374,7 @@ CEINMS vs SCONE
 硬體：需要壓力感測墊
 
 ---
-python直接控制外骨骼
+python直接控制外骨骼\
 SCONE更新
 
 ---
