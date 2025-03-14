@@ -334,6 +334,7 @@ SCONE倒立擺
 ---
 SCONE 驗證區間
 得到CEINMS結果很糟糕
+Opensim出來
 
 ---
 
