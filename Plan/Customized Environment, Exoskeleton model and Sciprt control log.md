@@ -371,8 +371,8 @@ GUI很難架\
 2025-03-11 20:11:26 SIGUSR1[soft,ping-restart] received, process restarting
 2025-03-11 20:11:31 TCP/UDP: Preserving recently used remote address: [AF_INET]140.113.98.129:1194
 ```
-2.解除P100 Dockercj/最小化
-3.
+2.解除P100 Docker容器最小化\
+3.GNOME需要開啟Docker的X11設定
 
 ---
 HyFyDy綁運算節點
