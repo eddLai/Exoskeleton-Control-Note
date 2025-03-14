@@ -327,11 +327,16 @@ Resources
 ---
 #### Phases of robot walking
 ![[LIPM and LPM model.png]]
+
+---
 SCONE則有
+![[phases of SCONE.png]]
 
 ---
 ![[LIPM formula.png]]
 2D要改3D
+
+---
 ZMP
 ![[ZMP foot strike model.png]]
 用能量去算
