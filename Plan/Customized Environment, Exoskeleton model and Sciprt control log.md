@@ -345,6 +345,7 @@ SCONE倒立擺
 
 ---
 Opensim出來
+![[SCONE Opensim comparison result.png]]
 
 ---
 得到CEINMS結果很糟糕，需要壓力感測墊
