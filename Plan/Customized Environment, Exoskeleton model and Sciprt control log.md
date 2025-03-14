@@ -337,7 +337,8 @@ SCONE 驗證區間
 Opensim出來
 
 ---
-python直接j/d
+reward
+python直接控制外骨骼
 
 ---
 
