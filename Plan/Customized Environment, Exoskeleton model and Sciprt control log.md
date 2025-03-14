@@ -350,3 +350,7 @@ python直接控制外骨骼
 ---
 解除P100最小化
 mv /home/110261026/CEINMS /home/110261026/Exoskeleton
+GUI很難架
+HPC綁運算節點
+
+---
