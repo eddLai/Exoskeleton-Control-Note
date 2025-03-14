@@ -321,7 +321,7 @@ Resources
 
 ---
 ![[LIPM and LPM model.png]]
-![[Pasted image 20250314123040.png]]
+![[LIPM formula.png]]
 2D要改3D
 ZMP
 ![[ZMP foot strike model.png]]
