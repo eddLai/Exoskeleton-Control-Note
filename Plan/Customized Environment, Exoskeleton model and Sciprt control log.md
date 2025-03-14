@@ -347,7 +347,7 @@ SCONE更新
 - Low_activity的階段
 
 ---
-## 架設P100使用環境
+### 架設P100使用環境
 %% mv /home/110261026/CEINMS /home/110261026/Exoskeleton %%
 GUI很難架\
 1.OpenVPN連線
@@ -375,7 +375,7 @@ GUI很難架\
 3.GNOME需要開啟Docker的X11設定
 
 ---
-HyFyDy綁運算節點
+### HyFyDy綁運算節點
 ```
 (base) eddlai.be10@DGX-CN01:~$ sconecmd --hyfydy id
 22:42:28 SCONE version 2.4.0.2990
