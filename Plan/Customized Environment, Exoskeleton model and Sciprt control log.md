@@ -337,7 +337,7 @@ SCONE則有
 2D要改3D
 
 ---
-ZMP
+ZMP另一個倒立擺行走的方法
 ![[ZMP foot strike model.png]]
 用能量去算
 
