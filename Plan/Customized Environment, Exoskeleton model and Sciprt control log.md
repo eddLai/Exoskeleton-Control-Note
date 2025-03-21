@@ -444,3 +444,4 @@ Fatigue團隊討論, 3月底\
 一定要去查一下別人做過的\
 一定要有虛擬端的馬達電流、IMU之類的，scaling factor
 ASAP
+肌肉圖到人
