@@ -440,4 +440,4 @@ Hardware ID: 8e6056df55deaa82
 ---
 Fatigue團隊討論, 3月底\
 6月四周美國醫學生\
-如果explanable方法花太多
+如果explanable方法花太多時間，就先暫停
