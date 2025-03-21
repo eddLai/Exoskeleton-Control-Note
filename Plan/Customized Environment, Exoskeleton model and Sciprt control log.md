@@ -440,4 +440,4 @@ Hardware ID: 8e6056df55deaa82
 ---
 Fatigue團隊討論, 3月底\
 6月四周美國醫學生\
-先把
+如果explanable方法掛掉了
