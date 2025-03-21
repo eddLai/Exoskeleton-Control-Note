@@ -442,4 +442,4 @@ Fatigue團隊討論, 3月底\
 6月四周美國醫學生\
 如果explanable方法花太多時間，就先暫停\
 一定要去查一下別人做過的\
-一定uscaling factor
+一定要有虛擬端的馬達電流，scaling factor
