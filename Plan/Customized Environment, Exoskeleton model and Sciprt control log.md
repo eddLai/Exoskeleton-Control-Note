@@ -32,7 +32,7 @@ Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model a
 </grid>
 
 <grid drag="50 10" drop="40 70">
-賴宏達、劉智翔、葉員
+賴宏達、劉智翔、葉
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
 
