@@ -32,7 +32,7 @@ Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model a
 </grid>
 
 <grid drag="50 10" drop="40 70">
-賴宏達、劉智翔
+賴宏達、劉智翔、葉vm
 <!-- element style="font-size: 40px;align: right; text-align: right"-->
 </grid>
 
@@ -446,4 +446,4 @@ Fatigue團隊討論, 3月底\
 ASAP
 肌肉圖到人造unit，跟安妤要
 
-下週二要準備demo化au0
+下週二要準備demo畫面介紹
