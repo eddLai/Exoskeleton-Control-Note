@@ -97,7 +97,7 @@ $$F_{\text{obj}} = \alpha \cdot \sum_{k \in DOFs}(\tau_k - \tilde{\tau}_k) ^2+\b
 ---
 parameters for each musculotendon unit.
 - musculotendon unit’s activation dynamics: excitation $\rightarrow$ activation
-- musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force![[Pasted image 20250324185615.png]]
+- musculotendon contraction dynamics: activation and kinematics $\rightarrow$ force
 
 ![[data processing flow showing dynamics.png]]
 check<!-- element class="with-border"-->
