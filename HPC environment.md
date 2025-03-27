@@ -96,4 +96,17 @@ Hardware ID: 8e6056df55deaa82
 ---
 ## setup
 ```
+export PATH=$PATH:/home/aa0463/eddlai.be10/.local/bin
+export LD_LIBRARY_PATH=/home/aa0463/eddlai.be10/.conda/envs/simulation/lib:$LD_>
+export PATH=$PATH:/home/aa0463/eddlai.be10/opt/scone/bin
+export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH
+export QT_QPA_PLATFORM_PLUGIN_PATH=$CONDA_PREFIX/plugins/platforms
+export QT_PLUGIN_PATH=$CONDA_PREFIX/lib/qt/plugins/platforms
+export QT_QPA_PLATFORM_PLUGIN_PATH=$CONDA_PREFIX/lib/qt/plugins/platforms
+export DISPLAY=localhost:10.0
+# 修復 OpenGL 錯誤的環境變數
+export LD_LIBRARY_PATH=/usr/lib/x86_64-linux-gnu:$LD_LIBRARY_PATH
+export PATH=$CONDA_PREFIX/bin:$PATH
+export LD_LIBRARY_PATH=$CONDA_PREFIX/lib:$LD_LIBRARY_PATH:wq
+
 ```
