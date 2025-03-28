@@ -89,7 +89,6 @@ Save the excitations to a controls file (e.g., **leg69_Forward_Controls_<muscle_
 ```
 
 ---
-### Static Optimization (SO)
-找解，應該用不到
+找解，用不到
 
 ---
