@@ -475,6 +475,7 @@ ASAP
 ---
 要操作model有哪些事情要做
 >The controller is defined by a set of control nodes (time and value pairs) that are linearly interpolated over time to form the muscle excitation signal.
+[[openssim]]
 
 ---
 ### manually selected excitations
