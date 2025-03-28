@@ -455,7 +455,7 @@ ASAP
 
 
 ---
-## Deadline2025
+## Deadline2025/04/04
 本周目標：
 - 跟台科大團隊報告的內容
 	- 用[Part I: Leg Muscle Force Estimation in Swing - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088647/Part+I+Leg+Muscle+Force+Estimation+in+Swing), `B. Simulate swing phase with manually selected excitations`去驗證想法，
