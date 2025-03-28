@@ -452,3 +452,7 @@ ASAP
 要搞硬體，那好像要把別人的設計給偷過來，如果買下來我們能把他拆了自己搞嗎?其實應該不錯
 - 把Mark, Cheng給找來一起研究要不要買hypershell來逆向工程(我出錢)
 - 自己複刻一條福寶的產線出來
+
+---
+[2025 gSIC 全球學生復健工程與輔助科技創新競賽-臺灣選拔賽 – 健康福祉領域教學推動中心](https://phhw.kmu.edu.tw/2025-gsic-%E8%87%BA%E7%81%A3%E8%B3%BD/)
+[Project Description 1000.docx](https://nycu1-my.sharepoint.com/:w:/g/personal/sean950521_be13_m365_nycu_edu_tw/EU-ojMrh4TdLgpPN6Zz-jfEBlUn9weM5RUVkMOaO7zuWcA?rtime=YFAb35Rt3Ug)
