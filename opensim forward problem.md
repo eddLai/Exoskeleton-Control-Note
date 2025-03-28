@@ -24,7 +24,7 @@
 	}
 </style>
 <grid drag="60 10" drop="-3 40">
-Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model and its control) needs better simulation cerebellum
+opensim control  
 <!-- element style="font-size: 35px;align: left; text-align: left;color: white"-->
 </grid>
 
@@ -35,6 +35,7 @@ Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model a
 
 <!-- slide bg="../NTKLab_white bg_cover_resize.png"-->
 
+---
 從已知的力量推導運動。
 1. Forward Dynamics with Known Controls: 需要adding a controller
 2. [[Shooting Methods]]
