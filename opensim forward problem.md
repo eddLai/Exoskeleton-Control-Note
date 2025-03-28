@@ -24,7 +24,7 @@
 	}
 </style>
 <grid drag="60 10" drop="-3 40">
-opensim control  
+Control  muscleskeletal model using 
 <!-- element style="font-size: 35px;align: left; text-align: left;color: white"-->
 </grid>
 
