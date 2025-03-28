@@ -480,4 +480,6 @@ ASAP
 >Save the excitations to a controls file (e.g., leg69_Forward_Controls_<muscle_name>.xml).\
 >怎麼把CEINMS的結果輸入到這裡頭
 
-![[Pasted image 20250328145735.png]]
+![[manually excitation.png]]
+
+---
