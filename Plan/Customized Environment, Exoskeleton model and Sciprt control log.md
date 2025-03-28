@@ -460,7 +460,7 @@ ASAP
 - [2025 gSIC 全球學生復健工程與輔助科技創新競賽-臺灣選拔賽 – 健康福祉領域教學推動中心](https://phhw.kmu.edu.tw/2025-gsic-%E8%87%BA%E7%81%A3%E8%B3%BD/)
 	- [Project Description 1000.docx](https://nycu1-my.sharepoint.com/:w:/g/personal/sean950521_be13_m365_nycu_edu_tw/EU-ojMrh4TdLgpPN6Zz-jfEBlUn9weM5RUVkMOaO7zuWcA?rtime=YFAb35Rt3Ug)
 
-患者虛擬化神經肌肉骨骼外骨骼輔助模型基於無標記動作捕捉
+au/6/t 患者虛擬化神經肌肉骨骼外骨骼輔助模型基於無標記動作捕捉
 
 跟Mark討論
 [Part I: Leg Muscle Force Estimation in Swing - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53088647/Part+I+Leg+Muscle+Force+Estimation+in+Swing)
