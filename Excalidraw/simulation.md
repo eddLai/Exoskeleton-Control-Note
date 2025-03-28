@@ -42,7 +42,7 @@ CEINMS ^Et5tr3aN
 
 cea75b73dd6170730745354975311d269580a73d: [[Pasted Image 20250328132058_031.png]]
 
-07da896e6acdf750fd6969c17334207ceaee7fbb: [[exo_milestone_raw_0.png]]
+07da896e6acdf750fd6969c17334207ceaee7fbb: [[CEINMS_1.png]]
 
 db62616c5d1c6564b74564a98e325692de656612: [[exo_milestone_raw_1.png]]
 
