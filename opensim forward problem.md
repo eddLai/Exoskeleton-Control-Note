@@ -87,8 +87,3 @@ Save the excitations to a controls file (e.g., **leg69_Forward_Controls_<muscle_
 					</ControlLinearNode>
 					<ControlLinearNode>
 ```
-
----
-找解，用不到
-
----
