@@ -1,5 +1,7 @@
-
 ---
+bg: "[[NTKLab_white bg.png]]"
+---
+
 <style>
     .reveal {
         font-family: 'Times New Roman', '標楷體';
