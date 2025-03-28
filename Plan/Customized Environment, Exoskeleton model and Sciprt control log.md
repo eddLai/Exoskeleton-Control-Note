@@ -471,4 +471,6 @@ ASAP
 	- 怎麼改reward code
 
 
+---
 
+The controller is defined by a set of control nodes (time and value pairs) that are linearly interpolated over time to form the muscle excitation signal.
