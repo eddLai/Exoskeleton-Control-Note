@@ -476,8 +476,9 @@ ASAP
 >The controller is defined by a set of control nodes (time and value pairs) that are linearly interpolated over time to form the muscle excitation signal.
 
 ---
-[Opening and Restoring Excitation Editor - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089919/Opening+and+Restoring+Excitation+Editor)可以用Excitation editor去處理CEINMS生出的檔案
->Save the excitations to a controls file (e.g., leg69_Forward_Controls_<muscle_name>.xml).\
+[Opening and Restoring Excitation Editor - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089919/Opening+and+Restoring+Excitation+Editor)\
+可以用Excitation editor去處理CEINMS生出的檔案
+Save the excitations to a controls file (e.g., leg69_Forward_Controls_<muscle_name>.xml).\
 >怎麼把CEINMS的結果輸入到這裡頭
 
 ![[manually excitation.png]]
