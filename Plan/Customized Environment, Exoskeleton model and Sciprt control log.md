@@ -484,6 +484,7 @@ Save the excitations to a controls file (e.g., **leg69_Forward_Controls_<muscle_
 ![[manually excitation.png]]
 
 ---
+需要自動轉檔
 ```
 <?xml version="1.0" encoding="UTF-8" ?>
 <OpenSimDocument Version="30000">
@@ -514,58 +515,6 @@ Save the excitations to a controls file (e.g., **leg69_Forward_Controls_<muscle_
 						<value>0.02</value>
 					</ControlLinearNode>
 					<ControlLinearNode>
-						<t>0.266666666666667</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.333333333333333</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.4</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.466666666666667</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.533333333333333</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.6</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.666666666666667</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.733333333333333</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.8</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.866666666666667</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>0.933333333333333</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-					<ControlLinearNode>
-						<t>1</t>
-						<value>0.02</value>
-					</ControlLinearNode>
-				</x_nodes>
-				<min_nodes />
-				<max_nodes />
-				<kp>100</kp>
-				<kv>20</kv>
 ```
 
 ---
