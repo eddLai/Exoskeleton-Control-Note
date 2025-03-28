@@ -1,4 +1,5 @@
 
+---
 <style>
     .reveal {
         font-family: 'Times New Roman', '標楷體';
@@ -24,7 +25,7 @@
 	}
 </style>
 <grid drag="60 10" drop="-3 40">
-Control  muscleskeletal model using 
+Control  muscleskeletal model using OpenSim
 <!-- element style="font-size: 35px;align: left; text-align: left;color: white"-->
 </grid>
 
