@@ -477,4 +477,4 @@ ASAP
 >The controller is defined by a set of control nodes (time and value pairs) that are linearly interpolated over time to form the muscle excitation signal.
 
 雖然在SCONE的forward失敗了，但是[[opensim forward problem]]應該值得一試
-先用GUI然後
+先部分用GUI然後再整合成code的流程
