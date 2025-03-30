@@ -483,6 +483,6 @@ ASAP
 
 ---
 - 有一個新的CEINMS+Mark的Fatigue模型
-- 透過
-- CPG環境的fa
+- 透過punish的DL
+- CPG環境的fatigue項目模擬
 - [Using Simulink with Python - MATLAB](https://www.mathworks.com/videos/using-simulink-with-python-1683218506123.html)
