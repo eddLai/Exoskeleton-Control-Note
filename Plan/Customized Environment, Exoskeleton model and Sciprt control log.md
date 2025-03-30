@@ -486,12 +486,12 @@ ASAP
 1. 有一個新的CEINMS+Mark的Fatigue模型理論論述(作圖) (週二中午)
 2. 透過simulink的檔案生成以及數據結果演示 (週三)
 	- 怎麼把CEINMS包裝成simulink可以接的結構?
+	- simul
 3. 透過opensim的簡單展示成果 (週四)
 4. 透過punish的DL reward架構 理論論述 (週五)
 5. CPG環境的fatigue項目模擬 理論論述 (週五)
 
 ---
-- [Using Simulink with Python - MATLAB](https://www.mathworks.com/videos/using-simulink-with-python-1683218506123.html)
 - Mimic方法是首要任務(但其實說不定可以不用)
 - 需要快進到外骨骼的控制
 	- 外骨骼的模型怎麼做(Eddie and Sean)
