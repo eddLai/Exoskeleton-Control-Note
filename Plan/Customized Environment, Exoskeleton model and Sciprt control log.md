@@ -483,7 +483,7 @@ ASAP
 
 ---
 
-1. 有一個新的CEINMS+Mark的Fatigue模型理論論述 (週二中午)
+1. 有一個新的CEINMS+Mark的Fatigue模型理論論述(ㄗㄨㄛ) (週二中午)
 2. 透過simulink的檔案生成以及數據結果演示 (週三)
 3. 透過opensim的簡單展示成果 (週四)
 4. 透過punish的DL reward架構 理論論述 (週五)
