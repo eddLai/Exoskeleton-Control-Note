@@ -493,5 +493,5 @@ ASAP
 - [Using Simulink with Python - MATLAB](https://www.mathworks.com/videos/using-simulink-with-python-1683218506123.html)
 - Mimic方法是首要任務(但其實說不定可以不用)
 - 需要快進到外骨骼的控制
-	- 外骨骼的模型怎麼做(我跟sean)
-	- CPG加上docker環境的SCONE改動()
+	- 外骨骼的模型怎麼做(Eddie and Sean)
+	- CPG加上docker環境的SCONE改動(Eric and Sean)
