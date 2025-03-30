@@ -484,7 +484,7 @@ ASAP
 ---
 
 1. 有一個新的CEINMS+Mark的Fatigue模型理論論述
-2. 透過simulink的檔案生成以及數據掩飾
+2. 透過simulink的檔案生成以及數據結果演示
 3. 透過opensim的工程進度
 4. 透過punish的DL reward架構 理論論述
 5. CPG環境的fatigue項目模擬 理論論述
