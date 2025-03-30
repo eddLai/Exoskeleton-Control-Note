@@ -482,5 +482,5 @@ ASAP
 >找解，用不到Static Optimization (SO) and CMC
 
 ---
-ㄧ
+有一個新的CEINMS+
 - [Using Simulink with Python - MATLAB](https://www.mathworks.com/videos/using-simulink-with-python-1683218506123.html)
