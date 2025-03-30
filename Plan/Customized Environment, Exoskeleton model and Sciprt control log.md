@@ -495,3 +495,4 @@ ASAP
 - 需要快進到外骨骼的控制
 	- 外骨骼的模型怎麼做(Eddie and Sean)
 	- CPG加上docker環境的SCONE改動(Eric and Sean)
+計劃書的重點【
