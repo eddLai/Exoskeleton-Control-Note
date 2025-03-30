@@ -492,4 +492,4 @@ ASAP
 ---
 - [Using Simulink with Python - MATLAB](https://www.mathworks.com/videos/using-simulink-with-python-1683218506123.html)
 - Mimic方法是首要任務(但其實說不定可以不用)
-- 需要快進到外骨骼的
+- 需要快進到外骨骼的控制(討論怎麼樣最快做出東西)
