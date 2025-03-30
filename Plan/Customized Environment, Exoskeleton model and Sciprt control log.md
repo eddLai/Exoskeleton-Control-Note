@@ -471,6 +471,7 @@ ASAP
 	- 架好P100環境
 	- 怎麼改reward code
 
+[[simulation]]
 
 ---
 要操作model有哪些事情要做
@@ -479,3 +480,6 @@ ASAP
 雖然在SCONE的forward失敗了，但是[[opensim forward problem]]應該值得一試
 先部分用GUI然後再整合成code的流程
 >找解，用不到Static Optimization (SO) and CMC
+
+---
+[Using Simulink with Python - MATLAB](https://www.mathworks.com/videos/using-simulink-with-python-1683218506123.html)
