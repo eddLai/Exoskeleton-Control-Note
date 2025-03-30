@@ -497,4 +497,4 @@ ASAP
 	- CPG加上docker環境的SCONE改動(Eric and Sean)
 
 計劃書的重點「我們的東西(新理論)+對於應用上的論述」\
-*"Deploying rehabilitation exoskeleton with digital twins in synthetic data generation on neuro-musculoskeletal modeling"*
+*"Deploying rehabilitation exoskeleton with ==digital twins== in synthetic data generation on neuro-musculoskeletal modeling"*
