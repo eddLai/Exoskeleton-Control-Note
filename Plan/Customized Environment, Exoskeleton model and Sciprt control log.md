@@ -482,9 +482,10 @@ ASAP
 >找解，用不到Static Optimization (SO) and CMC
 
 ---
+
 - 有一個新的CEINMS+Mark的Fatigue模型
 - 透過simulink的檔案生成以及數據掩飾
-- 透過
+- 透過opensim的工程進度
 - 透過punish的DL reward架構
 - CPG環境的fatigue項目模擬
 - [Using Simulink with Python - MATLAB](https://www.mathworks.com/videos/using-simulink-with-python-1683218506123.html)
