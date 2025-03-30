@@ -483,7 +483,8 @@ ASAP
 
 ---
 - 有一個新的CEINMS+Mark的Fatigue模型
-- 透過simulink的簡單掩飾
+- 透過simulink的檔案生成以及數據掩飾
+- 透過
 - 透過punish的DL reward架構
 - CPG環境的fatigue項目模擬
 - [Using Simulink with Python - MATLAB](https://www.mathworks.com/videos/using-simulink-with-python-1683218506123.html)
