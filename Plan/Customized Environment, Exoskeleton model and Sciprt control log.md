@@ -509,5 +509,5 @@ data generation 改成 data synthesis
 - 技術難點
 	- Fatigue
 	- 人機互動的困難
-	- 
+	- 建出本人的M
 移植性
