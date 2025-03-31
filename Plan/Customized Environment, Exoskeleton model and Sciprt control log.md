@@ -504,4 +504,5 @@ data generation 改成 data synthesis
 先介紹
 專案背景 -> 點出想要解決的問題
 方法
-
+詳細講對於醫療
+移植性
