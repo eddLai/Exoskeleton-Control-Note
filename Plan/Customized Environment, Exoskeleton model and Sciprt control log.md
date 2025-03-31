@@ -509,6 +509,6 @@ data generation 改成 data synthesis
 - 技術難點
 	- Fatigue
 	- HMI人機互動的困難
-	- 對於患者長時間
+	- 對於患者長時間訓練會出現的問題
 	- 建出本人的Mimic方法
 移植性
