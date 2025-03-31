@@ -502,5 +502,5 @@ ASAP
 data generation 改成 data synthesis
 
 先介紹
-專案背景
-研究方法
+專案背景 -
+方法
