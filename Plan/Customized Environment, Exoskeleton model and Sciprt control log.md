@@ -510,5 +510,5 @@ data generation 改成 data synthesis
 	- Fatigue
 	- HMI人機互動的困難
 	- 對於患者長時間
-	- 建出本人的Mimic
+	- 建出本人的Mimic方法
 移植性
