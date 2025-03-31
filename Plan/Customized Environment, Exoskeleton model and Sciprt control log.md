@@ -512,3 +512,4 @@ data generation 改成 data synthesis
 	- 對於患者長時間訓練會出現的問題
 	- 建出本人的Mimic方法
 移植性
+
