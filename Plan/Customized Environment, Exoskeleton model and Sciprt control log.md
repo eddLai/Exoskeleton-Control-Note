@@ -501,5 +501,6 @@ ASAP
 *"Deploying ==rehabilitation== exoskeleton with ==digital twins== in synthetic data generation on neuro-musculoskeletal modeling"*
 data generation 改成 data synthesis
 
-先介紹研究背景
-研究方法\
+先介紹
+專案背景
+研究方法
