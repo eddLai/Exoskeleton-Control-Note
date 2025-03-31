@@ -502,4 +502,4 @@ ASAP
 data generation 改成 data synthesis
 
 先介紹研究背景
-研究用
+研究方法\
