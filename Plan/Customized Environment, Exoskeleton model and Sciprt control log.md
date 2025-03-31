@@ -501,6 +501,7 @@ ASAP
 *"Deploying ==rehabilitation== exoskeleton with ==digital twins== in synthetic data generation on neuro-musculoskeletal modeling"*
 data generation 改成 data synthesis
 
+800~850的字差不多
 先介紹
 專案背景 -> 點出想要解決的問題
 方法
