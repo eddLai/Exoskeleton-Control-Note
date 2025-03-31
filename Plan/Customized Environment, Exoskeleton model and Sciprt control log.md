@@ -508,6 +508,6 @@ data generation 改成 data synthesis
 - 詳細介紹對於醫療上的用途以及規劃，用於老人行走等日常需求
 - 技術難點
 	- Fatigue
-	- 人機互動的困難
-	- 建出本人的M
+	- HMI人機互動的困難
+	- 建出本人的Mimic
 移植性
