@@ -119,9 +119,9 @@ Lab PC, it's the JumpProxy for the HPC NYCU
 - sean@120.126.83.67
 	- RDP3400
 	- password: 0000
-- exo@120.126.94.127:3400
+- `exo@120.126.94.127`:3400
 	- yylab123
-- 140.113.9.253 need jumpremote from inner IP of NYCU
+- `140.113.9.253` need jumpremote from inner IP of NYCU
 	- yylab123
 
 ---
