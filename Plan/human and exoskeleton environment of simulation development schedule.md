@@ -54,7 +54,7 @@ EMG side project: [[bionic hand myocontrol]]
 ---
 # Related Links
 ## Environment setup
-script: https://drive.google.com/file/d/1hkAW0v1uI5a-RmqmFO94sdbuqrGNXU6K/view?usp=sharing
+- script: https://drive.google.com/file/d/1hkAW0v1uI5a-RmqmFO94sdbuqrGNXU6K/view?usp=sharing
 - Ubuntu+mamba+conda+git
 - Data of motion capture and EMG(sean1009): https://drive.google.com/file/d/16MtPkEdB8mLzgeYqDPMfbAr_ctd6Iz3X/view?usp=drivesdk
 - github code: https://github.com/eddLai/ExoskeletonPowerAsistance.git
