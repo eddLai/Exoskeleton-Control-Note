@@ -122,6 +122,7 @@ Lab PC, it's the JumpProxy for the HPC NYCU
 - exo@120.126.94.127:3400
 	- yylab123
 - 140.113.9.253 need jumpremote from inner IP of NYCU
+	- yylab123
 
 ---
 # Archive
