@@ -96,16 +96,16 @@ gmail:
 
 github:
 - eddLai
-gnaixihz
-EricTseng0109
-JacobwannabeaGAMEDEV
+- gnaixihz
+- EricTseng0109
+- JacobwannabeaGAMEDEV
 
 -----------------------------------------------------
 Chatgpt, I have two paid account
-新帳號chatgpt420240311
-密碼：chatgpt40101010101
-帳號:chatgpt420230901@gmail.com
-密碼:chatgpt0101010101
+- 新帳號chatgpt420240311@gmail.com
+- 密碼：chatgpt40101010101
+- 帳號:chatgpt420230901@gmail.com
+- 密碼:chatgpt0101010101
 
 -----------------------------------------------------
 for literature review, I recommend using NotebookLM
