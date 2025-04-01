@@ -1,12 +1,12 @@
 EMG side project: [[bionic hand myocontrol]]
 ![[division of work with new members 20250217.png]]
 
-| Date             | Duration length | task                                                                  | check      | Note            | developer |
-| ---------------- | --------------- | --------------------------------------------------------------------- | ---------- | --------------- | --------- |
-| 24/10/10~25/1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                            | v          | 用的是矢狀面的人體模型     |           |
-| 25/1/16~25/3/15~ |                 | [[Customized Environment, Exoskeleton model and Sciprt control log]]  | 還需要mimic方法 | SCONE simulator |           |
-|                  |                 | [[Review the Exoskeleton control algorithm and level of fatigue log]] |            |                 |           |
-|                  |                 | 封裝進K24 SoC                                                            |            |                 |           |
+| Date             | Duration length | task                                                                  | check      | Note            | developer   |
+| ---------------- | --------------- | --------------------------------------------------------------------- | ---------- | --------------- | ----------- |
+| 24/10/10~25/1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                            | v          | 用的是矢狀面的人體模型     | eddie, sean |
+| 25/1/16~25/3/15~ |                 | [[Customized Environment, Exoskeleton model and Sciprt control log]]  | 還需要mimic方法 | SCONE simulator | eddie, sean |
+|                  |                 | [[Review the Exoskeleton control algorithm and level of fatigue log]] |            |                 |             |
+|                  |                 | 封裝進K24 SoC                                                            |            |                 |             |
 
 Phase1遺留問題：
 - Full body model or , 11初過後再說
