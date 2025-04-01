@@ -101,3 +101,48 @@ https://github.com/eddLai/Exoskeleton-Control-Note/blob/main/Plan/human%20and%20
 
 experiment datas
 https://drive.google.com/drive/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C?usp=sharing
+
+---
+## tools and accounts
+meeting url
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2E3YmIzM2QtNTYwMS00MGRiLTgwY2EtM2M4MGJiNzFiOTY1%40thread.v2/0?context=%7b%22Tid%22%3a%2280a9abdb-7cef-443c-b040-3f8e75e9232e%22%2c%22Oid%22%3a%22fb861fb3-fd69-4b5a-8341-7dc6ceb4a2b9%22%7d
+
+-----------------------------------------------------
+gmail:
+陳右穎YY: youyin.chen@gmail.com 0937820318
+賴宏達eddie: eddlai.be10@nycu.edu.tw 0983088254
+劉智翔 Sean: sean950521.be13@nycu.edu.tw 0908942096
+葉亘祐 Mark: markceo.ci13@nycu.edu.tw 0906977685
+曾俊魁 Eric: erictseng930109@gmail.com 0926541227
+Aaron: aaronwang0809@gmail.com
+王牧華 Maurice mauricewang1128@gmail.com
+
+github:
+eddLai
+gnaixihz
+EricTseng0109
+JacobwannabeaGAMEDEV
+
+-----------------------------------------------------
+Chatgpt, I have two paid account
+新帳號chatgpt420240311
+密碼：chatgpt40101010101
+帳號:chatgpt420230901@gmail.com
+密碼:chatgpt0101010101
+
+-----------------------------------------------------
+for literature review, I recommend using NotebookLM
+https://notebooklm.google/
+
+-----------------------------------------------------
+Lab PC, it's the JumpProxy for the HPC NYCU
+ntk@120.126.83.67 
+RDP 3390
+password: yylab123
+or
+sean@120.126.83.67
+RDP3400
+password: 0000
+
+exo@120.126.94.127:3400
+yylab123
