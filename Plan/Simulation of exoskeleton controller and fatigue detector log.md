@@ -26,7 +26,7 @@ bg: "[[NTKLab_white bg.png]]"
 	}
 </style>
 <grid drag="60 10" drop="-3 40">
-Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model and its control) needs better simulation cerebellum
+Develop log: EXO in simulation
 <!-- element style="font-size: 35px;align: left; text-align: left;color: white"-->
 </grid>
 
