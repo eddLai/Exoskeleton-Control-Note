@@ -514,3 +514,4 @@ data generation 改成 data synthesis
 移植性
 
 ---
+討論：現在已經可以用的人體行走模型應該也可以用到人身上吧
