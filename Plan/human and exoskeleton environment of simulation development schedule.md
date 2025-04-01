@@ -75,6 +75,7 @@ EMG side project: [[bionic hand myocontrol]]
 https://miro.com/welcomeonboard/MW5VQ0Z6RzdydVZXRnB3SEI0ZThETTdyaTlqdE1OVmo0elFwRndUWGE4akx0d1lLNURQNFp3dmltUU1nclN5YXwzNDU4NzY0NTc0OTA5NzMzNTQ4fDI=?share_link_id=448721730790
 
 ---
+# Related Links
 ## Environment setup
 script: https://drive.google.com/file/d/1hkAW0v1uI5a-RmqmFO94sdbuqrGNXU6K/view?usp=sharing
 - Ubuntu+mamba+conda+git
