@@ -53,7 +53,7 @@ EMG side project: [[bionic hand myocontrol]]
 - 用Scaled過的會controller對不上，先暫停可能可以用depRL解決
 
 ---
-# Archi
+# Archive
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
