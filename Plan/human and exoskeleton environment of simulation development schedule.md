@@ -1,4 +1,4 @@
-# Main sche
+# Main schedule
 EMG side project: [[bionic hand myocontrol]]
 ![[division of work with new members 20250217.png]]
 
@@ -10,7 +10,7 @@ EMG side project: [[bionic hand myocontrol]]
 |                  |                 | [[deployment of Exoskeleton controller from sim to real]]             |            |                 |                   |
 
 ---
-## Phase1遺留問題：
+## stage1遺留問題：
 - Full body model or , 11初過後再說
 - H0918 -> RLU2023
 - 為什麼有時候錄下來的資料整個左標系統是反的
@@ -53,7 +53,7 @@ EMG side project: [[bionic hand myocontrol]]
 - 用Scaled過的會controller對不上，先暫停可能可以用depRL解決
 
 ---
-# 
+# Archi
 
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
