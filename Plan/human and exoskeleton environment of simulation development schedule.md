@@ -86,16 +86,16 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2E3YmIzM2QtNTYwMS00MGRiL
 
 -----------------------------------------------------
 gmail:
-陳右穎YY: youyin.chen@gmail.com 0937820318
-賴宏達eddie: eddlai.be10@nycu.edu.tw 0983088254
-劉智翔 Sean: sean950521.be13@nycu.edu.tw 0908942096
-葉亘祐 Mark: markceo.ci13@nycu.edu.tw 0906977685
-曾俊魁 Eric: erictseng930109@gmail.com 0926541227
-Aaron: aaronwang0809@gmail.com
-王牧華 Maurice mauricewang1128@gmail.com
+- 陳右穎YY: youyin.chen@gmail.com 0937820318
+- 賴宏達eddie: eddlai.be10@nycu.edu.tw 0983088254
+- 劉智翔 Sean: sean950521.be13@nycu.edu.tw 0908942096
+- 葉亘祐 Mark: markceo.ci13@nycu.edu.tw 0906977685
+- 曾俊魁 Eric: erictseng930109@gmail.com 0926541227
+- Aaron: aaronwang0809@gmail.com
+- 王牧華 Maurice mauricewang1128@gmail.com
 
 github:
-eddLai
+- eddLai
 gnaixihz
 EricTseng0109
 JacobwannabeaGAMEDEV
