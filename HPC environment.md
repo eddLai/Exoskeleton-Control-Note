@@ -24,6 +24,7 @@
 
 Docker是靠Enroot實現的
 
+`srun --partition=trialq --gres=gpu:1 --time=00:20:00 --ntasks=1 --cpus-per-task=20 --pty bash`
 `squeue -u eddlai.be10`
 `scontrol show job <JOBID>`
 
