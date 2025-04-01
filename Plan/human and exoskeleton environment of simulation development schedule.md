@@ -71,12 +71,10 @@ script: https://drive.google.com/file/d/1hkAW0v1uI5a-RmqmFO94sdbuqrGNXU6K/view?u
 	- core code: https://github.com/eddLai/ExoskeletonPowerAsistance.git
 	- SCONE_modified_src_labold: https://github.com/DiRussoAndrea/Spinal_controller/tree/main
 	- SCONE_modified_src: https://github.com/DiRussoAndrea/Spinal_controller/tree/main
-
-develope log:
-https://github.com/eddLai/Exoskeleton-Control-Note/blob/main/Plan/human%20and%20exoskeleton%20environment%20of%20simulation%20development%20schedule.md
-
-experiment datas
-https://drive.google.com/drive/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C?usp=sharing
+- develope log:
+	- https://github.com/eddLai/Exoskeleton-Control-Note/blob/main/Plan/human%20and%20exoskeleton%20environment%20of%20simulation%20development%20schedule.md
+- experiment datas
+	- https://drive.google.com/drive/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C?usp=sharing
 
 ---
 ## tools and accounts
