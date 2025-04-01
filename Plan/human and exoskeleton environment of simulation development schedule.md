@@ -68,3 +68,14 @@ Phase1遺留問題：
 
 ![[EXO_schedule_20241101.png]]
 https://miro.com/welcomeonboard/MW5VQ0Z6RzdydVZXRnB3SEI0ZThETTdyaTlqdE1OVmo0elFwRndUWGE4akx0d1lLNURQNFp3dmltUU1nclN5YXwzNDU4NzY0NTc0OTA5NzMzNTQ4fDI=?share_link_id=448721730790
+
+---
+## Environment setup
+script: https://drive.google.com/file/d/1hkAW0v1uI5a-RmqmFO94sdbuqrGNXU6K/view?usp=sharing
+- Ubuntu+mamba+conda+git
+- Data of motion capture and EMG(sean1009): https://drive.google.com/file/d/16MtPkEdB8mLzgeYqDPMfbAr_ctd6Iz3X/view?usp=drivesdk
+
+- github code: https://github.com/eddLai/ExoskeletonPowerAsistance.git
+- pls find out these download link on [SimTK: Welcome](https://simtk.org/)
+ - Download: python3.11+opensim_python+opensim4.4+CEINMS
+ - Download: python3.9+peotry+SCONEpy+SCONE+HyFyDy
