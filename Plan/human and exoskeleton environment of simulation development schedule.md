@@ -121,7 +121,7 @@ Lab PC, it's the JumpProxy for the HPC NYCU
 	- password: 0000
 - exo@120.126.94.127:3400
 	- yylab123
-- 172.30.16.26 need jumpremote from inner IP of 
+- 172.30.16.26 need jumpremote from inner IP of NYCU
 
 ---
 # Archive
