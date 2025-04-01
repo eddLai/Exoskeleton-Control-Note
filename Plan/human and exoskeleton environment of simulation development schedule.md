@@ -1,4 +1,5 @@
 EMG side project: [[bionic hand myocontrol]]
+![[division of work with new members 20250217.png]]
 
 | Date       | Duration length | task                                                                  | check | Note            |
 | ---------- | --------------- | --------------------------------------------------------------------- | ----- | --------------- |
