@@ -102,9 +102,9 @@ github:
 
 -----------------------------------------------------
 Chatgpt, I have two paid account
-- 新帳號chatgpt420240311@gmail.com
+- 新帳號 chatgpt420240311@gmail.com
 - 密碼：chatgpt40101010101
-- 帳號:chatgpt420230901@gmail.com
+- 帳號: chatgpt420230901@gmail.com
 - 密碼:chatgpt0101010101
 
 -----------------------------------------------------
