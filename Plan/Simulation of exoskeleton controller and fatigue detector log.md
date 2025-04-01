@@ -115,4 +115,4 @@ data generation 改成 data synthesis
 	- 建出本人的Mimic方法
 
 ---
-討論：現在已經可以用的人體行走模型應該也可以用到人身上吧
+討論：現在已經可以用的policy人體行走模型應該也可以用到人身上吧
