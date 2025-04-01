@@ -50,6 +50,9 @@ Phase1遺留問題：
 		- [How Forward Dynamics Works - OpenSim Documentation - OpenSim](https://opensimconfluence.atlassian.net/wiki/spaces/OpenSim/pages/53089643/How+Forward+Dynamics+Works)
 - 用Scaled過的會controller對不上，先暫停可能可以用depRL解決
 
+---
+# 
+
 | Date  | Duration length | task                                                            | check |
 | ----- | --------------- | --------------------------------------------------------------- | ----- |
 | 10/13 | 1 month         | [[mocap+emg standing and walking sim log]]                      |       |
