@@ -6,7 +6,7 @@ EMG side project: [[bionic hand myocontrol]]
 | ---------------- | --------------- | --------------------------------------------------------------------- | ---------- | --------------- | ----------------- |
 | 24/10/10-25/1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                            | v          | 用的是矢狀面的人體模型     | eddie, sean       |
 | 25/1/16-25/3/15- |                 | [[Customized Environment, Exoskeleton model and Sciprt control log]]  | 還需要mimic方法 | SCONE simulator | eddie, sean       |
-| 25/3/            |                 | [[Review the Exoskeleton control algorithm and level of fatigue log]] |            |                 | mark, eric, Aaron |
+| 25/3/20          |                 | [[Review the Exoskeleton control algorithm and level of fatigue log]] |            |                 | mark, eric, Aaron |
 |                  |                 | [[deployment of Exoskeleton controller from sim to real]]             |            |                 |                   |
 
 ---
