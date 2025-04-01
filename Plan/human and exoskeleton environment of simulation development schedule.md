@@ -3,8 +3,8 @@ EMG side project: [[bionic hand myocontrol]]
 
 | Date             | Duration length | task                                                                  | check      | Note            |
 | ---------------- | --------------- | --------------------------------------------------------------------- | ---------- | --------------- |
-| 24/10/10~26/1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                            | v          | 用的是矢狀面的人體模型     |
-| 25/1/16~25/      |                 | [[Customized Environment, Exoskeleton model and Sciprt control log]]  | 還需要mimic方法 | SCONE simulator |
+| 24/10/10~25/1/16 | ~~1 week~~      | [[mocap+emg standing and walking sim log]]                            | v          | 用的是矢狀面的人體模型     |
+| 25/1/16~25/3/15~ |                 | [[Customized Environment, Exoskeleton model and Sciprt control log]]  | 還需要mimic方法 | SCONE simulator |
 |                  |                 | [[Review the Exoskeleton control algorithm and level of fatigue log]] |            |                 |
 |                  |                 | 封裝進K24 SoC                                                            |            |                 |
 
