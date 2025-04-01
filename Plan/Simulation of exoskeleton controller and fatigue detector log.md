@@ -85,7 +85,6 @@ ASAP
 >找解，用不到Static Optimization (SO) and CMC
 
 ---
-
 1. 有一個新的CEINMS+Mark的Fatigue模型理論論述(作圖) (週二中午)
 2. 透過simulink的檔案生成以及數據結果演示 (週三)
 	- 怎麼把CEINMS包裝成simulink可以接的結構?
@@ -114,7 +113,6 @@ data generation 改成 data synthesis
 	- HMI人機互動的困難
 	- 對於患者長時間訓練會出現的問題
 	- 建出本人的Mimic方法
-移植性
 
 ---
 討論：現在已經可以用的人體行走模型應該也可以用到人身上吧
