@@ -113,13 +113,12 @@ https://notebooklm.google/
 
 -----------------------------------------------------
 Lab PC, it's the JumpProxy for the HPC NYCU
-ntk@120.126.83.67 
-RDP 3390
-password: yylab123
-or
-sean@120.126.83.67
-RDP3400
-password: 0000
+- ntk@120.126.83.67 
+	- RDP 3390
+	- password: yylab123
+- sean@120.126.83.67
+	- RDP3400
+	- password: 0000
 
 exo@120.126.94.127:3400
 yylab123
