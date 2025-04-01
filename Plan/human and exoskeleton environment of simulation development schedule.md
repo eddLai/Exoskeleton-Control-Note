@@ -85,3 +85,19 @@ script: https://drive.google.com/file/d/1hkAW0v1uI5a-RmqmFO94sdbuqrGNXU6K/view?u
 - pls find out these download link on [SimTK: Welcome](https://simtk.org/)
  - Download: python3.11+opensim_python+opensim4.4+CEINMS
  - Download: python3.9+peotry+SCONEpy+SCONE+HyFyDy
+
+---
+Documents
+block diagram of Implementation details:
+https://miro.com/welcomeonboard/cDhLQ1V5ZWZid0dVeWxTMWkrZm0yVnpvOW5XUjFGelNpVVR6TVRna1ZSTEhYQnkrTVRsVCtBTUNNQjJReTNlcmtJRTdKTlhnQzBjeFZpMmx1K1VzVzMvSEVXenNMdzR3WnRDQ2R4SS8yLzJXb1JOaC9Yc3dNNjZJVDJGVzlqSzh0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=86478618315
+
+github repository:
+core code: https://github.com/eddLai/ExoskeletonPowerAsistance.git
+SCONE_modified_src_labold: https://github.com/DiRussoAndrea/Spinal_controller/tree/main
+SCONE_modified_src: https://github.com/DiRussoAndrea/Spinal_controller/tree/main
+
+develope log:
+https://github.com/eddLai/Exoskeleton-Control-Note/blob/main/Plan/human%20and%20exoskeleton%20environment%20of%20simulation%20development%20schedule.md
+
+experiment datas
+https://drive.google.com/drive/folders/1d8PC6TvaRWXRju_GHbBgCVanqYTLGN0C?usp=sharing
