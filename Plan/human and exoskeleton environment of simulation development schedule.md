@@ -9,6 +9,7 @@ EMG side project: [[bionic hand myocontrol]]
 |                  |                 | [[Review the Exoskeleton control algorithm and level of fatigue log]] |            |                 | mark, eric, Aaron |
 |                  |                 | [[deployment of Exoskeleton controller from sim to real]]             |            |                 |                   |
 
+---
 ## Phase1遺留問題：
 - Full body model or , 11初過後再說
 - H0918 -> RLU2023
