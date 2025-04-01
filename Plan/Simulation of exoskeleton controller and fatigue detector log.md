@@ -118,4 +118,5 @@ data generation 改成 data synthesis
 討論：現在已經可以用的policy人體行走模型應該也可以用到人身上吧
 
 ---
+
 - 統一環境(在HPC上還沒辦法做出CEINMS需要的環境)
