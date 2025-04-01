@@ -439,4 +439,20 @@ Hardware ID: 8e6056df55deaa82
 
 
 ---
-## Mimic
+## DeepMimic環境建置
+```
+(deepMimic) ntk@ntk:/media/ntk/DATA/Exoskeleton/DeepMimic$ python ./DeepMimic.py --arg_file ../args/run_humanoid3d_spinkick_args.txt
+Invalid MIT-MAGIC-COOKIE-1 key
+Invalid MIT-MAGIC-COOKIE-1 key
+Invalid MIT-MAGIC-COOKIE-1 key
+Invalid MIT-MAGIC-COOKIE-1 key
+Traceback (most recent call last):
+  File "./DeepMimic.py", line 9, in <module>
+    from env.deepmimic_env import DeepMimicEnv
+  File "/media/ntk/DATA/Exoskeleton/DeepMimic/env/deepmimic_env.py", line 3, in <module>
+    from DeepMimicCore import DeepMimicCore
+  File "/media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/DeepMimicCore.py", line 10, in <module>
+    from . import _DeepMimicCore
+ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.so: undefined symbol: _ZN11btMultiBody22addJointTorqueMultiDofEiPKf
+
+```
