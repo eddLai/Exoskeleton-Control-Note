@@ -1,3 +1,42 @@
+
+
+<style>
+    .reveal {
+        font-family: 'Times New Roman', '標楷體';
+        font-size: 30px;
+        text-align: left;
+        color: black;
+        background-size: cover;
+        background-position: center;
+    }
+	.reveal h1,
+	.reveal h2,
+	.reveal h3,
+	.reveal h4,
+	.reveal h5,
+	.reveal h6 {
+	  font-family: 'Times New Roman', '標楷體';
+	  color: black;
+	  %%text-transform: lowercase%%;
+	  text-transform: capitalize;
+	}
+	.with-border{
+		border: 1px solid red;
+	}
+</style>
+<grid drag="60 10" drop="-3 40">
+Develop log: Customized Environment(Slope, Tripping obeject, Exoskeleton model and its control) needs better simulation cerebellum
+<!-- element style="font-size: 35px;align: left; text-align: left;color: white"-->
+</grid>
+
+<grid drag="50 10" drop="40 70">
+賴宏達、劉智翔、葉亘祐、曾峻魁、Aaron Wang
+<!-- element style="font-size: 30px;align: right; text-align: right"-->
+</grid>
+
+<!-- slide bg="../NTKLab_white bg_cover_resize.png"-->
+
+---
 HMI, 4 indexs to evalution
 也許外骨骼與虛擬人體小腦可以合併在同一個模型中
 
