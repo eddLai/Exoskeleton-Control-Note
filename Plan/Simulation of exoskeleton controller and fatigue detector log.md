@@ -134,12 +134,10 @@ simulink，本質上還是開發第三方庫，而非融合
 >控制方法的討論：現在已經可以用的policy人體行走模型應該也可以用到人身上吧
 
 ---
-**Feedforward Controller**相反於feedback:
-是一種控制方法，它根據**預先知道的系統模型或預期的輸入**，直接計算出需要施加的控制輸出，**不依賴於當前輸出的反饋來修正行為**
-
----
 ## Lua
 [Script Examples [SCONE]](https://scone.software/doku.php?id=tutorials:script)
+**Feedforward Controller**相反於feedback:
+是一種控制方法，它根據**預先知道的系統模型或預期的輸入**，直接計算出需要施加的控制輸出，**不依賴於當前輸出的反饋來修正行為**
 [[overview of SCONE]]
 
 ---
