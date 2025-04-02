@@ -40,5 +40,3 @@ Personal Non-Commercial License (expires 2026-04-09)
 a350bdd3c53f8077d1df31743f16fa546ccc04acabf51f94
 ================= LICENSE END =================
 ```
-
-我想要建立一個自己的外骨骼硬體模型，並可以透過腳本直接控制他
