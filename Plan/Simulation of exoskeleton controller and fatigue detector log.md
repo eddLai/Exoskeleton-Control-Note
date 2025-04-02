@@ -83,7 +83,8 @@ ASAP
 *"Deploying ==rehabilitation== exoskeleton with ==digital twins== in synthetic data generation on neuro-musculoskeletal modeling"*
 data generation 改成 data synthesis\
 
-800~850的字差不多
+800~850的字差不多\
+大綱
 - 專案背景 -> 點出想要解決的問題
 - 方法
 - (不用把技術細節都講出來，只要講技術的流程點)
@@ -93,7 +94,6 @@ data generation 改成 data synthesis\
 	- HMI人機互動的困難
 	- 對於患者長時間訓練會出現的問題
 	- 建出本人的Mimic方法
-
 
 ---
 ## 規劃異動
