@@ -8,7 +8,7 @@ forward dynamic of neuromuscleskeleton model propulsion
 用作小差異的資料衍生
 
 ---
-# Keywords in SCONE 
+# Operation in SCONE 
 - **case sensitive**.
 - Predictive simulations
 - Evaluate Scenario: 本質上就是做forward simulation
