@@ -140,6 +140,8 @@ simulink，本質上還是開發第三方庫，而非融合
 >**Feedforward Controller**相反於feedback:
 是一種控制方法，它根據**預先知道的系統模型或預期的輸入**，直接計算出需要施加的控制輸出，**不依賴於當前輸出的反饋來修正行為**
 
+偏離解的問題：par:create_from_mean_std(...)可以設定
+
 ---
 ## Hyfydy
 [[Overview of Hyfydy]]
