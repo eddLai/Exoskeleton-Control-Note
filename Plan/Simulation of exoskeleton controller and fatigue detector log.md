@@ -120,10 +120,9 @@ data generation 改成 data synthesis
 ---
 
 - 統一環境(在HPC上還沒辦法做出CEINMS需要的環境)
-
 simulink
 - python：需要把python打包成src庫才可以這樣使用
-- C：
+- C：可以打包自己的個人庫
 
 我想要建立一個自己的外骨骼硬體模型，並可以透過腳本直接控制他
 [Documentation - Hyfydy](https://hyfydy.com/documentation/)
