@@ -73,7 +73,8 @@ ref. https://github.com/tgeijten/scone-studio
 			- Kv
 
 ---
-# SCONE
+# SCONE script control
+
 
 ---
 # Keywords in SCONE 
