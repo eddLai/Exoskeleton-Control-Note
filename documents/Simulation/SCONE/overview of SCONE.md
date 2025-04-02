@@ -8,6 +8,17 @@ forward dynamic of neuromuscleskeleton model propulsion
 用作小差異的資料衍生
 
 ---
+# Keywords in SCONE 
+- **case sensitive**.
+- Predictive simulations
+- [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
+- [JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")
+
+`^E`：查看這別權重
+`^f5`：開始訓練
+
+
+---
 # SCONE operating options
 ***SCONE is simulator-agnostic***，可以自己開發simulator介面使用C++
 optimize both model and control parameters
