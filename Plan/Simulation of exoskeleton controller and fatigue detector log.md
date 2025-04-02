@@ -71,8 +71,8 @@ ASAP
 	- 名稱：~~患者虛擬化神經肌肉骨骼外骨骼輔助模型基於無標記動作捕捉~~ (數位孿生)
 	- [Project Description 1000.docx](https://nycu1-my.sharepoint.com/:w:/g/personal/sean950521_be13_m365_nycu_edu_tw/EU-ojMrh4TdLgpPN6Zz-jfEBlUn9weM5RUVkMOaO7zuWcA?rtime=YFAb35Rt3Ug)
 	- Teep圖
-- Mimic的程度
-	- 架好P100環境
+- [ ] Mimic的程度，先暫停因為不是那麼必要
+	- [x] 架好P100環境(放棄，u)
 	- 怎麼改reward code
 
 [[simulation]]
