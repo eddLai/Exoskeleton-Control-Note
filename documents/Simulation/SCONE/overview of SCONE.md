@@ -10,8 +10,8 @@ forward dynamic of neuromuscleskeleton model propulsion
 ---
 # Keywords in SCONE 
 - **case sensitive**.
-- Predictive simulations: 本質上就是做forward simulation
-- 
+- Predictive simulations
+- Eb
 - [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
 - [JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")：用於控制優化算法的跌代行為
 
