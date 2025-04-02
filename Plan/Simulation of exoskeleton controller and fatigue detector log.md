@@ -119,7 +119,7 @@ data generation 改成 data synthesis
 討論：現在已經可以用的policy人體行走模型應該也可以用到人身上吧
 
 ---
-## eddie本週
+## 環境與開發工具
 - 已經統一環境(在HPC上還沒辦法做出CEINMS需要的環境)
 simulink，本質上還是開發第三方庫，而非融合
 - python：需要把python打包成src庫才可以這樣使用
