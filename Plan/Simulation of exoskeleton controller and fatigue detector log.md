@@ -67,7 +67,7 @@ ASAP
 		- 模擬的全身能量
 		- 模擬的步態，EMG到CEINMS計算出來的肌肉控制
 		- 從motion的反推結果
-- [2025 gSIC 全球學生復健工程與輔助科技創新競賽-臺灣選拔賽 – 健康福祉領域教學推動中心](https://phhw.kmu.edu.tw/2025-gsic-%E8%87%BA%E7%81%A3%E8%B3%BD/)
+- [x] [2025 gSIC 全球學生復健工程與輔助科技創新競賽-臺灣選拔賽 – 健康福祉領域教學推動中心](https://phhw.kmu.edu.tw/2025-gsic-%E8%87%BA%E7%81%A3%E8%B3%BD/)
 	- 名稱：~~患者虛擬化神經肌肉骨骼外骨骼輔助模型基於無標記動作捕捉~~ (數位孿生)
 	- [Project Description 1000.docx](https://nycu1-my.sharepoint.com/:w:/g/personal/sean950521_be13_m365_nycu_edu_tw/EU-ojMrh4TdLgpPN6Zz-jfEBlUn9weM5RUVkMOaO7zuWcA?rtime=YFAb35Rt3Ug)
 	- Teep圖
