@@ -116,14 +116,14 @@ data generation 改成 data synthesis
 	- 建出本人的Mimic方法
 
 ---
-## 環境與開發工具
+## 環境與開發工具 eddie
 - 已經統一環境(在HPC上還沒辦法做出CEINMS需要的環境)
 simulink，本質上還是開發第三方庫，而非融合
 - python：需要把python打包成src庫才可以這樣使用
 - C：可以打包自己的個人庫
 
 ---
-## 外骨骼模型與控制
+## 外骨骼模型與控制 eddie, eric
 我想要建立一個自己的外骨骼硬體模型，並可以透過腳本直接控制他
 [Documentation - Hyfydy](https://hyfydy.com/documentation/)
 
