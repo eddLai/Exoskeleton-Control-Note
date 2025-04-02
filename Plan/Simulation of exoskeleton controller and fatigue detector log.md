@@ -78,7 +78,7 @@ ASAP
 [[simulation draw]]
 
 ---
-## 異動
+## 規劃異動
 - Mimic方法是首要任務(但其實說不定可以不用)
 - 需要快進到外骨骼的控制
 	- 外骨骼的模型怎麼做(Eddie and Sean)
@@ -100,23 +100,6 @@ ASAP
 3. 透過opensim的簡單展示成果 (週四)
 4. 透過punish的DL reward架構 理論論述 (週五)
 5. CPG環境的fatigue項目模擬 理論論述 (週五)
-
----
-
-計劃書的重點「我們的東西(新理論)+對於應用上的論述」\
-*"Deploying ==rehabilitation== exoskeleton with ==digital twins== in synthetic data generation on neuro-musculoskeletal modeling"*
-data generation 改成 data synthesis
-
-800~850的字差不多
-- 專案背景 -> 點出想要解決的問題
-- 方法
-- (不用把技術細節都講出來，只要講技術的流程點)
-- 詳細介紹對於醫療上的用途以及規劃，用於老人行走等日常需求
-- 技術難點(以及我們計畫的完整性)
-	- Fatigue
-	- HMI人機互動的困難
-	- 對於患者長時間訓練會出現的問題
-	- 建出本人的Mimic方法
 
 ---
 ## 環境與開發工具 eddie
