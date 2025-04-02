@@ -144,7 +144,7 @@ simulink，本質上還是開發第三方庫，而非融合
 - `par:create_from_mean_std(...)`可以設定
 - Regularization 項（偏好特定模式）
 - penalty（懲罰不想要的動作）
-```
+```lua
 local deviation = 0
 for i = 1, #actuators do
     local current = actuators[i]:activation()
