@@ -120,7 +120,7 @@ data generation 改成 data synthesis
 ---
 
 - 統一環境(在HPC上還沒辦法做出CEINMS需要的環境)
-simulink
+simulink，本質上還是開發第三方庫，而非融合
 - python：需要把python打包成src庫才可以這樣使用
 - C：可以打包自己的個人庫
 
