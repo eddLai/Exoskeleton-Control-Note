@@ -28,26 +28,6 @@ Docker是靠Enroot實現的
 `squeue -u eddlai.be10`
 `scontrol show job <JOBID>`
 
-```
-================ LICENSE BEGIN ================
-Hung-Ta Lai (eddlai.be10@nycu.edu.tw)
-National Yang Ming Chiao Tung University
-Personal Non-Commercial License (expires 2026-04-09)
-2d4e3c3ef3806f7d9e8892ad72587d567f7b2e3c038b9769
-e0d6c443c6a0b02635c705ccbf61390a357c980c572e1a4c
-================= LICENSE END =================
-```
-
-```
-================ LICENSE BEGIN ================
-Hung-Ta Lai (eddlai.be10@nycu.edu.tw)
-National Yang Ming Chiao Tung University
-Personal Non-Commercial License (expires 2026-04-09)
-3926a0be97c4ba3b3656764cf5d4395b9f5b764c1fb70b19
-a350bdd3c53f8077d1df31743f16fa546ccc04acabf51f94
-================= LICENSE END =================
-```
-
 ---
 ## HPC torch設定
 cuda版本是12.3
