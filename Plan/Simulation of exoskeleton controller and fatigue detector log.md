@@ -97,6 +97,7 @@ data generation 改成 data synthesis\
 
 ---
 ## 規劃異動
+如果要盡快進入demo
 - Mimic方法是首要任務(但其實說不定可以不用)
 - 需要快進到外骨骼的控制
 	- 外骨骼的模型怎麼做(Eddie and Sean)
