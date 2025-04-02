@@ -38,6 +38,7 @@ Develop log: EXO in simulation, better fatigue detector
 <!-- slide bg="../NTKLab_white bg_cover_resize.png"-->
 
 ---
+# 速記
 HMI, 4 indexs to evalution
 也許外骨骼與虛擬人體小腦可以合併在同一個模型中
 
