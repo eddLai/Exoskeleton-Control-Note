@@ -126,6 +126,9 @@ simulink，本質上還是開發第三方庫，而非融合
 - C：可以打包自己的個人庫
 
 ---
-## 外骨骼
+## 外骨骼模型與控制
 我想要建立一個自己的外骨骼硬體模型，並可以透過腳本直接控制他
 [Documentation - Hyfydy](https://hyfydy.com/documentation/)
+
+---
+# Deadline2025/04/04
