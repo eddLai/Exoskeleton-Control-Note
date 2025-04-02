@@ -75,7 +75,9 @@ ASAP
 	- [x] 架好P100環境(放棄，因為不能用hyfydy GUI)
 	- [ ] 怎麼改reward code(等智翔的一篇介紹)
 
-[[simulation]]
+[[simulation draw]]
+
+---
 
 ---
 ## 要操作人體model有哪些事情要做
