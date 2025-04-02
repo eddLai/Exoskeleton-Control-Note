@@ -75,6 +75,7 @@ ref. https://github.com/tgeijten/scone-studio
 ---
 # SCONE script control
 Feedforward Controller
+$$excitation = offset[i] + t * slope[i]$$
 
 ---
 # Keywords in SCONE 
