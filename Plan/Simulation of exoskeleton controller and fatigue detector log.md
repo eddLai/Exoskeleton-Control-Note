@@ -72,8 +72,8 @@ ASAP
 	- [Project Description 1000.docx](https://nycu1-my.sharepoint.com/:w:/g/personal/sean950521_be13_m365_nycu_edu_tw/EU-ojMrh4TdLgpPN6Zz-jfEBlUn9weM5RUVkMOaO7zuWcA?rtime=YFAb35Rt3Ug)
 	- Teep圖
 - [ ] Mimic的程度，先暫停因為不是那麼必要
-	- [x] 架好P100環境(放棄，u)
-	- 怎麼改reward code
+	- [x] 架好P100環境(放棄，因為不能用hyfydy GUI)
+	- [ ] 怎麼改reward code
 
 [[simulation]]
 
