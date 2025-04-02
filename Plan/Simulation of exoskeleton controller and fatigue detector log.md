@@ -140,6 +140,7 @@ simulink，本質上還是開發第三方庫，而非融合
 ---
 ## Lua
 [Script Examples [SCONE]](https://scone.software/doku.php?id=tutorials:script)
+[[SCONE]]
 
 ---
 ## Hyfydy
