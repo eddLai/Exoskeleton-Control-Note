@@ -101,7 +101,7 @@ data generation 改成 data synthesis\
 - Mimic方法不是首要任務(但其實說不定可以不用)
 - 需要快進到外骨骼的控制
 	- 外骨骼的模型怎麼做(Eddie and Sean)
-	- CPG加上docker環境的SCONE改動(Eric and Sean) 放棄因為沒有要用CMA，直接透過sconegym, lua或者hyfydy
+	- CPG加上docker環境的SCONE改動(Eric and Sean) 放棄因為沒有要用CMA，直接透過sconegym, lua或hyfydy
 
 ---
 ## 要操作人體model有哪些事情要做
