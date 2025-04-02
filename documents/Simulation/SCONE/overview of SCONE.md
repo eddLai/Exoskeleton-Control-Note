@@ -12,7 +12,7 @@ forward dynamic of neuromuscleskeleton model propulsion
 - **case sensitive**.
 - Predictive simulations: 本質上
 - [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
-- [JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")：用於控制優化算法的跌ㄉㄞ
+- [JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")：用於控制優化算法的跌代行為
 
 `^E`：查看這別權重
 `^f5`：開始訓練
