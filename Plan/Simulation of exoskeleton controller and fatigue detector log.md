@@ -78,7 +78,22 @@ ASAP
 [[simulation draw]]
 
 ---
-## 計劃書5j0
+## 計劃書撰寫sean, eddie
+計劃書的重點「我們的東西(新理論)+對於應用上的論述」\
+*"Deploying ==rehabilitation== exoskeleton with ==digital twins== in synthetic data generation on neuro-musculoskeletal modeling"*
+data generation 改成 data synthesis
+
+800~850的字差不多
+- 專案背景 -> 點出想要解決的問題
+- 方法
+- (不用把技術細節都講出來，只要講技術的流程點)
+- 詳細介紹對於醫療上的用途以及規劃，用於老人行走等日常需求
+- 技術難點(以及我們計畫的完整性)
+	- Fatigue
+	- HMI人機互動的困難
+	- 對於患者長時間訓練會出現的問題
+	- 建出本人的Mimic方法
+
 
 ---
 ## 規劃異動
