@@ -73,7 +73,7 @@ ASAP
 	- Teep圖
 - [ ] Mimic的程度，先暫停因為不是那麼必要
 	- [x] 架好P100環境(放棄，因為不能用hyfydy GUI)
-	- [ ] 怎麼改reward code
+	- [ ] 怎麼改reward code(等智翔的一篇介紹)
 
 [[simulation]]
 
