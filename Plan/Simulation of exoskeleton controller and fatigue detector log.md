@@ -163,6 +163,7 @@ fitness = fitness - weight * deviation
 ## Hyfydy
 [[Overview of Hyfydy]]
 [Documentation - Hyfydy](https://hyfydy.com/documentation/)
+透過建模了解結
 
 ---
 # Deadline2025/04/11
