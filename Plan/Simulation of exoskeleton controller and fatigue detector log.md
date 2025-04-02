@@ -143,7 +143,7 @@ simulink，本質上還是開發第三方庫，而非融合
 偏離解的問題：
 - `par:create_from_mean_std(...)`可以設定
 - Regularization 項（偏好特定模式）
-- 
+- penalty（懲罰不想要的動作）
 
 ---
 ## Hyfydy
