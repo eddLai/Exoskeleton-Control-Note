@@ -80,16 +80,6 @@ $$excitation = offset[i] + t * slope[i]$$
 
 
 ---
-# Keywords in SCONE 
-- **case sensitive**.
-- Predictive simulations
-- [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
-- [JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")
-
-`^E`：查看這別權重
-`^f5`：開始訓練
-
----
 # More info
 [[SCONE python based API and SCONE gym]]
 ### Message
