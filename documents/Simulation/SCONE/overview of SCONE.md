@@ -12,9 +12,8 @@ forward dynamic of neuromuscleskeleton model propulsion
 - **case sensitive**.
 - Predictive simulations
 - Evaluate Scenario: 本質上就是做forward simulation
-- Optimize Scenario:
+- Optimize Scenario: 配合[JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")：用於控制優化算法的跌代行為
 - [SimulationObjective](https://scone.software/doku.php?id=ref:simulation_objective "ref:simulation_objective")
-- [JumpMeasure](https://scone.software/doku.php?id=ref:jump_measure "ref:jump_measure")：用於控制優化算法的跌代行為
 
 `^E`：查看這別權重
 `^f5`：開始訓練
