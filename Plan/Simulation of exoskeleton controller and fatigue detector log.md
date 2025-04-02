@@ -78,6 +78,11 @@ ASAP
 [[simulation draw]]
 
 ---
+## 異動
+- Mimic方法是首要任務(但其實說不定可以不用)
+- 需要快進到外骨骼的控制
+	- 外骨骼的模型怎麼做(Eddie and Sean)
+	- CPG加上docker環境的SCONE改動(Eric and Sean)
 
 ---
 ## 要操作人體model有哪些事情要做
