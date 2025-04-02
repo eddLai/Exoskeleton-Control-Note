@@ -120,3 +120,5 @@ data generation 改成 data synthesis
 ---
 
 - 統一環境(在HPC上還沒辦法做出CEINMS需要的環境)
+
+simulink需要把python打包成src
