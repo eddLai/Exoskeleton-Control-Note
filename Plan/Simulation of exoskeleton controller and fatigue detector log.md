@@ -82,9 +82,9 @@ ASAP
 計劃書的重點「我們的東西(新方法)+對於應用上的論述」\
 *"Deploying ==rehabilitation== exoskeleton with ==digital twins== in synthetic data generation on neuro-musculoskeletal modeling"*
 data generation 改成 data synthesis\
+800~850的字差不多
 
-800~850的字差不多\
-大綱
+### 大綱
 - 專案背景 -> 點出想要解決的問題
 - 方法
 - (不用把技術細節都講出來，只要講技術的流程點)
