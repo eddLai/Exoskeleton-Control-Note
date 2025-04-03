@@ -168,6 +168,7 @@ fitness = fitness - weight * deviation
 - target_ori
 - target_vel
 - troque_offset
+- joint_force_pnld
 
 ---
 # Deadline2025/04/11
