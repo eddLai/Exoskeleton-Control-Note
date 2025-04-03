@@ -165,7 +165,9 @@ fitness = fitness - weight * deviation
 [[Overview of Hyfydy]]
 [Documentation - Hyfydy](https://hyfydy.com/documentation/)
 透過建模了解物件組成結構
-targer
+target_ori
+target_vel
+troque_offset
 
 ---
 # Deadline2025/04/11
