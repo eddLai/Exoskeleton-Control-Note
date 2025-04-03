@@ -175,9 +175,9 @@ fitness = fitness - weight * deviation
 ---
 modeling
 
-|     |     |
-| --- | --- |
-|     |     |
+| 使用場景 | 推薦  |     |     |
+| ---- | --- | --- | --- |
+|      |     |     |     |
 
 
 使用場景	推薦 damping 值	說明
