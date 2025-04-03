@@ -184,5 +184,7 @@ fitness = fitness - weight * deviation
 
 ---
 
+跟YY說可以約時間，簡單介紹一下頭ㄧ
+
 ---
 # Deadline2025/04/11
