@@ -183,7 +183,7 @@ fitness = fitness - weight * deviation
 | 無阻尼（彈簧）  | 0         | 完全彈性碰撞（一般不建議） |
 
 ---
-
+![[exo_in_hyfydy.png]]
 
 ---
 - 跟YY說可以約時間，簡單介紹一下投影片內容
