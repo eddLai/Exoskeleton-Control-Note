@@ -173,4 +173,7 @@ fitness = fitness - weight * deviation
 - contact_force_hunt_crossley
 
 ---
+modeli
+
+---
 # Deadline2025/04/11
