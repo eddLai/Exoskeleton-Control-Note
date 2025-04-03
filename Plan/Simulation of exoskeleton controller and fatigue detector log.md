@@ -188,7 +188,7 @@ fitness = fitness - weight * deviation
 ---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單
 發展Mark那一套轉換系統，是為了應對臨床端的需求
-DepRL則是對於
+DepRL則是對於用於外股額ㄧ
 
 ---
 - 跟YY說可以約時間，簡單介紹一下投影片內容
