@@ -173,7 +173,18 @@ fitness = fitness - weight * deviation
 - contact_force_hunt_crossley
 
 ---
-modeli
+modeling
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
+使用場景	推薦 damping 值	說明
+硬地面（如鋼鐵）	1.0 ~ 1.5	迅速吸收碰撞能量
+橡膠鞋底	0.5 ~ 0.8	有彈性但不完全反彈
+軟墊（泡棉）	0.6 ~ 1.0	避震吸收用，幾乎沒有反彈
+無阻尼（彈簧）	0	完全彈性碰撞（一般不建議）
 
 ---
 # Deadline2025/04/11
