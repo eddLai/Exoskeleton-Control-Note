@@ -186,7 +186,7 @@ fitness = fitness - weight * deviation
 ![[exo_in_hyfydy.png]]
 
 ---
-討論CEINM跟
+討論CEINM跟opensim的關係，要重
 
 ---
 - 跟YY說可以約時間，簡單介紹一下投影片內容
