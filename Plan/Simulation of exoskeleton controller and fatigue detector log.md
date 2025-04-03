@@ -186,7 +186,7 @@ fitness = fitness - weight * deviation
 ![[exo_in_hyfydy.png]]
 
 ---
-討論CEINM跟opensim的關係，要重構一個全身性的模型應ㄍ
+討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單
 
 ---
 - 跟YY說可以約時間，簡單介紹一下投影片內容
