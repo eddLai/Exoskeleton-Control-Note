@@ -170,6 +170,7 @@ fitness = fitness - weight * deviation
 - troque_offset
 - joint_force_pnld
 - joint_force_pd
+- contact_force_hunt_crossley
 
 ---
 # Deadline2025/04/11
