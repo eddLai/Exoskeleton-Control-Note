@@ -184,7 +184,7 @@ fitness = fitness - weight * deviation
 
 ---
 - 跟YY說可以約時間，簡單介紹一下投影片內容
-- 要
+- 要STL的外骨骼建模檔案
 
 ---
 # Deadline2025/04/11
