@@ -186,6 +186,9 @@ fitness = fitness - weight * deviation
 ![[exo_in_hyfydy.png]]
 
 ---
+討論CEINM跟
+
+---
 - 跟YY說可以約時間，簡單介紹一下投影片內容
 - 要STL的外骨骼建模檔案
 
