@@ -79,7 +79,10 @@ script interface
 ### Forces
 including
 - joint forces: 
-	- `Joint Constraint Forces`ligaments and cartilage, the way it limits the rotation by specific sturctrues: 
+	- `Joint Constraint Forces`
+		- ligaments and cartilage
+		- limits the rotation by specific sturctrues:
+		- 
 - contact forces
 - actuator forces
 - external forces.
