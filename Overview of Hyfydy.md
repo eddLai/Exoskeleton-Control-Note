@@ -140,7 +140,7 @@ $$
 			- better energy sim
 			- Contact Stiffness
 		- contact_force_hunt_crossley_sb
-			- transition_velocity from static to dynmic friction
+			- `transition_velocity` from static to dynamic friction
 
 ---
 - actuator forces
