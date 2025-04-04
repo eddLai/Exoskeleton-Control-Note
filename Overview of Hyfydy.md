@@ -84,6 +84,7 @@ including
 		- limits the rotation by specific sturctrues
 		- 允許微小位移
 		- joint_force_pnld
+	- `Joint Limit Forces`
 - contact forces
 - actuator forces
 - external forces.
