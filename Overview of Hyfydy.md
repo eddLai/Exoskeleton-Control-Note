@@ -95,6 +95,7 @@ including
 		- component: only generates contacts, no forces
 		- `simple_collision_detection { enable_collision_between_objects = 1 }` otherwise detect only with static body
 	- 2.Collision response:
+		- 
 - actuator forces
 - external forces.
 
