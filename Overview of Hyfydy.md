@@ -22,7 +22,7 @@ model {
 
 ---
 # Data Types
-- string
+- string: 特定
 - vector3
 - 
 
