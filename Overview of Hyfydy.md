@@ -100,8 +100,7 @@ $$
 	- material 
 	- model_options
 - Actuators
-
-lua script interface
+	- lua script interface來控制行為
 
 ---
 ### Material
