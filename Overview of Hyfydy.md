@@ -22,7 +22,9 @@ model {
 
 ---
 # Data Types
-- s
+- string
+- vector3
+- 
 
 ---
 # Model Structure
