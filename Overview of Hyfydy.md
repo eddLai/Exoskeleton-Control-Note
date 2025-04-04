@@ -82,7 +82,7 @@ including
 	- `Joint Constraint Forces`
 		- ligaments and cartilage become activate whenever the joint rotates
 		- $F_j=-k_pp_j-k_vv_j$
-		- 允許微小位移
+		- some displacements
 		- joint_force_pnld
 	- `Joint Limit Forces`
 - contact forces
