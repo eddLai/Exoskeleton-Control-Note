@@ -27,7 +27,8 @@ model {
 - pos
 - ori
 - scale
-什麼是
+什麼是quaternion?
+
 $$$$
 
 ---
