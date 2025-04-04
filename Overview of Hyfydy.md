@@ -95,8 +95,9 @@ including
 		- component: only generates contacts, no forces
 		- `simple_collision_detection { enable_collision_between_objects = 1 }` otherwise detect only with static body
 	- 2.Collision response:
-		- Kelvin-Voigt model: $F_n = kd - cv_n$
-		- $\vec{F}_t = -\frac{\vec{v}_t}{\|\vec{v}_t\|} \cdot \min(\eta \|\vec{v}_t\|, \mu F_n)$
+		- Kelvin-Voigt model: 
+			- $F_n = kd - cv_n$
+				- $\vec{F}_t = -\frac{\vec{v}_t}{\|\vec{v}_t\|} \cdot \min(\eta \|\vec{v}_t\|, \mu F_n)$
 		- 
 - actuator forces
 - external forces.
