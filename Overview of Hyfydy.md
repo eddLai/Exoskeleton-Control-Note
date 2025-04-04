@@ -91,9 +91,9 @@ including
 	- low computation, prefix: `planar_`
 - contact forces: geometries intersect
 	-  _restitution_ and _friction_ 
-	- Collision detection 
+	- 1.Collision detection 
 		- component: only generates contacts, no forces
-	- to response:
+	- 2.Collision response:
 - actuator forces
 - external forces.
 
