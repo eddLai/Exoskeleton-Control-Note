@@ -1,3 +1,4 @@
+
 # Idea
 一個檔案HyFyDy.scone檔案只能有一個model(來自.hfd)
 - 可以動態調整contact嗎(有開端口嗎)
