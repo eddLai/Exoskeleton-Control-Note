@@ -22,7 +22,7 @@ model {
 
 ---
 # Data Types
-`{ 鍵值對 }`, `[ array ]`
+`{ key-value }`, `[ array ]`
 
 - string: 特定字元需要用`{ }`包住
 - vector3: 陣列
