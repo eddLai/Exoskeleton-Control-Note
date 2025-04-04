@@ -58,7 +58,7 @@ $$
 ## modeling
 - model 可以直接設定gravity
 	- body: basic components in physics, mass properties, position/orientation as well as linear and angular velocity, etc. ==CoM怎麼設定==
-	- joint: in a tree relationsh
+	- joint: in a tree relationship with body
 	- geometry
 	- material 
 	- model_options
