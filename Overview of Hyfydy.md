@@ -32,7 +32,7 @@ $$q=w+xi+yj+zk$$\
 
 $$w = \cos\left(\frac{\theta}{2}\right)$$\
 $$x = u_x \cdot \sin\left(\frac{\theta}{2}\right)
-$$\
+$$\以此類推
 
 
 ---
