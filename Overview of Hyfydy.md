@@ -86,6 +86,7 @@ including
 			- $\theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) = \begin{cases}\alpha_j - \alpha_{\min}, & \text{if } \alpha_j < \alpha_{\min} \\\alpha_j - \alpha_{\max}, & \text{if } \alpha_j > \alpha_{\max} \\0, & \text{otherwise}\end{cases}$
 		- some displacements
 	- `Joint Limit Forces`$\rightarrow$ `joint_force_pd`
+		- $\tau_j = -k_\alpha \theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) - k_\omega \omega_j$
 	- low computation, prefix: `planar_`
 - contact forces
 - actuator forces
