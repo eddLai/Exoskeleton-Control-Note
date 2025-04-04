@@ -23,8 +23,8 @@ model {
 ---
 # Data Types
 - string: 特定字元需要用`{ }`包住
-- vector3 陣列 `{ 數值 }`
-- range:
+- vector3: 陣列 `{ 數值 }`
+- range: 
 
 ---
 # Model Structure
