@@ -37,9 +37,9 @@ $$\以此類推
 $$\vec{u} = \frac{1}{\sin\left(\frac{\theta}{2}\right)} \cdot [x, y, z]$$
 
 ---
-- ϕ\phiϕ：繞 X 軸（roll）
-- θ\thetaθ：繞 Y 軸（pitch）
-- ψ\psiψ：繞 Z 軸（yaw）
+- $\phi$：繞 X 軸（roll）
+- $\theta$：繞 Y 軸（pitch）
+- \psi：繞 Z 軸（yaw）
 $$\begin{aligned}
 w &= \cos\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right) + \sin\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right) \\
 x &= \sin\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right) - \cos\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right) \\
