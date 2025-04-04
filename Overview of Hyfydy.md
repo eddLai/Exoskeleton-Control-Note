@@ -158,7 +158,7 @@ $$
 3. velocity and position/orientation
 4. advance in simulation
 
-$${q_{t+h}, \dot{q}_{t+h}} = I_h {\ddot{q}_t \text{ and step size } h}$$
+$${q_{t+h}, \dot{q}_{t+h}} = I_h {, \ddot{q}_t , h}$$
 
 
 ---
