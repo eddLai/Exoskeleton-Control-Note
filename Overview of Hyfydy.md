@@ -24,6 +24,9 @@ model {
 ---
 # Model Structure
 
+pos
+ori
+
 ---
 ## modeling
 
