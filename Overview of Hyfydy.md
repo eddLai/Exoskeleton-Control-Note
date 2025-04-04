@@ -153,7 +153,10 @@ $$
 
 ---
 ### Integrators
-
+1. linear and angular acceleration
+2. force
+3. velocity and position/orientation
+4. 
 
 ---
 # License
