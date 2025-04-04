@@ -81,7 +81,7 @@ including
 - joint forces: 
 	- `Joint Constraint Forces`
 		- ligaments and cartilage become activate whenever the joint rotates
-		- 
+		- $$F_j$$
 		- 允許微小位移
 		- joint_force_pnld
 	- `Joint Limit Forces`
