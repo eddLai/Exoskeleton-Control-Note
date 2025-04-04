@@ -79,7 +79,7 @@ script interface
 ### Forces
 including
 - joint forces: 
-	- `Joint Constraint Forces \rightarrow joint_force_pnld`
+	- `Joint Constraint Forces `$\rightarrow$ `joint_force_pnld`
 		- ligaments and cartilage become activate whenever the joint rotates
 		- $F_j=-k_pp_j-k_vv_j$
 		- $\tau_j = -k_\alpha \theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) \left(1 + k_\omega \omega_j \right)$
