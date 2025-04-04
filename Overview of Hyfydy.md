@@ -80,7 +80,7 @@ script interface
 including
 - joint forces: 
 	- `Joint Constraint Forces`
-		- ligaments and cartilage 
+		- ligaments and cartilage become
 		- 
 		- 允許微小位移
 		- joint_force_pnld
