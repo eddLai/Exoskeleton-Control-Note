@@ -78,7 +78,10 @@ script interface
 ---
 ### Forces
 including
-- joint forces, contact forces, actuator forces and external forces.
+- joint forces
+- contact forces
+- actuator forces
+- external forces.
 
 ---
 # License
