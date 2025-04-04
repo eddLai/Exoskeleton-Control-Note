@@ -37,6 +37,9 @@ $$\以此類推
 $$\vec{u} = \frac{1}{\sin\left(\frac{\theta}{2}\right)} \cdot [x, y, z]$$
 
 ---
+
+
+---
 ## modeling
 
 | 使用場景     | damping值  | 說明            |
