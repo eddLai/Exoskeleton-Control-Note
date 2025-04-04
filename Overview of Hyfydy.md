@@ -158,7 +158,7 @@ $$
 3. velocity and position/orientation
 4. advance in simulation
 
-$$\text{Formally, an integrator } I_h \text{ updates a set of generalized coordinates } q_t \text{ with derivatives } \dot{q}_t \text{ at time } t \text{ based on accelerations } \ddot{q}_t \text{ and step size } h.$$
+$$I_hq_t, \dot{q}_t \text{ at time } t \text{ based on accelerations } \ddot{q}_t \text{ and step size } h.$$
 
 
 ---
