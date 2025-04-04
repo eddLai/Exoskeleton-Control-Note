@@ -78,7 +78,7 @@ script interface
 ---
 ### Forces
 including
-- joint forces
+- joint forces: ligaments and cartilage
 - contact forces
 - actuator forces
 - external forces.
