@@ -82,6 +82,8 @@ including
 	- `Joint Constraint Forces`
 		- ligaments and cartilage become activate whenever the joint rotates
 		- $F_j=-k_pp_j-k_vv_j$
+		- $\tau_j = -k_\alpha \theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) \left(1 + k_\omega \omega_j \right)$
+		- 
 		- some displacements
 		- joint_force_pnld
 	- `Joint Limit Forces`
