@@ -90,12 +90,7 @@ including
 - actuator forces
 - external forces.
 
-$\theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) =
-\begin{cases}
-\alpha_j - \alpha_{\min}, & \text{if } \alpha_j < \alpha_{\min} \\
-\alpha_j - \alpha_{\max}, & \text{if } \alpha_j > \alpha_{\max} \\
-0, & \text{otherwise}
-\end{cases}$
+$\theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) = \begin{cases}\alpha_j - \alpha_{\min}, & \text{if } \alpha_j < \alpha_{\min} \\\alpha_j - \alpha_{\max}, & \text{if } \alpha_j > \alpha_{\max} \\0, & \text{otherwise}\end{cases}$
 
 ---
 # License
