@@ -89,6 +89,7 @@ including
 		- 速度快 or 阻尼大則越大
 		- $\tau_j = -k_\alpha \theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) - k_\omega \omega_j$
 	- low computation, prefix: `planar_`
+
 ---
 - contact forces: geometries intersect
 	-  _restitution_ and _friction_ 
