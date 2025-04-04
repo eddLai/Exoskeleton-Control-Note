@@ -24,8 +24,10 @@ model {
 ---
 # Model Structure
 
-pos
-ori
+- pos
+- ori
+- scale
+
 
 ---
 ## modeling
