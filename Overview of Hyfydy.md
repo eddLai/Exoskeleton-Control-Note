@@ -56,7 +56,7 @@ $$
 
 ---
 ## modeling
-model{body joint}
+`model{body joint geometry}`
 ### Material
 
 | 使用場景     | damping值  | 說明            |
