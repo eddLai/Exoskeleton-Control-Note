@@ -56,7 +56,8 @@ $$
 
 ---
 ## modeling
-`model{body joint geometry material}`+#### model_options
+`model{body joint geometry material}`+model_options
+### Actuators
 ### Material
 
 | 使用場景     | damping值  | 說明            |
