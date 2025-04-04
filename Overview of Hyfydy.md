@@ -33,7 +33,8 @@ $$q=w+xi+yj+zk$$\
 $$w = \cos\left(\frac{\theta}{2}\right)$$\
 $$x = u_x \cdot \sin\left(\frac{\theta}{2}\right)
 $$\以此類推
-旋轉軸單位向
+旋轉軸單位向量
+$$\vec{u} = \frac{1}{\sin\left(\frac{\theta}{2}\right)} \cdot [x, y, z]$$
 
 ---
 ## modeling
