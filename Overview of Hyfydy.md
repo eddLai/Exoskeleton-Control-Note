@@ -114,7 +114,6 @@ $$
 
 ---
 ### Forces
-including
 - joint forces: 
 	- `Joint Constraint Forces `$\rightarrow$ `joint_force_pnld`
 		- ligaments and cartilage become activate whenever the joint rotates
