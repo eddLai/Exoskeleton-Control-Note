@@ -76,7 +76,9 @@ script interface
 | 無阻尼（彈簧）  | 0         | 完全彈性碰撞（一般不建議） |
 
 ---
-### 
+### Forces
+including
+- joint forces, contact forces, actuator forces and external forces.
 
 ---
 # License
