@@ -58,8 +58,6 @@ model {
 }
 ```
 
-- 可以選material: contact forces
-
 ---
 # Data Types
 `{ key-value a=1 }`, `{ group }`, `[ array ]`
