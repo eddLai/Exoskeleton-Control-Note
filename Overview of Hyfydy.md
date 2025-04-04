@@ -93,7 +93,7 @@ including
 	-  _restitution_ and _friction_ 
 	- 1.Collision detection 
 		- component: only generates contacts, no forces
-		- 
+		- simple_collision_detection { enable_collision_between_objects = 1 }
 	- 2.Collision response:
 - actuator forces
 - external forces.
