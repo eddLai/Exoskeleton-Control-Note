@@ -78,7 +78,7 @@ script interface
 ---
 ### Forces
 including
-- joint forces: ligaments and cartilage, the way it limits the rotation nby 
+- joint forces: ligaments and cartilage, the way it limits the rotation by specific sturc
 - contact forces
 - actuator forces
 - external forces.
