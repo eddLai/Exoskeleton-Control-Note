@@ -26,10 +26,11 @@ model {
 
 - string: 特定字元需要用`{ }`包住
 - vector3: 陣列
+- quaternion
 - range: 
 
 ---
-什麼是quaternion?
+## 什麼是quaternion?
 $$q=w+xi+yj+zk$$\
 
 $$w = \cos\left(\frac{\theta}{2}\right)$$\
