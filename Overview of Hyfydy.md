@@ -101,7 +101,9 @@ $$
 	- model_options
 - Actuators
 
-script interface
+lua script interface
+
+---
 ### Material
 
 | 使用場景     | damping值  | 說明            |
