@@ -29,6 +29,7 @@ model {
 - scale
 什麼是quaternion?
 $$q=w+xi+yj+zk$$
+$$w = \cos\left(\frac{\theta}{2}\right)$$
 
 ---
 ## modeling
