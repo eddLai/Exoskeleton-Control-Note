@@ -136,7 +136,8 @@ $$
 		- Kelvin-Voigt model: $\vec{F}_c = F_n \vec{n} + \vec{F}_t$
 			- $F_n = kd - cv_n$
 			- $\vec{F}_t = -\frac{\vec{v}_t}{\|\vec{v}_t\|} \cdot \min(\eta \|\vec{v}_t\|, \mu F_n)$
-		- 
+
+---
 - actuator forces
 - external forces.
 
