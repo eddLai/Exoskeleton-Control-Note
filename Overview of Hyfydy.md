@@ -22,7 +22,7 @@ model {
 - 
 
 ---
-# Model Struc
+# Model Structure
 
 ---
 # License
