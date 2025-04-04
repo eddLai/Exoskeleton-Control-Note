@@ -81,7 +81,7 @@ including
 - joint forces: 
 	- `Joint Constraint Forces`
 		- ligaments and cartilage
-		- limits the rotation by specific sturctrues:
+		- limits the rotation by specific sturctrues
 		- 
 - contact forces
 - actuator forces
