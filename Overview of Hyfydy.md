@@ -26,12 +26,12 @@ bg: "[[NTKLab_white bg.png]]"
 	}
 </style>
 <grid drag="60 10" drop="-3 40">
-Develop log: EXO in simulation, better fatigue detector
+HyFyDy simulation en
 <!-- element style="font-size: 35px;align: left; text-align: left;color: white"-->
 </grid>
 
 <grid drag="50 10" drop="40 70">
-賴宏達、劉智翔、葉亘祐、曾峻魁、Aaron Wang
+賴宏達
 <!-- element style="font-size: 30px;align: right; text-align: right"-->
 </grid>
 
