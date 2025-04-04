@@ -27,7 +27,7 @@ model {
 - string: 特定字元需要用`{ }`包住
 - vector3: 陣列
 - quaternion
-- range: num1..num2
+- range: `num1..num2` means num1~num2
 
 ---
 ## 什麼是quaternion?
