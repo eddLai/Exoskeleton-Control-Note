@@ -164,8 +164,8 @@ step_size h in hyfydy is variable based on accuracy
 
 ---
 - `forward_euler_integrator`
-- `symplectic_euler_integrator`
-- `midpoint_euler_integrator`
+- `symplectic_euler_integrator`: 保持保守系統的能量（如震盪系統） 
+- `midpoint_euler_integrator`: 提高能量守恆與穩定性
 - `planar_symplectic_euler_integrator`
 
 ---
