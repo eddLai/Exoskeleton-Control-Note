@@ -80,7 +80,7 @@ script interface
 including
 - joint forces: 
 	- `Joint Constraint Forces`
-		- ligaments and cartilage become activate whenever the joint 
+		- ligaments and cartilage become activate whenever the joint rotates
 		- 
 		- 允許微小位移
 		- joint_force_pnld
