@@ -145,7 +145,7 @@ $$
 ---
 - actuator forces
 	- muscle
-		- #### muscle_force_m2012fast
+		- muscle_force_m2012fast: hill-type
 		- 
 - external forces.
 
