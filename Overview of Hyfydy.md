@@ -29,11 +29,6 @@ model {
 - range: 
 
 ---
-# Model Structure
-
-- pos
-- ori
-- scale
 什麼是quaternion?
 $$q=w+xi+yj+zk$$\
 
