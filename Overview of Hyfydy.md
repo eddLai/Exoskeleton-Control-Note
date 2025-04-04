@@ -22,8 +22,9 @@ model {
 
 ---
 # Data Types
+`{ 鍵值對 }`
 - string: 特定字元需要用`{ }`包住
-- vector3: 陣列 `{ 見質對 }`
+- vector3: 陣列
 - range: 
 
 ---
