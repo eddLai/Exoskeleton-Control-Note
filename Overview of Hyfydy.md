@@ -138,7 +138,7 @@ $$
 			- $\vec{F}_t = -\frac{\vec{v}_t}{\|\vec{v}_t\|} \cdot \min(\eta \|\vec{v}_t\|, \mu F_n)$
 		- contact_force_hunt_crossley: $F_n = kd^{3/2} \left(1 - \frac{3}{2} cv_n \right)$
 			- better energy sim
-			- 
+			- Contact Stiffness
 
 ---
 - actuator forces
