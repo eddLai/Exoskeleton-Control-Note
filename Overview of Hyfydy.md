@@ -147,7 +147,7 @@ $$
 	- muscle
 		- muscle_force_m2012fast: hill-type, but better. **damping when muscle deactivate**
 		- muscle_force_gh2010: activation muscle be kept above a threshold
-		- muscle_force_tj2003: 
+		- muscle_force_tj2003: force-velocity relationship is poorly defined at low activation and relies heavily on its ad-hoc extrapolation of the force-velocity curve
 - external forces.
 >hill-type [Flexing Computational Muscle: Modeling and Simulation of Musculotendon Dynamics | J. Biomech Eng. | ASME Digital Collection](https://asmedigitalcollection.asme.org/biomechanical/article-abstract/135/2/021005/371394/Flexing-Computational-Muscle-Modeling-and?redirectedFrom=fulltext)
 
