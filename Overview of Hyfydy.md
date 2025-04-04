@@ -56,12 +56,13 @@ $$
 
 ---
 ## modeling
-- model{
+- model
 	- body
 	- joint 
 	- geometry
 	- material 
-Actuators}`+model_options
+	- model_options
+- Actuators
 ### Material
 
 | 使用場景     | damping值  | 說明            |
