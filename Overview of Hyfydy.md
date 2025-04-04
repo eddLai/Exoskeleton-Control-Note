@@ -145,7 +145,7 @@ $$
 ---
 - actuator forces
 	- muscle
-		- muscle_force_m2012fast: hill-type, but better: damp
+		- muscle_force_m2012fast: hill-type, but better. damping when mus
 		- 
 - external forces.
 
