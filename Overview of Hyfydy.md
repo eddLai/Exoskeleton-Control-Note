@@ -160,6 +160,7 @@ $$
 
 $${q_{t+h}, \dot{q}_{t+h}} = I_h ({q_{t}, \dot{q}_{t}, \ddot{q}_t , h})$$
 step_size h in hyfydy is variable based on accuracy
+>How
 
 ---
 
