@@ -56,7 +56,7 @@ $$
 
 ---
 ## modeling
-- model 可以直接設定
+- model 可以直接設定gravity
 	- body
 	- joint 
 	- geometry
