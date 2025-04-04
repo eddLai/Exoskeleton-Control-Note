@@ -163,7 +163,9 @@ step_size h in hyfydy is variable based on accuracy
 >How does the system know the accuracy?
 
 ---
-`forward_euler_integrator`
+- `forward_euler_integrator`
+- `symplectic_euler_integrator`
+- 
 
 ---
 
