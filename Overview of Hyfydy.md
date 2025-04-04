@@ -165,7 +165,8 @@ step_size h in hyfydy is variable based on accuracy
 ---
 - `forward_euler_integrator`
 - `symplectic_euler_integrator`
-- 
+- `midpoint_euler_integrator`
+- `planar_symplectic_euler_integrator`
 
 ---
 
