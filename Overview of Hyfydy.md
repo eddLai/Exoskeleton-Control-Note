@@ -139,6 +139,7 @@ $$
 		- contact_force_hunt_crossley: $F_n = kd^{3/2} \left(1 - \frac{3}{2} cv_n \right)$
 			- better energy sim
 			- Contact Stiffness
+		- contact_force_hunt_crossley_sb
 
 ---
 - actuator forces
