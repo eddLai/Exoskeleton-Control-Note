@@ -57,7 +57,7 @@ $$
 ---
 ## modeling
 - model 可以直接設定gravity
-	- body
+	- body: basic comp
 	- joint 
 	- geometry
 	- material 
