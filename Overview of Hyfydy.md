@@ -81,11 +81,12 @@ including
 - joint forces: 
 	- `Joint Constraint Forces `$\rightarrow$ `joint_force_pnld`
 		- ligaments and cartilage become activate whenever the joint rotates
-		- $F_j=-k_pp_j-k_vv_j$
-		- $\tau_j = -k_\alpha \theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) \left(1 + k_\omega \omega_j \right)$
-		- $\theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) = \begin{cases}\alpha_j - \alpha_{\min}, & \text{if } \alpha_j < \alpha_{\min} \\\alpha_j - \alpha_{\max}, & \text{if } \alpha_j > \alpha_{\max} \\0, & \text{otherwise}\end{cases}$
+			- $F_j=-k_pp_j-k_vv_j$
+			- $\tau_j = -k_\alpha \theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) \left(1 + k_\omega \omega_j \right)$
+			- $\theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) = \begin{cases}\alpha_j - \alpha_{\min}, & \text{if } \alpha_j < \alpha_{\min} \\\alpha_j - \alpha_{\max}, & \text{if } \alpha_j > \alpha_{\max} \\0, & \text{otherwise}\end{cases}$
 		- some displacements
 	- `Joint Limit Forces`$\rightarrow$ `joint_force_pd`
+		- 
 - contact forces
 - actuator forces
 - external forces.
