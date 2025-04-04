@@ -93,6 +93,7 @@ including
 	-  _restitution_ and _friction_ 
 	- 1.Collision detection 
 		- component: only generates contacts, no forces
+		- 
 	- 2.Collision response:
 - actuator forces
 - external forces.
