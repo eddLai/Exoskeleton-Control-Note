@@ -158,7 +158,7 @@ $$
 3. velocity and position/orientation
 4. advance in simulation
 
-$$I_hq_t, \dot{q}_t \text{ at time } t \text{ based on accelerations } \ddot{q}_t \text{ and step size } h.$$
+$${q_t, \dot{q}_t} I_h \text{ at time } t \text{ based on accelerations } \ddot{q}_t \text{ and step size } h.$$
 
 
 ---
