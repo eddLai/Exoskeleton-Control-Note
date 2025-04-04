@@ -80,8 +80,8 @@ script interface
 including
 - joint forces: 
 	- `Joint Constraint Forces`
-		- ligaments and cartilage
-		- limits the rotation by specific sturctrues
+		- ligaments and cartilage 
+		- 
 		- 允許微小位移
 		- joint_force_pnld
 	- `Joint Limit Forces`
