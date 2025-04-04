@@ -90,6 +90,8 @@ including
 		- $\tau_j = -k_\alpha \theta_j(\alpha_j, \alpha_{\min}, \alpha_{\max}) - k_\omega \omega_j$
 	- low computation, prefix: `planar_`
 - contact forces: geometries intersect
+	-  _restitution_ and _friction_ component,
+	- 
 - actuator forces
 - external forces.
 
