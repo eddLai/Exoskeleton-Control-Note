@@ -56,7 +56,7 @@ $$
 
 ---
 ## modeling
-
+model{body }
 ### Material
 
 | 使用場景     | damping值  | 說明            |
