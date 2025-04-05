@@ -89,7 +89,10 @@ $$y = \cos\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\cos\left(
 $$z = \cos\left(\frac{\phi}{2}\right)\cos\left(\frac{\theta}{2}\right)\sin\left(\frac{\psi}{2}\right) - \sin\left(\frac{\phi}{2}\right)\sin\left(\frac{\theta}{2}\right)\cos\left(\frac{\psi}{2}\right)
 $$
 
-`‵`
+```
+ori { w = 0.379928 x = -0.596368 y = -0.379928 z = -0.596368 }
+ori { w = 0 x = -0.596368 y = -0.379928 z = -0.596368 }
+```
 
 ---
 ## modeling
