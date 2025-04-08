@@ -136,7 +136,7 @@ simulink，本質上還是開發第三方庫，而非融合
 ---
 ## Lua
 物件行為
-[Script Examples [SCONE]](https://scone.software/doku.php?id=tutorials:script)
+[Script Examples [SCONE]](https://scone.software/doku.php?id=tutorials:script)\
 [[overview of SCONE]]
 
 Controller: 用作控制
