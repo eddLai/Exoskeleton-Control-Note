@@ -190,4 +190,5 @@ DepRL則是對於用於通用外骨骼系統的最終願景
 # Deadline2025/04/11
 無論如何當然還是要有展示的科學數據
 
-4/20要給Vivian Business Plan
+- 4/20要給Vivian Business Plan
+- 5/22要給
