@@ -177,6 +177,7 @@ fitness = fitness - weight * deviation
 雖然看起來對上了，但是，修改CAD STLfile，不知道geometry怎麼樣
 
 
+
 ---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
 發展Mark那一套轉換系統，是為了應對臨床端的需求\
