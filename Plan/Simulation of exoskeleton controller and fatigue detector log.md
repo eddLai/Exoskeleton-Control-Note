@@ -162,8 +162,8 @@ fitness = fitness - weight * deviation
 
 ---
 ## Hyfydy
-[[Overview of Hyfydy]]
-[Documentation - Hyfydy](https://hyfydy.com/documentation/)
+[[Overview of Hyfydy]]\
+[Documentation - Hyfydy](https://hyfydy.com/documentation/)\
 透過建模了解物件組成結構
 - target_ori
 - target_vel
