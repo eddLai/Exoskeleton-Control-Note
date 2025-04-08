@@ -173,7 +173,8 @@ fitness = fitness - weight * deviation
 - contact_force_hunt_crossley
 
 ---
-![[exo_in_hyfydy.png]]
+![[exo_in_hyfydy.png|400]]
+雖然看起來對上了，但是，修改CAD STLfile，不知道geometry怎麼樣
 
 ---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
