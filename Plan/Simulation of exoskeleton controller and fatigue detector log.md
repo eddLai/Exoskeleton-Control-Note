@@ -136,7 +136,7 @@ simulink，本質上還是開發第三方庫，而非融合
 ---
 ## Lua
 物件行為
-[Script Examples [SCONE]](https://scone.software/doku.php?id=tutorials:script)
+[Script Examples [SCONE]](https://scone.software/doku.php?id=tutorials:script)\
 [[overview of SCONE]]
 
 Controller: 用作控制
@@ -162,8 +162,8 @@ fitness = fitness - weight * deviation
 
 ---
 ## Hyfydy
-[[Overview of Hyfydy]]
-[Documentation - Hyfydy](https://hyfydy.com/documentation/)
+[[Overview of Hyfydy]]\
+[Documentation - Hyfydy](https://hyfydy.com/documentation/)\
 透過建模了解物件組成結構
 - target_ori
 - target_vel
@@ -194,3 +194,4 @@ DepRL則是對於用於通用外骨骼系統的最終願景
 - 4/20要給Vivian Business Plan
 - 5/10
 - 5/22到美國募資
+
