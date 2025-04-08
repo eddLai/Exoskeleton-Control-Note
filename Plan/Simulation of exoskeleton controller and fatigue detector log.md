@@ -175,6 +175,9 @@ fitness = fitness - weight * deviation
 ---
 ![[exo_in_hyfydy.png|400]]
 雖然看起來對上了，但是，修改CAD STLfile，不知道geometry怎麼樣
+![[螢幕擷取畫面 2025-04-08 140523.png]]
+
+![[螢幕擷取畫面 2025-04-08 140545.png]]
 
 
 ---
