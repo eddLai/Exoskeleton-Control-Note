@@ -178,6 +178,9 @@ fitness = fitness - weight * deviation
 ![[Exo_sim_1.png|300]]![[Exo_sim_2.png|300]]
 
 ---
+創建Vec3 and 
+
+---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
 發展Mark那一套轉換系統，是為了應對臨床端的需求\
 DepRL則是對於用於通用外骨骼系統的最終願景
