@@ -179,12 +179,21 @@ fitness = fitness - weight * deviation
 
 ---
 沒有寫在SCONE範例中的內容：
+總共有四份文件可以參考
 創建Vec3 and quat找了很久，設定錯誤的參數會導致SCONE 軟體crash
 [ScopePy Reference Manual [SCONE]](https://scone.software/doku.php?id=doc:sconepy&s[]=vec3#quat)
 - `vec3:new(1 1 1)
 - `quat:new(1 1 1 1)`
 - `set_motor_target_vel()`要搭配`joint:set_motor_target_ori`不能單獨使用，本質上是PD控制器
 - 現在看起來torque是最好的
+
+---
+必須的結構
+
+
+---
+PD控制器
+$$q=\cos\left({\frac{\theta}{2}}\right)+\sin\left({\frac{\theta}{2}}\right)\left(x i+y j+z k\right)$$
 
 ---
 
