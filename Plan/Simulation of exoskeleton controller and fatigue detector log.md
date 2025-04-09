@@ -189,6 +189,8 @@ fitness = fitness - weight * deviation
 
 ---
 必須的結構
+function init(model, par) end
+function update(model) end
 
 
 ---
