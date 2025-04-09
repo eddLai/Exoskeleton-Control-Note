@@ -182,7 +182,7 @@ fitness = fitness - weight * deviation
 [ScopePy Reference Manual [SCONE]](https://scone.software/doku.php?id=doc:sconepy&s[]=vec3#quat)
 - `vec3:new(1 1 1)
 - quat:new(1 1 1 1)`
-- `set_motor_target_vel()`要搭配ori不能單獨使用
+- `set_motor_target_vel()`要搭配`joint:set_motor_target_ori`不能單獨使用
 - 現在看起來torque是最好的
 
 ---
