@@ -208,7 +208,7 @@ PD控制器
 $$q=\cos\left({\frac{\theta}{2}}\right)+\sin\left({\frac{\theta}{2}}\right)\left(x i+y j+z k\right)$$\
 $$q={\left[\begin{array}{l}{w}\\ {x}\\ {y}\\ {z}\end{array}\right]}={\left[\begin{array}{l}{\cos(\theta/2)}\\ {u_{x}\cdot\sin(\theta/2)}\\ {u_{y}\cdot\sin(\theta/2)}\\ {u_{z}\cdot\sin(\theta/2)}\end{array}\right]}$$\
 $$T=K_{p}\cdot(q_{t a r g e t}-q_{\mathrm{current}})+K_{d}\cdot(\bar{q}_{t a r g e t}-\bar{q}_{\mathrm{curemt}})$$
-$$\begin{array}{l}{{K_{p}:s\mathrm{tiffres}\left(\,\mathbb{R}\mathrm{lift}\,\right)\ ,}}\\ {{K_{d}:\mathrm{damping}}}\end{array}$$
+$$\begin{array}{l}{{K_{p}:s\mathrm{tiffnes}}}\\ {{K_{d}:\mathrm{damping}}}\end{array}$$
 
 ---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
