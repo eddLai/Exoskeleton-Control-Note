@@ -188,7 +188,11 @@ fitness = fitness - weight * deviation
 - 現在看起來torque是最好的
 
 ---
+PD控制器
 $$q=\cos\left({\frac{\theta}{2}}\right)+\sin\left({\frac{\theta}{2}}\right)\left(x i+y j+z k\right)$$
+
+---
+
 
 ---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
