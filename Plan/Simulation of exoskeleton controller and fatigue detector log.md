@@ -173,6 +173,7 @@ fitness = fitness - weight * deviation
 - contact_force_hunt_crossley
 
 ---
+EXO_new_model
 ![[exo_in_hyfydy.png|400]]
 雖然看起來是對的，但是座標位置導致Joint位置錯誤(上圖)，修改CAD STLfile(下圖)，不知道geometry怎麼樣\
 ![[Exo_sim_1.png|300]]![[Exo_sim_2.png|300]]
