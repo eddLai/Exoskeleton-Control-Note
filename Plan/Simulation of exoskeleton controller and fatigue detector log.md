@@ -188,6 +188,9 @@ fitness = fitness - weight * deviation
 - 現在看起來torque是最好的
 
 ---
+必須的結
+
+---
 PD控制器
 $$q=\cos\left({\frac{\theta}{2}}\right)+\sin\left({\frac{\theta}{2}}\right)\left(x i+y j+z k\right)$$
 
