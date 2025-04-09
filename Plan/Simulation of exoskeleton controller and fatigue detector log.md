@@ -193,8 +193,8 @@ function init(model, par) end
 function update(model) end
 
 如果是Measure.lua則多了
-function result( model )
-
+function result( model ) end
+function store_data( frame ) end，要儲存成資ux
 
 ---
 PD控制器
