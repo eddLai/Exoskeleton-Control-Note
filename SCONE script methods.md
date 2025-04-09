@@ -137,7 +137,7 @@
 
 ---
 控制範例
-```
+```lua
  
 function init( model, par )
 	-- get the 'target_body' parameter from ScriptController, or set to "pelvis"
