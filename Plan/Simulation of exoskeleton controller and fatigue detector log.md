@@ -189,12 +189,12 @@ fitness = fitness - weight * deviation
 
 ---
 必須的結構
-function init(model, par) end
-function update(model) end
+`function init(model, par) end`
+`function update(model) end`
 
 如果是Measure.lua則多了
 `function result( model ) end`
-`function store_data( frame ) end`，要儲存成資料只能寫在這裡
+`function store_data( frame ) end`，要儲存成資料只能寫在這裡，畢竟沒有優化
 
 ---
 PD控制器
