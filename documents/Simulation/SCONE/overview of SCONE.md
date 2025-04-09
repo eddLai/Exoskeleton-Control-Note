@@ -89,7 +89,7 @@ ref. https://github.com/tgeijten/scone-studio
 Feedforward Controller
 一個事先控制好的excitation, `ScriptControllerJump.lua`
 $$excitation = offset[i] + t * slope[i]$$
-[[SCONE script ]]
+[[SCONE script methods]]
 
 ---
 # More info
