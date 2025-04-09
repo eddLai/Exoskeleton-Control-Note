@@ -194,7 +194,7 @@ fitness = fitness - weight * deviation
 
 如果是Measure.lua則多了
 `function result( model ) end`
-`function store_data( frame ) end`，要儲存成資料只能寫在這裡，畢竟沒有優化
+`function store_data( frame ) end`，要儲存成資料只能寫在這裡，畢竟沒有優化就不用記錄軌跡
 
 ---
 PD控制器
