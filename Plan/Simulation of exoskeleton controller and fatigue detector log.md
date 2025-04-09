@@ -206,6 +206,7 @@ fitness = fitness - weight * deviation
 ---
 PD控制器
 $$q=\cos\left({\frac{\theta}{2}}\right)+\sin\left({\frac{\theta}{2}}\right)\left(x i+y j+z k\right)$$
+$$q={\left[\begin{array}{l}{w}\\ {x}\\ {y}\\ {z}\end{array}\right]}={\left[\begin{array}{l}{\cos(\theta/2)}\\ {u_{x}\cdot\sin(\theta/2)}\\ {u_{y}\cdot\sin(\theta/2)}\\ {u_{z}\cdot\sin(\theta/2)}\end{array}\right]}$$
 
 
 
