@@ -116,18 +116,15 @@
 ### ✅ **1. 延遲感測與神經延遲模擬**
 
 - 了解如何利用 `LuaDelayedSensor`, `find_two_way_neural_delay()` 模擬真實神經控制延遲
-    
 
 ### ✅ **2. 馬達控制（Joint Motor）**
 
 - 使用 `set_motor_target_ori()` 搭配 `set_motor_stiffness()`、`set_motor_damping()` 建構穩定控制器
-    
 
 ### ✅ **3. 自定義參數調整與優化**
 
 - `LuaParams` 可用於建立可調參數（for optimization），支援 mean/stdev/min/max 設定
     
-
 ### ✅ **4. 自訂資料共享**
 
 - 利用 `set_custom_value()` 與 `get_custom_value()` 進行跨 Lua 腳本資料傳遞
