@@ -179,6 +179,9 @@ fitness = fitness - weight * deviation
 
 ---
 創建Vec3 and quat找了很久，設定錯誤的參數會導致SCONE 軟體crash
+[ScopePy Reference Manual [SCONE]](https://scone.software/doku.php?id=doc:sconepy&s[]=vec3#quat)
+vec3:new(1 1 1)
+quat:new(1 1 1 1)
 
 
 ---
