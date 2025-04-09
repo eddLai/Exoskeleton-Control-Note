@@ -180,13 +180,14 @@ fitness = fitness - weight * deviation
 
 ---
 ### 沒有寫在SCONE範例中的內容：
-總共有四份文件可以參考
-ScriptControllerTreadmill.lua
-ScriptControllerFeedForward.lua
-ScriptControllerGyroBalance.lua
-ScriptControllerNeuralDelays.lua
-ScriptControllerReflexModulation.lua
-ScriptMeasureBodyHeight.lua
+總共有五份文件可以參考
+- ScriptControllerTreadmill.lua
+- ScriptControllerFeedForward.lua
+- ScriptControllerGyroBalance.lua
+- ScriptControllerNeuralDelays.lua
+- ScriptControllerReflexModulation.lua
+- ScriptMeasureBodyHeight.lua
+
 創建Vec3 and quat找了很久，設定錯誤的參數會導致SCONE 軟體crash
 [ScopePy Reference Manual [SCONE]](https://scone.software/doku.php?id=doc:sconepy&s[]=vec3#quat)
 - `vec3:new(1 1 1)
