@@ -179,7 +179,7 @@ fitness = fitness - weight * deviation
 
 ---
 創建Vec3 and quat找了很久，設定錯誤的參數會導致SCONE 軟體crash
-
+[ScopePy Reference Manual [SCONE]](https://scone.software/doku.php?id=doc:sconepy&s[]=vec3#quat)
 
 ---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
