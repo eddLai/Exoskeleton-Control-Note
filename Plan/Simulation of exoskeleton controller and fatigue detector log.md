@@ -192,6 +192,9 @@ fitness = fitness - weight * deviation
 function init(model, par) end
 function update(model) end
 
+如果是Measure.lua則多了
+function result( model )
+
 
 ---
 PD控制器
