@@ -180,7 +180,7 @@ fitness = fitness - weight * deviation
 
 ---
 ### 沒有寫在SCONE範例中的內容：
-總共有四份文件可以參考
+總共有五份文件可以參考
 ScriptControllerTreadmill.lua
 ScriptControllerFeedForward.lua
 ScriptControllerGyroBalance.lua
