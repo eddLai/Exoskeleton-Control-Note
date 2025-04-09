@@ -190,7 +190,7 @@ DepRL則是對於用於通用外骨骼系統的最終願景
 # Deadline2025/04/11
 無論如何當然還是要有展示的科學數據
 - 4/10Vivian專案募資討論
-- 討論SCONEscript語法
+- 討論SCONE script語法，幫所有人快速入門
 - 4/12交醫工創新比賽
 - 4/15台科大團隊討論
 - 4/20要給Vivian Business Plan
