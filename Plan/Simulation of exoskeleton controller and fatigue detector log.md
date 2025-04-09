@@ -173,12 +173,13 @@ fitness = fitness - weight * deviation
 - contact_force_hunt_crossley
 
 ---
+### EXO_model
 ![[exo_in_hyfydy.png|400]]
 雖然看起來是對的，但是座標位置導致Joint位置錯誤(上圖)，修改CAD STLfile(下圖)，不知道geometry怎麼樣\
 ![[Exo_sim_1.png|300]]![[Exo_sim_2.png|300]]
 
 ---
-沒有寫在SCONE範例中的內容：
+### 沒有寫在SCONE範例中的內容：
 總共有四份文件可以參考
 創建Vec3 and quat找了很久，設定錯誤的參數會導致SCONE 軟體crash
 [ScopePy Reference Manual [SCONE]](https://scone.software/doku.php?id=doc:sconepy&s[]=vec3#quat)
@@ -189,12 +190,11 @@ fitness = fitness - weight * deviation
 
 ---
 必須的結構
-function init(model, par) end
-function update(model) end
-
-如果是Measure.lua則多了
-`function result( model ) end`
-`function store_data( frame ) end`，要儲存成資料只能寫在這裡
+`function init(model, par) end`\
+`function update(model) end`\
+如果是Measure.lua則多了\
+`function result( model ) end`\
+`function store_data( frame ) end`，要儲存成資料只能寫在這裡，畢竟沒有優化就不用
 
 ---
 PD控制器
