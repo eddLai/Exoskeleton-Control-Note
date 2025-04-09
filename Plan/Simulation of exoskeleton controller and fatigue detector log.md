@@ -178,12 +178,16 @@ fitness = fitness - weight * deviation
 ![[Exo_sim_1.png|300]]![[Exo_sim_2.png|300]]
 
 ---
+沒有寫在SCONE範例中的內容：
 創建Vec3 and quat找了很久，設定錯誤的參數會導致SCONE 軟體crash
 [ScopePy Reference Manual [SCONE]](https://scone.software/doku.php?id=doc:sconepy&s[]=vec3#quat)
 - `vec3:new(1 1 1)
 - `quat:new(1 1 1 1)`
 - `set_motor_target_vel()`要搭配`joint:set_motor_target_ori`不能單獨使用，本質上是PD控制器
 - 現在看起來torque是最好的
+
+---
+
 
 ---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
