@@ -188,7 +188,8 @@ fitness = fitness - weight * deviation
 - 現在看起來torque是最好的
 
 ---
-必須的結
+必須的結構
+
 
 ---
 PD控制器
