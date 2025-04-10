@@ -213,6 +213,7 @@ $$\begin{array}{l}{{K_{p}:s\mathrm{tiffness}}}\\ {{K_{d}:\mathrm{damping}}}\end{
 ---
 討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
 發展Mark那一套轉換系統，是為了應對臨床端的需求\
+那就獨立框架\
 DepRL則是對於用於通用外骨骼系統的最終願景
 
 ---
