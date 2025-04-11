@@ -223,7 +223,7 @@ $$\begin{array}{l}{{K_{p}:s\mathrm{tiffness}}}\\ {{K_{d}:\mathrm{damping}}}\end{
 
 ---
 Controller本質上是Actuator的一個控制節點，可作權重優化\
-Actuator or # LuaDelayedActuator
+Actuator or LuaDelayedActuator
 - point_path_muscle
 - joint_point_path_muscle
 - joint_motor
