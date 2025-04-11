@@ -212,15 +212,6 @@ $$T=K_{p}\cdot(q_{t a r g e t}-q_{\mathrm{current}})+K_{d}\cdot(\bar{q}_{t a r g
 $$\begin{array}{l}{{K_{p}:s\mathrm{tiffness}}}\\ {{K_{d}:\mathrm{damping}}}\end{array}$$
 
 ---
-討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
-發展Mark那一套轉換系統，是為了應對臨床端的需求，那就獨立框架\
-DepRL則是對於用於通用外骨骼系統的最終願景
-
----
-- 跟YY說可以約時間，簡單介紹一下投影片內容
-- 要STL的外骨骼建模檔案
-
----
 # Deadline2025/04/11
 無論如何當然還是要有展示的科學數據
 - 4/10Vivian專案募資討論
