@@ -233,3 +233,5 @@ $$\begin{array}{l}{{K_{p}:s\mathrm{tiffness}}}\\ {{K_{d}:\mathrm{damping}}}\end{
 - 5/10
 - 5/22到美國募資
 
+---
+現在有這些神經模型，
