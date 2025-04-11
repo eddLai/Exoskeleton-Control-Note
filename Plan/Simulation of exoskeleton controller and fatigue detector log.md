@@ -228,7 +228,7 @@ Actuator
 - joint_point_path_muscle
 - joint_motor
 
-ScriptController是一個可以調控的
+ScriptController是一個可以調控的開關的結構
 
 ---
 # Deadline2025/04/11
