@@ -233,10 +233,11 @@ ScriptController是一個可以調控的開關的結構\
 model: 就是用來建立sensor
 
 ---
+Luascone:
 - LuaQuat quat_from_euler_deg(double x, double y, double z)	create quaternion from Euler angles (xyz degrees)
 - LuaQuat quat_from_euler_rad(double x, double y, double z)
 
-LuaParams
+LuaParams:
 - LuaNumber create_from_mean_std(LuaString name, LuaNumber mean, LuaNumber stdev, LuaNumber minval, LuaNumber maxval)
 - get or create an optimization parameter with a specific name, mean, stdev, minval and maxval LuaNumber create_from_string(LuaString name, const std::string &value)
 - get or create an optimization parameter from a string LuaNumber get(LuaString name)	get a parameter value, returns 0.0 if not exist
