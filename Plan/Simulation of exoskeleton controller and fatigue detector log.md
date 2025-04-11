@@ -239,8 +239,7 @@ Luascone:
 
 LuaParams:
 - LuaNumber create_from_mean_std(LuaString name, LuaNumber mean, LuaNumber stdev, LuaNumber minval, LuaNumber maxval)
-- get or create an optimization parameter with a specific name, mean, stdev, minval and maxval LuaNumber create_from_string(LuaString name, const std::string &value)
-- get or create an optimization parameter from a string LuaNumber get(LuaString name)	get a parameter value, returns 0.0 if not exist
+- LuaNumber create_from_string(LuaString name, const std::string &value)
 
 LuaFrame:  進入scone Analysis window
 
