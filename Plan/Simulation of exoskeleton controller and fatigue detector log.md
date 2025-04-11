@@ -236,6 +236,9 @@ model: 就是用來建立sensor
 - LuaQuat quat_from_euler_deg(double x, double y, double z)	create quaternion from Euler angles (xyz degrees)
 - LuaQuat quat_from_euler_rad(double x, double y, double z)
 
+LuaParams
+
+
 ---
 # Deadline2025/04/11
 無論如何當然還是要有展示的科學數據
