@@ -237,7 +237,9 @@ model: 就是用來建立sensor
 - LuaQuat quat_from_euler_rad(double x, double y, double z)
 
 LuaParams
-
+- LuaNumber create_from_mean_std(LuaString name, LuaNumber mean, LuaNumber stdev, LuaNumber minval, LuaNumber maxval)	get or create an optimization parameter with a specific name, mean, stdev, minval and maxval
+LuaNumber create_from_string(LuaString name, const std::string &value)	get or create an optimization parameter from a string
+LuaNumber get(LuaString name)	get a parameter value, returns 0.0 if not exist
 
 ---
 # Deadline2025/04/11
