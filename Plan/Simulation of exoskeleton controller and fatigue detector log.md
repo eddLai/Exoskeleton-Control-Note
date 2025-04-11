@@ -222,7 +222,9 @@ $$T=K_{p}\cdot(q_{t a r g e t}-q_{\mathrm{current}})+K_{d}\cdot(\bar{q}_{t a r g
 $$\begin{array}{l}{{K_{p}:s\mathrm{tiffness}}}\\ {{K_{d}:\mathrm{damping}}}\end{array}$$
 
 ---
-Controller本質上是Jointmotor的一個控制節點，可作權重優化\
+Controller本質上是Actuator的一個控制節點，可作權重優化\
+Actuator
+
 ScriptController是一個可以調控的
 
 ---
