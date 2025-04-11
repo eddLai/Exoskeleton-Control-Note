@@ -215,7 +215,7 @@ fitness = fitness - weight * deviation
 `function store_data( frame ) end`，要儲存成資料只能寫在這裡，畢竟沒有優化就不用
 
 ---
-HyFyDy:在Lua實現中並非class，分散各地\
+HyFyDy:==在Lua實現中並非class，分散各地==\
 PD控制器\
 $$q=\cos\left({\frac{\theta}{2}}\right)+\sin\left({\frac{\theta}{2}}\right)\left(x i+y j+z k\right)$$\
 $$q={\left[\begin{array}{l}{w}\\ {x}\\ {y}\\ {z}\end{array}\right]}={\left[\begin{array}{l}{\cos(\theta/2)}\\ {u_{x}\cdot\sin(\theta/2)}\\ {u_{y}\cdot\sin(\theta/2)}\\ {u_{z}\cdot\sin(\theta/2)}\end{array}\right]}$$\
@@ -235,6 +235,11 @@ model: 就是用來建立sensor
 ---
 - LuaQuat quat_from_euler_deg(double x, double y, double z)	create quaternion from Euler angles (xyz degrees)
 - LuaQuat quat_from_euler_rad(double x, double y, double z)
+
+LuaParams
+- LuaNumber create_from_mean_std(LuaString name, LuaNumber mean, LuaNumber stdev, LuaNumber minval, LuaNumber maxval)
+- get or create an optimization parameter with a specific name, mean, stdev, minval and maxval LuaNumber create_from_string(LuaString name, const std::string &value)
+- get or create an optimization parameter from a string LuaNumber get(LuaString name)	get a parameter value, returns 0.0 if not exist
 
 ---
 # Deadline2025/04/11
