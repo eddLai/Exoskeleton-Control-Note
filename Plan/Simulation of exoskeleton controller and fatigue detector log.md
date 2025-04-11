@@ -242,6 +242,8 @@ LuaParams:
 - get or create an optimization parameter with a specific name, mean, stdev, minval and maxval LuaNumber create_from_string(LuaString name, const std::string &value)
 - get or create an optimization parameter from a string LuaNumber get(LuaString name)	get a parameter value, returns 0.0 if not exist
 
+LuaFrame:  scone Analysis window
+
 ---
 # Deadline2025/04/11
 無論如何當然還是要有展示的科學數據
