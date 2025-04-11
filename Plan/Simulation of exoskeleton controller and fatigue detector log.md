@@ -228,7 +228,8 @@ Actuator or LuaDelayedActuator
 - joint_point_path_muscle
 - joint_motor
 
-ScriptController是一個可以調控的開關的結構
+ScriptController是一個可以調控的開關的結構\
+model: 就是用來建立sensor
 
 ---
 - LuaQuat quat_from_euler_deg(double x, double y, double z)	create quaternion from Euler angles (xyz degrees)
