@@ -134,14 +134,6 @@ simulink，本質上還是開發第三方庫，而非融合
 >控制方法的討論：現在已經可以用的policy人體行走模型應該也可以用到人身上吧
 
 ---
-討論CEINMS跟opensim的關係\
-要重構一個全身性的模型應該沒有那麼簡單\
-發展神經肌肉一套轉換系統，是為了應對臨床端的需求，那就獨立框架\
-DepRL則是對於用於通用外骨骼系統的最終願景
-- 跟YY說可以約時間，簡單介紹一下投影片內容
-- 要STL的外骨骼建模檔案
-
----
 ## Lua
 物件行為
 [Script Examples [SCONE]](https://scone.software/doku.php?id=tutorials:script)\
