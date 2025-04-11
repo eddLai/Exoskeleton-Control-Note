@@ -222,6 +222,10 @@ $$T=K_{p}\cdot(q_{t a r g e t}-q_{\mathrm{current}})+K_{d}\cdot(\bar{q}_{t a r g
 $$\begin{array}{l}{{K_{p}:s\mathrm{tiffness}}}\\ {{K_{d}:\mathrm{damping}}}\end{array}$$
 
 ---
+Controller本質上是Jointmotor, muscle的一個控制節點，可作權重
+ScriptController是一個可以調控的
+
+---
 # Deadline2025/04/11
 無論如何當然還是要有展示的科學數據
 - 4/10Vivian專案募資討論
