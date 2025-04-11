@@ -197,7 +197,7 @@ fitness = fitness - weight * deviation
 - 現在看起來torque是最好的
 
 ---
-必須的結構
+必須的結構\
 `function init(model, par) end`\
 `function update(model) end`\
 如果是Measure.lua則多了\
