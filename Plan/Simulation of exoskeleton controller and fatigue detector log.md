@@ -224,7 +224,8 @@ $$\begin{array}{l}{{K_{p}:s\mathrm{tiffness}}}\\ {{K_{d}:\mathrm{damping}}}\end{
 ---
 Controller本質上是Actuator的一個控制節點，可作權重優化\
 Actuator
-
+- point_path_muscle
+- 
 ScriptController是一個可以調控的
 
 ---
