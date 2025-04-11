@@ -134,6 +134,15 @@ simulink，本質上還是開發第三方庫，而非融合
 >控制方法的討論：現在已經可以用的policy人體行走模型應該也可以用到人身上吧
 
 ---
+討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
+發展Mark那一套轉換系統，是為了應對臨床端的需求，那就獨立框架\
+DepRL則是對於用於通用外骨骼系統的最終願景
+
+---
+- 跟YY說可以約時間，簡單介紹一下投影片內容
+- 要STL的外骨骼建模檔案
+
+---
 ## Lua
 物件行為
 [Script Examples [SCONE]](https://scone.software/doku.php?id=tutorials:script)\
@@ -210,15 +219,6 @@ $$q=\cos\left({\frac{\theta}{2}}\right)+\sin\left({\frac{\theta}{2}}\right)\left
 $$q={\left[\begin{array}{l}{w}\\ {x}\\ {y}\\ {z}\end{array}\right]}={\left[\begin{array}{l}{\cos(\theta/2)}\\ {u_{x}\cdot\sin(\theta/2)}\\ {u_{y}\cdot\sin(\theta/2)}\\ {u_{z}\cdot\sin(\theta/2)}\end{array}\right]}$$\
 $$T=K_{p}\cdot(q_{t a r g e t}-q_{\mathrm{current}})+K_{d}\cdot(\bar{q}_{t a r g e t}-\bar{q}_{\mathrm{curemt}})$$\
 $$\begin{array}{l}{{K_{p}:s\mathrm{tiffness}}}\\ {{K_{d}:\mathrm{damping}}}\end{array}$$
-
----
-討論CEINM跟opensim的關係，要重構一個全身性的模型應該沒有那麼簡單\
-發展Mark那一套轉換系統，是為了應對臨床端的需求，那就獨立框架\
-DepRL則是對於用於通用外骨骼系統的最終願景
-
----
-- 跟YY說可以約時間，簡單介紹一下投影片內容
-- 要STL的外骨骼建模檔案
 
 ---
 # Deadline2025/04/11
