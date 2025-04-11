@@ -215,7 +215,7 @@ fitness = fitness - weight * deviation
 `function store_data( frame ) end`，要儲存成資料只能寫在這裡，畢竟沒有優化就不用
 
 ---
-HyFyDy:在Lua實現中並非class，\
+HyFyDy:在Lua實現中並非class，分散各地\
 PD控制器\
 $$q=\cos\left({\frac{\theta}{2}}\right)+\sin\left({\frac{\theta}{2}}\right)\left(x i+y j+z k\right)$$\
 $$q={\left[\begin{array}{l}{w}\\ {x}\\ {y}\\ {z}\end{array}\right]}={\left[\begin{array}{l}{\cos(\theta/2)}\\ {u_{x}\cdot\sin(\theta/2)}\\ {u_{y}\cdot\sin(\theta/2)}\\ {u_{z}\cdot\sin(\theta/2)}\end{array}\right]}$$\
