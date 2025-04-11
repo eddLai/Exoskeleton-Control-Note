@@ -231,6 +231,10 @@ Actuator
 ScriptController是一個可以調控的開關的結構
 
 ---
+- LuaQuat quat_from_euler_deg(double x, double y, double z)	create quaternion from Euler angles (xyz degrees)
+- LuaQuat quat_from_euler_rad(double x, double y, double z)
+
+---
 # Deadline2025/04/11
 無論如何當然還是要有展示的科學數據
 - 4/10Vivian專案募資討論
