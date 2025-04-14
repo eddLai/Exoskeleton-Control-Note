@@ -456,3 +456,14 @@ Traceback (most recent call last):
 ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.so: undefined symbol: _ZN11btMultiBody22addJointTorqueMultiDofEiPKf
 
 ```
+
+---
+- 把步態資料抓出來
+- 設計簡單的控制器
+- 測試Measure優化方法
+- CPG Script控制器
+- 簡單demo 人在行走vs外骨骼擺動 同步
+- 包裝進sconepy
+- 建模人體與外骨骼的相互作用力
+- 透過模擬的上帝視角，驗證這個方法是否提前給力，達到輔助效果
+- 測試不同環境，跑步機之類的
