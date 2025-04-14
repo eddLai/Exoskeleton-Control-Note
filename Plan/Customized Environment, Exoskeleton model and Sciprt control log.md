@@ -473,3 +473,7 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 ---
 ## CEINMS資料訓練
 - 把
+
+---
+商業模式
+像是Android
