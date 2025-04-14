@@ -478,7 +478,8 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 商業模式\
 像是Android上的各種APP一樣\
 未來，如果外骨骼是一個通用的人手一個的\
-透過ROS，我們可以廣泛的推廣這樣的服務
+透過ROS，我們可以廣泛的推廣這樣的服務\
+當初手機市場怎麼出現And
 
 ---
 ## 預期的結果圖
