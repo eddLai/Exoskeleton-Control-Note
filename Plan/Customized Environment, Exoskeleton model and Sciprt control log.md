@@ -470,3 +470,4 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 - 測試不同環境，跑步機之類的
 
 ---
+## CEINMS資料訓練
