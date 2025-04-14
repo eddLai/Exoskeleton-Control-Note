@@ -468,7 +468,7 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 - 建模人體與外骨骼的相互作用力
 - 透過模擬的上帝視角，驗證這個方法是否提前給力，達到輔助效果
 - 測試不同環境，跑步機之類的
-- D4PG
+- 整合D4PG進去depRL
 
 ---
 ## CEINMS資料訓練
