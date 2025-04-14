@@ -458,7 +458,7 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 ```
 
 ---
-## 外骨骼
+## 虛擬外骨骼控制器訓練
 - 把步態資料抓出來
 - 設計簡單的控制器
 - 測試Measure優化方法
