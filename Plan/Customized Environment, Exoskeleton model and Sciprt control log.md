@@ -477,4 +477,4 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 ---
 商業模式\
 像是Android上的各種APP一樣\
-未來，如果外骨骼是一個通用的
+未來，如果外骨骼是一個通用的人手一ㄜ
