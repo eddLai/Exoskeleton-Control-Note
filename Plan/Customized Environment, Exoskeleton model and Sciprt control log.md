@@ -480,6 +480,8 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 未來，如果外骨骼是一個通用的人手一個的\
 透過ROS，我們可以廣泛的推廣這樣的服務\
 當初手機市場怎麼出現Android，這個生態圈的
+[Android 滿 10 歲了！4 個歷史 重要里程碑 帶你一起回顧 - 電腦王阿達](https://www.koc.com.tw/archives/219189)
+最一開始需要有一個夠好的硬體f
 
 ---
 ## 預期的結果圖
