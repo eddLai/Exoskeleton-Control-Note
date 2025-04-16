@@ -486,4 +486,7 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 ---
 ## 預期的結果圖
 - EMG的圖數值出了點問題
-- 
+
+
+---
+hinge（鉸鏈）joint
