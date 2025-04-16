@@ -489,4 +489,4 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 
 
 ---
-hinge（鉸鏈）joint
+- hinge（鉸鏈）joint
