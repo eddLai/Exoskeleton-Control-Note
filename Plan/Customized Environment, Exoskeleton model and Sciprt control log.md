@@ -492,3 +492,5 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 要改在Joint上還是DOF上去做控制?
 - hinge（鉸鏈）joint
 - ball（球形）joint
+
+---
