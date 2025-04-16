@@ -289,6 +289,7 @@ LuaFrame:  進入scone Analysis window
 
 ---
 - 介紹硬體商?(問YY)
+- 聚焦美國
 
 
 ---
