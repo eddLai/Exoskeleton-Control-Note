@@ -489,4 +489,6 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 
 
 ---
+
 - hinge（鉸鏈）joint
+- ball（球形）joint
