@@ -299,3 +299,6 @@ LuaFrame:  進入scone Analysis window
 
 ---
 發散一點不要限縮在一個特定的應用。都拿出來討論
+
+
+---
