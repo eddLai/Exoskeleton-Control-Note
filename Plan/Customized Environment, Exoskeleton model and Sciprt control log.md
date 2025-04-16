@@ -494,3 +494,4 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 - ball（球形）joint
 
 ---
+發散一點不要限縮在一個
