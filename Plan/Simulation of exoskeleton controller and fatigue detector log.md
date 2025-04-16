@@ -305,4 +305,4 @@ LuaFrame:  進入scone Analysis window
 ROS
 - 現在市場普及
 - 硬體層怎麼設計的
-- 降效能
+- 多吃效能
