@@ -300,8 +300,6 @@ LuaFrame:  進入scone Analysis window
 	- 產地
 - 聚焦美國市場
 
----
-發散一點不要限縮在一個特定的應用。都拿出來討論
 
 
 ---
