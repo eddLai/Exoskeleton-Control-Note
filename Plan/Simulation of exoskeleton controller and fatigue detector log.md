@@ -277,7 +277,8 @@ LuaFrame:  進入scone Analysis window
 
 ---
 ## CEINMS資料訓練
-- 把CEINM的輸出當作導入
+- 把CEINM的輸出當作導入資料
+- 
 
 ---
 商業模式\
@@ -289,7 +290,7 @@ LuaFrame:  進入scone Analysis window
 最一開始需要有一個夠好的硬體去提供這個
 
 ---
-- 介紹硬體商?(問YY)
+- 介紹硬體商?(問老師)
 	- 產地
 - 聚焦美國
 
