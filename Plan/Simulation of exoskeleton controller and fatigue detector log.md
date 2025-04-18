@@ -276,7 +276,7 @@ LuaFrame:  進入scone Analysis window
 
 ---
 ## CEINMS資料訓練
-- 把
+- 把CEINM的模型導入
 
 ---
 商業模式\
