@@ -280,6 +280,8 @@ LuaFrame:  進入scone Analysis window
 - 把CEINM的輸出當作導入資料
 - 
 
+
+
 ---
 商業模式\
 像是Android上的各種APP一樣\
@@ -293,12 +295,6 @@ LuaFrame:  進入scone Analysis window
 - 介紹硬體商?(問老師)
 	- 產地
 - 聚焦美國市場
-
-
----
-要改在Joint上還是DOF上去做控制?
-- hinge（鉸鏈）joint
-- ball（球形）joint
 
 ---
 發散一點不要限縮在一個特定的應用。都拿出來討論
