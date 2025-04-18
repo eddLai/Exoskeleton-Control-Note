@@ -281,7 +281,7 @@ LuaFrame:  進入scone Analysis window
 - 
 
 ---
-## ㄨㄞ 
+## 外骨骼+人體模型(怎麼穿戴) 
 要改在Joint上還是DOF上去做控制?
 - hinge（鉸鏈）joint
 - ball（球形）joint
