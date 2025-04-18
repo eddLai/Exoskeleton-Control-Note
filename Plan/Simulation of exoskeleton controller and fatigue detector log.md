@@ -280,7 +280,11 @@ LuaFrame:  進入scone Analysis window
 - 把CEINM的輸出當作導入資料
 - 
 
-
+---
+## ㄨㄞ 
+要改在Joint上還是DOF上去做控制?
+- hinge（鉸鏈）joint
+- ball（球形）joint
 
 ---
 商業模式\
