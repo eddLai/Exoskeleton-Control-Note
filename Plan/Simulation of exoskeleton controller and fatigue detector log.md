@@ -278,7 +278,7 @@ LuaFrame:  進入scone Analysis window
 ---
 ## CEINMS資料訓練
 - 把CEINM的輸出當作導入資料
-- 
+效果不ㄏㄠ
 
 ---
 ## 外骨骼+人體模型(怎麼穿戴) 
