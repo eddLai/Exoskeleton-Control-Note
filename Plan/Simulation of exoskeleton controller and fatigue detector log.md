@@ -350,4 +350,4 @@ Tesla路線\
 ---
 geometry應該是有body而已\
 geometry配有body
-body的shape是用來
+body的shape是用來算inertia的
