@@ -298,6 +298,11 @@ mass: 主體2 -> 0.5, 擺臂0.5->0.1，因為純SCONE的方法所設計的走路
 - 要怎麼讓模型先靜止不動(不用，改外骨骼初始化位置)
 
 ---
+geometry應該是有body而已\
+geometry配有body
+body的shape是用來算inertia的
+
+---
 商業模式\
 像是Android上的各種APP一樣\
 未來，如果外骨骼是一個通用的人手一個的\
