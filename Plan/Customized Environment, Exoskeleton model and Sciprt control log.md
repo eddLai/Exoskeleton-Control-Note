@@ -458,7 +458,7 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 ```
 
 ---
-## CEINMS
+## CEINMS的結果debug
 老師，
 如果把RAW EMG轉換進MOCAP+EMG NMS calibrated model 的話並把NMS的參數作為分類的input，這樣是不是就是讓分類多加一個MOCAP的資訊
 
