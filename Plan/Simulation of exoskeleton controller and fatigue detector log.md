@@ -298,7 +298,7 @@ mass: 主體2 -> 0.5, 擺臂0.5->0.1，因為純SCONE的方法所設計的走路
 - 要怎麼讓模型先靜止不動(不用，改外骨骼初始化位置)
 
 ---
-正在研究geometry
+### 正在研究geometry
 geometry必須要配body
 mesh沒有實際用途，只是視覺化
 body的shape是用來算inertia的
