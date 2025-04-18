@@ -456,3 +456,12 @@ Traceback (most recent call last):
 ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.so: undefined symbol: _ZN11btMultiBody22addJointTorqueMultiDofEiPKf
 
 ```
+
+---
+## CEINMS
+老師，
+如果把RAW EMG轉換進MOCAP+EMG NMS calibrated model 的話並把NMS的參數作為分類的input，這樣是不是就是讓分類多加一個MOCAP的資訊
+
+我們目前的方法是確定可以把EMG的結果去視覺化到NMS模型上，然後個人化的模型主要是基於MOCAP的資料，剛剛提到的CEINMS出現的錯誤可能是因為缺乏壓力板的資料所以moment_arm的calibration出了問題，週末收的資料我們會加上壓力板來確定這件事情。
+
+CEINMS的calibration是用在訓練集上，然後在execution則是文獻中有驗證用在測試集上可以得到相近的結果，但execution也需要MOCAP+EMG作為input
