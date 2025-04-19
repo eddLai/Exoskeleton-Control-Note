@@ -467,6 +467,7 @@ ImportError: /media/ntk/DATA/Exoskeleton/DeepMimic/DeepMimicCore/_DeepMimicCore.
 CEINMS的calibration是用在訓練集上，然後在execution則是文獻中有驗證用在測試集上可以得到相近的結果，但execution也需要MOCAP+EMG作為input
 
 ---
+## 為了得到更準的GRF
 - openGRF用用看
 - 要怎麼把壓力鞋墊的平面資料轉換成3D向量
 - GRF是整個腳底板對到單一一點嗎
